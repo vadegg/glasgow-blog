@@ -3,7 +3,7 @@ slug: synthetic-respondents-ai-research
 title: "Synthetic Respondents in UX Research: What Works and What Doesn't"
 description: "A blunt, practical take on synthetic respondents: where AI genuinely helps in research, where it still falls short, and how to use it without fooling yourself."
 pubDate: 2026-03-19
-author: Vadim
+author: Vadim Glazkov
 authorSlug: vadim
 category: Research
 tags:

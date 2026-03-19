@@ -20,18 +20,19 @@ const structuredData = [
 ---
 
 <BaseLayout
-  title="Glasgow Blog"
-  description="A focused blog for product research, SEO, and modern editorial systems."
+  title="Glasgow Research Blog"
+  description={SITE.description}
   structuredData={structuredData}
 >
   <main class="shell" style="padding: 64px 0 96px;">
     <section class="card" style="padding: 48px;">
-      <p class="eyebrow">Glasgow Works</p>
+      <p class="eyebrow">{SITE.brandName}</p>
       <h1 style="font-size: clamp(3rem, 7vw, 5.6rem); line-height: 0.95; margin: 12px 0 20px;">
-        Blog for strong SEO and useful, well-edited content.
+        Reliable market evidence for product and growth decisions.
       </h1>
       <p class="muted" style="font-size: 1.1rem; max-width: 62ch; line-height: 1.7;">
-        This site is a clean static blog scaffold for blog.glasgow.works.
+        Research-driven writing for founders and B2B SaaS teams in the US and EU: product research, customer interviews,
+        JTBD, market validation, and the systems behind better decisions.
       </p>
       <div class="action-row" style="margin-top: 28px;">
         <a class="button-link" href="/blog/">

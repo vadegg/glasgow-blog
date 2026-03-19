@@ -7,9 +7,10 @@ const structuredData = [
   {
     '@context': 'https://schema.org',
     '@type': 'AboutPage',
-    name: 'About Glasgow Blog',
+    name: 'About Glasgow Research Blog',
     url: `${SITE.url}/about/`,
-    description: 'How Glasgow Blog approaches editorial quality, review, and practical publishing standards.'
+    description:
+      'How Glasgow Research Blog is positioned, who it is for, what it covers, and how articles are reviewed before publication.'
   },
   {
     '@context': 'https://schema.org',
@@ -33,41 +34,51 @@ const structuredData = [
 ---
 
 <BaseLayout
-  title="About | Glasgow Blog"
-  description="How Glasgow Blog handles editorial quality, review, and practical publishing standards."
+  title="About | Glasgow Research Blog"
+  description="How Glasgow Research Blog is positioned, who it is for, what it covers, and how articles are reviewed before publication."
   structuredData={structuredData}
 >
   <main class="shell" style="padding: 64px 0 96px;">
     <section class="card" style="padding: 48px; max-width: 860px; margin: 0 auto;">
       <p class="eyebrow">About</p>
       <h1 style="font-size: clamp(2.4rem, 6vw, 4.5rem); line-height: 1; margin: 12px 0 18px;">
-        How Glasgow Blog works
+        What this blog is actually about
       </h1>
       <div class="prose">
         <p>
-          Glasgow Blog is a publishing system for articles about product research, SEO, and editorial systems.
-          The goal is not to mass-produce content. The goal is to publish useful material that is still readable,
-          specific, and grounded in real work.
+          Glasgow Research Blog is where agency-backed personal expertise turns into public writing. It sits next to
+          Glasgow Research, but it is written from Vadim Glazkov&apos;s field experience working with founders and B2B SaaS
+          teams that need reliable market evidence before making product, growth, and go-to-market decisions.
         </p>
         <h2>What gets published here</h2>
         <p>
-          The blog focuses on practical topics: research operations, product thinking, editorial systems, and the kind of
-          SEO work that supports real distribution instead of just chasing search volume.
+          The blog is focused on product research, customer interviews, JTBD, market validation, go-to-market research,
+          growth research in B2B SaaS, and the systems founders use to make better decisions with real market input.
         </p>
-        <h2>How articles are developed</h2>
+        <h2>Who the blog is for</h2>
         <p>
-          Pieces usually start from a topic, a working angle, and a rough structure. From there they get rewritten,
-          tightened, and reorganized until the article says something clearly instead of just sounding polished.
+          The primary audience is founders, product leaders, early-stage B2B SaaS teams, growth teams, and agencies
+          working in IT markets across the US and Europe.
+        </p>
+        <h2>What the blog is not for</h2>
+        <p>
+          This is not a general management blog, not a lifestyle blog, and not a place for generic AI commentary. It is
+          intentionally narrow. The point is to stay close to research, evidence, and decision quality.
+        </p>
+        <h2>Language and market rule</h2>
+        <p>
+          All articles in this project are written in English. The blog is aimed at US and EU readers, so topics,
+          examples, and terminology should stay relevant to that market instead of drifting into generic global content.
         </p>
         <h2>How articles are reviewed</h2>
         <p>
-          Articles are reviewed by a human before publication. That review is where claims are tightened, weak phrasing
-          gets cut, structure gets improved, and the final piece is shaped into something worth publishing.
+          Articles are reviewed before publication for clarity, specificity, internal consistency, and whether they say
+          something that would still be useful to a founder or operator making a real decision.
         </p>
         <h2>Editorial rule of thumb</h2>
         <p>
-          If a piece reads generic, makes claims it cannot support, or sounds polished without saying anything useful,
-          it is not ready. Speed is useful, but not if it lowers the bar.
+          If a piece feels generic, drifts away from research-first topics, overstates confidence, or sounds polished
+          without carrying real signal, it is not ready to publish.
         </p>
       </div>
     </section>

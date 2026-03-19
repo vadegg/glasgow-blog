@@ -40,7 +40,7 @@ const schemas = Array.isArray(structuredData)
   </head>
   <body>
     <header class="shell site-header">
-      <a class="brand" href="/">{SITE.name}</a>
+      <a class="brand" href="/">{SITE.brandName}</a>
       <nav class="site-nav" aria-label="Primary">
         <a href="/blog/">Blog</a>
         <a href="/about/">About</a>
@@ -52,7 +52,7 @@ const schemas = Array.isArray(structuredData)
       <div>
         <p class="eyebrow">Editorial note</p>
         <p class="muted site-footer-copy">
-          Articles on Glasgow Blog are reviewed and edited before publication, with clarity, structure, and usefulness treated as part of the editorial bar.
+          Articles on {SITE.name} are reviewed and edited before publication, with clarity, structure, and usefulness treated as part of the editorial bar.
         </p>
       </div>
       <nav class="site-nav" aria-label="Footer">

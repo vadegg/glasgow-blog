@@ -75,7 +75,7 @@ const structuredData = [
 ---
 
 <BaseLayout
-  title={`${post.data.title} | Glasgow Blog`}
+  title={`${post.data.title} | ${SITE.name}`}
   description={post.data.description}
   type="article"
   structuredData={structuredData}
@@ -103,7 +103,7 @@ const structuredData = [
         <p class="eyebrow">Author</p>
         <h2 style="margin: 12px 0 10px;">About {author?.name ?? post.data.author}</h2>
         <p class="muted" style="line-height: 1.7; max-width: 64ch;">
-          {author?.bio ?? `${post.data.author} writes on Glasgow Blog.`}
+          {author?.bio ?? `${post.data.author} writes on ${SITE.name}.`}
         </p>
         <p style="margin: 18px 0 0;">
           <a class="text-link" href={`/authors/${post.data.authorSlug}/`}>View author page</a>
