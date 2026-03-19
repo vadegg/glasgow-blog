@@ -138,8 +138,9 @@ img {
 }
 
 .site-footer-copy {
-  max-width: 54ch;
+  max-width: 46ch;
   line-height: 1.7;
+  margin: 0;
 }
 
 .brand {
@@ -220,7 +221,7 @@ img {
 
 .section-title {
   font-size: clamp(2rem, 4vw, 3rem);
-  line-height: 0.98;
+  line-height: 1;
   margin: 12px 0 16px;
   letter-spacing: -0.02em;
 }
@@ -262,12 +263,11 @@ img {
 }
 
 .hero-title {
-  font-size: clamp(3rem, 7vw, 5.8rem);
-  line-height: 0.92;
+  font-size: clamp(2.35rem, 4.8vw, 4rem);
+  line-height: 0.98;
   letter-spacing: -0.04em;
   margin: 18px 0 18px;
-  max-width: 12ch;
-  text-transform: uppercase;
+  max-width: 14ch;
 }
 
 .hero-copy {
@@ -334,6 +334,10 @@ img {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
+}
+
+.section-grid--split {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .panel {
@@ -471,9 +475,61 @@ img {
   border-radius: 0 16px 16px 0;
 }
 
+.author-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(220px, 280px);
+  gap: 28px;
+  align-items: start;
+}
+
+.author-photo-panel {
+  padding: 0;
+}
+
+.author-photo,
+.author-photo-placeholder {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  border-radius: 22px;
+  border: 1px solid var(--border);
+  background:
+    radial-gradient(circle at 20% 20%, rgba(47, 87, 255, 0.12), transparent 35%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(238, 244, 255, 0.9));
+  box-shadow: 0 14px 36px rgba(24, 31, 56, 0.05);
+}
+
+.author-photo {
+  object-fit: cover;
+}
+
+.author-photo-placeholder {
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.author-photo-placeholder-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 88px;
+  height: 88px;
+  border-radius: 999px;
+  background: white;
+  color: var(--accent);
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  box-shadow: 0 12px 28px rgba(24, 31, 56, 0.08);
+}
+
 @media (max-width: 880px) {
   .hero-grid,
-  .section-grid {
+  .section-grid,
+  .section-grid--split,
+  .author-hero {
     grid-template-columns: 1fr;
   }
 }

@@ -8,20 +8,28 @@ const posts = (await getCollection('blog'))
   .filter((post) => post.data.authorSlug === author.slug)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
+const personSchema = {
+  '@type': 'Person',
+  name: author.name,
+  url: author.url,
+  description: author.bio,
+  jobTitle: author.role,
+  worksFor: {
+    '@type': 'Organization',
+    name: SITE.organizationName,
+    url: SITE.organizationUrl
+  }
+};
+
 const structuredData = [
   ORGANIZATION,
   {
     '@context': 'https://schema.org',
-    '@type': 'Person',
-    name: author.name,
+    '@type': 'ProfilePage',
+    name: `${author.name} | ${SITE.name}`,
     url: author.url,
     description: author.bio,
-    jobTitle: author.role,
-    worksFor: {
-      '@type': 'Organization',
-      name: SITE.organizationName,
-      url: SITE.organizationUrl
-    }
+    mainEntity: personSchema
   },
   {
     '@context': 'https://schema.org',
@@ -51,21 +59,36 @@ const structuredData = [
 >
   <main class="shell page-wrap">
     <section class="card hero-card" style="max-width: 900px; margin: 0 auto;">
-      <p class="hero-kicker">Author</p>
-      <h1 class="section-title">{author.name}</h1>
-      <p class="lede muted">{author.bio}</p>
-      <p class="muted" style="margin-top: 12px;">{author.role} · {author.expertTitle}</p>
+      <div class="author-hero">
+        <div>
+          <p class="hero-kicker">Author</p>
+          <h1 class="section-title">{author.name}</h1>
+          <p class="lede muted">{author.bio}</p>
+          <p class="muted" style="margin-top: 12px;">{author.role} · {author.expertTitle}</p>
 
-      <div class="prose" style="margin-top: 28px;">
-        <p>{author.summary}</p>
-        <p>
-          Selected public experience includes Glasgow Research, Gologin, and Dashly. Public recommendations also point
-          to structured thinking, practical guidance, and strong JTBD and market research work.
-        </p>
-        <p>
-          The blog stays focused on product research, customer interviews, market validation, founder decision-making,
-          and adjacent go-to-market questions when they are directly tied to market evidence.
-        </p>
+          <div class="prose" style="margin-top: 28px;">
+            <p>{author.summary}</p>
+            <p>
+              His work spans product research, JTBD studies, market validation, and decision support for SaaS, AI, and
+              founder-led teams that need something more useful than guesswork.
+            </p>
+            <p>
+              Public recommendations repeatedly point to clarity, structure, and practical research thinking rather than
+              abstract theory.
+            </p>
+          </div>
+        </div>
+
+        <aside class="author-photo-panel" aria-label="Author photo">
+          {author.photoPath ? (
+            <img class="author-photo" src={author.photoPath} alt={author.photoAlt} />
+          ) : (
+            <div class="author-photo-placeholder">
+              <span class="author-photo-placeholder-mark">VG</span>
+              <p class="muted" style="margin: 10px 0 0;">Author photo</p>
+            </div>
+          )}
+        </aside>
       </div>
 
       <div style="margin-top: 40px;">

@@ -3,12 +3,12 @@ export const SITE = {
   url: 'https://blog.glasgow.works',
   brandName: 'Glasgow Research',
   description:
-    'Research-driven writing for founders and B2B SaaS teams who need reliable market evidence for product, growth, and go-to-market decisions.',
+    'Notes on product research, customer interviews, JTBD, market validation, and the decisions teams make from that work.',
   organizationName: 'Glasgow Research',
   organizationUrl: 'https://glasgow.works',
   logoUrl: 'https://blog.glasgow.works/favicon.svg',
   language: 'English',
-  market: 'US and EU',
+  market: 'Global',
   audience: [
     'Founders',
     'Product leaders',
@@ -16,8 +16,7 @@ export const SITE = {
     'Growth teams',
     'Agencies'
   ],
-  corePromise:
-    'Reliable market evidence for founders and product teams making high-stakes product and growth decisions.',
+  corePromise: 'Clear market signal for teams making product, growth, and go-to-market decisions.',
   primaryTopics: [
     'Product research',
     'Customer interviews',
@@ -30,9 +29,9 @@ export const SITE = {
   secondaryTopics: ['Research operations', 'Decision-making frameworks', 'Adjacent go-to-market validation'],
   excludedTopics: ['General management', 'Life philosophy', 'Politics', 'Esoterica', 'Lifestyle', 'Broad AI hot takes'],
   proofPoints: [
-    '30+ projects delivered',
-    'Work across 13 countries',
-    'Experience from Glasgow Research, Gologin, and Dashly'
+    'Hands-on work across product research, JTBD studies, and market validation',
+    'Experience with SaaS, AI, and founder-led teams',
+    'Public recommendations repeatedly mention clarity, structure, and practical research thinking'
   ],
   positioning:
     'Agency-backed personal expertise focused on product research, customer insight, and market evidence.'
@@ -48,6 +47,8 @@ export const AUTHORS = {
       'Vadim Glazkov is the founder of Glasgow Research and a product research expert working with founders and B2B SaaS teams on customer interviews, JTBD, market validation, and decision-ready research.',
     summary:
       'He writes from hands-on work with founders, product teams, and growth teams that need reliable market evidence before making product and go-to-market bets.',
+    photoPath: '',
+    photoAlt: 'Portrait of Vadim Glazkov',
     selectedExperience: ['Glasgow Research', 'Gologin', 'Dashly'],
     publicSignals: [
       'Public recommendations mention clear structure, practical guidance, and strong JTBD and market research thinking.',

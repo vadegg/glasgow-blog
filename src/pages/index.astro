@@ -34,26 +34,25 @@ const structuredData = [
       <div class="card hero-card">
         <p class="hero-kicker">{SITE.brandName}</p>
         <h1 class="hero-title">
-          Reliable <span class="hero-script">market evidence</span> for product and growth decisions.
+          Product research notes for teams that need <span class="hero-script">signal</span>, not noise.
         </h1>
         <p class="hero-copy muted">
-          Research-driven writing for founders and B2B SaaS teams in the US and EU: product research, customer
-          interviews, JTBD, market validation, and the systems behind better decisions.
+          A working blog about customer interviews, JTBD, validation, and the messy part between hearing the market and
+          making a real decision.
         </p>
         <div class="action-row" style="margin-top: 28px;">
           <a class="button-link" href="/blog/">Browse articles</a>
-          <a class="button-link secondary" href="/about/">How the blog works</a>
+          <a class="button-link secondary" href="/about/">About this blog</a>
         </div>
       </div>
 
       <aside class="section-stack">
         <div class="panel">
           <p class="eyebrow">What this blog does</p>
-          <ul class="panel-list" style="margin-top: 16px;">
-            <li class="stat"><strong>Audience</strong><span class="muted">Founders, product leaders, growth teams, agencies.</span></li>
-            <li class="stat"><strong>Market</strong><span class="muted">English-only, focused on US and EU IT companies.</span></li>
-            <li class="stat"><strong>Topic core</strong><span class="muted">Product research, customer interviews, JTBD, validation.</span></li>
-          </ul>
+          <p class="muted" style="margin-top: 16px; line-height: 1.75;">
+            This is where research notes, interview patterns, validation lessons, and decision-making mistakes get
+            turned into something another team can actually use.
+          </p>
         </div>
 
         <div class="panel">
@@ -74,7 +73,7 @@ const structuredData = [
       </aside>
     </section>
 
-    <section class="section-grid" style="margin-top: 22px;">
+    <section class="section-grid section-grid--split" style="margin-top: 22px;">
       <article class="panel">
         <p class="eyebrow">Primary topics</p>
         <ul class="panel-list" style="margin-top: 16px;">
@@ -85,15 +84,11 @@ const structuredData = [
       </article>
 
       <article class="panel">
-        <p class="eyebrow">Why it matters</p>
+        <p class="eyebrow">Why this is not theory</p>
         <p class="muted" style="margin-top: 16px; line-height: 1.75;">
-          The blog exists to turn real market evidence into decisions founders can trust. The point is not content
-          volume. It is clarity, specificity, and better judgment.
+          The writing here comes out of actual research work: interviews, JTBD studies, validation projects, and the
+          kind of founder questions that show up when a decision is expensive and the signal is still messy.
         </p>
-      </article>
-
-      <article class="panel">
-        <p class="eyebrow">Proof points</p>
         <ul class="panel-list" style="margin-top: 16px;">
           {SITE.proofPoints.map((point) => (
             <li class="stat"><strong>{point}</strong></li>
