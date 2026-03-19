@@ -6,7 +6,7 @@ export const SITE = {
     'Notes on product research, customer interviews, JTBD, market validation, and the decisions teams make from that work.',
   organizationName: 'Glasgow Research',
   organizationUrl: 'https://glasgow.works',
-  logoUrl: 'https://blog.glasgow.works/favicon.svg',
+  logoUrl: 'https://blog.glasgow.works/logo.svg',
   language: 'English',
   market: 'Global',
   audience: [
@@ -47,9 +47,13 @@ export const AUTHORS = {
       'Vadim Glazkov is the founder of Glasgow Research and a product research expert working with founders and B2B SaaS teams on customer interviews, JTBD, market validation, and decision-ready research.',
     summary:
       'He writes from hands-on work with founders, product teams, and growth teams that need reliable market evidence before making product and go-to-market bets.',
-    photoPath: '',
+    photoPath: '/images/vadim-photo.png',
     photoAlt: 'Portrait of Vadim Glazkov',
-    selectedExperience: ['Glasgow Research', 'Gologin', 'Dashly'],
+    selectedExperience: [
+      'B2B SaaS customer research',
+      'Founder-led validation work',
+      'JTBD and market evidence for product decisions'
+    ],
     publicSignals: [
       'Public recommendations mention clear structure, practical guidance, and strong JTBD and market research thinking.',
       'Client work spans B2B SaaS, AI, growth, and founder-led teams.'
