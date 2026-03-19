@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { ORGANIZATION, SITE } from '../data/site';
+
+const structuredData = [
+  ORGANIZATION,
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: 'About Glasgow Blog',
+    url: `${SITE.url}/about/`,
+    description: 'How Glasgow Blog approaches editorial quality, review, and practical publishing standards.'
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: SITE.url
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'About',
+        item: `${SITE.url}/about/`
+      }
+    ]
+  }
+];
+---
+
+<BaseLayout
+  title="About | Glasgow Blog"
+  description="How Glasgow Blog handles editorial quality, review, and practical publishing standards."
+  structuredData={structuredData}
+>
+  <main class="shell" style="padding: 64px 0 96px;">
+    <section class="card" style="padding: 48px; max-width: 860px; margin: 0 auto;">
+      <p class="eyebrow">About</p>
+      <h1 style="font-size: clamp(2.4rem, 6vw, 4.5rem); line-height: 1; margin: 12px 0 18px;">
+        How Glasgow Blog works
+      </h1>
+      <div class="prose">
+        <p>
+          Glasgow Blog is a publishing system for articles about product research, SEO, and editorial systems.
+          The goal is not to mass-produce content. The goal is to publish useful material that is still readable,
+          specific, and grounded in real work.
+        </p>
+        <h2>What gets published here</h2>
+        <p>
+          The blog focuses on practical topics: research operations, product thinking, editorial systems, and the kind of
+          SEO work that supports real distribution instead of just chasing search volume.
+        </p>
+        <h2>How articles are developed</h2>
+        <p>
+          Pieces usually start from a topic, a working angle, and a rough structure. From there they get rewritten,
+          tightened, and reorganized until the article says something clearly instead of just sounding polished.
+        </p>
+        <h2>How articles are reviewed</h2>
+        <p>
+          Articles are reviewed by a human before publication. That review is where claims are tightened, weak phrasing
+          gets cut, structure gets improved, and the final piece is shaped into something worth publishing.
+        </p>
+        <h2>Editorial rule of thumb</h2>
+        <p>
+          If a piece reads generic, makes claims it cannot support, or sounds polished without saying anything useful,
+          it is not ready. Speed is useful, but not if it lowers the bar.
+        </p>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

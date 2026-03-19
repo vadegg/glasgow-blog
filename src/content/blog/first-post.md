@@ -3,7 +3,13 @@ slug: first-post
 title: First post
 description: A short starter post to verify that Cloudflare Pages builds and serves the blog.
 pubDate: 2026-03-19
+author: Vadim
+authorSlug: vadim
 category: Launch
+tags:
+  - launch
+  - infrastructure
+  - cloudflare-pages
 ---
 
 This is the first article in the Glasgow blog.

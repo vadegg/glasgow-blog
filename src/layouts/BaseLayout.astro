@@ -1,13 +1,18 @@
 ---
 import '../styles/global.css';
+import { SITE } from '../data/site';
 
 const {
   title,
   description,
   image = 'https://blog.glasgow.works/favicon.svg',
-  type = 'website'
+  type = 'website',
+  structuredData = []
 } = Astro.props;
 const canonical = Astro.url.href;
+const schemas = Array.isArray(structuredData)
+  ? structuredData.filter(Boolean)
+  : [structuredData].filter(Boolean);
 ---
 
 <!doctype html>
@@ -24,12 +29,37 @@ const canonical = Astro.url.href;
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={image} />
+    <meta property="og:site_name" content={SITE.name} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={image} />
+    {schemas.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
   </head>
   <body>
+    <header class="shell site-header">
+      <a class="brand" href="/">{SITE.name}</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/authors/vadim/">Author</a>
+      </nav>
+    </header>
     <slot />
+    <footer class="shell site-footer">
+      <div>
+        <p class="eyebrow">Editorial note</p>
+        <p class="muted site-footer-copy">
+          Articles on Glasgow Blog are reviewed and edited before publication, with clarity, structure, and usefulness treated as part of the editorial bar.
+        </p>
+      </div>
+      <nav class="site-nav" aria-label="Footer">
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/authors/vadim/">Author</a>
+      </nav>
+    </footer>
   </body>
 </html>

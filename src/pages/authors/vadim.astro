@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { AUTHORS, ORGANIZATION, SITE } from '../../data/site';
+
+const author = AUTHORS.vadim;
+const posts = (await getCollection('blog'))
+  .filter((post) => post.data.authorSlug === author.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const structuredData = [
+  ORGANIZATION,
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: author.name,
+    url: author.url,
+    description: author.bio,
+    jobTitle: author.role,
+    worksFor: {
+      '@type': 'Organization',
+      name: SITE.organizationName,
+      url: SITE.organizationUrl
+    }
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: SITE.url
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Author',
+        item: author.url
+      }
+    ]
+  }
+];
+---
+
+<BaseLayout
+  title={`${author.name} | Glasgow Blog`}
+  description={author.bio}
+  structuredData={structuredData}
+>
+  <main class="shell" style="padding: 64px 0 96px;">
+    <section class="card" style="padding: 48px; max-width: 860px; margin: 0 auto;">
+      <p class="eyebrow">Author</p>
+      <h1 style="font-size: clamp(2.4rem, 6vw, 4.5rem); line-height: 1; margin: 12px 0 18px;">
+        {author.name}
+      </h1>
+      <p class="muted" style="font-size: 1.05rem; line-height: 1.8; max-width: 64ch;">
+        {author.bio}
+      </p>
+      <p class="muted" style="margin-top: 12px;">{author.role}</p>
+
+      <div style="margin-top: 40px;">
+        <h2 style="margin: 0 0 18px;">Published articles</h2>
+        <div style="display:grid; gap: 18px;">
+          {posts.map((post) => (
+            <article class="subcard">
+              <p class="eyebrow">{post.data.category}</p>
+              <h3 style="margin: 10px 0 8px;">
+                <a href={`/blog/${post.data.slug}/`} style="text-decoration: none;">
+                  {post.data.title}
+                </a>
+              </h3>
+              <p class="muted" style="line-height: 1.7; margin: 0;">{post.data.description}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

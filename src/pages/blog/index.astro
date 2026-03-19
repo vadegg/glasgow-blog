@@ -1,13 +1,46 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { ORGANIZATION, SITE } from '../../data/site';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
+const structuredData = [
+  ORGANIZATION,
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Blog',
+    url: `${SITE.url}/blog/`,
+    description: 'Articles about SEO, research workflows, and product strategy.'
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: SITE.url
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Blog',
+        item: `${SITE.url}/blog/`
+      }
+    ]
+  }
+];
 ---
 
-<BaseLayout title="Blog | Glasgow" description="Articles about SEO, AI workflows, and product research.">
+<BaseLayout
+  title="Blog | Glasgow"
+  description="Articles about SEO, research workflows, and product strategy."
+  structuredData={structuredData}
+>
   <main class="shell" style="padding: 64px 0 96px;">
     <p class="eyebrow">Blog</p>
     <h1 style="font-size: clamp(2.4rem, 6vw, 4.5rem); line-height: 1; margin: 12px 0 28px;">
@@ -24,6 +57,9 @@ const posts = (await getCollection('blog')).sort(
             </a>
           </h2>
           <p class="muted" style="line-height: 1.7; max-width: 68ch;">{post.data.description}</p>
+          <p class="muted" style="margin-top: 14px;">
+            By <a href={`/authors/${post.data.authorSlug}/`}>{post.data.author}</a>
+          </p>
         </article>
       ))}
     </div>
