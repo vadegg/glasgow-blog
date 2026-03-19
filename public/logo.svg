@@ -24,10 +24,10 @@
   </g>
   <g transform="translate(28 0)">
     <g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
-      <use xlink:href="#glyph-0-0" x="10" y="17.119141" />
-      <use xlink:href="#glyph-0-1" x="17" y="17.119141" />
-      <use xlink:href="#glyph-0-2" x="23" y="17.119141" />
-      <use xlink:href="#glyph-0-3" x="30" y="17.119141" />
+      <use href="#glyph-0-0" x="10" y="17.119141" />
+      <use href="#glyph-0-1" x="17" y="17.119141" />
+      <use href="#glyph-0-2" x="23" y="17.119141" />
+      <use href="#glyph-0-3" x="30" y="17.119141" />
     </g>
   </g>
 </svg>
