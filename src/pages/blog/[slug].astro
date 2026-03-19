@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post }
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<BaseLayout title={`${post.data.title} | Glasgow Blog`} description={post.data.description}>
+  <main class="shell" style="padding: 64px 0 96px;">
+    <article class="card" style="padding: 48px; max-width: 860px; margin: 0 auto;">
+      <p class="eyebrow">{post.data.category}</p>
+      <h1 style="font-size: clamp(2.5rem, 6vw, 4.8rem); line-height: 1; margin: 12px 0 18px;">
+        {post.data.title}
+      </h1>
+      <p class="muted" style="margin-bottom: 28px;">{post.data.description}</p>
+      <div style="line-height: 1.8; font-size: 1.05rem;">
+        <Content />
+      </div>
+    </article>
+  </main>
+</BaseLayout>

@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout title="Blog | Glasgow" description="Articles about SEO, AI workflows, and product research.">
+  <main class="shell" style="padding: 64px 0 96px;">
+    <p class="eyebrow">Blog</p>
+    <h1 style="font-size: clamp(2.4rem, 6vw, 4.5rem); line-height: 1; margin: 12px 0 28px;">
+      Latest posts
+    </h1>
+
+    <div style="display:grid; gap: 20px;">
+      {posts.map((post) => (
+        <article class="card" style="padding: 28px;">
+          <p class="eyebrow">{post.data.category}</p>
+          <h2 style="margin: 10px 0 8px;">
+            <a href={`/blog/${post.id}/`} style="text-decoration: none;">
+              {post.data.title}
+            </a>
+          </h2>
+          <p class="muted" style="line-height: 1.7; max-width: 68ch;">{post.data.description}</p>
+        </article>
+      ))}
+    </div>
+  </main>
+</BaseLayout>
