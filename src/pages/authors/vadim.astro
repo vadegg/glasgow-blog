@@ -49,24 +49,18 @@ const structuredData = [
   description={author.bio}
   structuredData={structuredData}
 >
-  <main class="shell" style="padding: 64px 0 96px;">
-    <section class="card" style="padding: 48px; max-width: 860px; margin: 0 auto;">
-      <p class="eyebrow">Author</p>
-      <h1 style="font-size: clamp(2.4rem, 6vw, 4.5rem); line-height: 1; margin: 12px 0 18px;">
-        {author.name}
-      </h1>
-      <p class="muted" style="font-size: 1.05rem; line-height: 1.8; max-width: 64ch;">
-        {author.bio}
-      </p>
+  <main class="shell page-wrap">
+    <section class="card hero-card" style="max-width: 900px; margin: 0 auto;">
+      <p class="hero-kicker">Author</p>
+      <h1 class="section-title">{author.name}</h1>
+      <p class="lede muted">{author.bio}</p>
       <p class="muted" style="margin-top: 12px;">{author.role} · {author.expertTitle}</p>
 
       <div class="prose" style="margin-top: 28px;">
+        <p>{author.summary}</p>
         <p>
-          {author.summary}
-        </p>
-        <p>
-          Selected public experience includes Glasgow Research, Gologin, and Dashly. Public recommendations also point to
-          structured thinking, practical guidance, and strong JTBD and market research work.
+          Selected public experience includes Glasgow Research, Gologin, and Dashly. Public recommendations also point
+          to structured thinking, practical guidance, and strong JTBD and market research work.
         </p>
         <p>
           The blog stays focused on product research, customer interviews, market validation, founder decision-making,
@@ -76,9 +70,9 @@ const structuredData = [
 
       <div style="margin-top: 40px;">
         <h2 style="margin: 0 0 18px;">Published articles</h2>
-        <div style="display:grid; gap: 18px;">
+        <div class="post-grid">
           {posts.map((post) => (
-            <article class="subcard">
+            <article class="panel">
               <p class="eyebrow">{post.data.category}</p>
               <h3 style="margin: 10px 0 8px;">
                 <a href={`/blog/${post.data.slug}/`} style="text-decoration: none;">

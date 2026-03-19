@@ -80,12 +80,12 @@ const structuredData = [
   type="article"
   structuredData={structuredData}
 >
-  <main class="shell" style="padding: 64px 0 96px;">
-    <article class="card" style="padding: 48px; max-width: 860px; margin: 0 auto;">
+  <main class="shell page-wrap">
+    <article class="card hero-card" style="max-width: 900px; margin: 0 auto;">
       <p class="eyebrow">
         <a href="/blog/" style="text-decoration: none;">Blog</a> / {post.data.category}
       </p>
-      <h1 style="font-size: clamp(2.5rem, 6vw, 4.8rem); line-height: 1; margin: 12px 0 18px;">
+      <h1 class="section-title" style="margin: 12px 0 18px;">
         {post.data.title}
       </h1>
       <div class="article-meta">
@@ -95,11 +95,11 @@ const structuredData = [
         <span>{publishedLabel}</span>
         {updatedLabel && <span>Updated {updatedLabel}</span>}
       </div>
-      <p class="muted" style="margin-bottom: 28px;">{post.data.description}</p>
+      <p class="lede muted" style="margin-bottom: 28px;">{post.data.description}</p>
       <div class="prose">
         <Content />
       </div>
-      <section class="subcard">
+      <section class="panel" style="margin-top: 34px;">
         <p class="eyebrow">Author</p>
         <h2 style="margin: 12px 0 10px;">About {author?.name ?? post.data.author}</h2>
         <p class="muted" style="line-height: 1.7; max-width: 64ch;">
@@ -109,7 +109,7 @@ const structuredData = [
           <a class="text-link" href={`/authors/${post.data.authorSlug}/`}>View author page</a>
         </p>
       </section>
-      <section class="subcard">
+      <section class="panel">
         <p class="eyebrow">Editorial process</p>
         <p class="muted" style="line-height: 1.7; max-width: 64ch; margin: 0;">
           This article was reviewed and edited before publication for clarity, structure, and accuracy.

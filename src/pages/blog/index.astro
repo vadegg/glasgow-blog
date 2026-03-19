@@ -41,27 +41,36 @@ const structuredData = [
   description="Articles about product research, customer interviews, JTBD, market validation, and B2B SaaS growth research."
   structuredData={structuredData}
 >
-  <main class="shell" style="padding: 64px 0 96px;">
-    <p class="eyebrow">Blog</p>
-    <h1 style="font-size: clamp(2.4rem, 6vw, 4.5rem); line-height: 1; margin: 12px 0 28px;">
-      Latest posts
-    </h1>
+  <main class="shell page-wrap">
+    <section class="card hero-card">
+      <p class="hero-kicker">Blog</p>
+      <h1 class="hero-title">Latest posts.</h1>
+      <p class="hero-copy muted">
+        Articles about product research, customer interviews, JTBD, market validation, and B2B SaaS growth research.
+      </p>
+    </section>
 
-    <div style="display:grid; gap: 20px;">
+    <section class="post-grid" style="margin-top: 22px;">
       {posts.map((post) => (
-        <article class="card" style="padding: 28px;">
+        <article class="card post-card">
           <p class="eyebrow">{post.data.category}</p>
-          <h2 style="margin: 10px 0 8px;">
+          <h2>
             <a href={`/blog/${post.data.slug}/`} style="text-decoration: none;">
               {post.data.title}
             </a>
           </h2>
-          <p class="muted" style="line-height: 1.7; max-width: 68ch;">{post.data.description}</p>
-          <p class="muted" style="margin-top: 14px;">
-            By <a href={`/authors/${post.data.authorSlug}/`}>{post.data.author}</a>
-          </p>
+          <p class="muted" style="line-height: 1.75; max-width: 70ch;">{post.data.description}</p>
+          <div class="post-meta">
+            <span>By <a href={`/authors/${post.data.authorSlug}/`}>{post.data.author}</a></span>
+            <span>{new Intl.DateTimeFormat('en', { dateStyle: 'long' }).format(post.data.pubDate)}</span>
+          </div>
+          <div class="tag-list">
+            {post.data.tags.map((tag) => (
+              <span class="tag">{tag}</span>
+            ))}
+          </div>
         </article>
       ))}
-    </div>
+    </section>
   </main>
 </BaseLayout>

@@ -1,7 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
 import { ORGANIZATION, SITE } from '../data/site';
 
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const latestPost = posts[0];
 const structuredData = [
   ORGANIZATION,
   {
@@ -24,24 +29,75 @@ const structuredData = [
   description={SITE.description}
   structuredData={structuredData}
 >
-  <main class="shell" style="padding: 64px 0 96px;">
-    <section class="card" style="padding: 48px;">
-      <p class="eyebrow">{SITE.brandName}</p>
-      <h1 style="font-size: clamp(3rem, 7vw, 5.6rem); line-height: 0.95; margin: 12px 0 20px;">
-        Reliable market evidence for product and growth decisions.
-      </h1>
-      <p class="muted" style="font-size: 1.1rem; max-width: 62ch; line-height: 1.7;">
-        Research-driven writing for founders and B2B SaaS teams in the US and EU: product research, customer interviews,
-        JTBD, market validation, and the systems behind better decisions.
-      </p>
-      <div class="action-row" style="margin-top: 28px;">
-        <a class="button-link" href="/blog/">
-          Browse articles
-        </a>
-        <a class="text-link" href="/about/">
-          See how the blog is made
-        </a>
+  <main class="shell page-wrap">
+    <section class="hero-grid">
+      <div class="card hero-card">
+        <p class="hero-kicker">{SITE.brandName}</p>
+        <h1 class="hero-title">Reliable market evidence for product and growth decisions.</h1>
+        <p class="hero-copy muted">
+          Research-driven writing for founders and B2B SaaS teams in the US and EU: product research, customer
+          interviews, JTBD, market validation, and the systems behind better decisions.
+        </p>
+        <div class="action-row" style="margin-top: 28px;">
+          <a class="button-link" href="/blog/">Browse articles</a>
+          <a class="button-link secondary" href="/about/">How the blog works</a>
+        </div>
       </div>
+
+      <aside class="section-stack">
+        <div class="panel">
+          <p class="eyebrow">What this blog does</p>
+          <ul class="panel-list" style="margin-top: 16px;">
+            <li class="stat"><strong>Audience</strong><span class="muted">Founders, product leaders, growth teams, agencies.</span></li>
+            <li class="stat"><strong>Market</strong><span class="muted">English-only, focused on US and EU IT companies.</span></li>
+            <li class="stat"><strong>Topic core</strong><span class="muted">Product research, customer interviews, JTBD, validation.</span></li>
+          </ul>
+        </div>
+
+        <div class="panel">
+          <p class="eyebrow">Latest article</p>
+          {latestPost ? (
+            <div style="margin-top: 16px;">
+              <h2 style="margin: 0 0 8px; font-size: 1.6rem; line-height: 1.08;">
+                <a href={`/blog/${latestPost.data.slug}/`} style="text-decoration: none;">
+                  {latestPost.data.title}
+                </a>
+              </h2>
+              <p class="muted" style="margin: 0; line-height: 1.7;">{latestPost.data.description}</p>
+            </div>
+          ) : (
+            <p class="muted" style="margin-top: 16px;">No articles yet.</p>
+          )}
+        </div>
+      </aside>
+    </section>
+
+    <section class="section-grid" style="margin-top: 22px;">
+      <article class="panel">
+        <p class="eyebrow">Primary topics</p>
+        <ul class="panel-list" style="margin-top: 16px;">
+          {SITE.primaryTopics.map((topic) => (
+            <li class="stat"><strong>{topic}</strong></li>
+          ))}
+        </ul>
+      </article>
+
+      <article class="panel">
+        <p class="eyebrow">Why it matters</p>
+        <p class="muted" style="margin-top: 16px; line-height: 1.75;">
+          The blog exists to turn real market evidence into decisions founders can trust. The point is not content
+          volume. It is clarity, specificity, and better judgment.
+        </p>
+      </article>
+
+      <article class="panel">
+        <p class="eyebrow">Proof points</p>
+        <ul class="panel-list" style="margin-top: 16px;">
+          {SITE.proofPoints.map((point) => (
+            <li class="stat"><strong>{point}</strong></li>
+          ))}
+        </ul>
+      </article>
     </section>
   </main>
 </BaseLayout>
