@@ -283,7 +283,7 @@ img {
 }
 
 .hero-card {
-  padding: 42px;
+  padding: 36px;
 }
 
 .hero-kicker {
@@ -301,18 +301,18 @@ img {
 }
 
 .hero-title {
-  font-size: clamp(2.35rem, 4.8vw, 4rem);
-  line-height: 0.98;
-  letter-spacing: -0.04em;
-  margin: 18px 0 18px;
-  max-width: 14ch;
+  font-size: clamp(1.95rem, 4vw, 3.15rem);
+  line-height: 1;
+  letter-spacing: -0.035em;
+  margin: 16px 0 14px;
+  max-width: 16ch;
 }
 
 .hero-copy {
   margin: 0;
-  max-width: 60ch;
-  font-size: 1.1rem;
-  line-height: 1.78;
+  max-width: 52ch;
+  font-size: 1.02rem;
+  line-height: 1.72;
 }
 
 .action-row {
@@ -366,12 +366,16 @@ img {
 .section-stack {
   display: grid;
   gap: 22px;
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 280px;
 }
 
 .section-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 420px;
 }
 
 .section-grid--split {
@@ -379,7 +383,7 @@ img {
 }
 
 .panel {
-  padding: 24px;
+  padding: 22px;
   border-radius: 22px;
   background: rgba(255, 255, 255, 0.88);
   border: 1px solid var(--border);
@@ -579,7 +583,11 @@ img {
     align-items: flex-start;
   }
 
+  .page-wrap {
+    padding-top: 28px;
+  }
+
   .hero-card {
-    padding: 28px;
+    padding: 24px;
   }
 }
