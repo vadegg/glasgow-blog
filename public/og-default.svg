@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="60" x2="1100" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBFCFF" />
+      <stop offset="1" stop-color="#EEF4FF" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 90) rotate(39.6409) scale(411.767 306.639)">
+      <stop stop-color="#2F57FF" stop-opacity="0.12" />
+      <stop offset="1" stop-color="#2F57FF" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" rx="36" fill="url(#bg)" />
+  <rect width="1200" height="630" rx="36" fill="url(#glow)" />
+
+  <rect x="72" y="72" width="216" height="46" rx="23" fill="#2F57FF" fill-opacity="0.08" />
+  <text x="108" y="102" fill="#2F57FF" font-family="Wix Madefor Display, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="0.12em">GLASGOW RESEARCH</text>
+
+  <text x="72" y="200" fill="#17181F" font-family="Gros Ventre, Arial Black, sans-serif" font-size="92" font-weight="700">GLASGOW BLOG</text>
+
+  <text x="72" y="308" fill="#17181F" font-family="Wix Madefor Display, Arial, sans-serif" font-size="64" font-weight="700">Product research notes for teams</text>
+  <text x="72" y="384" fill="#17181F" font-family="Wix Madefor Display, Arial, sans-serif" font-size="64" font-weight="700">that need</text>
+  <text x="381" y="384" fill="#2F57FF" font-family="IBM Plex Serif, Georgia, serif" font-size="76" font-style="italic">signal</text>
+  <text x="592" y="384" fill="#17181F" font-family="Wix Madefor Display, Arial, sans-serif" font-size="64" font-weight="700">, not noise.</text>
+
+  <line x1="72" y1="464" x2="1128" y2="464" stroke="#17181F" stroke-opacity="0.08" />
+
+  <text x="72" y="534" fill="#5F6676" font-family="Wix Madefor Display, Arial, sans-serif" font-size="32">blog.glasgow.works</text>
+  <text x="72" y="574" fill="#5F6676" font-family="Wix Madefor Display, Arial, sans-serif" font-size="28">Customer interviews, JTBD, validation, and market evidence.</text>
+</svg>

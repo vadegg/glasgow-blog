@@ -5,7 +5,7 @@ import { SITE } from '../data/site';
 const {
   title,
   description,
-  image = 'https://blog.glasgow.works/logo.svg',
+  image = 'https://blog.glasgow.works/og-default.png',
   type = 'website',
   structuredData = []
 } = Astro.props;
@@ -29,6 +29,9 @@ const schemas = Array.isArray(structuredData)
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={image} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={title} />
     <meta property="og:site_name" content={SITE.name} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
