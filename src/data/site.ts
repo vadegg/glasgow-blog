@@ -1,5 +1,6 @@
 export const SITE = {
   name: 'Glasgow Research Blog',
+  shortName: 'Glasgow Research',
   url: 'https://blog.glasgow.works',
   brandName: 'Glasgow Research',
   description:

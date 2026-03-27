@@ -13,6 +13,14 @@ const canonical = Astro.url.href;
 const schemas = Array.isArray(structuredData)
   ? structuredData.filter(Boolean)
   : [structuredData].filter(Boolean);
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  alternateName: SITE.shortName,
+  url: SITE.url,
+  description: SITE.description
+};
 ---
 
 <!doctype html>
@@ -20,7 +28,12 @@ const schemas = Array.isArray(structuredData)
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="application-name" content={SITE.shortName} />
+    <meta name="apple-mobile-web-app-title" content={SITE.shortName} />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
@@ -37,6 +50,7 @@ const schemas = Array.isArray(structuredData)
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={image} />
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     {schemas.map((schema) => (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     ))}
