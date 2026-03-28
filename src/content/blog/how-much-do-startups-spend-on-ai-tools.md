@@ -503,6 +503,27 @@ The article excludes general-purpose chatbot subscriptions as the primary unit o
 
 It also excludes general cloud infrastructure except where AI-specific API economics are directly relevant to the point being made.
 
+## Sources
+
+- [a16z + Mercury: The AI Application Spending Report](https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/)
+- [Brex Benchmark: Startup spend data and analysis](https://www.brex.com/journal/brex-benchmark-data)
+- [Brex Benchmark, May 2025: Anthropic tops startup AI spend](https://www.brex.com/journal/brex-benchmark-may-2025)
+- [Brex Benchmark, June 2025: Startups racing to build AI voice agents](https://www.brex.com/journal/brex-benchmark-june-2025)
+- [Brex Benchmark, October 2025: The AI infrastructure shift](https://www.brex.com/journal/brex-benchmark-october-2025)
+- [Brex Benchmark, December 2025: Fastest-growing software vendors](https://www.brex.com/journal/brex-benchmark-december-2025)
+- [Marc Lou: I earn $52,600/month with this simple tech stack](https://newsletter.marclou.com/p/the-tech-stack-i-use-to-make-usd-52600-month)
+- [The Bootstrapped Founder: Pieter Levels and AI startups](https://thebootstrappedfounder.com/pieter-levels-the-indie-hackers-guide-to-ai-startups/)
+- [SubHorizon: The real cost of a vibe coding stack](https://subhorizon.app/blog/real-cost-of-vibe-coding-stack-2026/)
+- [Barrack AI: What vibe coding actually costs](https://blog.barrack.ai/vibe-coding-costs/)
+- [The Register: Jason Lemkin's Replit billing incident](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
+- [WeAreFounders: Cursor pricing and hidden overage costs](https://www.wearefounders.uk/cursor-pricing-2026-every-plan-explained-and-the-hidden-costs-nobody-mentions/)
+- [Towards AI: I reverse-engineered 200 AI startups](https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3)
+- [The AI Corner: AI tools guide 2026](https://www.the-ai-corner.com/p/ai-tools-guide-2026)
+- [Padron.sh: AI tools for solo founders](https://padron.sh/blog/ai-tools-solo-founders-complete-stack-guide/)
+- [BuildMVPFast: Free AI tools for indie hackers 2026](https://www.buildmvpfast.com/blog/free-ai-tools-indie-hackers-2026)
+- [SaaStr: 2025 was the year of the AI budget explosion](https://www.saastr.com/budgetfailed/)
+- [DesignRush: AI pricing in 2026](https://www.designrush.com/agency/ai-companies/trends/how-much-does-ai-cost)
+
 ## Final point
 
 The AI budget most founders talk about is the visible one.
