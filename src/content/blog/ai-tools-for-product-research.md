@@ -86,45 +86,45 @@ That is why deep research agents have become such a common starting point.
 
 `Deep research agents`
 
-- Perplexity Deep Research
-- ChatGPT Deep Research
-- Gemini Deep Research
-- Claude Research
-- Kimi Researcher
-- Grok DeepSearch
+- [Perplexity Deep Research]
+- [ChatGPT Deep Research]
+- [Gemini Deep Research]
+- [Claude Research]
+- [Kimi Researcher]
+- [Grok DeepSearch]
 
 `Research notebooks`
 
-- Google NotebookLM
+- [Google NotebookLM]
 
 `Academic and literature search`
 
-- Semantic Scholar
-- Consensus
-- Elicit
-- Scite
-- SciSpace
-- Connected Papers
-- ResearchRabbit
+- [Semantic Scholar]
+- [Consensus]
+- [Elicit]
+- [Scite]
+- [SciSpace]
+- [Connected Papers]
+- [ResearchRabbit]
 
 `Trend detection`
 
-- Glimpse
-- Exploding Topics
-- SparkToro
-- Google Trends
+- [Glimpse]
+- [Exploding Topics]
+- [SparkToro]
+- [Google Trends]
 
 `Industry and market data`
 
-- AlphaSense
-- Statista
-- CB Insights
+- [AlphaSense]
+- [Statista]
+- [CB Insights]
 
 ### What AI is genuinely good at here
 
 AI is great at first-pass compression.
 
-If you need to turn a messy stack of reports, articles, analyst notes, and documentation into a draft map of the space, deep research agents are useful. NotebookLM is useful when you already have a corpus and want a source-grounded Q&A layer. Elicit, Consensus, and Scite are useful when you need academic or evidence-backed search instead of generic web search.
+If you need to turn a messy stack of reports, articles, analyst notes, and documentation into a draft map of the space, deep research agents are useful. [Google NotebookLM] is useful when you already have a corpus and want a source-grounded Q&A layer. [Elicit], [Consensus], and [Scite] are useful when you need academic or evidence-backed search instead of generic web search.
 
 In other words, AI helps most when the task is:
 
@@ -174,43 +174,43 @@ That is a real workflow shift.
 
 `AI moderators`
 
-- Outset
-- Listen Labs
-- Strella
-- Maze AI Moderator
-- Voicepanel / Genway
-- Tellet
-- Great Question
+- [Outset]
+- [Listen Labs]
+- [Strella]
+- [Maze AI Moderator]
+- [Voicepanel]
+- [Tellet]
+- [Great Question]
 
 `Recruitment`
 
-- User Interviews
-- Respondent
-- Prolific
-- Askable
+- [User Interviews]
+- [Respondent]
+- [Prolific]
+- [Askable]
 
 `Transcription`
 
-- Fireflies
-- tl;dv
-- Otter
-- Notta
-- Rev AI
+- [Fireflies]
+- [tl;dv]
+- [Otter]
+- [Notta]
+- [Rev AI]
 
 `QDA and repository`
 
-- Dovetail
-- ATLAS.ti
-- NVivo
-- Marvin
-- Notably
-- Condens
+- [Dovetail]
+- [ATLAS.ti]
+- [NVivo]
+- [Marvin]
+- [Notably]
+- [Condens]
 
 `Synthesis`
 
-- BuildBetter
-- Looppanel
-- Grain
+- [BuildBetter]
+- [Looppanel]
+- [Grain]
 
 ### What AI is good at in qual
 
@@ -270,40 +270,40 @@ The main quant categories in the source pack are:
 
 `Survey builders`
 
-- Pollfish
-- SurveyMonkey Genius
-- Typeform AI
-- Qualtrics XM
-- SurveySparrow
-- QuestionPro
+- [Pollfish]
+- [SurveyMonkey Genius]
+- [Typeform AI]
+- [Qualtrics XM]
+- [SurveySparrow]
+- [QuestionPro]
 
 `Audience and panels`
 
-- Attest
-- Cint
-- Prolific
-- Dynata
+- [Attest]
+- [Cint]
+- [Prolific]
+- [Dynata]
 
 `Open-end NLP`
 
-- Enterpret
-- Zonka Feedback
-- Anecdote AI
-- SentiSum
-- Lumoa
-- Canvs AI
-- Thematic
+- [Enterpret]
+- [Zonka Feedback]
+- [Anecdote AI]
+- [SentiSum]
+- [Lumoa]
+- [Canvs AI]
+- [Thematic]
 
 `Quant analysis`
 
-- Displayr
-- Q Research Software
-- Qualtrics Stats iQ
+- [Displayr]
+- [Q Research Software]
+- [Qualtrics Stats iQ]
 
 `Visualization`
 
-- Julius AI
-- Blix AI
+- [Julius AI]
+- [Blix AI]
 
 Where AI helps most in quant:
 
@@ -330,24 +330,24 @@ The category split in the source pack is useful:
 
 `AI-native expert networks`
 
-- Techspert
-- Infoquest
-- NewtonX
+- [Techspert]
+- [Infoquest]
+- [NewtonX]
 
 `Legacy networks with AI layers`
 
-- AlphaSense / Tegus
-- GLG
-- AlphaSights
-- Third Bridge
-- Guidepoint
+- [AlphaSense / Tegus]
+- [GLG]
+- [AlphaSights]
+- [Third Bridge]
+- [Guidepoint]
 
 `Interview intelligence`
 
-- Gong
-- Chorus
-- Fathom
-- Avoma
+- [Gong]
+- [Chorus]
+- [Fathom]
+- [Avoma]
 
 This is a narrower buying decision than the mainstream "AI research tools" keyword suggests.
 
@@ -370,23 +370,23 @@ The source pack splits the space into:
 
 `Mystery shopping platforms`
 
-- Market Force
-- ShopMetrics
-- IntelliShop
-- Streetbees
-- Premise
+- [Market Force]
+- [ShopMetrics]
+- [IntelliShop]
+- [Streetbees]
+- [Premise]
 
 `AI-powered analysis`
 
-- Evalyn AI
-- CallMiner
-- NICE Nexidia
-- Tethr
+- [Evalyn AI]
+- [CallMiner]
+- [NICE Nexidia]
+- [Tethr]
 
 `Field collection`
 
-- GoSpotCheck / FORM
-- FieldPie
+- [GoSpotCheck / FORM]
+- [FieldPie]
 
 The right mental model is not "AI mystery shopping."
 It is "AI-assisted mystery shopping."
@@ -423,55 +423,55 @@ That is why the stack is so fragmented.
 
 `SEO and traffic intelligence`
 
-- Semrush
-- Ahrefs
-- Similarweb
-- SpyFu
-- SE Ranking
+- [Semrush]
+- [Ahrefs]
+- [Similarweb]
+- [SpyFu]
+- [SE Ranking]
 
 `Pricing intelligence`
 
-- Prisync
-- Competera
-- Price2Spy
+- [Prisync]
+- [Competera]
+- [Price2Spy]
 
 `Review intelligence`
 
-- G2
-- TrustRadius
-- Gartner Peer Insights
+- [G2]
+- [TrustRadius]
+- [Gartner Peer Insights]
 
 `Win-loss analysis`
 
-- Klue
-- Clozd
-- Primary Intelligence
+- [Klue]
+- [Clozd]
+- [Primary Intelligence]
 
 `Social, creative, and website monitoring`
 
-- Meta Ad Library
-- TikTok Creative Center
-- Foreplay
-- AdSpy
-- Brandwatch
-- Brand24
-- Awario
-- Visualping
-- Hexowatch
+- [Meta Ad Library]
+- [TikTok Creative Center]
+- [Foreplay]
+- [AdSpy]
+- [Brandwatch]
+- [Brand24]
+- [Awario]
+- [Visualping]
+- [Hexowatch]
 
 `AI search monitoring`
 
-- Profound
-- Otterly AI
-- Peec AI
-- Atomic AGI
+- [Profound]
+- [Otterly AI]
+- [Peec AI]
+- [Atomic AGI]
 
 `Full CI platforms`
 
-- Crayon
-- Klue
-- Contify
-- Kompyte
+- [Crayon]
+- [Klue]
+- [Contify]
+- [Kompyte]
 
 If your team only wants to know who ranks for which keywords, buy SEO tooling.
 If your team wants to know how competitors price, change packaging, and justify value, buy pricing and CI tooling.
@@ -487,11 +487,11 @@ A better approach is to choose a minimal stack based on the job:
 
 | Research job | Best first tools to evaluate | What to watch out for |
 | --- | --- | --- |
-| Desk research | Perplexity, ChatGPT Deep Research, NotebookLM, Elicit | Hallucinations, weak recency, false confidence |
-| Interview-led discovery | Outset, Great Question, User Interviews, Fireflies, Dovetail | AI moderation limits, panel quality, privacy |
-| Survey and quant follow-up | Typeform AI, Qualtrics, Prolific, Displayr | Weak hypothesis, sampling issues, shallow NLP |
-| Expert orientation | Techspert, GLG, AlphaSense / Tegus | Cost, compliance, expert fit |
-| Competitive tracking | Semrush, Ahrefs, Prisync, Klue, Crayon | Tool sprawl, weak interpretation, inflated pricing |
+| Desk research | [Perplexity Deep Research], [ChatGPT Deep Research], [Google NotebookLM], [Elicit] | Hallucinations, weak recency, false confidence |
+| Interview-led discovery | [Outset], [Great Question], [User Interviews], [Fireflies], [Dovetail] | AI moderation limits, panel quality, privacy |
+| Survey and quant follow-up | [Typeform AI], [Qualtrics XM], [Prolific], [Displayr] | Weak hypothesis, sampling issues, shallow NLP |
+| Expert orientation | [Techspert], [GLG], [AlphaSense / Tegus] | Cost, compliance, expert fit |
+| Competitive tracking | [Semrush], [Ahrefs], [Prisync], [Klue], [Crayon] | Tool sprawl, weak interpretation, inflated pricing |
 
 ### A sensible starter stack for most small teams
 
@@ -535,3 +535,124 @@ That is where AI helps most.
 It speeds up the parts of research that should be compressed and leaves more time for the parts that still need human judgment: question framing, moderation, interpretation, and making the decision itself.
 
 If your team is trying to choose the right AI-assisted research stack instead of buying random tools one category at a time, that is exactly the kind of scoping work [Glasgow Research](https://glasgow.works) can help with.
+
+[Perplexity Deep Research]: https://www.perplexity.ai/
+[ChatGPT Deep Research]: https://chatgpt.com/
+[Gemini Deep Research]: https://gemini.google.com/
+[Claude Research]: https://claude.ai/
+[Kimi Researcher]: https://kimi.ai/
+[Grok DeepSearch]: https://grok.com/
+[Google NotebookLM]: https://notebooklm.google.com/
+[Semantic Scholar]: https://www.semanticscholar.org/
+[Consensus]: https://consensus.app/
+[Elicit]: https://elicit.com/
+[Scite]: https://scite.ai/
+[SciSpace]: https://typeset.io/
+[Connected Papers]: https://www.connectedpapers.com/
+[ResearchRabbit]: https://www.researchrabbit.ai/
+[Glimpse]: https://meetglimpse.com/
+[Exploding Topics]: https://explodingtopics.com/
+[SparkToro]: https://sparktoro.com/
+[Google Trends]: https://trends.google.com/
+[AlphaSense]: https://www.alpha-sense.com/
+[Statista]: https://www.statista.com/
+[CB Insights]: https://www.cbinsights.com/
+[Outset]: https://outset.ai/
+[Listen Labs]: https://www.listenlabs.ai/
+[Strella]: https://www.strella.io/
+[Maze AI Moderator]: https://maze.co/
+[Voicepanel]: https://www.voicepanel.com/
+[Tellet]: https://www.tellet.ai/
+[Great Question]: https://greatquestion.co/
+[User Interviews]: https://www.userinterviews.com/
+[Respondent]: https://www.respondent.io/
+[Prolific]: https://www.prolific.com/
+[Askable]: https://www.askable.com/
+[Fireflies]: https://fireflies.ai/
+[tl;dv]: https://tldv.io/
+[Otter]: https://otter.ai/
+[Notta]: https://www.notta.ai/
+[Rev AI]: https://www.rev.ai/
+[Dovetail]: https://dovetail.com/
+[ATLAS.ti]: https://atlasti.com/
+[NVivo]: https://lumivero.com/products/nvivo/
+[Marvin]: https://heymarvin.com/
+[Notably]: https://www.notably.ai/
+[Condens]: https://condens.io/
+[BuildBetter]: https://buildbetter.ai/
+[Looppanel]: https://www.looppanel.com/
+[Grain]: https://grain.com/
+[Pollfish]: https://www.prodege.com/pollfish/
+[SurveyMonkey Genius]: https://www.surveymonkey.com/product/features/genius/
+[Typeform AI]: https://www.typeform.com/
+[Qualtrics XM]: https://www.qualtrics.com/platform/
+[SurveySparrow]: https://surveysparrow.com/
+[QuestionPro]: https://www.questionpro.com/
+[Attest]: https://www.askattest.com/
+[Cint]: https://www.cint.com/
+[Dynata]: https://www.dynata.com/
+[Enterpret]: https://www.enterpret.com/
+[Zonka Feedback]: https://www.zonkafeedback.com/
+[Anecdote AI]: https://www.anecdoteai.com/
+[SentiSum]: https://www.sentisum.com/
+[Lumoa]: https://www.lumoa.me/
+[Canvs AI]: https://canvs.ai/
+[Thematic]: https://getthematic.com/
+[Displayr]: https://www.displayr.com/
+[Q Research Software]: https://www.qresearchsoftware.com/
+[Qualtrics Stats iQ]: https://www.qualtrics.com/stats-iq/
+[Julius AI]: https://julius.ai/
+[Blix AI]: https://blix.ai/
+[Techspert]: https://techspert.io/
+[Infoquest]: https://www.infoq.com/
+[NewtonX]: https://www.newtonx.com/
+[AlphaSense / Tegus]: https://www.alpha-sense.com/platform/expert-calls/
+[GLG]: https://glginsights.com/
+[AlphaSights]: https://www.alphasights.com/
+[Third Bridge]: https://thirdbridge.com/
+[Guidepoint]: https://www.guidepoint.com/
+[Gong]: https://www.gong.io/
+[Chorus]: https://www.zoominfo.com/products/chorus
+[Fathom]: https://fathom.video/
+[Avoma]: https://www.avoma.com/
+[Market Force]: https://www.marketforce.com/
+[ShopMetrics]: https://www.shopmetrics.com/
+[IntelliShop]: https://www.intelli-shop.com/
+[Streetbees]: https://streetbees.com/
+[Premise]: https://www.premise.com/
+[Evalyn AI]: https://www.evalyn.ai/
+[CallMiner]: https://callminer.com/
+[NICE Nexidia]: https://www.nice.com/products/interaction-analytics
+[Tethr]: https://www.collabria.com/tethr
+[GoSpotCheck / FORM]: https://www.form.com/
+[FieldPie]: https://www.fieldpie.com/
+[Semrush]: https://www.semrush.com/
+[Ahrefs]: https://ahrefs.com/
+[Similarweb]: https://www.similarweb.com/
+[SpyFu]: https://www.spyfu.com/
+[SE Ranking]: https://seranking.com/
+[Prisync]: https://prisync.com/
+[Competera]: https://competera.ai/
+[Price2Spy]: https://www.price2spy.com/
+[G2]: https://www.g2.com/
+[TrustRadius]: https://www.trustradius.com/
+[Gartner Peer Insights]: https://www.gartner.com/reviews/home
+[Klue]: https://klue.com/
+[Clozd]: https://www.clozd.com/
+[Primary Intelligence]: https://www.primary-intel.com/
+[Meta Ad Library]: https://www.facebook.com/ads/library/
+[TikTok Creative Center]: https://ads.tiktok.com/business/creativecenter/
+[Foreplay]: https://www.foreplay.co/
+[AdSpy]: https://adspy.com/
+[Brandwatch]: https://www.brandwatch.com/
+[Brand24]: https://brand24.com/
+[Awario]: https://awario.com/
+[Visualping]: https://visualping.io/
+[Hexowatch]: https://hexowatch.com/
+[Profound]: https://www.tryprofound.com/
+[Otterly AI]: https://otterly.ai/
+[Peec AI]: https://peec.ai/
+[Atomic AGI]: https://www.atomicagi.com/
+[Crayon]: https://www.crayon.co/
+[Contify]: https://www.contify.com/
+[Kompyte]: https://www.semrush.com/kompyte/
