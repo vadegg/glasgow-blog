@@ -503,15 +503,6 @@ The article excludes general-purpose chatbot subscriptions as the primary unit o
 
 It also excludes general cloud infrastructure except where AI-specific API economics are directly relevant to the point being made.
 
-## Sources
-
-- `Research for seo/the-hidden-ai-stack-article.md`
-- `Research for seo/AI-spend-research-structure.md`
-- `Research for seo/AI-Startup-Spending-Research-Data.xlsx`
-- Brex Benchmark reports cited in the source pack
-- a16z/Mercury AI Application Spending Report cited in the source pack
-- public founder posts and pricing analyses cited in the source pack
-
 ## Final point
 
 The AI budget most founders talk about is the visible one.
