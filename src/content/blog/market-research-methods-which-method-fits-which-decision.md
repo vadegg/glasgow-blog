@@ -3,9 +3,9 @@ slug: "market-research-methods-which-method-fits-which-decision"
 title: "Market Research Methods: Which Method Fits Which Decision"
 description: "A practical guide to selecting the right market research methods based on your decision needs, timing, and market context."
 pubDate: "2026-05-04T08:52:38.050Z"
-author: "Glasgow Research Blog Editorial Team"
-authorSlug: "glasgow-research-blog-editorial-team"
-category: "Market Research"
+author: "Vadim Glazkov"
+authorSlug: "vadim"
+category: "Research"
 tags: ["market research methods", "B2B SaaS", "product management", "research strategy", "decision making"]
 ---
 
