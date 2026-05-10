@@ -14,7 +14,7 @@ const structuredData = [
     '@type': 'WebSite',
     name: SITE.name,
     url: SITE.url,
-    description: SITE.description,
+    description: SITE.homepageDescription,
     publisher: {
       '@type': 'Organization',
       name: SITE.organizationName,
@@ -26,7 +26,7 @@ const structuredData = [
 
 <BaseLayout
   title="Glasgow Research Blog"
-  description={SITE.description}
+  description={SITE.homepageDescription}
   structuredData={structuredData}
 >
   <main class="shell page-wrap">

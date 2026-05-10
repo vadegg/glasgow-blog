@@ -1,7 +1,7 @@
 ---
 slug: why-you-shouldnt-delegate-customer-interviews
 title: "Why You Shouldn't Delegate Customer Interviews to Non-Researchers"
-description: "Founders often ask sales reps, assistants, engineers, or support staff to run customer interviews. That usually leads to biased qualitative research, false confidence, and bad product decisions."
+description: "Learn why delegating customer interviews to non-researchers often creates biased evidence, false confidence, and weaker product decisions in practice."
 pubDate: 2026-03-19T21:35:00Z
 author: Vadim Glazkov
 authorSlug: vadim

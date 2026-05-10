@@ -1,7 +1,7 @@
 ---
 slug: "product-research"
 title: "Product Research for Teams Making Expensive Decisions"
-description: "A practical explanation of product research: how it reduces uncertainty before costly product bets, and why many 'product problems' are really switching-cost or value-perception problems."
+description: "Learn how product research reduces uncertainty before expensive product bets and reveals when the real issue is value, not interface polish alone in practice."
 pubDate: 2026-03-26T22:31:15Z
 author: Vadim Glazkov
 authorSlug: vadim

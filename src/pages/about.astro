@@ -9,8 +9,7 @@ const structuredData = [
     '@type': 'AboutPage',
     name: 'About Glasgow Research Blog',
     url: `${SITE.url}/about/`,
-    description:
-      'Why this blog exists, what it covers, who writes it, and what kind of signal readers should expect from it.'
+    description: SITE.aboutPageDescription
   },
   {
     '@context': 'https://schema.org',
@@ -35,7 +34,7 @@ const structuredData = [
 
 <BaseLayout
   title="About | Glasgow Research Blog"
-  description="Why this blog exists, what it covers, who writes it, and what kind of signal readers should expect from it."
+  description={SITE.aboutPageDescription}
   structuredData={structuredData}
 >
   <main class="shell page-wrap">

@@ -1,10 +1,23 @@
+import { ensureMetaDescription } from '../lib/metadata';
+
 export const SITE = {
   name: 'Glasgow Research Blog',
   shortName: 'Glasgow Research',
   url: 'https://blog.glasgow.works',
   brandName: 'Glasgow Research',
   description:
-    'Notes on product research, customer interviews, JTBD, market validation, and the decisions teams make from that work.',
+    ensureMetaDescription(
+      'Product research, customer research, JTBD, and market research articles for B2B SaaS teams. Practical frameworks, examples, and decision tools to use.',
+      'SITE.description'
+    ),
+  homepageDescription: ensureMetaDescription(
+    'Product research and market research guides for B2B SaaS teams. Practical notes on customer interviews, JTBD, and market segmentation by Vadim Glazkov.',
+    'SITE.homepageDescription'
+  ),
+  aboutPageDescription: ensureMetaDescription(
+    'Learn what Glasgow Research Blog covers: product research, customer interviews, JTBD, and market validation for founders and B2B SaaS teams today, clearly.',
+    'SITE.aboutPageDescription'
+  ),
   organizationName: 'Glasgow Research',
   organizationUrl: 'https://glasgow.works',
   logoUrl: 'https://blog.glasgow.works/logo.svg',
@@ -44,6 +57,10 @@ export const AUTHORS = {
     name: 'Vadim Glazkov',
     role: 'Founder, Glasgow Research',
     expertTitle: 'Product Research Expert',
+    metaDescription: ensureMetaDescription(
+      'Vadim Glazkov writes practical guides on product research, customer interviews, JTBD, and market validation for founders and B2B SaaS teams today, clearly.',
+      'AUTHORS.vadim.metaDescription'
+    ),
     bio:
       'Vadim Glazkov is the founder of Glasgow Research and a product research expert working with founders and B2B SaaS teams on customer interviews, JTBD, market validation, and decision-ready research.',
     summary:

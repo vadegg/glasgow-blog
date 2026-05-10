@@ -1,7 +1,7 @@
 ---
 slug: "b2b-market-research"
 title: "B2B Market Research: What Changes When the Buyer Is Not an Individual"
-description: "A practical guide to B2B market research: map buying groups, recruit the right roles, and stop treating the company as one buyer."
+description: "Learn how to run B2B market research by mapping buying groups, recruiting the right roles, and interpreting signal across complex buying decisions today."
 pubDate: 2026-03-26T00:00:00Z
 author: Vadim Glazkov
 authorSlug: vadim

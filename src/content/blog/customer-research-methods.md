@@ -1,7 +1,7 @@
 ---
 slug: "customer-research-methods"
 title: "Customer Research Methods: Choose the Method That Matches the Decision"
-description: "A practical guide to customer research methods for B2B SaaS teams: when to use interviews, surveys, desk research, usability testing, expert interviews, and research inside sales."
+description: "Choose customer research methods that fit the decision in front of you, from interviews and surveys to desk research, expert calls, and usability tests."
 pubDate: 2026-03-25T00:00:00Z
 author: Vadim Glazkov
 authorSlug: vadim

@@ -28,7 +28,7 @@ const structuredData = [
     '@type': 'ProfilePage',
     name: `${author.name} | ${SITE.name}`,
     url: author.url,
-    description: author.bio,
+    description: author.metaDescription,
     mainEntity: personSchema
   },
   {
@@ -54,7 +54,7 @@ const structuredData = [
 
 <BaseLayout
   title={`${author.name} | ${author.role}`}
-  description={author.bio}
+  description={author.metaDescription}
   structuredData={structuredData}
 >
   <main class="shell page-wrap">

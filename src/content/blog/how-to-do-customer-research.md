@@ -1,7 +1,7 @@
 ---
 slug: "how-to-do-customer-research"
 title: "How to Do Customer Research Without Mistaking Politeness for Signal"
-description: "A practical guide to doing customer research: ask better questions, focus on past behavior, and stop mistaking polite feedback for real demand."
+description: "Learn how to do customer research without mistaking polite feedback for demand by asking better questions, probing behavior, and testing real urgency."
 pubDate: 2026-03-25T14:22:32Z
 author: Vadim Glazkov
 authorSlug: vadim

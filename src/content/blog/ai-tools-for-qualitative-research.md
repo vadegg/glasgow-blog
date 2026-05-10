@@ -1,7 +1,7 @@
 ---
 slug: "ai-tools-for-qualitative-research"
 title: "AI Tools for Qualitative Research: Interviews, Recruiting, and Synthesis"
-description: "A practical guide to AI tools for qualitative research: where AI helps with recruiting, moderation, transcription, analysis, and synthesis, and where human researchers still win."
+description: "Compare AI tools for qualitative research across recruiting, moderation, transcription, analysis, and synthesis while keeping human judgment in the loop."
 pubDate: 2026-03-27T21:34:11Z
 author: Vadim Glazkov
 authorSlug: vadim

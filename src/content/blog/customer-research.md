@@ -1,7 +1,7 @@
 ---
 slug: "customer-research"
 title: "Customer Research: What It Is Actually For in Product Decisions"
-description: "A practical explanation of customer research: what it is, what decisions it should improve, and how teams misuse it as reassurance instead of evidence."
+description: "Understand what customer research is actually for, which product decisions it should improve, and how teams misuse it as reassurance instead of evidence."
 pubDate: 2026-03-25T14:27:09Z
 author: Vadim Glazkov
 authorSlug: vadim
