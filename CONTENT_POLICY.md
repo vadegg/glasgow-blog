@@ -7,6 +7,8 @@ This repository is for `blog.glasgow.works`.
 - All published blog content must be in English.
 - The blog is written for US and EU IT audiences.
 - The blog uses an agency-backed personal expertise model: the writing is grounded in Vadim Glazkov's field experience and connected to Glasgow Research.
+- Published blog content must never expose internal workflow artifacts: local filesystem paths, repo-relative paths, unpublished filenames, evidence IDs, work-item IDs, archive paths, or references to `source pack` / `evidence-bank` / other internal process labels.
+- If an article includes a public `Sources` section, it must contain reader-usable source names and public URLs only.
 
 ## Core topics
 
@@ -32,3 +34,4 @@ This repository is for `blog.glasgow.works`.
 - Prefer concrete, experience-based writing over generic summaries.
 - Prefer decision-ready insight over polished filler.
 - Keep the blog tightly aligned with research, evidence, and practical decision-making.
+- Tool articles should be reader-serviceable: named products in lists, tables, and shortlist sections should link to their official public pages unless there is a clear editorial reason not to.
