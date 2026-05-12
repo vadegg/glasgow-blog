@@ -3,6 +3,7 @@ slug: why-you-shouldnt-delegate-customer-interviews
 title: "Why You Shouldn't Delegate Customer Interviews to Non-Researchers"
 description: "Learn why delegating customer interviews to non-researchers often creates biased evidence, false confidence, and weaker product decisions in practice."
 pubDate: 2026-03-19T21:35:00Z
+updatedDate: 2026-05-10T06:24:41Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research

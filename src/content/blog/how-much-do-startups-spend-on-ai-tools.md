@@ -3,6 +3,7 @@ slug: "how-much-do-startups-spend-on-ai-tools"
 title: "How Much Do Startups Spend on AI Tools? The Hidden AI Stack in 2026"
 description: "See what startups spend on AI tools in 2026 by stage, from solo founders to Series A teams, including the hidden costs that sit beyond chatbots alone."
 pubDate: 2026-03-28T08:30:06Z
+updatedDate: 2026-05-10T06:24:41Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"

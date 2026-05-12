@@ -7,6 +7,8 @@
     "node": "22.16.0"
   },
   "scripts": {
+    "sync:updated-dates": "node ./scripts/sync-updated-dates.mjs",
+    "prebuild": "npm run sync:updated-dates",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview"

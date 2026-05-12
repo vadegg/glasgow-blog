@@ -3,6 +3,7 @@ slug: "ai-competitive-analysis-tools"
 title: "AI Competitive Analysis Tools for Product and GTM Teams"
 description: "Compare AI competitive analysis tools for SEO, pricing, reviews, social monitoring, win-loss work, and AI search visibility in product and GTM teams today."
 pubDate: 2026-03-27T21:34:11Z
+updatedDate: 2026-05-10T06:24:41Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"

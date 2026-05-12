@@ -3,6 +3,7 @@ slug: "product-research"
 title: "Product Research for Teams Making Expensive Decisions"
 description: "Learn how product research reduces uncertainty before expensive product bets and reveals when the real issue is value, not interface polish alone in practice."
 pubDate: 2026-03-26T22:31:15Z
+updatedDate: 2026-05-10T06:24:41Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"

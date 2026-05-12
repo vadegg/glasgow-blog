@@ -3,6 +3,7 @@ slug: "market-research-methods-which-method-fits-which-decision"
 title: "Market Research Methods: Which Method Fits Which Decision"
 description: "Match market research methods to the decision you need to make, with practical guidance on interviews, surveys, desk research, and research timing today."
 pubDate: "2026-05-04T08:52:38.050Z"
+updatedDate: 2026-05-10T06:24:41Z
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"

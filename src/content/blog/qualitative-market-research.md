@@ -3,6 +3,7 @@ slug: "qualitative-market-research"
 title: "Qualitative Market Research: When Interviews Beat Bigger Sample Sizes"
 description: "Learn when qualitative market research beats bigger sample sizes in B2B SaaS, and how to act on interview signal without faking statistical certainty."
 pubDate: 2026-03-26T00:00:00Z
+updatedDate: 2026-05-10T06:24:41Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
