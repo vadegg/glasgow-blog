@@ -5,6 +5,7 @@ description: >-
   Discover practical AI tool budget benchmarks for startups by stage, with data-backed spending ranges and tips to
   optimize your AI investments. Read the full bre
 pubDate: '2026-05-11T06:02:27.079Z'
+updatedDate: 2026-05-11T06:02:58Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research

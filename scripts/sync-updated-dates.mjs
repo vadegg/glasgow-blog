@@ -23,13 +23,24 @@ function formatDate(date) {
   return date.toISOString().replace('.000Z', 'Z');
 }
 
-function getGitDates(relativePath) {
-  const output = execFileSync('git', ['log', '--follow', '--format=%cI', '--', relativePath], {
+function getGitHistory(relativePath) {
+  const output = execFileSync('git', ['log', '--follow', '--format=%H|%cI', '--', relativePath], {
     cwd: process.cwd(),
     encoding: 'utf8'
   }).trim();
 
-  return output ? output.split('\n').map((value) => new Date(value)).filter((date) => !Number.isNaN(date.valueOf())) : [];
+  if (!output) {
+    return [];
+  }
+
+  return output
+    .split('\n')
+    .map((line) => {
+      const [commit, committedAt] = line.split('|');
+      const date = new Date(committedAt);
+      return Number.isNaN(date.valueOf()) ? null : { commit, date };
+    })
+    .filter(Boolean);
 }
 
 function getHeadSource(relativePath) {
@@ -54,6 +65,41 @@ function isModified(relativePath) {
 
 function stripUpdatedDate(source) {
   return source.replace(/^updatedDate:\s*.+\n/m, '');
+}
+
+function getSourceAtCommit(relativePath, commit) {
+  try {
+    return execFileSync('git', ['show', `${commit}:${relativePath}`], {
+      cwd: process.cwd(),
+      encoding: 'utf8'
+    });
+  } catch {
+    return null;
+  }
+}
+
+function getLatestMeaningfulCommitDate(relativePath) {
+  const history = getGitHistory(relativePath);
+  let previousNormalizedSource = null;
+  let previousNormalizedSourceDate;
+
+  for (const entry of history) {
+    const sourceAtCommit = getSourceAtCommit(relativePath, entry.commit);
+    if (sourceAtCommit === null) {
+      continue;
+    }
+
+    const normalizedSource = stripUpdatedDate(sourceAtCommit);
+
+    if (previousNormalizedSource !== null && normalizedSource !== previousNormalizedSource) {
+      return previousNormalizedSourceDate;
+    }
+
+    previousNormalizedSource = normalizedSource;
+    previousNormalizedSourceDate = entry.date;
+  }
+
+  return history.at(-1)?.date;
 }
 
 function maxDate(...dates) {
@@ -87,9 +133,8 @@ function syncPost(relativePath) {
     return null;
   }
 
-  const gitDates = getGitDates(relativePath);
   const headSource = getHeadSource(relativePath);
-  const latestCommittedEdit = gitDates.length > 1 ? gitDates[0] : undefined;
+  const latestCommittedEdit = getLatestMeaningfulCommitDate(relativePath);
   const hasMeaningfulWorkingTreeChanges =
     isModified(relativePath) && headSource !== null && stripUpdatedDate(source) !== stripUpdatedDate(headSource);
   const latestWorkingTreeEdit = hasMeaningfulWorkingTreeChanges ? statSync(absolutePath).mtime : undefined;
