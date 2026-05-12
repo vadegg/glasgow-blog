@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { ORGANIZATION, SITE } from '../data/site';
+import cookiePolicyHtml from '../content/legal/cookie-policy.html?raw';
+
+const structuredData = [
+  ORGANIZATION,
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'Cookie Policy',
+    url: `${SITE.url}/cookies/`,
+    description: 'Cookie Policy for Glasgow Research Blog.'
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: SITE.url
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Cookie Policy',
+        item: `${SITE.url}/cookies/`
+      }
+    ]
+  }
+];
+---
+
+<BaseLayout
+  title="Cookie Policy | Glasgow Research Blog"
+  description="Cookie Policy for Glasgow Research Blog and Glazkov Research, Unipessoal LDA."
+  structuredData={structuredData}
+>
+  <main class="shell page-wrap">
+    <section class="card legal-card">
+      <p class="hero-kicker">Legal</p>
+      <div class="legal-embed" set:html={cookiePolicyHtml} />
+    </section>
+  </main>
+</BaseLayout>

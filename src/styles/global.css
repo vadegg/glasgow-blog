@@ -317,6 +317,32 @@ img {
   padding: 36px;
 }
 
+.legal-card {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.legal-embed {
+  margin-top: 20px;
+  overflow-wrap: anywhere;
+}
+
+.legal-embed table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+
+.legal-embed img {
+  height: auto;
+}
+
+.legal-prose {
+  margin-top: 20px;
+}
+
 .hero-kicker {
   display: inline-flex;
   align-items: center;
@@ -664,5 +690,9 @@ img {
 
   .hero-card {
     padding: 24px;
+  }
+
+  .legal-card {
+    padding: 24px 18px;
   }
 }
