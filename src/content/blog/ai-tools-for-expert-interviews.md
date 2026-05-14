@@ -5,6 +5,7 @@ description: >-
   Explore AI tools for expert interviews, their benefits, risks, and when to choose expert over customer interviews in
   B2B SaaS research. Read the full breakdown.
 pubDate: '2026-05-12T09:01:13.347Z'
+updatedDate: 2026-05-12T09:38:43Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
