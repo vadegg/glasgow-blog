@@ -1,8 +1,12 @@
 ---
 title: "Guerrilla Usability Testing: A Practical Guide"
-description: "Run fast, low-cost guerrilla usability tests that still deliver rigorous insights. A step-by-step practitioner guide covering planning, recruiting, facilitation, and analysis."
+description: "Run fast, low-cost guerrilla usability tests that still deliver rigorous insights. A step-by-step practitioner guide covering planning, recruiting, facilitation"
 pubDate: 2026-05-30
+updatedDate: 2026-06-03T06:35:23.908Z
 slug: "guerrilla-usability-testing-guide"
+author: "Vadim Glazkov"
+authorSlug: "vadim"
+category: "Research"
 draft: false
 heroImageAlt: "A UX researcher conducting a guerrilla usability test with a participant in a coffee shop, laptop prototype on the table"
 tags:

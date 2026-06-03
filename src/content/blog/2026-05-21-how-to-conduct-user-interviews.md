@@ -1,8 +1,12 @@
 ---
 title: "How to Conduct User Interviews: A Practical Guide"
-description: "Learn how to conduct user interviews that generate real insight — from writing a discussion guide to facilitation techniques and common pitfalls every UX researcher should avoid."
+description: "Learn how to conduct user interviews that generate real insight — from writing a discussion guide to facilitation techniques and common pitfalls every UX"
 pubDate: 2026-05-21
+updatedDate: 2026-06-03T06:35:23.905Z
 slug: "how-to-conduct-user-interviews"
+author: "Vadim Glazkov"
+authorSlug: "vadim"
+category: "Research"
 draft: false
 heroImageAlt: "A UX researcher sits across from a participant at a table, notebook open, conducting a user interview in a calm, neutral setting"
 tags:
