@@ -1,5 +1,6 @@
 ---
 slug: ai-tool-budget-for-startups-benchmarks-by-stage
+readingTime: 3
 title: 'AI Tool Budget for Startups: Benchmarks by Stage'
 description: >-
   Discover practical AI tool budget benchmarks for startups by stage, with data-backed spending ranges and tips to

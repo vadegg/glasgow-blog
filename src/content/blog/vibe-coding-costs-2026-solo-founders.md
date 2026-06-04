@@ -1,5 +1,6 @@
 ---
 slug: vibe-coding-costs-2026-solo-founders
+readingTime: 4
 title: 'Vibe Coding Costs in 2026: What Solo Founders Actually Pay'
 description: >-
   Discover what solo founders really pay for vibe coding in 2026, with cost benchmarks, tool breakdowns, and tips to

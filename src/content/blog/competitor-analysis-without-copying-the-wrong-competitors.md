@@ -1,5 +1,6 @@
 ---
 slug: competitor-analysis-without-copying-the-wrong-competitors
+readingTime: 4
 title: 'Competitor Analysis Without Copying the Wrong Competitors: A How-To Guide'
 description: >-
   Learn how to identify and analyze the right competitors to sharpen your product and pricing strategies without wasting

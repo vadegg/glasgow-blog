@@ -1,5 +1,6 @@
 ---
 slug: types-of-market-research-and-when-each-one-actually-helps
+readingTime: 4
 title: Types of Market Research and When Each One Actually Helps
 description: "Compare types of market research and learn when interviews, surveys, desk research, and other methods actually help the decision in front of you today."
 pubDate: '2026-05-04T11:52:41.261Z'

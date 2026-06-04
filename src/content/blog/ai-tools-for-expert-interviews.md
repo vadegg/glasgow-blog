@@ -1,5 +1,6 @@
 ---
 slug: ai-tools-for-expert-interviews
+readingTime: 3
 title: 'AI Tools for Expert Interviews: A Practical Guide for B2B Teams'
 description: >-
   Explore AI tools for expert interviews, their benefits, risks, and when to choose expert over customer interviews in

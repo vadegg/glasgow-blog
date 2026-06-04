@@ -1,5 +1,6 @@
 ---
 slug: target-audience-research-before-positioning
+readingTime: 3
 title: How to Conduct Target Audience Research Before Positioning Work
 description: "Learn how target audience research helps you define, narrow, and validate the audience before positioning, messaging, and GTM decisions in B2B SaaS teams."
 pubDate: '2026-05-09T09:01:26.612Z'

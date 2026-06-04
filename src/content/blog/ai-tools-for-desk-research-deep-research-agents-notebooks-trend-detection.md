@@ -1,5 +1,6 @@
 ---
 slug: ai-tools-for-desk-research-deep-research-agents-notebooks-trend-detection
+readingTime: 4
 title: 'AI Tools for Desk Research: Deep Research Agents, Notebooks, and Trend Detection'
 description: >-
   Explore practical AI tools for desk research, including deep research agents, notebooks, and trend detection

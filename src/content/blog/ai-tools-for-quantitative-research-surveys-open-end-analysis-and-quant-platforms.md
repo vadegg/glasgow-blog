@@ -1,5 +1,6 @@
 ---
 slug: ai-tools-for-quantitative-research-surveys-open-end-analysis-and-quant-platforms
+readingTime: 4
 title: 'AI Tools for Quantitative Research: Surveys, Open-End Analysis, and Quant Platforms'
 description: >-
   Explore practical AI tools for quantitative research in surveys, open-ended analysis, and platforms. Learn when quant

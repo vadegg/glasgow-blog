@@ -3,6 +3,7 @@ title: "Card Sorting in UX Research: How to Run It"
 description: "Learn how to run open and closed card sorting studies, analyse the output, and decide when to use card sorting vs tree testing — a practical guide for UX"
 pubDate: 2026-06-04
 slug: "card-sorting-ux-research"
+readingTime: 13
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"

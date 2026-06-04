@@ -1,5 +1,6 @@
 ---
 slug: market-segmentation-what-it-helps-you-decide-and-what-it-does-not
+readingTime: 3
 title: 'Market Segmentation: What It Helps You Decide and What It Does Not'
 description: "Learn what market segmentation actually helps you decide in B2B SaaS, where it falls short, and why validation still has to guide GTM changes right now."
 pubDate: '2026-05-05T09:01:04.461Z'

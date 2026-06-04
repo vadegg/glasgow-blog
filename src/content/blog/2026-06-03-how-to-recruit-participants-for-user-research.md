@@ -3,6 +3,7 @@ title: "How to Recruit Participants for User Research"
 description: "A step-by-step guide to recruiting user research participants: write tighter screeners, choose the right sourcing channels, build a panel, and eliminate"
 pubDate: 2026-06-03
 slug: "how-to-recruit-participants-for-user-research"
+readingTime: 13
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"

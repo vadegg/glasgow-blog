@@ -1,5 +1,6 @@
 ---
 slug: "b2b-market-research"
+readingTime: 7
 title: "B2B Market Research: What Changes When the Buyer Is Not an Individual"
 description: "Learn how to run B2B market research by mapping buying groups, recruiting the right roles, and interpreting signal across complex buying decisions today."
 pubDate: 2026-03-26T00:00:00Z

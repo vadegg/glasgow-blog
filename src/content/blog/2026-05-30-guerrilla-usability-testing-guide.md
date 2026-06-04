@@ -4,6 +4,7 @@ description: "Run fast, low-cost guerrilla usability tests that still deliver ri
 pubDate: 2026-05-30
 updatedDate: 2026-06-03T06:35:23.908Z
 slug: "guerrilla-usability-testing-guide"
+readingTime: 12
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"

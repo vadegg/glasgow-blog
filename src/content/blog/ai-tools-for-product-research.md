@@ -1,5 +1,6 @@
 ---
 slug: "ai-tools-for-product-research"
+readingTime: 15
 title: "AI Tools for Product Research in 2026: The Complete Guide"
 description: "Compare the best AI tools for product research in 2026 across desk research, qualitative, quantitative, and competitive intelligence workflows for teams."
 pubDate: 2026-03-27T21:34:11Z

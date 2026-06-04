@@ -4,6 +4,7 @@ description: "Learn how to conduct user interviews that generate real insight â€
 pubDate: 2026-05-21
 updatedDate: 2026-06-03T06:35:23.905Z
 slug: "how-to-conduct-user-interviews"
+readingTime: 13
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"

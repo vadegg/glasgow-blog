@@ -3,6 +3,7 @@ title: "Affinity Mapping in Qualitative Research: Step-by-Step"
 description: "Learn how to run affinity mapping in qualitative research — from raw interview notes to structured insights. A practical step-by-step guide for UX and product"
 pubDate: 2026-06-02
 slug: "affinity-mapping-in-qualitative-research"
+readingTime: 11
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"
