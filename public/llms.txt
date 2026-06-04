@@ -1,0 +1,15 @@
+# Glasgow Research
+
+> Glasgow Research publishes practical, evidence-led UX and market research guides for B2B SaaS product teams.
+
+- Author: Vadim Glazkov
+- Blog: https://blog.glasgow.works/blog/
+
+## Articles
+
+- [How to Recruit B2B Interview Participants](https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants)
+- [Card Sorting in UX Research: How to Run It](https://blog.glasgow.works/blog/card-sorting-ux-research)
+- [How to Recruit Participants for User Research](https://blog.glasgow.works/blog/how-to-recruit-participants-for-user-research)
+- [Affinity Mapping in Qualitative Research: Step-by-Step](https://blog.glasgow.works/blog/affinity-mapping-in-qualitative-research)
+- [Guerrilla Usability Testing: A Practical Guide](https://blog.glasgow.works/guerrilla-usability-testing-guide)
+- [How to Conduct User Interviews: A Practical Guide](https://blog.glasgow.works/how-to-conduct-user-interviews)
