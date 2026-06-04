@@ -21,6 +21,7 @@ const blog = defineCollection({
       ),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
+    readingTime: z.number().int().positive().optional(),
     author: z.string(),
     authorSlug: z.string(),
     category: z.string().default('Blog'),

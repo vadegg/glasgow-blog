@@ -19,6 +19,11 @@ const publishedLabel = new Intl.DateTimeFormat('en', { dateStyle: 'long' }).form
 const updatedLabel = post.data.updatedDate
   ? new Intl.DateTimeFormat('en', { dateStyle: 'long' }).format(post.data.updatedDate)
   : null;
+// Only surface "Updated" when it is genuinely later than publication, so a
+// freshly published post (updatedDate === pubDate) doesn't show a redundant line.
+const showUpdated =
+  !!post.data.updatedDate &&
+  post.data.updatedDate.getTime() !== post.data.pubDate.getTime();
 const structuredData = [
   ORGANIZATION,
   {
@@ -93,7 +98,8 @@ const structuredData = [
           By <a href={`/authors/${post.data.authorSlug}/`}>{post.data.author}</a>
         </span>
         <span>{publishedLabel}</span>
-        {updatedLabel && <span>Updated {updatedLabel}</span>}
+        {post.data.readingTime && <span>{post.data.readingTime} min read</span>}
+        {showUpdated && <span>Updated {updatedLabel}</span>}
       </div>
       <p class="lede muted" style="margin-bottom: 28px;">{post.data.description}</p>
       <div class="prose">
