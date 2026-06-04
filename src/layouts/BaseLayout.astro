@@ -39,6 +39,7 @@ const websiteSchema = {
     <meta name="description" content={description} />
     {robots && <meta name="robots" content={robots} />}
     <link rel="canonical" href={canonical} />
+    <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
     <meta property="og:type" content={type} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -81,6 +82,8 @@ const websiteSchema = {
         <a href="/authors/vadim/">Author</a>
         <a href="/privacy/">Privacy</a>
         <a href="/cookies/">Cookies</a>
+        <a href={SITE.linkedinUrl} rel="me noopener" target="_blank">LinkedIn</a>
+        <a href="/rss.xml">RSS</a>
       </nav>
     </footer>
   </body>

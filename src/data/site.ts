@@ -21,6 +21,7 @@ export const SITE = {
   organizationName: 'Glasgow Research',
   organizationUrl: 'https://glasgow.works',
   logoUrl: 'https://blog.glasgow.works/logo.svg',
+  linkedinUrl: 'https://www.linkedin.com/company/glasgow-research',
   language: 'English',
   market: 'Global',
   audience: [
@@ -67,6 +68,7 @@ export const AUTHORS = {
       'He writes from hands-on work with founders, product teams, and growth teams that need reliable market evidence before making product and go-to-market bets.',
     photoPath: '/images/vadim-photo.png',
     photoAlt: 'Portrait of Vadim Glazkov',
+    linkedinUrl: 'https://www.linkedin.com/in/vadim-glazkov/',
     selectedExperience: [
       'B2B SaaS customer research',
       'Founder-led validation work',
@@ -86,7 +88,8 @@ export const ORGANIZATION = {
   '@type': 'Organization',
   name: SITE.organizationName,
   url: SITE.organizationUrl,
-  logo: SITE.logoUrl
+  logo: SITE.logoUrl,
+  sameAs: [SITE.linkedinUrl]
 } as const;
 
 export function getAuthor(slug: string) {
