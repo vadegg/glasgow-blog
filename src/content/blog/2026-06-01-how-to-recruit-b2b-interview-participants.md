@@ -1,7 +1,7 @@
 ---
 title: "How to Recruit B2B Interview Participants"
 description: "B2B participant recruitment is harder than consumer research. Learn the channel strategies, incentive structures, and gatekeeper tactics that actually get"
-pubDate: 2026-06-05
+pubDate: 2026-06-01
 slug: "how-to-recruit-b2b-interview-participants"
 author: "Vadim Glazkov"
 authorSlug: "vadim"
