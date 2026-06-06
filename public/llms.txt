@@ -14,3 +14,4 @@
 - [How to Recruit B2B Interview Participants](https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants)
 - [Guerrilla Usability Testing: A Practical Guide](https://blog.glasgow.works/guerrilla-usability-testing-guide)
 - [How to Conduct User Interviews: A Practical Guide](https://blog.glasgow.works/how-to-conduct-user-interviews)
+- [UX Research Methods: How to Choose the Right One](https://blog.glasgow.works/blog/ux-research-methods)
