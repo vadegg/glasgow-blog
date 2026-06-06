@@ -4,7 +4,7 @@ description: "Run fast, low-cost guerrilla usability tests that still deliver ri
 pubDate: 2026-05-30
 updatedDate: 2026-06-03T06:35:23.908Z
 slug: "guerrilla-usability-testing-guide"
-readingTime: 12
+readingTime: 13
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"
@@ -17,6 +17,20 @@ tags:
   - "unmoderated usability testing"
   - "quick usability testing methods"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [What Is Guerrilla Usability Testing?](#what-is-guerrilla-usability-testing)
+- [When to choose guerrilla testing (and when to skip it)](#when-to-choose-guerrilla-testing-and-when-to-skip-it)
+- [Step 1 — Define a focused test objective](#step-1-define-a-focused-test-objective)
+- [Step 2 — Recruit participants on a shoestring](#step-2-recruit-participants-on-a-shoestring)
+- [Step 3 — Build a lightweight test script](#step-3-build-a-lightweight-test-script)
+- [Step 4 — Facilitate the session without a lab](#step-4-facilitate-the-session-without-a-lab)
+- [Step 5 — Analyse and prioritise findings fast](#step-5-analyse-and-prioritise-findings-fast)
+- [Maintaining rigour on a budget: common pitfalls to avoid](#maintaining-rigour-on-a-budget-common-pitfalls-to-avoid)
+- [Frequently asked questions](#frequently-asked-questions)
+
 ## What Is Guerrilla Usability Testing?
 
 Guerrilla usability testing is a lightweight research method: short, informal sessions with whoever is available — people in a coffee shop, a university library, a co-working space, or an online Slack community. There is no observation lab, no formal recruitment process, and no lengthy briefing document. A facilitator is present throughout. Sessions typically run 20–30 minutes.

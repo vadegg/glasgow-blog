@@ -1,6 +1,6 @@
 ---
 slug: types-of-market-research-and-when-each-one-actually-helps
-readingTime: 4
+readingTime: 13
 title: Types of Market Research and When Each One Actually Helps
 description: "Compare types of market research and learn when interviews, surveys, desk research, and other methods actually help the decision in front of you today."
 pubDate: '2026-05-04T11:52:41.261Z'
@@ -15,6 +15,19 @@ tags:
   - product management
   - growth strategy
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [The Main Types of Market Research: What They Are and What They Do](#the-main-types-of-market-research-what-they-are-and-what-they-do)
+- [Qualitative vs. Quantitative: When to Use Which](#qualitative-vs-quantitative-when-to-use-which)
+- [Desk Research: Your First Stop](#desk-research-your-first-stop)
+- [Specialized Methods for Specific Needs](#specialized-methods-for-specific-needs)
+- [Cost, Speed, and Confidence: An Honest Trade-Off](#cost-speed-and-confidence-an-honest-trade-off)
+- [The DRIFT Framework: Sequencing Research Across a Decision](#the-drift-framework-sequencing-research-across-a-decision)
+- [Practical Checklist: How to Pick the Right Research Type](#practical-checklist-how-to-pick-the-right-research-type)
+- [Case Example: How Early Qualitative Research Saved Time and Money](#case-example-how-early-qualitative-research-saved-time-and-money)
+- [Summary and Call to Action](#summary-and-call-to-action)
 
 # Types of Market Research and When Each One Actually Helps
 

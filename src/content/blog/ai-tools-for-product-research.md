@@ -15,6 +15,20 @@ tags:
   - "qualitative research"
   - "competitive analysis"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [Product research is seven jobs, not one stack](#product-research-is-seven-jobs-not-one-stack)
+- [1. Desk research: where AI helps most, and where it lies most confidently](#1-desk-research-where-ai-helps-most-and-where-it-lies-most-confidently)
+- [2. Qualitative research: AI can scale the workflow, not replace the judgment](#2-qualitative-research-ai-can-scale-the-workflow-not-replace-the-judgment)
+- [3. Quantitative research: AI is useful, but it cannot save a bad question](#3-quantitative-research-ai-is-useful-but-it-cannot-save-a-bad-question)
+- [4. Expert interviews: a niche category, but often the fastest route into a complex market](#4-expert-interviews-a-niche-category-but-often-the-fastest-route-into-a-complex-market)
+- [5. Mystery shopping: AI helps score, not substitute the shopper](#5-mystery-shopping-ai-helps-score-not-substitute-the-shopper)
+- [6. Competitive analysis and monitoring: one of the widest stacks in the category](#6-competitive-analysis-and-monitoring-one-of-the-widest-stacks-in-the-category)
+- [A practical decision framework](#a-practical-decision-framework)
+- [FAQ](#faq)
+- [Final point](#final-point)
 
 # AI Tools for Product Research in 2026: The Complete Guide
 

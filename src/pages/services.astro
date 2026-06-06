@@ -1,0 +1,150 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { ORGANIZATION, SITE } from '../data/site';
+
+const description =
+  'Glasgow Research runs product, customer, and market research for B2B SaaS teams: interviews, JTBD, validation, and pricing work tied to real decisions.';
+const contactUrl = SITE.organizationUrl;
+
+const jobs = [
+  {
+    title: 'Find first customers for a new product',
+    body: 'Identify segments, their needs, and the value they are ready to pay for.'
+  },
+  {
+    title: 'Enter new markets with confidence',
+    body: 'Test demand in the US, Europe, and beyond before you scale.'
+  },
+  {
+    title: 'Stay ahead of competitors',
+    body: 'Sharpen your advantages and design a strategy to escape price wars.'
+  },
+  {
+    title: 'Unlock growth in an existing product',
+    body: 'Understand who buys today, why, and what stops others from buying.'
+  },
+  {
+    title: 'Find a new business direction',
+    body: 'Useful when you have hit the growth ceiling in your current one.'
+  },
+  {
+    title: 'Boost your key metrics',
+    body: 'Increase retention, conversion, and average revenue per customer.'
+  }
+];
+
+const process = [
+  'Clarifying your goals — before any payment, we decide whether research is the right way to reach your objective.',
+  'Setting the brief — we document goals, agree the research brief, and define what a successful outcome looks like.',
+  'Designing the research — respondent profiles, interview guides, and a data-collection plan fit to the question.',
+  'Collecting data — in-depth interviews, quantitative surveys, and behavioural or market data analysis.',
+  'Iterating together — every 3–7 interviews we run a short workshop to share insights and adjust next steps.',
+  'Analyzing results — we surface key segments, growth opportunities, and barriers to adoption.',
+  'Recommendations and priorities — insights become actionable bets, prioritized so you know what to test first.',
+  'Deliverables — a structured final report you keep using in product, marketing, and strategy decisions.'
+];
+
+const whyUs = [
+  'Full research toolkit — from in-depth interviews and desk research to UX testing and competitive intelligence.',
+  'Proven experience — 30+ projects across 10 countries and multiple industries.',
+  'International-ready — we work in English, Spanish, Portuguese, French, Ukrainian, and Russian.',
+  'A team, not a single hire — roughly the cost of one in-house researcher, but a whole team on your product.'
+];
+
+const structuredData = [
+  ORGANIZATION,
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'Services | Glasgow Research',
+    url: `${SITE.url}/services/`,
+    description
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    serviceType: 'Product, customer, and market research',
+    provider: {
+      '@type': 'Organization',
+      name: SITE.organizationName,
+      url: SITE.organizationUrl
+    },
+    areaServed: SITE.market,
+    description,
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Research engagements',
+      itemListElement: jobs.map((job) => ({
+        '@type': 'Offer',
+        itemOffered: { '@type': 'Service', name: job.title, description: job.body }
+      }))
+    }
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+      { '@type': 'ListItem', position: 2, name: 'Services', item: `${SITE.url}/services/` }
+    ]
+  }
+];
+---
+
+<BaseLayout title="Services | Glasgow Research" description={description} structuredData={structuredData}>
+  <main class="shell page-wrap">
+    <section class="card hero-card" style="max-width: 900px; margin: 0 auto;">
+      <p class="hero-kicker">Services</p>
+      <h1 class="section-title" style="margin-bottom: 18px;">Work with Glasgow Research</h1>
+      <div class="prose">
+        <p>
+          Glasgow Research is a product and market research team for founders and B2B SaaS companies. We turn customer
+          interviews, JTBD studies, and market evidence into decisions you can act on — not slide decks that sit unused.
+        </p>
+
+        <div style="margin-top: 28px;">
+          <h2 style="margin: 0 0 18px;">What we help you do</h2>
+          <div class="post-grid">
+            {jobs.map((job) => (
+              <article class="panel">
+                <h3 style="margin: 0 0 8px;">{job.title}</h3>
+                <p class="muted" style="line-height: 1.7; margin: 0;">{job.body}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+
+        <div style="margin-top: 40px;">
+          <h2 style="margin: 0 0 18px;">How we work</h2>
+          <ol style="line-height: 1.8;">
+            {process.map((step) => <li style="margin-bottom: 8px;">{step}</li>)}
+          </ol>
+        </div>
+
+        <div style="margin-top: 40px;">
+          <h2 style="margin: 0 0 18px;">Why teams choose us</h2>
+          <ul style="line-height: 1.8;">
+            {whyUs.map((point) => <li style="margin-bottom: 8px;">{point}</li>)}
+          </ul>
+        </div>
+
+        <section class="panel" style="margin-top: 40px;">
+          <h2 class="eyebrow">Pricing &amp; timeline</h2>
+          <p class="muted" style="line-height: 1.75; margin: 14px 0 0;">
+            <strong>€4,500 / month</strong> for a dedicated research team — about the cost of one mid-level in-house
+            researcher, without the overhead of hiring. Instead of a single person you get a full team: lead researcher,
+            client manager, research assistant, project manager, and designer.
+          </p>
+          <p class="muted" style="line-height: 1.75; margin: 12px 0 0;">
+            A typical project runs around 3 months (≈ €13,500), with first insights within two weeks of kickoff. Scope,
+            duration, and cost vary with your goals, market complexity, and respondent access.
+          </p>
+        </section>
+
+        <p style="margin-top: 36px;">
+          <a class="button-link" href={contactUrl} rel="noopener" target="_blank">Get in touch</a>
+        </p>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

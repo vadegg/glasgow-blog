@@ -1,6 +1,6 @@
 ---
 slug: target-audience-research-before-positioning
-readingTime: 3
+readingTime: 12
 title: How to Conduct Target Audience Research Before Positioning Work
 description: "Learn how target audience research helps you define, narrow, and validate the audience before positioning, messaging, and GTM decisions in B2B SaaS teams."
 pubDate: '2026-05-09T09:01:26.612Z'
@@ -15,6 +15,19 @@ tags:
   - B2B SaaS
   - customer research
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [Why Broad Audience Labels Are a Positioning Liability](#why-broad-audience-labels-are-a-positioning-liability)
+- [Step-by-Step ICP Refinement Using Quantifiable Filters](#step-by-step-icp-refinement-using-quantifiable-filters)
+- [A Named Framework: The ICP Definition Canvas](#a-named-framework-the-icp-definition-canvas)
+- [Mapping ICP Attributes to Signals and Sources](#mapping-icp-attributes-to-signals-and-sources)
+- [Validating Your Audience Assumptions](#validating-your-audience-assumptions)
+- [Balancing Segmentation Granularity](#balancing-segmentation-granularity)
+- [How Precise Target Audience Definition Improves Positioning](#how-precise-target-audience-definition-improves-positioning)
+- [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
+- [Conclusion: Validate Before You Position](#conclusion-validate-before-you-position)
 
 # How to Conduct Target Audience Research Before Positioning Work
 

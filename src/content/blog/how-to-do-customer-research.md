@@ -15,7 +15,6 @@ tags:
   - "founder interviews"
   - "product research"
 ---
-
 # How to Do Customer Research Without Mistaking Politeness for Signal
 
 If you have ever walked out of a customer call feeling encouraged and then watched the prospect disappear, you already know how bad customer research usually fails.

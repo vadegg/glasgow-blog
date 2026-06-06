@@ -17,7 +17,6 @@ tags:
   - "finding B2B research participants"
 ---
 <!-- gr:toc -->
-*Reading time: 12 min read*
 
 ## On this page
 
@@ -193,7 +192,7 @@ Yes. Your CRM, warm introductions from customer-facing colleagues, and targeted 
 <!-- gr:footer -->
 ---
 
-**About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
+**About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://blog.glasgow.works/services/).
 
 <script type="application/ld+json">
 {

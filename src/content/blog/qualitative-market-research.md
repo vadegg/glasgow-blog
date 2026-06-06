@@ -1,6 +1,6 @@
 ---
 slug: "qualitative-market-research"
-readingTime: 11
+readingTime: 12
 title: "Qualitative Market Research: When Interviews Beat Bigger Sample Sizes"
 description: "Learn when qualitative market research beats bigger sample sizes in B2B SaaS, and how to act on interview signal without faking statistical certainty."
 pubDate: 2026-03-26T00:00:00Z
@@ -15,6 +15,17 @@ tags:
   - "b2b research"
   - "market research methods"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [What qualitative market research is actually for](#what-qualitative-market-research-is-actually-for)
+- [When interviews beat bigger sample sizes](#when-interviews-beat-bigger-sample-sizes)
+- [Where teams misuse qualitative market research](#where-teams-misuse-qualitative-market-research)
+- [Choose the method that matches the decision](#choose-the-method-that-matches-the-decision)
+- [How to work with small-N signal without fooling yourself](#how-to-work-with-small-n-signal-without-fooling-yourself)
+- [FAQ](#faq)
+- [Final point](#final-point)
 
 # Qualitative Market Research: When Interviews Beat Bigger Sample Sizes
 

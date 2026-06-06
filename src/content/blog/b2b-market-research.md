@@ -1,6 +1,6 @@
 ---
 slug: "b2b-market-research"
-readingTime: 7
+readingTime: 8
 title: "B2B Market Research: What Changes When the Buyer Is Not an Individual"
 description: "Learn how to run B2B market research by mapping buying groups, recruiting the right roles, and interpreting signal across complex buying decisions today."
 pubDate: 2026-03-26T00:00:00Z
@@ -15,6 +15,18 @@ tags:
   - "market research methods"
   - "product research"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [The company is not the buyer](#the-company-is-not-the-buyer)
+- [Map the buying group before you recruit](#map-the-buying-group-before-you-recruit)
+- [Narrow markets change the method](#narrow-markets-change-the-method)
+- [Ask about behavior, not polite opinions](#ask-about-behavior-not-polite-opinions)
+- [Segment by urgency and process maturity, not company size alone](#segment-by-urgency-and-process-maturity-not-company-size-alone)
+- [A practical workflow for B2B market research](#a-practical-workflow-for-b2b-market-research)
+- [FAQ](#faq)
+- [Closing](#closing)
 
 # B2B Market Research: What Changes When the Buyer Is Not an Individual
 

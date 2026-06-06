@@ -1,6 +1,6 @@
 ---
 slug: how-to-conduct-market-research-without-producing-generic-noise
-readingTime: 3
+readingTime: 12
 title: How to Conduct Market Research Without Producing Generic Noise
 description: "Learn how to conduct market research that avoids generic noise by using sharper hypotheses, better timing, and methods tied to real decisions that matter."
 pubDate: '2026-05-04T11:11:11.012Z'
@@ -16,6 +16,20 @@ tags:
   - avoid generic market research
   - actionable market insights
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [Start From the Decision, Not the Topic](#start-from-the-decision-not-the-topic)
+- [Step 1: Formulate Hypotheses](#step-1-formulate-hypotheses)
+- [Step 2: Align Research Timing](#step-2-align-research-timing)
+- [Step 3: Design Focused Research Questions](#step-3-design-focused-research-questions)
+- [A Decision-First Research Brief](#a-decision-first-research-brief)
+- [Step 4: Conduct Research and Iterate](#step-4-conduct-research-and-iterate)
+- [Step 5: Analyze and Translate Findings into Action](#step-5-analyze-and-translate-findings-into-action)
+- [A Quality Gate Before You Report](#a-quality-gate-before-you-report)
+- [Common Pitfalls and How to Avoid Them](#common-pitfalls-and-how-to-avoid-them)
+- [Conclusion and Next Steps](#conclusion-and-next-steps)
 
 # How to Conduct Market Research Without Producing Generic Noise
 

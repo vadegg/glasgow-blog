@@ -1,6 +1,6 @@
 ---
 slug: "market-research-methods-which-method-fits-which-decision"
-readingTime: 4
+readingTime: 13
 title: "Market Research Methods: Which Method Fits Which Decision"
 description: "Match market research methods to the decision you need to make, with practical guidance on interviews, surveys, desk research, and research timing today."
 pubDate: "2026-05-04T08:52:38.050Z"
@@ -10,6 +10,23 @@ authorSlug: "vadim"
 category: "Research"
 tags: ["market research methods", "B2B SaaS", "product management", "research strategy", "decision making"]
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [Common Market Research Methods: What’s on the Table?](#common-market-research-methods-whats-on-the-table)
+- [Qualitative vs. Quantitative vs. Secondary: The Honest Comparison](#qualitative-vs-quantitative-vs-secondary-the-honest-comparison)
+- [Matching Research Methods to Decision Questions](#matching-research-methods-to-decision-questions)
+- [Decision → Method Matrix](#decision-method-matrix)
+- [Timing Matters: Discovery vs. Validation](#timing-matters-discovery-vs-validation)
+- [The TRACE Framework: From Decision to Method in Five Steps](#the-trace-framework-from-decision-to-method-in-five-steps)
+- [Navigating B2B Buying Group Complexity](#navigating-b2b-buying-group-complexity)
+- [A Triangulation Sequence That Reduces Risk](#a-triangulation-sequence-that-reduces-risk)
+- [Real-World Cases: What Works and What Doesn’t](#real-world-cases-what-works-and-what-doesnt)
+- [A Practical Decision-Tree for Method Selection](#a-practical-decision-tree-for-method-selection)
+- [Why Mixed-Method Strategies Are Your Best Bet](#why-mixed-method-strategies-are-your-best-bet)
+- [Avoid These Common Pitfalls](#avoid-these-common-pitfalls)
+- [Conclusion: Audit Your Market Research Methods Before Your Next Big Decision](#conclusion-audit-your-market-research-methods-before-your-next-big-decision)
 
 # Market Research Methods: Which Method Fits Which Decision
 

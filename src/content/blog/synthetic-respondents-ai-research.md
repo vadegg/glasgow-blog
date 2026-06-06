@@ -14,7 +14,6 @@ tags:
   - ai research
   - product research
 ---
-
 Here is the short version: AI is already useful in research, but mostly as a way to move faster, not as a clean replacement for talking to real people.
 
 That sounds obvious, but it gets lost very quickly once people start talking about synthetic respondents. There is a big difference between "I asked ChatGPT to pretend it was my customer" and an actual system designed to simulate respondents in a disciplined way. A lot of the noise in this space comes from blurring those two things together.

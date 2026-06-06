@@ -1,6 +1,6 @@
 ---
 slug: "ai-competitive-analysis-tools"
-readingTime: 10
+readingTime: 11
 title: "AI Competitive Analysis Tools for Product and GTM Teams"
 description: "Compare AI competitive analysis tools for SEO, pricing, reviews, social monitoring, win-loss work, and AI search visibility in product and GTM teams today."
 pubDate: 2026-03-27T21:34:11Z
@@ -15,6 +15,21 @@ tags:
   - "pricing intelligence"
   - "win loss analysis"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [The right first question is not "Which tool is best?"](#the-right-first-question-is-not-which-tool-is-best)
+- [1. SEO intelligence: still useful, still not the whole picture](#1-seo-intelligence-still-useful-still-not-the-whole-picture)
+- [2. Pricing intelligence: one of the most underused layers](#2-pricing-intelligence-one-of-the-most-underused-layers)
+- [3. Review intelligence: useful, but only if you read it skeptically](#3-review-intelligence-useful-but-only-if-you-read-it-skeptically)
+- [4. Win-loss analysis: the highest-value layer for many B2B teams](#4-win-loss-analysis-the-highest-value-layer-for-many-b2b-teams)
+- [5. Social, creative, and website monitoring: the day-to-day signal layer](#5-social-creative-and-website-monitoring-the-day-to-day-signal-layer)
+- [6. AI search monitoring: the new layer that did not exist in the old stack](#6-ai-search-monitoring-the-new-layer-that-did-not-exist-in-the-old-stack)
+- [7. Full CI platforms: useful only if the organization will actually use them](#7-full-ci-platforms-useful-only-if-the-organization-will-actually-use-them)
+- [How to choose the right tool category](#how-to-choose-the-right-tool-category)
+- [FAQ](#faq)
+- [Final point](#final-point)
 
 # AI Competitive Analysis Tools for Product and GTM Teams
 

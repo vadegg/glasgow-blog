@@ -3,7 +3,7 @@ title: "How to Recruit Participants for User Research"
 description: "A step-by-step guide to recruiting user research participants: write tighter screeners, choose the right sourcing channels, build a panel, and eliminate"
 pubDate: 2026-06-03
 slug: "how-to-recruit-participants-for-user-research"
-readingTime: 13
+readingTime: 14
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"
@@ -16,6 +16,19 @@ tags:
   - "ux research participant recruitment"
   - "research participant panels"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [Why Recruitment Determines Research Quality](#why-recruitment-determines-research-quality)
+- [Step 1 — Define your participant profile before you write a single question](#step-1-define-your-participant-profile-before-you-write-a-single-question)
+- [Step 2 — Write a screener survey that filters without telegraphing](#step-2-write-a-screener-survey-that-filters-without-telegraphing)
+- [Step 3 — Choose the right sourcing channel for your study](#step-3-choose-the-right-sourcing-channel-for-your-study)
+- [Step 4 — Build and maintain a research participant panel](#step-4-build-and-maintain-a-research-participant-panel)
+- [Step 5 — Avoid the five most common sampling biases](#step-5-avoid-the-five-most-common-sampling-biases)
+- [Turning recruited participants into research insight](#turning-recruited-participants-into-research-insight)
+- [Frequently asked questions](#frequently-asked-questions)
+
 ## Why Recruitment Determines Research Quality
 
 Poor recruitment is the most common way a research project fails — and the least discussed. You can write a brilliant discussion guide, run sessions with precision, and synthesise findings rigorously, yet still walk away with conclusions that do not reflect your actual users. The reason is almost always who was in the room.

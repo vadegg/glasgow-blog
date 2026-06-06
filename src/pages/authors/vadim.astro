@@ -80,6 +80,9 @@ const structuredData = [
             <p>
               <a href={author.linkedinUrl} rel="me noopener" target="_blank">Connect with Vadim on LinkedIn</a>
             </p>
+            <p>
+              <a class="text-link" href="/services/">See how Glasgow Research can help your team →</a>
+            </p>
           </div>
         </div>
 
@@ -98,8 +101,8 @@ const structuredData = [
       <div style="margin-top: 40px;">
         <h2 style="margin: 0 0 18px;">Published articles</h2>
         <div class="post-grid">
-          {posts.map((post) => (
-            <article class="panel">
+          {posts.map((post, index) => (
+            <article class:list={['panel', { 'post-extra': index >= 7 }]} hidden={index >= 7}>
               <p class="eyebrow">{post.data.category}</p>
               <h3 style="margin: 10px 0 8px;">
                 <a href={`/blog/${post.data.slug}/`} style="text-decoration: none;">
@@ -110,7 +113,21 @@ const structuredData = [
             </article>
           ))}
         </div>
+        {posts.length > 7 && (
+          <div style="margin-top: 24px;">
+            <button id="load-more-posts" class="button-link secondary" type="button">
+              Load more
+            </button>
+          </div>
+        )}
       </div>
     </section>
   </main>
+  <script>
+    const btn = document.getElementById('load-more-posts');
+    btn?.addEventListener('click', () => {
+      document.querySelectorAll('.post-extra').forEach((el) => el.removeAttribute('hidden'));
+      btn.remove();
+    });
+  </script>
 </BaseLayout>

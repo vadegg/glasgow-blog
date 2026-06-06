@@ -1,6 +1,6 @@
 ---
 slug: competitor-analysis-without-copying-the-wrong-competitors
-readingTime: 4
+readingTime: 14
 title: 'Competitor Analysis Without Copying the Wrong Competitors: A How-To Guide'
 description: >-
   Learn how to identify and analyze the right competitors to sharpen your product and pricing strategies without wasting
@@ -17,6 +17,21 @@ tags:
   - market research
   - growth
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [Why Visibility ≠ Competitive Relevance](#why-visibility-competitive-relevance)
+- [Signal vs. Noise: What to Actually Track](#signal-vs-noise-what-to-actually-track)
+- [A Competitor-Tiering Matrix](#a-competitor-tiering-matrix)
+- [Identifying the Right Competitors](#identifying-the-right-competitors)
+- [Differentiating Feature Competition from Price Competition](#differentiating-feature-competition-from-price-competition)
+- [Compare on Jobs to Be Done, Not Feature Lists](#compare-on-jobs-to-be-done-not-feature-lists)
+- [Validating Competitor Impact Through Research](#validating-competitor-impact-through-research)
+- [Using Competitor Analysis to Uncover Strategic Gaps and Opportunities](#using-competitor-analysis-to-uncover-strategic-gaps-and-opportunities)
+- [Prioritizing Competitors Based on Buyer Behavior](#prioritizing-competitors-based-on-buyer-behavior)
+- [Real-World Example: When Copying the Wrong Competitor Fails](#real-world-example-when-copying-the-wrong-competitor-fails)
+- [Conclusion: Rethink Your Competitor Analysis Approach](#conclusion-rethink-your-competitor-analysis-approach)
 
 # Competitor Analysis Without Copying the Wrong Competitors: A How-To Guide
 

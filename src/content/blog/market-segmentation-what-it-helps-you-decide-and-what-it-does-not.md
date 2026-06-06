@@ -1,6 +1,6 @@
 ---
 slug: market-segmentation-what-it-helps-you-decide-and-what-it-does-not
-readingTime: 3
+readingTime: 12
 title: 'Market Segmentation: What It Helps You Decide and What It Does Not'
 description: "Learn what market segmentation actually helps you decide in B2B SaaS, where it falls short, and why validation still has to guide GTM changes right now."
 pubDate: '2026-05-05T09:01:04.461Z'
@@ -15,6 +15,18 @@ tags:
   - customer validation
   - product-market fit
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [What Market Segmentation Helps You Decide](#what-market-segmentation-helps-you-decide)
+- [What Market Segmentation Does Not Do](#what-market-segmentation-does-not-do)
+- [A Reusable Method: The Segment Priority Scorecard](#a-reusable-method-the-segment-priority-scorecard)
+- [Case Example: Adding Behavioral Criteria to Improve Segmentation](#case-example-adding-behavioral-criteria-to-improve-segmentation)
+- [Common Pitfalls and How to Avoid Them](#common-pitfalls-and-how-to-avoid-them)
+- [The Critical Role of Validation Before GTM Changes](#the-critical-role-of-validation-before-gtm-changes)
+- [Conclusion: Segmentation as a Directional, Iterative Tool](#conclusion-segmentation-as-a-directional-iterative-tool)
+- [Call to Action](#call-to-action)
 
 # Market Segmentation: What It Helps You Decide and What It Does Not
 

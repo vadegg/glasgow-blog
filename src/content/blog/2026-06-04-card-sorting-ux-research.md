@@ -3,7 +3,7 @@ title: "Card Sorting in UX Research: How to Run It"
 description: "Learn how to run open and closed card sorting studies, analyse the output, and decide when to use card sorting vs tree testing — a practical guide for UX"
 pubDate: 2026-06-04
 slug: "card-sorting-ux-research"
-readingTime: 13
+readingTime: 14
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"
@@ -16,6 +16,19 @@ tags:
   - "tree testing vs card sorting"
   - "information architecture research"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [What Is Card Sorting and Why Does It Matter?](#what-is-card-sorting-and-why-does-it-matter)
+- [Open vs Closed Card Sorting: Which Type Should You Run?](#open-vs-closed-card-sorting-which-type-should-you-run)
+- [How to Plan and Set Up a Card Sorting Study](#how-to-plan-and-set-up-a-card-sorting-study)
+- [Running the Study: Moderated and Unmoderated Sessions](#running-the-study-moderated-and-unmoderated-sessions)
+- [Analysing Card Sorting Data: From Raw Output to IA Decisions](#analysing-card-sorting-data-from-raw-output-to-ia-decisions)
+- [Card Sorting vs Tree Testing: How They Work Together](#card-sorting-vs-tree-testing-how-they-work-together)
+- [Limitations and Common Pitfalls to Avoid](#limitations-and-common-pitfalls-to-avoid)
+- [Frequently Asked Questions](#frequently-asked-questions)
+
 ## What Is Card Sorting and Why Does It Matter?
 
 If your navigation keeps confusing users, the problem is rarely the visual design — it is usually the underlying structure. Card sorting is the [UX research methods](/blog/ux-research-methods) technique that surfaces how users expect information to be organised, before you commit that structure to code.

@@ -1,6 +1,6 @@
 ---
 slug: "how-much-do-startups-spend-on-ai-tools"
-readingTime: 18
+readingTime: 19
 title: "How Much Do Startups Spend on AI Tools? The Hidden AI Stack in 2026"
 description: "See what startups spend on AI tools in 2026 by stage, from solo founders to Series A teams, including the hidden costs that sit beyond chatbots alone."
 pubDate: 2026-03-28T08:30:06Z
@@ -15,6 +15,23 @@ tags:
   - "founder tools"
   - "saas economics"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [The hidden AI stack is bigger than founders think](#the-hidden-ai-stack-is-bigger-than-founders-think)
+- [What startups actually spend by stage](#what-startups-actually-spend-by-stage)
+- [Startup AI spending benchmarks by stage](#startup-ai-spending-benchmarks-by-stage)
+- [Where the money actually goes](#where-the-money-actually-goes)
+- [Early pre-seed is where AI creates the biggest leverage per dollar](#early-pre-seed-is-where-ai-creates-the-biggest-leverage-per-dollar)
+- [API costs are the budget line nobody plans well](#api-costs-are-the-budget-line-nobody-plans-well)
+- [The overages problem is real](#the-overages-problem-is-real)
+- [What this means for founders](#what-this-means-for-founders)
+- [What this means for AI SaaS companies](#what-this-means-for-ai-saas-companies)
+- [Key takeaways](#key-takeaways)
+- [Methodology](#methodology)
+- [Sources](#sources)
+- [Final point](#final-point)
 
 # How Much Do Startups Spend on AI Tools? The Hidden AI Stack in 2026
 

@@ -1,6 +1,6 @@
 ---
 slug: "ai-tools-for-qualitative-research"
-readingTime: 9
+readingTime: 10
 title: "AI Tools for Qualitative Research: Interviews, Recruiting, and Synthesis"
 description: "Compare AI tools for qualitative research across recruiting, moderation, transcription, analysis, and synthesis while keeping human judgment in the loop."
 pubDate: 2026-03-27T21:34:11Z
@@ -15,6 +15,20 @@ tags:
   - "ai research tools"
   - "user research"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [Start with the workflow, not the vendor](#start-with-the-workflow-not-the-vendor)
+- [1. AI moderators: the most exciting layer, and the easiest one to oversell](#1-ai-moderators-the-most-exciting-layer-and-the-easiest-one-to-oversell)
+- [2. Recruitment platforms: still one of the most important parts of qual quality](#2-recruitment-platforms-still-one-of-the-most-important-parts-of-qual-quality)
+- [3. Transcription: a mature category, but still full of traps](#3-transcription-a-mature-category-but-still-full-of-traps)
+- [4. QDA and repository tools: where speed meets the risk of shallow synthesis](#4-qda-and-repository-tools-where-speed-meets-the-risk-of-shallow-synthesis)
+- [5. Synthesis and reporting tools: useful, but only when the upstream work is clean](#5-synthesis-and-reporting-tools-useful-but-only-when-the-upstream-work-is-clean)
+- [A practical way to choose your stack](#a-practical-way-to-choose-your-stack)
+- [What AI still does badly in qualitative research](#what-ai-still-does-badly-in-qualitative-research)
+- [FAQ](#faq)
+- [Final point](#final-point)
 
 # AI Tools for Qualitative Research: Interviews, Recruiting, and Synthesis
 

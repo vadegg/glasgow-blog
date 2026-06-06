@@ -15,6 +15,17 @@ tags:
   - "b2b research"
   - "product research"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [The first mistake is starting with the method](#the-first-mistake-is-starting-with-the-method)
+- [Choose the method that matches the question](#choose-the-method-that-matches-the-question)
+- [The failure patterns that ruin method choice](#the-failure-patterns-that-ruin-method-choice)
+- [Customer research methods change in B2B SaaS](#customer-research-methods-change-in-b2b-saas)
+- [A practical method-selection workflow](#a-practical-method-selection-workflow)
+- [FAQ](#faq)
+- [Final point](#final-point)
 
 # Customer Research Methods: Choose the Method That Matches the Decision
 

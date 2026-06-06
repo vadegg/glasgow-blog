@@ -3,7 +3,7 @@ title: "Pricing Research for B2B SaaS: What to Charge"
 description: "Learn which pricing research methods—Van Westendorp, conjoint analysis, JTBD interviews—match which B2B SaaS pricing decisions, and how to run them without a"
 pubDate: 2026-06-06
 updatedDate: 2026-06-06
-readingTime: 14
+readingTime: 15
 slug: "pricing-research-b2b-saas"
 author: "Vadim Glazkov"
 authorSlug: "vadim"
@@ -18,7 +18,6 @@ tags:
   - "conjoint analysis B2B"
 ---
 <!-- gr:toc -->
-*Reading time: 13 min read*
 
 ## On this page
 
@@ -176,7 +175,7 @@ Avoid recruiting only satisfied, retained customers — oversample recently chur
 <!-- gr:footer -->
 ---
 
-**About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
+**About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://blog.glasgow.works/services/).
 
 <script type="application/ld+json">
 {

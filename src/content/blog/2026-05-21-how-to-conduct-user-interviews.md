@@ -17,6 +17,18 @@ tags:
   - "UX research interviews"
   - "discussion guide user research"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [What Is a User Interview and When Should You Use One?](#what-is-a-user-interview-and-when-should-you-use-one)
+- [How to write a discussion guide that actually works](#how-to-write-a-discussion-guide-that-actually-works)
+- [Facilitation techniques that unlock honest answers](#facilitation-techniques-that-unlock-honest-answers)
+- [Recruiting the right participants](#recruiting-the-right-participants)
+- [Common mistakes and how to avoid them](#common-mistakes-and-how-to-avoid-them)
+- [What to do after the interviews: a brief synthesis primer](#what-to-do-after-the-interviews-a-brief-synthesis-primer)
+- [Frequently asked questions](#frequently-asked-questions)
+
 ## What Is a User Interview and When Should You Use One?
 
 A user interview is a qualitative, conversational research method for exploring attitudes, motivations, and behaviours. You speak directly with people to understand *why* they think, feel, or act as they do — not to measure how many people share a preference or to observe whether a product works.

@@ -1,6 +1,6 @@
 ---
 slug: why-you-shouldnt-delegate-customer-interviews
-readingTime: 7
+readingTime: 8
 title: "Why You Shouldn't Delegate Customer Interviews to Non-Researchers"
 description: "Learn why delegating customer interviews to non-researchers often creates biased evidence, false confidence, and weaker product decisions in practice."
 pubDate: 2026-03-19T21:35:00Z
@@ -16,6 +16,17 @@ tags:
   - product research
   - founder interviews
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [Qualitative research is not just a list of questions](#qualitative-research-is-not-just-a-list-of-questions)
+- [Why non-researchers usually bring back bad data](#why-non-researchers-usually-bring-back-bad-data)
+- ["They already talk to customers" is the wrong logic](#they-already-talk-to-customers-is-the-wrong-logic)
+- [When it is actually fine to let the team run interviews](#when-it-is-actually-fine-to-let-the-team-run-interviews)
+- [What founders should do instead](#what-founders-should-do-instead)
+- [The real cost of bad customer interviews](#the-real-cost-of-bad-customer-interviews)
+- [FAQ](#faq)
 
 One of the easiest ways to lose money in product work is to hand customer interviews to people who are not trained researchers or experienced product thinkers.
 

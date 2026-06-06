@@ -15,7 +15,6 @@ tags:
   - "qualitative research"
   - "b2b research"
 ---
-
 # Customer Research: What It Is Actually For in Product Decisions
 
 Customer research is one of those terms that sounds clear until you ask what it is actually supposed to do.

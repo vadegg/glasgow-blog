@@ -3,7 +3,7 @@ title: "Affinity Mapping in Qualitative Research: Step-by-Step"
 description: "Learn how to run affinity mapping in qualitative research — from raw interview notes to structured insights. A practical step-by-step guide for UX and product"
 pubDate: 2026-06-02
 slug: "affinity-mapping-in-qualitative-research"
-readingTime: 11
+readingTime: 12
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"
@@ -16,6 +16,18 @@ tags:
   - "affinity mapping workshop"
   - "qualitative data synthesis"
 ---
+<!-- gr:toc -->
+
+## On this page
+
+- [What Is Affinity Mapping?](#what-is-affinity-mapping)
+- [When to Use Affinity Mapping vs Thematic Analysis](#when-to-use-affinity-mapping-vs-thematic-analysis)
+- [What You Need Before You Start](#what-you-need-before-you-start)
+- [Step-by-Step: How to Run an Affinity Mapping Session](#step-by-step-how-to-run-an-affinity-mapping-session)
+- [Turning Your Affinity Map into Actionable Insights](#turning-your-affinity-map-into-actionable-insights)
+- [Common Mistakes and How to Avoid Them](#common-mistakes-and-how-to-avoid-them)
+- [Frequently Asked Questions](#frequently-asked-questions)
+
 ## What Is Affinity Mapping?
 
 Affinity mapping is a bottom-up synthesis technique for organising raw qualitative observations into emergent themes. Rather than applying a pre-set framework to your data, you let categories form from the material itself — clusters arise because notes share something, not because a codebook told you where to put them.
