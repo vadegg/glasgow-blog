@@ -5,3 +5,4 @@ dist
 public/images/vadim-portrait.png
 .env
 .env.*
+.worktrees/
