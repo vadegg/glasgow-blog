@@ -16,14 +16,6 @@ const { Content } = await render(post);
 const author = getAuthor(post.data.authorSlug);
 const postUrl = `${SITE.url}/blog/${post.data.slug}/`;
 const publishedLabel = new Intl.DateTimeFormat('en', { dateStyle: 'long' }).format(post.data.pubDate);
-const updatedLabel = post.data.updatedDate
-  ? new Intl.DateTimeFormat('en', { dateStyle: 'long' }).format(post.data.updatedDate)
-  : null;
-// Only surface "Updated" when it is genuinely later than publication, so a
-// freshly published post (updatedDate === pubDate) doesn't show a redundant line.
-const showUpdated =
-  !!post.data.updatedDate &&
-  post.data.updatedDate.getTime() !== post.data.pubDate.getTime();
 const structuredData = [
   ORGANIZATION,
   {
@@ -72,7 +64,9 @@ const structuredData = [
       url: SITE.organizationUrl,
       logo: {
         '@type': 'ImageObject',
-        url: SITE.logoUrl
+        url: SITE.logoUrl,
+        width: SITE.logoWidth,
+        height: SITE.logoHeight
       }
     }
   }
@@ -99,7 +93,6 @@ const structuredData = [
         </span>
         <span>{publishedLabel}</span>
         {post.data.readingTime && <span>{post.data.readingTime} min read</span>}
-        {showUpdated && <span>Updated {updatedLabel}</span>}
       </div>
       <p class="lede muted" style="margin-bottom: 28px;">{post.data.description}</p>
       <div class="prose">

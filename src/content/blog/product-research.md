@@ -27,8 +27,6 @@ tags:
 - [FAQ](#faq)
 - [Final point](#final-point)
 
-# Product Research for Teams Making Expensive Decisions
-
 Product research is one of those phrases that sounds clear until you watch teams use it badly.
 
 Most people hear it and think of UX feedback or a broad discovery exercise that produces a lot of notes and not much direction. That is not useless, but it is not enough.

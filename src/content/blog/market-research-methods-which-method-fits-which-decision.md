@@ -28,8 +28,6 @@ tags: ["market research methods", "B2B SaaS", "product management", "research st
 - [Avoid These Common Pitfalls](#avoid-these-common-pitfalls)
 - [Conclusion: Audit Your Market Research Methods Before Your Next Big Decision](#conclusion-audit-your-market-research-methods-before-your-next-big-decision)
 
-# Market Research Methods: Which Method Fits Which Decision
-
 When founders and product teams face critical decisions—whether launching a new product, pivoting strategy, or validating features—the quality of market research can make or break the outcome. Yet many teams waste time and money on poorly chosen research methods that don’t answer their core questions or fit their decision stage. This article cuts through the noise with a no-nonsense, evidence-backed guide to selecting the right market research methods based on your specific decision needs, timing, and market context.
 
 The core principle is simple, and most teams get it wrong: **start from the decision, not the method.** You do not need "some research." You need to reduce the uncertainty that is currently blocking a specific choice—price, feature, segment, positioning, build-or-kill. The right method is whichever one removes that uncertainty fastest and cheapest. Everything below is a way to work backward from the decision to the method, instead of forward from a method you already like.

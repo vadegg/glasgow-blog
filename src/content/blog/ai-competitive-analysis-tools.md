@@ -31,8 +31,6 @@ tags:
 - [FAQ](#faq)
 - [Final point](#final-point)
 
-# AI Competitive Analysis Tools for Product and GTM Teams
-
 Most articles about competitive analysis tools are really SEO articles in disguise.
 
 They compare [Semrush], [Ahrefs], [Similarweb], maybe [SpyFu], then stop.
