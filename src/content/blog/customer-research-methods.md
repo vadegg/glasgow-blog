@@ -27,8 +27,6 @@ tags:
 - [FAQ](#faq)
 - [Final point](#final-point)
 
-# Customer Research Methods: Choose the Method That Matches the Decision
-
 Most teams do not choose customer research methods.
 
 They choose habits.

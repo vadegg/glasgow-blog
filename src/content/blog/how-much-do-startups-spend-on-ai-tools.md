@@ -33,8 +33,6 @@ tags:
 - [Sources](#sources)
 - [Final point](#final-point)
 
-# How Much Do Startups Spend on AI Tools? The Hidden AI Stack in 2026
-
 Everyone talks about the visible AI budget.
 
 That usually means one or two subscriptions:

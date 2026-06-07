@@ -27,8 +27,6 @@ tags:
 - [FAQ](#faq)
 - [Final point](#final-point)
 
-# Qualitative Market Research: When Interviews Beat Bigger Sample Sizes
-
 Most teams ask the sample-size question too early.
 
 They ask, "How many interviews is enough?" before they ask what decision the research is supposed to support.

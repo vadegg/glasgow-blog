@@ -30,8 +30,6 @@ tags:
 - [FAQ](#faq)
 - [Final point](#final-point)
 
-# AI Tools for Qualitative Research: Interviews, Recruiting, and Synthesis
-
 The wrong way to search this category is to ask, "What is the best AI tool for qualitative research?"
 
 That question flattens the whole workflow into one shopping decision.

@@ -28,8 +28,6 @@ tags:
 - [FAQ](#faq)
 - [Closing](#closing)
 
-# B2B Market Research: What Changes When the Buyer Is Not an Individual
-
 The biggest mistake teams make in B2B market research is treating the company like one buyer.
 
 That sounds harmless until you try to make a decision from the research. Then the problem shows up fast. One person in the account likes the idea. Another worries about adoption. A third controls the budget. A fourth can block the deal even if nobody calls them the buyer.

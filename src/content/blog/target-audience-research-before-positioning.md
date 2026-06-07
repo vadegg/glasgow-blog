@@ -29,8 +29,6 @@ tags:
 - [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
 - [Conclusion: Validate Before You Position](#conclusion-validate-before-you-position)
 
-# How to Conduct Target Audience Research Before Positioning Work
-
 If you're a founder or growth leader in B2B SaaS, you know positioning can make or break your product's success. Here's the hard truth: most positioning fails because it starts with a vague or incorrect target audience. Labels like "SMB" or "mid-market" are lazy shorthand that kill clarity and waste marketing dollars. Before writing a single positioning statement, define and validate your target audience precisely. Here's how.
 
 Positioning is a decision about whose problem you solve best and why you win against the alternatives. That decision needs an input: a sharp, evidence-backed picture of the people who will buy. If you skip the research and start at the messaging stage, you are writing claims about a customer you have only imagined. The market corrects you later, slowly and expensively, through low reply rates, long sales cycles, and churn you cannot explain. This article walks through how to do the research first, in an order that holds up under pressure.
