@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Switch Interview Technique: A Step-by-Step Guide](https://blog.glasgow.works/blog/switch-interview-technique)
 - [Pricing Research for B2B SaaS: What to Charge](https://blog.glasgow.works/blog/pricing-research-b2b-saas)
 - [Card Sorting in UX Research: How to Run It](https://blog.glasgow.works/blog/card-sorting-ux-research)
 - [How to Recruit Participants for User Research](https://blog.glasgow.works/blog/how-to-recruit-participants-for-user-research)
