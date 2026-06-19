@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Diary Study UX Research: How to Run Longitudinal Studies](https://blog.glasgow.works/blog/diary-study-ux-research)
 - [Communicating Research Findings to Stakeholders](https://blog.glasgow.works/blog/communicating-research-findings-to-stakeholders)
 - [User Research Plan Template: Structure Any Study](https://blog.glasgow.works/blog/user-research-plan-template)
 - [Churn Research for SaaS: Why Customers Leave](https://blog.glasgow.works/blog/churn-research-for-saas)
