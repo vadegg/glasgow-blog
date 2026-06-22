@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Opportunity Prioritisation in Product Research](https://blog.glasgow.works/blog/opportunity-prioritisation-product-research)
 - [Win-Loss Analysis for B2B SaaS: A Practical Guide](https://blog.glasgow.works/blog/win-loss-analysis-b2b-saas)
 - [Survey Design Best Practices for UX Research](https://blog.glasgow.works/blog/survey-design-best-practices-ux)
 - [Diary Study UX Research: How to Run Longitudinal Studies](https://blog.glasgow.works/blog/diary-study-ux-research)
