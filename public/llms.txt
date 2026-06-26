@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Usability Testing vs User Interviews: How to Choose](https://blog.glasgow.works/blog/usability-testing-vs-user-interviews)
 - [Experiment Design for Product Discovery](https://blog.glasgow.works/blog/experiment-design-product-discovery)
 - [Assumption & Opportunity Mapping in Product Discovery](https://blog.glasgow.works/blog/assumption-mapping-product-discovery)
 - [Recruiting B2B Interview Participants: A Step-by-Step Guide](https://blog.glasgow.works/blog/recruiting-b2b-interview-participants)
