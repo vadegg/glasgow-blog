@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Analyze User Interview Data: Step-by-Step](https://blog.glasgow.works/blog/how-to-analyze-user-interview-data)
 - [Usability Testing vs User Interviews: How to Choose](https://blog.glasgow.works/blog/usability-testing-vs-user-interviews)
 - [Experiment Design for Product Discovery](https://blog.glasgow.works/blog/experiment-design-product-discovery)
 - [Assumption & Opportunity Mapping in Product Discovery](https://blog.glasgow.works/blog/assumption-mapping-product-discovery)
