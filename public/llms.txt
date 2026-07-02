@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Measure UX Research ROI](https://blog.glasgow.works/blog/how-to-measure-ux-research-roi)
 - [Tree Testing in UX Research: How to Run It](https://blog.glasgow.works/blog/tree-testing-ux-research)
 - [Research Debt in Product Teams: What It Is and How to Reduce It](https://blog.glasgow.works/blog/research-debt-in-product-teams)
 - [B2B Buyer Research Methods: Understand Who Actually Buys](https://blog.glasgow.works/blog/b2b-buyer-research-methods)
