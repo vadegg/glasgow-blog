@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Research Democratization: Risks and How to Do It Right](https://blog.glasgow.works/blog/research-democratization-risks-and-how-to-do-it-right)
 - [UX Maturity Model for Product Teams](https://blog.glasgow.works/blog/ux-maturity-model-for-product-teams)
 - [Contextual Inquiry: How to Run It and What It Tells You](https://blog.glasgow.works/blog/contextual-inquiry-user-research)
 - [How to Measure UX Research ROI](https://blog.glasgow.works/blog/how-to-measure-ux-research-roi)
