@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Inclusive UX Research Methods: Stop Excluding Participants](https://blog.glasgow.works/blog/inclusive-ux-research-methods)
 - [How to Write a UX Research Report That Drives Action](https://blog.glasgow.works/blog/how-to-write-a-ux-research-report)
 - [UX Research Methods Comparison: A Side-by-Side Guide](https://blog.glasgow.works/blog/ux-research-methods-comparison)
 - [Remote Usability Testing: Best Practices for Reliable Results](https://blog.glasgow.works/blog/remote-usability-testing-best-practices)
