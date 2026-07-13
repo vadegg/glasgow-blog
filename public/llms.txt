@@ -43,6 +43,7 @@
 - [How to Recruit B2B Interview Participants](https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants)
 - [Guerrilla Usability Testing: A Practical Guide](https://blog.glasgow.works/guerrilla-usability-testing-guide)
 - [How to Conduct User Interviews: A Practical Guide](https://blog.glasgow.works/how-to-conduct-user-interviews)
+- [Mixed Methods Research in UX: Qual + Quant Together](https://blog.glasgow.works/blog/mixed-methods-research-ux)
 - [Jobs-to-Be-Done Interviews for B2B SaaS: Complete Guide](https://blog.glasgow.works/blog/jtbd-interviews-b2b-saas)
 - [Product Discovery: A Continuous, Evidence-Led Process](https://blog.glasgow.works/blog/product-discovery)
 - [Insight to Impact: Turning Research Into Decisions](https://blog.glasgow.works/blog/insight-to-impact)
