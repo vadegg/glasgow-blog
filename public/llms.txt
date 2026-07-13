@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Heuristic Evaluation in UX Research: A Practitioner's Guide](https://blog.glasgow.works/blog/heuristic-evaluation-ux-research)
 - [How to Write a Discussion Guide for User Interviews](https://blog.glasgow.works/blog/how-to-write-discussion-guide-user-interviews)
 - [Unmoderated Usability Testing Tools: How to Choose](https://blog.glasgow.works/blog/unmoderated-usability-testing-tools)
 - [B2B Customer Journey Mapping Research: A Practitioner Guide](https://blog.glasgow.works/blog/b2b-customer-journey-mapping-research)
