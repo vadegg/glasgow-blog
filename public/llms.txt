@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Product Analytics vs User Research: Which Do You Need?](https://blog.glasgow.works/blog/product-analytics-vs-user-research)
 - [Screener Survey Best Practices for UX Research](https://blog.glasgow.works/blog/screener-survey-best-practices-ux-research)
 - [Heuristic Evaluation in UX Research: A Practitioner's Guide](https://blog.glasgow.works/blog/heuristic-evaluation-ux-research)
 - [How to Write a Discussion Guide for User Interviews](https://blog.glasgow.works/blog/how-to-write-discussion-guide-user-interviews)
