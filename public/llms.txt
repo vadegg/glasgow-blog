@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Detect Fake Survey Respondents in Research](https://blog.glasgow.works/blog/how-to-detect-fake-survey-respondents)
 - [Survey Bots & Fake Responses in UX Research: Detection Guide](https://blog.glasgow.works/blog/survey-bots-fake-responses-ux-research)
 - [How to Analyse Survey Data Qualitatively](https://blog.glasgow.works/blog/how-to-analyse-survey-data-qualitatively)
 - [UX Research for B2B SaaS: Methods That Actually Work](https://blog.glasgow.works/blog/ux-research-b2b-saas)
