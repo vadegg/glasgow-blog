@@ -7,8 +7,9 @@
 
 ## Articles
 
-- [How to Detect Fake Survey Respondents in Research](https://blog.glasgow.works/blog/how-to-detect-fake-survey-respondents)
+- [UX Research Panel Management: Build & Maintain a Panel](https://blog.glasgow.works/blog/ux-research-panel-management)
 - [Survey Bots & Fake Responses in UX Research: Detection Guide](https://blog.glasgow.works/blog/survey-bots-fake-responses-ux-research)
+- [How to Detect Fake Survey Respondents in Research](https://blog.glasgow.works/blog/how-to-detect-fake-survey-respondents)
 - [How to Analyse Survey Data Qualitatively](https://blog.glasgow.works/blog/how-to-analyse-survey-data-qualitatively)
 - [UX Research for B2B SaaS: Methods That Actually Work](https://blog.glasgow.works/blog/ux-research-b2b-saas)
 - [Service Blueprint UX Research: A Practitioner's Guide](https://blog.glasgow.works/blog/service-blueprint-ux-research)
