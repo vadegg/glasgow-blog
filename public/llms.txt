@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [First Click Testing in UX Research: How to Run It](https://blog.glasgow.works/blog/first-click-testing-ux-research)
 - [UX Research Panel Management: Build & Maintain a Panel](https://blog.glasgow.works/blog/ux-research-panel-management)
 - [Survey Bots & Fake Responses in UX Research: Detection Guide](https://blog.glasgow.works/blog/survey-bots-fake-responses-ux-research)
 - [How to Detect Fake Survey Respondents in Research](https://blog.glasgow.works/blog/how-to-detect-fake-survey-respondents)
@@ -56,4 +57,3 @@
 - [Product Discovery: A Continuous, Evidence-Led Process](https://blog.glasgow.works/blog/product-discovery)
 - [Insight to Impact: Turning Research Into Decisions](https://blog.glasgow.works/blog/insight-to-impact)
 - [Research Operations: How to Build ResearchOps That Scales](https://blog.glasgow.works/blog/research-operations)
-- [UX Research Methods: How to Choose the Right One](https://blog.glasgow.works/blog/ux-research-methods)
