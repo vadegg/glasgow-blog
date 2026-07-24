@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Test Agentic Features: A UX Research Guide](https://blog.glasgow.works/blog/how-to-test-agentic-features)
 - [AI-Moderated vs Human-Moderated Research: The Decision Rule](https://blog.glasgow.works/blog/ai-moderated-vs-human-moderated-research)
 - [Voice of Customer Program for B2B SaaS: A Framework](https://blog.glasgow.works/blog/voice-of-customer-program-b2b-saas)
 - [First Click Testing in UX Research: How to Run It](https://blog.glasgow.works/blog/first-click-testing-ux-research)
@@ -56,4 +57,3 @@
 - [How to Conduct User Interviews: A Practical Guide](https://blog.glasgow.works/how-to-conduct-user-interviews)
 - [Mixed Methods Research in UX: Qual + Quant Together](https://blog.glasgow.works/blog/mixed-methods-research-ux)
 - [Jobs-to-Be-Done Interviews for B2B SaaS: Complete Guide](https://blog.glasgow.works/blog/jtbd-interviews-b2b-saas)
-- [Product Discovery: A Continuous, Evidence-Led Process](https://blog.glasgow.works/blog/product-discovery)
