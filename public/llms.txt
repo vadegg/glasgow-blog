@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [AI-Moderated Interviews: When to Use & How](https://blog.glasgow.works/blog/ai-moderated-interviews-when-how-to-run)
 - [When to Outsource User Research: Agency vs In-House](https://blog.glasgow.works/blog/when-to-outsource-user-research-agency-vs-in-house)
 - [How to Test Agentic Features: A UX Research Guide](https://blog.glasgow.works/blog/how-to-test-agentic-features)
 - [AI-Moderated vs Human-Moderated Research: The Decision Rule](https://blog.glasgow.works/blog/ai-moderated-vs-human-moderated-research)
@@ -56,4 +57,3 @@
 - [How to Recruit B2B Interview Participants](https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants)
 - [Guerrilla Usability Testing: A Practical Guide](https://blog.glasgow.works/guerrilla-usability-testing-guide)
 - [How to Conduct User Interviews: A Practical Guide](https://blog.glasgow.works/how-to-conduct-user-interviews)
-- [Mixed Methods Research in UX: Qual + Quant Together](https://blog.glasgow.works/blog/mixed-methods-research-ux)
