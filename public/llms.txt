@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Test AI Agents: A UX Research Playbook](https://blog.glasgow.works/blog/how-to-test-ai-agents)
 - [How to Validate AI-Generated Research Insights](https://blog.glasgow.works/blog/validate-ai-generated-research-insights)
 - [AI-Moderated Interviews: When to Use & How](https://blog.glasgow.works/blog/ai-moderated-interviews-when-how-to-run)
 - [When to Outsource User Research: Agency vs In-House](https://blog.glasgow.works/blog/when-to-outsource-user-research-agency-vs-in-house)
@@ -56,4 +57,3 @@
 - [How to Recruit Participants for User Research](https://blog.glasgow.works/blog/how-to-recruit-participants-for-user-research)
 - [Affinity Mapping in Qualitative Research: Step-by-Step](https://blog.glasgow.works/blog/affinity-mapping-in-qualitative-research)
 - [How to Recruit B2B Interview Participants](https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants)
-- [Guerrilla Usability Testing: A Practical Guide](https://blog.glasgow.works/guerrilla-usability-testing-guide)
