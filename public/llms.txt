@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How B2B Buyers Use AI to Research & Shortlist Vendors](https://blog.glasgow.works/blog/how-b2b-buyers-use-ai-to-research-vendors)
 - [Concept Testing: Run a Test That Yields a Decision](https://blog.glasgow.works/blog/concept-testing)
 - [How to Test AI Agents: UX Research Method](https://blog.glasgow.works/blog/how-to-test-ai-agents-ux-research)
 - [How to Test AI Agents: A UX Research Playbook](https://blog.glasgow.works/blog/how-to-test-ai-agents)
@@ -56,4 +57,3 @@
 - [Switch Interview Technique: A Step-by-Step Guide](https://blog.glasgow.works/blog/switch-interview-technique)
 - [Pricing Research for B2B SaaS: What to Charge](https://blog.glasgow.works/blog/pricing-research-b2b-saas)
 - [Card Sorting in UX Research: How to Run It](https://blog.glasgow.works/blog/card-sorting-ux-research)
-- [How to Recruit Participants for User Research](https://blog.glasgow.works/blog/how-to-recruit-participants-for-user-research)
