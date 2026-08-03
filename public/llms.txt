@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Detect Fake & AI-Generated Research Participants](https://blog.glasgow.works/blog/detect-fake-ai-generated-participants-user-research)
 - [UX Research for AI Agents: A Testing Playbook](https://blog.glasgow.works/blog/ux-research-for-ai-agents)
 - [How B2B Buyers Use AI to Research & Shortlist Vendors](https://blog.glasgow.works/blog/how-b2b-buyers-use-ai-to-research-vendors)
 - [Concept Testing: Run a Test That Yields a Decision](https://blog.glasgow.works/blog/concept-testing)
@@ -56,4 +57,3 @@
 - [User Research Plan Template: Structure Any Study](https://blog.glasgow.works/blog/user-research-plan-template)
 - [Churn Research for SaaS: Why Customers Leave](https://blog.glasgow.works/blog/churn-research-for-saas)
 - [Switch Interview Technique: A Step-by-Step Guide](https://blog.glasgow.works/blog/switch-interview-technique)
-- [Pricing Research for B2B SaaS: What to Charge](https://blog.glasgow.works/blog/pricing-research-b2b-saas)
