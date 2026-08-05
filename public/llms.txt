@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-authenticity-governance)
 - [How to Detect Fake Participants in User Research](https://blog.glasgow.works/blog/how-to-detect-fake-participants-user-research)
 - [How to Detect Fake & AI-Generated Research Participants](https://blog.glasgow.works/blog/detect-fake-ai-generated-participants-user-research)
 - [UX Research for AI Agents: A Testing Playbook](https://blog.glasgow.works/blog/ux-research-for-ai-agents)
@@ -56,4 +57,3 @@
 - [Diary Study UX Research: How to Run Longitudinal Studies](https://blog.glasgow.works/blog/diary-study-ux-research)
 - [Communicating Research Findings to Stakeholders](https://blog.glasgow.works/blog/communicating-research-findings-to-stakeholders)
 - [User Research Plan Template: Structure Any Study](https://blog.glasgow.works/blog/user-research-plan-template)
-- [Churn Research for SaaS: Why Customers Leave](https://blog.glasgow.works/blog/churn-research-for-saas)
