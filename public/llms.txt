@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Detect Fake & AI Participants in Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-research-playbook)
 - [How to Detect Fake & AI Participants in Research](https://blog.glasgow.works/blog/fake-and-ai-participant-detection-user-research)
 - [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-authenticity-governance)
 - [How to Detect Fake Participants in User Research](https://blog.glasgow.works/blog/how-to-detect-fake-participants-user-research)
@@ -56,4 +57,3 @@
 - [Win-Loss Analysis for B2B SaaS: A Practical Guide](https://blog.glasgow.works/blog/win-loss-analysis-b2b-saas)
 - [Survey Design Best Practices for UX Research](https://blog.glasgow.works/blog/survey-design-best-practices-ux)
 - [Diary Study UX Research: How to Run Longitudinal Studies](https://blog.glasgow.works/blog/diary-study-ux-research)
-- [Communicating Research Findings to Stakeholders](https://blog.glasgow.works/blog/communicating-research-findings-to-stakeholders)
