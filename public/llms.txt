@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-data-quality-playbook)
 - [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-user-research-guide)
 - [How to Detect AI-Generated Survey Participants](https://blog.glasgow.works/blog/how-to-detect-ai-generated-survey-participants)
 - [How to Detect Fake & AI Participants in Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-research-playbook)
@@ -56,4 +57,3 @@
 - [Assumption & Opportunity Mapping in Product Discovery](https://blog.glasgow.works/blog/assumption-mapping-product-discovery)
 - [Recruiting B2B Interview Participants: A Step-by-Step Guide](https://blog.glasgow.works/blog/recruiting-b2b-interview-participants)
 - [Opportunity Prioritisation in Product Research](https://blog.glasgow.works/blog/opportunity-prioritisation-product-research)
-- [Win-Loss Analysis for B2B SaaS: A Practical Guide](https://blog.glasgow.works/blog/win-loss-analysis-b2b-saas)
