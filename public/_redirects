@@ -1,3 +1,14 @@
 /sitemap.xml /sitemap-index.xml 301
 /favicon.ico /favicon.png 301
 /google57ca395749dd5288.html /google57ca395749dd5288.html 200
+
+# Duplicate posts on 'detecting fake / AI-generated participants',
+# published 03.08-17.08.2026 by the autoblog before the topic dedupe
+# guard existed. Consolidated into the 21.08 post.
+/blog/how-to-detect-fake-participants-user-research/ /blog/detect-fake-ai-generated-participants-user-research/ 301
+/blog/detect-fake-ai-participants-authenticity-governance/ /blog/detect-fake-ai-generated-participants-user-research/ 301
+/blog/fake-and-ai-participant-detection-user-research/ /blog/detect-fake-ai-generated-participants-user-research/ 301
+/blog/detect-fake-ai-participants-research-playbook/ /blog/detect-fake-ai-generated-participants-user-research/ 301
+/blog/how-to-detect-ai-generated-survey-participants/ /blog/detect-fake-ai-generated-participants-user-research/ 301
+/blog/detect-fake-ai-participants-user-research-guide/ /blog/detect-fake-ai-generated-participants-user-research/ 301
+/blog/detect-fake-ai-participants-data-quality-playbook/ /blog/detect-fake-ai-generated-participants-user-research/ 301

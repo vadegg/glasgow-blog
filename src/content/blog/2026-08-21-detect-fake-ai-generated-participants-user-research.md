@@ -70,7 +70,7 @@ Duplicate identities deserve the most effort, because one determined fraudster c
 
 Randomising question and option order helps as well. Bots and scripted responses are often built around a fixed layout; when the order shifts, they mis-map answers to the wrong item, producing inconsistencies a human wouldn't make by accident.
 
-The uncomfortable part: modern masking means a fully completed, well-formatted survey can still be high-risk. For the specific patterns synthetic respondents leave behind, see our guide to [detecting AI-generated survey participants](https://blog.glasgow.works/blog/how-to-detect-ai-generated-survey-participants). Score every response on these signals together, and don't treat surface completeness as proof of anything.
+The uncomfortable part: modern masking means a fully completed, well-formatted survey can still be high-risk. For the specific patterns synthetic respondents leave behind, see our guide to [survey bots and fake responses](https://blog.glasgow.works/blog/survey-bots-fake-responses-ux-research). Score every response on these signals together, and don't treat surface completeness as proof of anything.
 
 ## Stage 3: Spotting AI-generated open-ended responses
 
@@ -128,7 +128,7 @@ Report confirmed fraud back to the panel provider. Providers can only clean thei
 
 Document what was caught and how, in the client-facing report: how many responses were excluded, on what grounds, and what that means for the final sample. This isn't an admission of a flawed study — it's evidence of a rigorous one.
 
-Build all of this into a standard ResearchOps process rather than leaving it to individual judgement. Our [data-quality playbook](https://blog.glasgow.works/blog/detect-fake-ai-participants-data-quality-playbook) sets out how to make these checks repeatable across studies, so quality doesn't depend on who happens to be running a project. Transparent fraud handling isn't overhead. It's what separates defensible insight from a plausible-looking guess.
+Build all of this into a standard ResearchOps process rather than leaving it to individual judgement. Our [research operations guide](https://blog.glasgow.works/blog/research-operations) sets out how to make these checks repeatable across studies, so quality doesn't depend on who happens to be running a project. Transparent fraud handling isn't overhead. It's what separates defensible insight from a plausible-looking guess.
 
 ## Frequently asked questions
 

@@ -8,13 +8,6 @@
 ## Articles
 
 - [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-generated-participants-user-research)
-- [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-data-quality-playbook)
-- [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-user-research-guide)
-- [How to Detect AI-Generated Survey Participants](https://blog.glasgow.works/blog/how-to-detect-ai-generated-survey-participants)
-- [How to Detect Fake & AI Participants in Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-research-playbook)
-- [How to Detect Fake & AI Participants in Research](https://blog.glasgow.works/blog/fake-and-ai-participant-detection-user-research)
-- [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-participants-authenticity-governance)
-- [How to Detect Fake Participants in User Research](https://blog.glasgow.works/blog/how-to-detect-fake-participants-user-research)
 - [UX Research for AI Agents: A Testing Playbook](https://blog.glasgow.works/blog/ux-research-for-ai-agents)
 - [How B2B Buyers Use AI to Research & Shortlist Vendors](https://blog.glasgow.works/blog/how-b2b-buyers-use-ai-to-research-vendors)
 - [Concept Testing: Run a Test That Yields a Decision](https://blog.glasgow.works/blog/concept-testing)
