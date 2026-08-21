@@ -12,3 +12,10 @@
 /blog/how-to-detect-ai-generated-survey-participants/ /blog/detect-fake-ai-generated-participants-user-research/ 301
 /blog/detect-fake-ai-participants-user-research-guide/ /blog/detect-fake-ai-generated-participants-user-research/ 301
 /blog/detect-fake-ai-participants-data-quality-playbook/ /blog/detect-fake-ai-generated-participants-user-research/ 301
+
+# Duplicate posts on testing AI agents / agentic features,
+# published 24.07-02.08.2026 by the autoblog. Consolidated into the
+# 29.07 post.
+/blog/how-to-test-agentic-features/ /blog/how-to-test-ai-agents/ 301
+/blog/how-to-test-ai-agents-ux-research/ /blog/how-to-test-ai-agents/ 301
+/blog/ux-research-for-ai-agents/ /blog/how-to-test-ai-agents/ 301

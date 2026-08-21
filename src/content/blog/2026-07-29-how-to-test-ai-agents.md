@@ -108,7 +108,7 @@ Every gap you observe in trust, correction, or handoff should translate into a s
 
 Prioritise by risk. A miscategorised email draft is recoverable; an autonomous payment or an irreversible booking is not. Reserve the tightest human-in-the-loop controls — explicit confirmation, visible undo, clear escalation paths — for actions with the highest cost of being wrong, and spend less design effort on the ones a user can easily reverse.
 
-Once you've made a change, test the specific interaction again rather than re-running the full protocol. A focused follow-up round — same seeded failure, same decision moment — tells you whether the fix worked, faster and cheaper than a full re-test. For a deeper walkthrough of this loop, see our guide to [testing agentic features in depth](https://blog.glasgow.works/blog/how-to-test-agentic-features).
+Once you've made a change, test the specific interaction again rather than re-running the full protocol. A focused follow-up round — same seeded failure, same decision moment — tells you whether the fix worked, faster and cheaper than a full re-test.
 
 These findings belong in the product conversation, not just a usability bug tracker. A pattern of silent over-trust is a product risk, and it should reach leadership framed as one.
 
