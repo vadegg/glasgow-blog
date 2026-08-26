@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [B2B Buyer Research Process: Map Your Buying Committee](https://blog.glasgow.works/blog/b2b-buyer-research-process)
 - [How Much Does User Research Cost? 2026 Pricing Guide](https://blog.glasgow.works/blog/how-much-does-user-research-cost)
 - [How to Detect Fake & AI Participants in User Research](https://blog.glasgow.works/blog/detect-fake-ai-generated-participants-user-research)
 - [How B2B Buyers Use AI to Research & Shortlist Vendors](https://blog.glasgow.works/blog/how-b2b-buyers-use-ai-to-research-vendors)
@@ -56,4 +57,3 @@
 - [Churn Research for SaaS: Why Customers Leave](https://blog.glasgow.works/blog/churn-research-for-saas)
 - [Switch Interview Technique: A Step-by-Step Guide](https://blog.glasgow.works/blog/switch-interview-technique)
 - [Pricing Research for B2B SaaS: What to Charge](https://blog.glasgow.works/blog/pricing-research-b2b-saas)
-- [Card Sorting in UX Research: How to Run It](https://blog.glasgow.works/blog/card-sorting-ux-research)
