@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Choose a User Research Agency: Key Questions](https://blog.glasgow.works/blog/how-to-choose-a-user-research-agency)
 - [How to Run a UX Benchmarking Study (Metrics + Baselines)](https://blog.glasgow.works/blog/how-to-run-a-ux-benchmarking-study)
 - [AI Notetaker Consent & Privacy in User Research](https://blog.glasgow.works/blog/ai-notetaker-consent-privacy-user-research)
 - [Synthetic Users in UX Research: Help or Mislead?](https://blog.glasgow.works/blog/synthetic-users-ux-research)
@@ -56,4 +57,3 @@
 - [Win-Loss Analysis for B2B SaaS: A Practical Guide](https://blog.glasgow.works/blog/win-loss-analysis-b2b-saas)
 - [Survey Design Best Practices for UX Research](https://blog.glasgow.works/blog/survey-design-best-practices-ux)
 - [Diary Study UX Research: How to Run Longitudinal Studies](https://blog.glasgow.works/blog/diary-study-ux-research)
-- [Communicating Research Findings to Stakeholders](https://blog.glasgow.works/blog/communicating-research-findings-to-stakeholders)
