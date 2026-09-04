@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [SUS vs UMUX-Lite vs SUPR-Q: Which One to Use](https://blog.glasgow.works/blog/sus-vs-umux-lite-vs-supr-q)
 - [How to Run a Customer Segmentation Research Study](https://blog.glasgow.works/blog/how-to-run-a-customer-segmentation-research-study)
 - [Thematic Analysis in UX Research: A Coding Guide](https://blog.glasgow.works/blog/thematic-analysis-ux-research)
 - [How to Choose a User Research Agency: Key Questions](https://blog.glasgow.works/blog/how-to-choose-a-user-research-agency)
@@ -56,4 +57,3 @@
 - [Assumption & Opportunity Mapping in Product Discovery](https://blog.glasgow.works/blog/assumption-mapping-product-discovery)
 - [Recruiting B2B Interview Participants: A Step-by-Step Guide](https://blog.glasgow.works/blog/recruiting-b2b-interview-participants)
 - [Opportunity Prioritisation in Product Research](https://blog.glasgow.works/blog/opportunity-prioritisation-product-research)
-- [Win-Loss Analysis for B2B SaaS: A Practical Guide](https://blog.glasgow.works/blog/win-loss-analysis-b2b-saas)
