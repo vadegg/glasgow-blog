@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Message Testing: Validate Value Props With Research](https://blog.glasgow.works/blog/message-testing-value-propositions)
 - [MaxDiff Analysis for Feature Prioritisation Guide](https://blog.glasgow.works/blog/maxdiff-analysis-feature-prioritisation)
 - [SUS vs UMUX-Lite vs SUPR-Q: Which One to Use](https://blog.glasgow.works/blog/sus-vs-umux-lite-vs-supr-q)
 - [How to Run a Customer Segmentation Research Study](https://blog.glasgow.works/blog/how-to-run-a-customer-segmentation-research-study)
@@ -56,4 +57,3 @@
 - [Usability Testing vs User Interviews: How to Choose](https://blog.glasgow.works/blog/usability-testing-vs-user-interviews)
 - [Experiment Design for Product Discovery](https://blog.glasgow.works/blog/experiment-design-product-discovery)
 - [Assumption & Opportunity Mapping in Product Discovery](https://blog.glasgow.works/blog/assumption-mapping-product-discovery)
-- [Recruiting B2B Interview Participants: A Step-by-Step Guide](https://blog.glasgow.works/blog/recruiting-b2b-interview-participants)
