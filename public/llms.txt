@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [Conjoint Analysis for Feature Prioritisation & Pricing](https://blog.glasgow.works/blog/conjoint-analysis-feature-prioritisation-pricing)
 - [How to Choose AI User Research Tools: A Buyer's Guide](https://blog.glasgow.works/blog/how-to-choose-ai-user-research-tools)
 - [Message Testing: Validate Value Props With Research](https://blog.glasgow.works/blog/message-testing-value-propositions)
 - [MaxDiff Analysis for Feature Prioritisation Guide](https://blog.glasgow.works/blog/maxdiff-analysis-feature-prioritisation)
@@ -56,4 +57,3 @@
 - [Thematic Analysis in Qualitative Research: A Practitioner's Guide](https://blog.glasgow.works/blog/thematic-analysis-qualitative-research)
 - [How to Analyze User Interview Data: Step-by-Step](https://blog.glasgow.works/blog/how-to-analyze-user-interview-data)
 - [Usability Testing vs User Interviews: How to Choose](https://blog.glasgow.works/blog/usability-testing-vs-user-interviews)
-- [Experiment Design for Product Discovery](https://blog.glasgow.works/blog/experiment-design-product-discovery)
