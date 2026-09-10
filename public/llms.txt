@@ -7,6 +7,7 @@
 
 ## Articles
 
+- [How to Test Voice AI and Conversational UI](https://blog.glasgow.works/blog/how-to-test-voice-ai-conversational-ui)
 - [How to Run a Cognitive Walkthrough: Step-by-Step Guide](https://blog.glasgow.works/blog/how-to-run-a-cognitive-walkthrough)
 - [Conjoint Analysis for Feature Prioritisation & Pricing](https://blog.glasgow.works/blog/conjoint-analysis-feature-prioritisation-pricing)
 - [How to Choose AI User Research Tools: A Buyer's Guide](https://blog.glasgow.works/blog/how-to-choose-ai-user-research-tools)
@@ -56,4 +57,3 @@
 - [Research Debt in Product Teams: What It Is and How to Reduce It](https://blog.glasgow.works/blog/research-debt-in-product-teams)
 - [B2B Buyer Research Methods: Understand Who Actually Buys](https://blog.glasgow.works/blog/b2b-buyer-research-methods)
 - [Thematic Analysis in Qualitative Research: A Practitioner's Guide](https://blog.glasgow.works/blog/thematic-analysis-qualitative-research)
-- [How to Analyze User Interview Data: Step-by-Step](https://blog.glasgow.works/blog/how-to-analyze-user-interview-data)
