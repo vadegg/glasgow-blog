@@ -2,7 +2,7 @@
 title: "How to Run a Customer Segmentation Research Study"
 description: "Learn how to run a customer segmentation research study: frame the decision, design the survey, run cluster analysis, and ship segments teams can act on."
 pubDate: 2026-09-03
-updatedDate: 2026-09-03
+updatedDate: 2026-09-12T12:14:56.577Z
 readingTime: 13
 slug: "how-to-run-a-customer-segmentation-research-study"
 author: "Vadim Glazkov"
@@ -17,22 +17,6 @@ tags:
   - "segmentation survey design"
   - "how to build customer segments from research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What a segmentation study delivers (and when to run one)](#what-a-segmentation-study-delivers-and-when-to-run-one)
-- [Start with the decision, not the data](#start-with-the-decision-not-the-data)
-- [Choose your segmentation bases: needs, behaviour, demographics, firmographics](#choose-your-segmentation-bases-needs-behaviour-demographics-firmographics)
-- [Designing the segmentation survey](#designing-the-segmentation-survey)
-- [Sampling and data collection](#sampling-and-data-collection)
-- [Running the cluster analysis](#running-the-cluster-analysis)
-- [Choosing the winning solution: interpretability, actionability, stability](#choosing-the-winning-solution-interpretability-actionability-stability)
-- [From clusters to actionable segments](#from-clusters-to-actionable-segments)
-- [Activating segments across product and GTM](#activating-segments-across-product-and-gtm)
-- [Common pitfalls to avoid](#common-pitfalls-to-avoid)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## What a segmentation study delivers (and when to run one)
 
 Plenty of segmentation projects end as a slide deck nobody opens twice. The groups look plausible. No team can act on them. Whether you know how to run a customer segmentation research study that shifts a roadmap or a message comes down to choices you make before a single data point is collected.
@@ -178,34 +162,3 @@ There is no single best method. k-means is fast, well understood and works on co
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Run a Customer Segmentation Research Study",
-  "description": "Learn how to run a customer segmentation research study: frame the decision, design the survey, run cluster analysis, and ship segments teams can act on.",
-  "datePublished": "2026-09-03",
-  "dateModified": "2026-09-03",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-run-a-customer-segmentation-research-study"
-  },
-  "keywords": "how to run a customer segmentation research study, customer segmentation research methods, needs-based segmentation, segmentation survey design, how to build customer segments from research, cluster analysis for segmentation"
-}
-</script>

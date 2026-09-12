@@ -2,7 +2,7 @@
 title: "Thematic Analysis in UX Research: A Coding Guide"
 description: "Learn thematic analysis in UX research with a step-by-step guide to coding interview data into defensible themes—plus a worked example and codebook. Read on."
 pubDate: 2026-09-02
-updatedDate: 2026-09-02
+updatedDate: 2026-09-12T12:14:56.534Z
 readingTime: 12
 slug: "thematic-analysis-ux-research"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "thematic analysis vs affinity mapping"
   - "Braun and Clarke six phases"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What thematic analysis is (and why it's the backbone)](#what-thematic-analysis-is-and-why-its-the-backbone)
-- [Thematic analysis vs affinity mapping (and empathy mapping)](#thematic-analysis-vs-affinity-mapping-and-empathy-mapping)
-- [Inductive vs deductive coding: pick your lens](#inductive-vs-deductive-coding-pick-your-lens)
-- [Braun and Clarke's six phases, applied to interviews](#braun-and-clarkes-six-phases-applied-to-interviews)
-- [Worked example: coding an interview excerpt](#worked-example-coding-an-interview-excerpt)
-- [Building and maintaining a codebook](#building-and-maintaining-a-codebook)
-- [Common mistakes that undermine rigour](#common-mistakes-that-undermine-rigour)
-- [Where AI-assisted coding fits (and its limits)](#where-ai-assisted-coding-fits-and-its-limits)
-- [From themes to impact](#from-themes-to-impact)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## What thematic analysis is (and why it's the backbone)
 
 Twelve interview transcripts. A wall of sticky notes. A stakeholder asking why the team should trust your top three findings. Thematic analysis in UX research is how you answer that.
@@ -181,34 +166,3 @@ You can use AI to assist it, not to do it for you. AI is useful for first-pass c
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Thematic Analysis in UX Research: A Coding Guide",
-  "description": "Learn thematic analysis in UX research with a step-by-step guide to coding interview data into defensible themes—plus a worked example and codebook. Read on.",
-  "datePublished": "2026-09-02",
-  "dateModified": "2026-09-02",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/thematic-analysis-ux-research"
-  },
-  "keywords": "thematic analysis in UX research, how to code qualitative interview data, inductive vs deductive coding, thematic analysis vs affinity mapping, Braun and Clarke six phases, qualitative coding for UX research"
-}
-</script>

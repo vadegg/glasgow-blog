@@ -2,7 +2,7 @@
 title: "How to Write a UX Research Report That Drives Action"
 description: "Learn how to write a UX research report that persuades, not just informs. A practitioner guide covering structure, decisions, and the failure modes that kill"
 pubDate: 2026-07-08
-updatedDate: 2026-07-08
+updatedDate: 2026-09-12T12:14:55.376Z
 readingTime: 13
 slug: "how-to-write-a-ux-research-report"
 author: "Vadim Glazkov"
@@ -17,26 +17,6 @@ tags:
   - "research report structure"
   - "how to present UX research findings"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [A UX Research Report Is a Persuasion Document, Not a Data Dump](#a-ux-research-report-is-a-persuasion-document-not-a-data-dump)
-- [Know Your Audience Before You Write a Single Section](#know-your-audience-before-you-write-a-single-section)
-- [The Six-Section Structure That Works](#the-six-section-structure-that-works)
-- [Writing Findings That Actually Land](#writing-findings-that-actually-land)
-- [Recommendations: The Section Most Reports Get Wrong](#recommendations-the-section-most-reports-get-wrong)
-- [Common Failure Modes and How to Avoid Them](#common-failure-modes-and-how-to-avoid-them)
-- [Formatting and Accessibility Choices That Improve Uptake](#formatting-and-accessibility-choices-that-improve-uptake)
-- [A Lightweight UX Research Report Template to Start From](#a-lightweight-ux-research-report-template-to-start-from)
-- [Executive summary](#executive-summary)
-- [Context and research question](#context-and-research-question)
-- [Method snapshot](#method-snapshot)
-- [Key findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Appendix](#appendix)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## A UX Research Report Is a Persuasion Document, Not a Data Dump
 
 Most UX research reports fail before anyone reads them. Not because the research was weak, but because the report was built to document rather than to persuade.
@@ -219,34 +199,3 @@ State the finding as a declarative claim, then immediately specify its basis: "E
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Write a UX Research Report That Drives Action",
-  "description": "Learn how to write a UX research report that persuades, not just informs. A practitioner guide covering structure, decisions, and the failure modes that kill",
-  "datePublished": "2026-07-08",
-  "dateModified": "2026-07-08",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-write-a-ux-research-report"
-  },
-  "keywords": "how to write a UX research report, UX research report template, UX research deliverables, research report structure, how to present UX research findings, UX research documentation"
-}
-</script>

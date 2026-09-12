@@ -2,6 +2,7 @@
 title: "How to Recruit Participants for User Research"
 description: "A step-by-step guide to recruiting user research participants: write tighter screeners, choose the right sourcing channels, build a panel, and eliminate"
 pubDate: 2026-06-03
+updatedDate: 2026-09-12T12:14:54.461Z
 slug: "how-to-recruit-participants-for-user-research"
 readingTime: 14
 author: "Vadim Glazkov"
@@ -16,24 +17,11 @@ tags:
   - "ux research participant recruitment"
   - "research participant panels"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Recruitment Determines Research Quality](#why-recruitment-determines-research-quality)
-- [Step 1 — Define your participant profile before you write a single question](#step-1-define-your-participant-profile-before-you-write-a-single-question)
-- [Step 2 — Write a screener survey that filters without telegraphing](#step-2-write-a-screener-survey-that-filters-without-telegraphing)
-- [Step 3 — Choose the right sourcing channel for your study](#step-3-choose-the-right-sourcing-channel-for-your-study)
-- [Step 4 — Build and maintain a research participant panel](#step-4-build-and-maintain-a-research-participant-panel)
-- [Step 5 — Avoid the five most common sampling biases](#step-5-avoid-the-five-most-common-sampling-biases)
-- [Turning recruited participants into research insight](#turning-recruited-participants-into-research-insight)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## Why Recruitment Determines Research Quality
 
 Poor recruitment is the most common way a research project fails — and the least discussed. You can write a brilliant discussion guide, run sessions with precision, and synthesise findings rigorously, yet still walk away with conclusions that do not reflect your actual users. The reason is almost always who was in the room.
 
-Recruitment and research method are separate decisions. Recruitment answers *who you talk to*; method answers *how you talk to them*. This guide focuses entirely on the first question, because it is the prerequisite to everything else. Before you think about [conducting user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) or running a round of [guerrilla usability testing](https://blog.glasgow.works/guerrilla-usability-testing-guide), you need confidence that the people you are recruiting actually represent the behaviour or context you are trying to understand.
+Recruitment and research method are separate decisions. Recruitment answers *who you talk to*; method answers *how you talk to them*. This guide focuses entirely on the first question, because it is the prerequisite to everything else. Before you think about [conducting user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) or running a round of [guerrilla usability testing](https://blog.glasgow.works/blog/guerrilla-usability-testing-guide), you need confidence that the people you are recruiting actually represent the behaviour or context you are trying to understand.
 
 Sampling bias — systematically over- or under-representing certain types of participant — is the specific risk this guide helps you manage. It rarely announces itself. The findings simply look cleaner and more consistent than reality warrants.
 
@@ -87,7 +75,7 @@ There is no single best channel for recruiting research participants. The right 
 
 **Social and community channels** — LinkedIn, professional Slack communities, industry forums, relevant subreddits — work well for niche professional segments. Posts that make the research sound prestigious or the topic exciting will self-select for what practitioners sometimes call "research enthusiasts": people who are unusually engaged with the subject matter and may not reflect typical users. Keep outreach neutral and specific about who you are looking for.
 
-**Intercept and guerrilla recruiting** is appropriate for early generative work or when timelines are extremely tight. See our guide to [guerrilla usability testing for fast intercept recruiting](https://blog.glasgow.works/guerrilla-usability-testing-guide) for execution detail.
+**Intercept and guerrilla recruiting** is appropriate for early generative work or when timelines are extremely tight. See our guide to [guerrilla usability testing for fast intercept recruiting](https://blog.glasgow.works/blog/guerrilla-usability-testing-guide) for execution detail.
 
 | Study type | Timeline | Budget | Recommended channel |
 |---|---|---|---|
@@ -146,7 +134,7 @@ Sampling bias does not require carelessness to occur. Most of these patterns eme
 
 Recruitment ends when a participant shows up. Research begins.
 
-For moderated qualitative sessions, [conducting user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) is the natural next step — covering discussion guides, facilitation, and note-taking practice.
+For moderated qualitative sessions, [conducting user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) is the natural next step — covering discussion guides, facilitation, and note-taking practice.
 
 One practical note: the screener responses you collected during recruitment are themselves useful analytical context. Save them alongside your session notes. Knowing that a participant described their usage frequency one way in the screener and another way in the session is a data point, not an inconvenience.
 
@@ -170,29 +158,7 @@ For niche B2B personas, the most reliable approaches are: LinkedIn outreach with
 
 Track participation history rigorously — whether in a spreadsheet or a dedicated tool — and enforce a cooling-off period of at least eight to twelve weeks between studies for any individual. Segment your outreach so that each study draws from a different portion of your panel. Introduce new participants continuously rather than waiting until the panel feels stale. If you are using a third-party panel provider, specify that you require participants who have not taken part in a study on a related topic within a defined period.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Recruit Participants for User Research",
-  "description": "A step-by-step guide to recruiting user research participants: write tighter screeners, choose the right sourcing channels, build a panel, and eliminate sampling bias.",
-  "datePublished": "2026-06-03",
-  "dateModified": "2026-06-03",
-  "author": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-recruit-participants-for-user-research"
-  },
-  "keywords": "how to recruit participants for user research, user research recruitment, recruiting research participants, ux research participant recruitment, research participant panels, screener survey for user research"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -2,7 +2,7 @@
 title: "AI-Moderated Interviews: When to Use & How"
 description: "AI-moderated interviews can scale UX research fast, but only for the right studies. Learn exactly when they work, where humans still win, and how to run them"
 pubDate: 2026-07-26
-updatedDate: 2026-07-26
+updatedDate: 2026-09-12T12:14:56.012Z
 readingTime: 10
 slug: "ai-moderated-interviews-when-how-to-run"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "when to use AI-moderated interviews"
   - "AI vs human moderator UX research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What AI-moderated interviews are (and how they work in 2026)](#what-ai-moderated-interviews-are-and-how-they-work-in-2026)
-- [When AI-moderated interviews work best](#when-ai-moderated-interviews-work-best)
-- [Where a human moderator is still non-negotiable](#where-a-human-moderator-is-still-non-negotiable)
-- [How to run AI-moderated interviews: a field-tested workflow](#how-to-run-ai-moderated-interviews-a-field-tested-workflow)
-- [The quality bar: metrics and a QA checklist](#the-quality-bar-metrics-and-a-qa-checklist)
-- [Ethics, consent, and data protection](#ethics-consent-and-data-protection)
-- [FAQ](#faq)
-
 ## What AI-moderated interviews are (and how they work in 2026)
 
 An AI-moderated interview is a live, one-to-one conversation between a real participant and an AI interviewer that runs from a discussion guide rather than a fixed script. The AI asks the planned questions. It also adapts — reordering topics based on what the participant says, probing when someone hesitates or answers vaguely, and asking for a specific example before moving on.
@@ -120,34 +108,3 @@ Completion rate of 80% or higher, session length of 10–20 minutes, response de
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "AI-Moderated Interviews: When to Use & How",
-  "description": "AI-moderated interviews can scale UX research fast, but only for the right studies. Learn exactly when they work, where humans still win, and how to run them",
-  "datePublished": "2026-07-26",
-  "dateModified": "2026-07-26",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/ai-moderated-interviews-when-how-to-run"
-  },
-  "keywords": "AI-moderated interviews, AI moderation for UX research, AI interview moderator, when to use AI-moderated interviews, AI vs human moderator UX research, how to run AI-moderated user interviews"
-}
-</script>

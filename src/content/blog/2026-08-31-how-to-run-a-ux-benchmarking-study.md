@@ -2,7 +2,7 @@
 title: "How to Run a UX Benchmarking Study (Metrics + Baselines)"
 description: "Learn how to run a UX benchmarking study: pick metrics like SUS and SUPR-Q, set a defensible baseline, size your sample, and track UX gains over time."
 pubDate: 2026-08-31
-updatedDate: 2026-08-31
+updatedDate: 2026-09-12T12:14:56.446Z
 readingTime: 12
 slug: "how-to-run-a-ux-benchmarking-study"
 author: "Vadim Glazkov"
@@ -17,24 +17,6 @@ tags:
   - "SUS and SUPR-Q benchmarking"
   - "competitive UX benchmarking"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What a UX benchmarking study is (and when to run one)](#what-a-ux-benchmarking-study-is-and-when-to-run-one)
-- [Choose your benchmarking metrics: SUS, SUPR-Q, task success and time](#choose-your-benchmarking-metrics-sus-supr-q-task-success-and-time)
-- [Design the study: moderated vs unmoderated, within vs between subjects](#design-the-study-moderated-vs-unmoderated-within-vs-between-subjects)
-- [Set a defensible baseline for round one](#set-a-defensible-baseline-for-round-one)
-- [Sample size, statistical significance, and participant quality](#sample-size-statistical-significance-and-participant-quality)
-- [Competitive UX benchmarking against rivals and industry norms](#competitive-ux-benchmarking-against-rivals-and-industry-norms)
-- [Track over time: cadence, scorecard, and reporting](#track-over-time-cadence-scorecard-and-reporting)
-- [A benchmarking round in practice: lessons from the field](#a-benchmarking-round-in-practice-lessons-from-the-field)
-- [Common UX benchmarking pitfalls to avoid](#common-ux-benchmarking-pitfalls-to-avoid)
-- [FAQ](#faq)
-- [Your next step](#your-next-step)
-
-Your team ships redesign after redesign, and sooner or later someone in leadership asks whether the experience is actually getting better. A pile of usability findings won't answer that. Knowing how to run a UX benchmarking study gives you a measurement system that returns comparable numbers under the same conditions, round after round.
-
 ## What a UX benchmarking study is (and when to run one)
 
 UX benchmarking means measuring the experience with repeatable metrics, so you can compare results across time, releases, or competitors. The weight sits on *repeatable*: the same tasks, the same metrics, the same participant profile, every time.
@@ -200,34 +182,3 @@ Start with one page of documentation. Write down the four or five metrics you wi
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Run a UX Benchmarking Study (Metrics + Baselines)",
-  "description": "Learn how to run a UX benchmarking study: pick metrics like SUS and SUPR-Q, set a defensible baseline, size your sample, and track UX gains over time.",
-  "datePublished": "2026-08-31",
-  "dateModified": "2026-08-31",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-run-a-ux-benchmarking-study"
-  },
-  "keywords": "how to run a UX benchmarking study, UX benchmarking metrics, usability benchmarking study, SUS and SUPR-Q benchmarking, competitive UX benchmarking, how to benchmark user experience"
-}
-</script>

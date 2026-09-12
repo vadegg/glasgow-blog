@@ -2,7 +2,7 @@
 title: "Mixed Methods Research in UX: Qual + Quant Together"
 description: "Learn when and how to combine qualitative and quantitative UX research with a practical sequencing framework that surfaces answers neither approach can deliver"
 pubDate: 2026-05-20
-updatedDate: 2026-05-20
+updatedDate: 2026-09-12T12:14:54.295Z
 readingTime: 11
 slug: "mixed-methods-research-ux"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "qual quant research integration"
   - "when to use mixed methods in UX"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Neither Qual nor Quant Alone Is Enough](#why-neither-qual-nor-quant-alone-is-enough)
-- [What 'Mixed Methods' Actually Means in a UX Context](#what-mixed-methods-actually-means-in-a-ux-context)
-- [A Decision Framework: Choosing Your Integration Pattern](#a-decision-framework-choosing-your-integration-pattern)
-- [Sequencing in Practice: An Exploratory Sequential Walkthrough](#sequencing-in-practice-an-exploratory-sequential-walkthrough)
-- [Common Integration Mistakes and How to Avoid Them](#common-integration-mistakes-and-how-to-avoid-them)
-- [When Mixed Methods Is Overkill (and What to Do Instead)](#when-mixed-methods-is-overkill-and-what-to-do-instead)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Neither Qual nor Quant Alone Is Enough
 
 Quantitative data tells you what is happening across your user base. Qualitative data tells you why. Both statements are true. Both are incomplete on their own.
@@ -156,34 +144,3 @@ Triangulation means using multiple data sources or methods to examine the same p
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Mixed Methods Research in UX: Qual + Quant Together",
-  "description": "Learn when and how to combine qualitative and quantitative UX research with a practical sequencing framework that surfaces answers neither approach can deliver",
-  "datePublished": "2026-05-20",
-  "dateModified": "2026-05-20",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/mixed-methods-research-ux"
-  },
-  "keywords": "mixed methods research UX, combining qualitative and quantitative UX research, mixed methods user research, qual quant research integration, when to use mixed methods in UX, triangulation in UX research"
-}
-</script>

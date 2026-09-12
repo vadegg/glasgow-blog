@@ -2,7 +2,7 @@
 title: "AI-Moderated vs Human-Moderated Research: The Decision Rule"
 description: "AI-moderated interviews vs human-moderated research: a study-type decision rule, the failure modes to watch, and a transcript QA checklist that proves evidence."
 pubDate: 2026-07-23
-updatedDate: 2026-07-23
+updatedDate: 2026-09-12T12:14:55.947Z
 readingTime: 10
 slug: "ai-moderated-vs-human-moderated-research"
 author: "Vadim Glazkov"
@@ -17,16 +17,6 @@ tags:
   - "when to use a human moderator"
   - "AI-moderated research tools comparison"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [The real question isn't quality — it's who decides what happens next](#the-real-question-isnt-quality-its-who-decides-what-happens-next)
-- [Where AI-moderated interviews actually hold up](#where-ai-moderated-interviews-actually-hold-up)
-- [Five failure modes to watch for in AI-moderated sessions](#five-failure-modes-to-watch-for-in-ai-moderated-sessions)
-- [The call, study type by study type](#the-call-study-type-by-study-type)
-- [Transcript QA: how to tell whether the session produced evidence](#transcript-qa-how-to-tell-whether-the-session-produced-evidence)
-
 ## The real question isn't quality — it's who decides what happens next
 
 The AI-moderated interviews vs human-moderated research debate usually collapses into two unfalsifiable claims. The vendor's: this costs a tenth of what a human moderator costs, and it scales overnight. The purist's: a model can't feel empathy, so it can't do qualitative research. Neither survives five minutes in a project meeting, because neither describes what actually happens inside a session.
@@ -35,7 +25,7 @@ The operative difference is simpler, and much harder to argue away. A human mode
 
 Which gives you the decision rule this article is built around: does the value of the study depend on questions you already know how to ask, or on questions you'll only discover while asking them? Specify the follow-ups in advance and an AI moderator will run them faithfully, at volume, without drift. If the value sits in the follow-up nobody scripted, you need a person in the room.
 
-Our position, stated plainly: AI moderation is defensible for breadth studies — known questions, scripted probes, a large sample. It breaks down wherever depth, sensitivity, or emergent inquiry decide the outcome. This is a method-decision guide, not a tool round-up — no vendor rankings here. For the mechanics of running a good session either way, see [how to conduct user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews). By the end you'll have a study-type call you can apply today, five named failure modes to check for, and a transcript QA checklist that tells you whether a session produced evidence or just conversation.
+Our position, stated plainly: AI moderation is defensible for breadth studies — known questions, scripted probes, a large sample. It breaks down wherever depth, sensitivity, or emergent inquiry decide the outcome. This is a method-decision guide, not a tool round-up — no vendor rankings here. For the mechanics of running a good session either way, see [how to conduct user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews). By the end you'll have a study-type call you can apply today, five named failure modes to check for, and a transcript QA checklist that tells you whether a session produced evidence or just conversation.
 
 ## Where AI-moderated interviews actually hold up
 
@@ -104,39 +94,8 @@ Most comparisons of AI-moderated tools stop at satisfaction scores — participa
 6. **Traceability.** Can every theme in the auto-generated summary be traced back to a named verbatim? If not, treat the summary as a hypothesis to check, not a finding to report — this matters as much when you [analyze user interview data](https://blog.glasgow.works/blog/how-to-analyze-user-interview-data) as it does in the transcripts themselves.
 7. **Drop-off and length distribution.** Sessions clustered right at the minimum expected duration usually mean compliance, not engagement. The participant answered enough to finish, not enough to tell you anything.
 
-Then re-code a sample by hand using proper [thematic analysis](https://blog.glasgow.works/blog/thematic-analysis) before you trust the AI's own theming. The quality assurance job sits on the analysis as much as on the interview — a moderator that ran a flawless session can still hand you a summary that overstates what the transcripts support. Check the transcripts before you check the topline.
+Then re-code a sample by hand using proper [thematic analysis](https://blog.glasgow.works/blog/thematic-analysis-qualitative-research/) before you trust the AI's own theming. The quality assurance job sits on the analysis as much as on the interview — a moderator that ran a flawless session can still hand you a summary that overstates what the transcripts support. Check the transcripts before you check the topline.
 <!-- gr:footer -->
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "AI-Moderated vs Human-Moderated Research: The Decision Rule",
-  "description": "AI-moderated interviews vs human-moderated research: a study-type decision rule, the failure modes to watch, and a transcript QA checklist that proves evidence.",
-  "datePublished": "2026-07-23",
-  "dateModified": "2026-07-23",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/ai-moderated-vs-human-moderated-research"
-  },
-  "keywords": "AI-moderated interviews vs human-moderated research, AI moderated user interviews, AI interview moderator limitations, when to use a human moderator, AI-moderated research tools comparison, conversational AI research interviews, AI vs human probing in qualitative research"
-}
-</script>

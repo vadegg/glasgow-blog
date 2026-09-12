@@ -2,7 +2,7 @@
 title: "Pricing Research for B2B SaaS: What to Charge"
 description: "Learn which pricing research methods—Van Westendorp, conjoint analysis, JTBD interviews—match which B2B SaaS pricing decisions, and how to run them without a"
 pubDate: 2026-06-06
-updatedDate: 2026-06-06
+updatedDate: 2026-09-12T12:14:54.527Z
 readingTime: 15
 slug: "pricing-research-b2b-saas"
 author: "Vadim Glazkov"
@@ -17,22 +17,6 @@ tags:
   - "Van Westendorp price sensitivity"
   - "conjoint analysis B2B"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Pricing Research Is Non-Negotiable for B2B SaaS](#why-pricing-research-is-non-negotiable-for-b2b-saas)
-- [Map your pricing decision before choosing a method](#map-your-pricing-decision-before-choosing-a-method)
-- [Van Westendorp Price Sensitivity Meter: quick range validation](#van-westendorp-price-sensitivity-meter-quick-range-validation)
-- [Conjoint analysis for packaging and tier design](#conjoint-analysis-for-packaging-and-tier-design)
-- [JTBD interviews to uncover value drivers and switching context](#jtbd-interviews-to-uncover-value-drivers-and-switching-context)
-- [Running pricing research without a dedicated research team](#running-pricing-research-without-a-dedicated-research-team)
-- [Turning pricing research into a decision](#turning-pricing-research-into-a-decision)
-- [Frequently asked questions](#frequently-asked-questions)
-
-<!-- gr:disclosure -->
-> Disclosure: this article may mention paid tools. We receive no compensation for any mention; recommendations are based on hands-on use.
-
 ## Why Pricing Research Is Non-Negotiable for B2B SaaS
 
 Pricing is the highest-leverage decision in your go-to-market strategy, yet most SaaS teams set their initial price by benchmarking a competitor, halving the number, and calling it a day. That is not a strategy; it is an avoidance of one.
@@ -176,34 +160,3 @@ Avoid recruiting only satisfied, retained customers — oversample recently chur
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://blog.glasgow.works/services/).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Pricing Research for B2B SaaS: What to Charge",
-  "description": "Learn which pricing research methods—Van Westendorp, conjoint analysis, JTBD interviews—match which B2B SaaS pricing decisions, and how to run them without a",
-  "datePublished": "2026-06-06",
-  "dateModified": "2026-06-06",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/pricing-research-b2b-saas"
-  },
-  "keywords": "pricing research B2B SaaS, B2B SaaS pricing strategy, willingness to pay research, Van Westendorp price sensitivity, conjoint analysis B2B, how to price a SaaS product"
-}
-</script>

@@ -2,7 +2,7 @@
 title: "UX Research for B2B SaaS: Methods That Actually Work"
 description: "B2B SaaS UX research demands different methods, participants, and success metrics than consumer research. Learn how to adapt your practice and get better"
 pubDate: 2026-07-17
-updatedDate: 2026-07-17
+updatedDate: 2026-09-12T12:14:55.689Z
 readingTime: 11
 slug: "ux-research-b2b-saas"
 author: "Vadim Glazkov"
@@ -17,17 +17,6 @@ tags:
   - "user research for SaaS products"
   - "B2B UX research methods"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why B2B SaaS UX research is fundamentally different](#why-b2b-saas-ux-research-is-fundamentally-different)
-- [The core methods for B2B SaaS UX research](#the-core-methods-for-b2b-saas-ux-research)
-- [Recruiting B2B participants: the hardest part of the job](#recruiting-b2b-participants-the-hardest-part-of-the-job)
-- [Unique challenges in B2B SaaS UX research — and how to navigate them](#unique-challenges-in-b2b-saas-ux-research-and-how-to-navigate-them)
-- [Connecting UX research to commercial outcomes in B2B SaaS](#connecting-ux-research-to-commercial-outcomes-in-b2b-saas)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## Why B2B SaaS UX research is fundamentally different
 
 Most UX research practice was shaped by consumer products. B2B SaaS breaks almost every assumption that practice rests on.
@@ -123,34 +112,3 @@ Recruiting only champion users and treating their experience as representative. 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "UX Research for B2B SaaS: Methods That Actually Work",
-  "description": "B2B SaaS UX research demands different methods, participants, and success metrics than consumer research. Learn how to adapt your practice and get better",
-  "datePublished": "2026-07-17",
-  "dateModified": "2026-07-17",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/ux-research-b2b-saas"
-  },
-  "keywords": "UX research for B2B SaaS, B2B SaaS user research, UX research enterprise software, user research for SaaS products, B2B UX research methods, SaaS product research"
-}
-</script>

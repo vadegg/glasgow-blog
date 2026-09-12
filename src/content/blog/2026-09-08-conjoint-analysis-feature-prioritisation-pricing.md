@@ -2,7 +2,7 @@
 title: "Conjoint Analysis for Feature Prioritisation & Pricing"
 description: "A practitioner guide to designing, running, and interpreting a conjoint study for feature and pricing decisions — plus when conjoint beats MaxDiff or Van"
 pubDate: 2026-09-08
-updatedDate: 2026-09-08
+updatedDate: 2026-09-12T12:14:56.799Z
 readingTime: 11
 slug: "conjoint-analysis-feature-prioritisation-pricing"
 author: "Vadim Glazkov"
@@ -17,23 +17,6 @@ tags:
   - "conjoint analysis vs MaxDiff"
   - "how to run a conjoint analysis"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What conjoint analysis actually measures (and what it doesn't)](#what-conjoint-analysis-actually-measures-and-what-it-doesnt)
-- [When conjoint beats MaxDiff, Van Westendorp, and Gabor-Granger](#when-conjoint-beats-maxdiff-van-westendorp-and-gabor-granger)
-- [Step 1: Choose your attributes and levels](#step-1-choose-your-attributes-and-levels)
-- [Step 2: Pick the right conjoint type](#step-2-pick-the-right-conjoint-type)
-- [Step 3: Field it — sample size, choice tasks, and recruiting](#step-3-field-it-sample-size-choice-tasks-and-recruiting)
-- [Step 4: Interpret the results without over-claiming](#step-4-interpret-the-results-without-over-claiming)
-- [A worked example: a B2B SaaS packaging and pricing call](#a-worked-example-a-b2b-saas-packaging-and-pricing-call)
-- [Common conjoint mistakes to avoid](#common-conjoint-mistakes-to-avoid)
-- [FAQ](#faq)
-
-<!-- gr:disclosure -->
-> Disclosure: this article may mention paid tools. We receive no compensation for any mention; recommendations are based on hands-on use.
-
 ## What conjoint analysis actually measures (and what it doesn't)
 
 Conjoint analysis is a trade-off method. You show respondents realistic product profiles — combinations of features, tiers, and prices — and ask which one they'd buy. It doesn't ask what matters to people. It watches what they give up when a choice forces the issue.
@@ -147,34 +130,3 @@ Start smaller than feels comfortable: screen the feature list with MaxDiff, cut 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Conjoint Analysis for Feature Prioritisation & Pricing",
-  "description": "A practitioner guide to designing, running, and interpreting a conjoint study for feature and pricing decisions — plus when conjoint beats MaxDiff or Van",
-  "datePublished": "2026-09-08",
-  "dateModified": "2026-09-08",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/conjoint-analysis-feature-prioritisation-pricing"
-  },
-  "keywords": "conjoint analysis for feature prioritisation, conjoint analysis pricing, choice-based conjoint study, conjoint analysis vs MaxDiff, how to run a conjoint analysis"
-}
-</script>

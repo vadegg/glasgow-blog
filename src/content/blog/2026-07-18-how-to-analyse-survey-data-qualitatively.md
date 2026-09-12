@@ -2,7 +2,7 @@
 title: "How to Analyse Survey Data Qualitatively"
 description: "A step-by-step practitioner guide to analysing open-ended survey responses — covering cleaning, coding, theme development, and integrating findings with"
 pubDate: 2026-07-18
-updatedDate: 2026-07-18
+updatedDate: 2026-09-12T12:14:55.720Z
 readingTime: 12
 slug: "how-to-analyse-survey-data-qualitatively"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "survey open-ends analysis"
   - "thematic analysis of survey data"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Open-Ended Survey Responses Deserve a Qualitative Workflow](#why-open-ended-survey-responses-deserve-a-qualitative-workflow)
-- [Step 1 — Clean and prepare your response set](#step-1-clean-and-prepare-your-response-set)
-- [Step 2 — Develop a coding scheme for open-ends](#step-2-develop-a-coding-scheme-for-open-ends)
-- [Step 3 — Build themes from codes](#step-3-build-themes-from-codes)
-- [Step 4 — Integrate open-end themes with closed-question results](#step-4-integrate-open-end-themes-with-closed-question-results)
-- [Common pitfalls and how to avoid over-claiming](#common-pitfalls-and-how-to-avoid-over-claiming)
-- [Communicating qualitative survey findings to stakeholders](#communicating-qualitative-survey-findings-to-stakeholders)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## Why Open-Ended Survey Responses Deserve a Qualitative Workflow
 
 Surveys are usually built as quantitative instruments — scales, rankings, multiple-choice grids. Yet almost every survey carries at least one open-ended question, and that question tends to sit on a qualitative goldmine that teams rarely excavate properly.
@@ -161,34 +148,3 @@ Not automatically. Open-ends add analytical overhead and respondent burden. Incl
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Analyse Survey Data Qualitatively",
-  "description": "A step-by-step practitioner guide to analysing open-ended survey responses — covering cleaning, coding, theme development, and integrating findings with",
-  "datePublished": "2026-07-18",
-  "dateModified": "2026-07-18",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-analyse-survey-data-qualitatively"
-  },
-  "keywords": "how to analyse survey data qualitatively, qualitative survey analysis, analysing open-ended survey responses, survey open-ends analysis, thematic analysis of survey data, coding open-ended questions"
-}
-</script>

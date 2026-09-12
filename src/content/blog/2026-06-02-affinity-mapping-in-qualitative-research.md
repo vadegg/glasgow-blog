@@ -2,6 +2,7 @@
 title: "Affinity Mapping in Qualitative Research: Step-by-Step"
 description: "Learn how to run affinity mapping in qualitative research — from raw interview notes to structured insights. A practical step-by-step guide for UX and product"
 pubDate: 2026-06-02
+updatedDate: 2026-09-12T12:14:54.436Z
 slug: "affinity-mapping-in-qualitative-research"
 readingTime: 12
 author: "Vadim Glazkov"
@@ -16,25 +17,13 @@ tags:
   - "affinity mapping workshop"
   - "qualitative data synthesis"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is Affinity Mapping?](#what-is-affinity-mapping)
-- [When to Use Affinity Mapping vs Thematic Analysis](#when-to-use-affinity-mapping-vs-thematic-analysis)
-- [What You Need Before You Start](#what-you-need-before-you-start)
-- [Step-by-Step: How to Run an Affinity Mapping Session](#step-by-step-how-to-run-an-affinity-mapping-session)
-- [Turning Your Affinity Map into Actionable Insights](#turning-your-affinity-map-into-actionable-insights)
-- [Common Mistakes and How to Avoid Them](#common-mistakes-and-how-to-avoid-them)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Is Affinity Mapping?
 
 Affinity mapping is a bottom-up synthesis technique for organising raw qualitative observations into emergent themes. Rather than applying a pre-set framework to your data, you let categories form from the material itself — clusters arise because notes share something, not because a codebook told you where to put them.
 
 This distinction matters. In top-down coding, you define a schema first and sort data into it. In affinity mapping, the labels come last. The approach originates in the KJ method, developed by Japanese anthropologist Kawakita Jiro in the 1960s, and it has since become a standard tool in UX and product research — valued precisely because it surfaces unexpected patterns rather than confirming existing ones.
 
-The two most common inputs are notes from [user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) and observations from [usability testing sessions](https://blog.glasgow.works/guerrilla-usability-testing-guide). Both produce the kind of granular, behavioural data that affinity mapping handles well: discrete moments, verbatim quotes, and specific actions that resist neat categorisation before you look across them as a whole.
+The two most common inputs are notes from [user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) and observations from [usability testing sessions](https://blog.glasgow.works/blog/guerrilla-usability-testing-guide). Both produce the kind of granular, behavioural data that affinity mapping handles well: discrete moments, verbatim quotes, and specific actions that resist neat categorisation before you look across them as a whole.
 
 ---
 
@@ -69,7 +58,7 @@ Good affinity mapping depends on preparation. Arriving at a session with poorly 
 
 **Team composition.** A researcher facilitator plus one to three cross-functional observers is ideal. More than five people and the sorting phase becomes chaotic; fewer than two and you lose the challenge-and-debate step that improves cluster quality.
 
-**Pre-work.** De-identify notes before the session. Strip interpretation. Where you have a verbatim quote, use it — the participant's own words make for stronger cluster labels later. For guidance on capturing this quality of note during fieldwork, see [how to conduct user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews).
+**Pre-work.** De-identify notes before the session. Strip interpretation. Where you have a verbatim quote, use it — the participant's own words make for stronger cluster labels later. For guidance on capturing this quality of note during fieldwork, see [how to conduct user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews).
 
 ---
 
@@ -85,7 +74,7 @@ Everyone places their notes on the board simultaneously, in silence. No explanat
 
 Move notes into proximity clusters, still in silence and still simultaneously. If you think a note belongs near another, place it there. If someone else moves a note you placed, let it go — disagreements are surfaced in Step 5, not now. The silence prevents one confident voice from shaping everyone else's groupings prematurely.
 
-If you are working with notes from [guerrilla usability testing findings](https://blog.glasgow.works/guerrilla-usability-testing-guide), you may notice clusters forming around specific interface moments — that is expected and useful. Do not force them to merge with attitudinal clusters from interviews.
+If you are working with notes from [guerrilla usability testing findings](https://blog.glasgow.works/blog/guerrilla-usability-testing-guide), you may notice clusters forming around specific interface moments — that is expected and useful. Do not force them to merge with attitudinal clusters from interviews.
 
 **Step 3 — Name (10–15 minutes)**
 
@@ -163,29 +152,7 @@ The terms are used interchangeably in UX and product research. "Affinity diagram
 
 The map is stable when three conditions are met: moving any remaining ungrouped notes does not change the meaning of existing clusters; every cluster has a clear, single-sentence label that the whole team agrees on; and the hierarchy reflects what the data shows rather than assumptions the team brought into the room. If the team is still debating whether a note belongs in one cluster or another, the label for at least one of those clusters probably needs refining.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Affinity Mapping in Qualitative Research: Step-by-Step",
-  "description": "Learn how to run affinity mapping in qualitative research — from raw interview notes to structured insights. A practical step-by-step guide for UX and product teams.",
-  "datePublished": "2026-06-02",
-  "dateModified": "2026-06-02",
-  "author": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/affinity-mapping-in-qualitative-research"
-  },
-  "keywords": "affinity mapping in qualitative research, affinity diagram ux research, how to do affinity mapping, affinity mapping workshop, qualitative data synthesis, affinity mapping vs thematic analysis"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

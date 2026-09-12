@@ -2,7 +2,7 @@
 title: "User Research Plan Template: Structure Any Study"
 description: "A practical user research plan template covering every section you need — research questions, methods, participant criteria, timeline and success metrics — so"
 pubDate: 2026-06-09
-updatedDate: 2026-06-09
+updatedDate: 2026-09-12T12:14:54.631Z
 readingTime: 14
 slug: "user-research-plan-template"
 author: "Vadim Glazkov"
@@ -17,25 +17,6 @@ tags:
   - "research study plan template"
   - "ux research planning"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why a Research Plan Is Worth Writing Before You Recruit Anyone](#why-a-research-plan-is-worth-writing-before-you-recruit-anyone)
-- [The 8-Section User Research Plan Template (with Guidance Notes)](#the-8-section-user-research-plan-template-with-guidance-notes)
-- [Section 1 — Research Background and Business Context](#section-1-research-background-and-business-context)
-- [Section 2 — Research Questions (Not Interview Questions)](#section-2-research-questions-not-interview-questions)
-- [Section 3 — Methodology and Rationale](#section-3-methodology-and-rationale)
-- [Section 4 — Participant Criteria and Recruitment Approach](#section-4-participant-criteria-and-recruitment-approach)
-- [Section 5 — Timeline, Logistics and Roles](#section-5-timeline-logistics-and-roles)
-- [Section 6 — Analysis and Synthesis Approach](#section-6-analysis-and-synthesis-approach)
-- [Section 7 — Outputs, Deliverables and Sharing Plan](#section-7-outputs-deliverables-and-sharing-plan)
-- [Section 8 — Ethical Considerations and Consent Requirements](#section-8-ethical-considerations-and-consent-requirements)
-- [How to Adapt the Template for Different Study Types](#how-to-adapt-the-template-for-different-study-types)
-- [A Real Plan in Practice: What We Changed Mid-Study (and Why)](#a-real-plan-in-practice-what-we-changed-mid-study-and-why)
-- [Common Mistakes Researchers Make When Planning a Study](#common-mistakes-researchers-make-when-planning-a-study)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why a Research Plan Is Worth Writing Before You Recruit Anyone
 
 Studies without a written plan drift. Scope expands mid-recruitment, sessions attract the wrong participants, and the data that comes back answers questions nobody actually asked. By the time you notice, two weeks and a recruitment budget have gone on material you cannot use.
@@ -83,7 +64,7 @@ Good RQs tend to open with *How…*, *Why…*, or *To what extent…*. Aim for t
 
 The weak version is vague and evaluative in a circular way. The stronger version names a specific user, a specific task, and a condition that defines success.
 
-Once the RQs are stable, use them to drive [structuring a user interview discussion guide](https://blog.glasgow.works/how-to-conduct-user-interviews) — each section of the guide should trace back to at least one RQ.
+Once the RQs are stable, use them to drive [structuring a user interview discussion guide](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) — each section of the guide should trace back to at least one RQ.
 
 ---
 
@@ -230,34 +211,3 @@ At minimum: the lead researcher, the product owner or commissioning stakeholder,
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "User Research Plan Template: Structure Any Study",
-  "description": "A practical user research plan template covering every section you need — research questions, methods, participant criteria, timeline and success metrics — so",
-  "datePublished": "2026-06-09",
-  "dateModified": "2026-06-09",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/user-research-plan-template"
-  },
-  "keywords": "user research plan template, research plan ux, how to write a ux research plan, research study plan template, ux research planning, research brief template"
-}
-</script>

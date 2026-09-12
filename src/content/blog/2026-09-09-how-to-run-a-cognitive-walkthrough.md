@@ -2,7 +2,7 @@
 title: "How to Run a Cognitive Walkthrough: Step-by-Step Guide"
 description: "Learn how to run a cognitive walkthrough, identify where users may struggle and turn task-level findings into clear, prioritised UX improvements. Read on."
 pubDate: 2026-09-09
-updatedDate: 2026-09-09
+updatedDate: 2026-09-12T12:14:56.836Z
 readingTime: 11
 slug: "how-to-run-a-cognitive-walkthrough"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "cognitive walkthrough example"
   - "cognitive walkthrough vs usability testing"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What is a cognitive walkthrough?](#what-is-a-cognitive-walkthrough)
-- [Prepare the walkthrough](#prepare-the-walkthrough)
-- [How to run a cognitive walkthrough in five steps](#how-to-run-a-cognitive-walkthrough-in-five-steps)
-- [The four cognitive walkthrough questions](#the-four-cognitive-walkthrough-questions)
-- [Document and prioritise the findings](#document-and-prioritise-the-findings)
-- [Cognitive walkthrough example: completing a SaaS task](#cognitive-walkthrough-example-completing-a-saas-task)
-- [Cognitive walkthrough vs usability testing](#cognitive-walkthrough-vs-usability-testing)
-- [Frequently asked questions](#frequently-asked-questions)
-
-A critical task can feel obvious to the team that designed it and still be difficult for a new user to learn. A cognitive walkthrough helps you inspect that risk before recruiting participants or building more of the product.
-
 ## What is a cognitive walkthrough?
 
 A cognitive walkthrough is an expert evaluation of how easily a defined user can learn to complete a specific task. Evaluators work through the flow one action at a time. They consider the user’s goal, the actions available, the system’s feedback and whether the next step is clear.
@@ -175,36 +160,7 @@ Pick one high-risk task. Write a realistic scenario and prepare a shared workshe
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Run a Cognitive Walkthrough: Step-by-Step Guide",
-  "description": "Learn how to run a cognitive walkthrough, identify where users may struggle and turn task-level findings into clear, prioritised UX improvements. Read on.",
-  "datePublished": "2026-09-09",
-  "dateModified": "2026-09-09",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-run-a-cognitive-walkthrough"
-  },
-  "keywords": "how to run a cognitive walkthrough, cognitive walkthrough UX, cognitive walkthrough steps, cognitive walkthrough example, cognitive walkthrough vs usability testing, cognitive walkthrough questions"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

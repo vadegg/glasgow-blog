@@ -2,7 +2,7 @@
 title: "UX Research Panel Management: Build & Maintain a Panel"
 description: "Learn how ResearchOps teams build, segment, and sustain a healthy UX research panel for continuous research—without panel fatigue, bias, or burnout. Read on."
 pubDate: 2026-07-20
-updatedDate: 2026-07-20
+updatedDate: 2026-09-12T12:14:55.820Z
 readingTime: 12
 slug: "ux-research-panel-management"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "managing a research participant pool"
   - "panel fatigue in user research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What is a UX research panel (and why it's different from one-off recruiting)](#what-is-a-ux-research-panel-and-why-its-different-from-one-off-recruiting)
-- [Why continuous panels beat one-off recruiting at scale](#why-continuous-panels-beat-one-off-recruiting-at-scale)
-- [Building your panel: sourcing, screening, and onboarding](#building-your-panel-sourcing-screening-and-onboarding)
-- [Segmenting and screening your panel for fast, accurate matching](#segmenting-and-screening-your-panel-for-fast-accurate-matching)
-- [Where panel data lives: database and tooling choices](#where-panel-data-lives-database-and-tooling-choices)
-- [Keeping panellists engaged: communication cadence and incentives](#keeping-panellists-engaged-communication-cadence-and-incentives)
-- [Avoiding panel fatigue and bias: rotation, refresh, and retirement rules](#avoiding-panel-fatigue-and-bias-rotation-refresh-and-retirement-rules)
-- [Compliance, consent, and data retention for panels](#compliance-consent-and-data-retention-for-panels)
-- [Metrics that signal a healthy panel](#metrics-that-signal-a-healthy-panel)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## What is a UX research panel (and why it's different from one-off recruiting)
 
 Good UX research panel management starts with one distinction. A research panel is a pre-vetted, opted-in pool of participants who have agreed to take part in studies on an ongoing basis. You aren't starting from zero each time. You're drawing on people who already know your product, understand what taking part involves, and have consented to hearing from you again.
@@ -138,36 +123,7 @@ Yes. A research panel supplies participants for studies — usually a broad, som
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "UX Research Panel Management: Build & Maintain a Panel",
-  "description": "Learn how ResearchOps teams build, segment, and sustain a healthy UX research panel for continuous research—without panel fatigue, bias, or burnout. Read on.",
-  "datePublished": "2026-07-20",
-  "dateModified": "2026-07-20",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/ux-research-panel-management"
-  },
-  "keywords": "UX research panel management, participant panel management, research panel best practices, managing a research participant pool, panel fatigue in user research, ongoing research participant database"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

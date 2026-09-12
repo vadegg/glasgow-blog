@@ -2,7 +2,7 @@
 title: "How B2B Buyers Use AI to Research & Shortlist Vendors"
 description: "Half of B2B buyers now start vendor research in AI chatbots. See how AI-mediated shortlisting works — and how to update your win-loss, VoC and buyer research."
 pubDate: 2026-08-01
-updatedDate: 2026-08-01
+updatedDate: 2026-09-12T12:14:56.151Z
 readingTime: 11
 slug: "how-b2b-buyers-use-ai-to-research-vendors"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "AI-mediated buying journey"
   - "win-loss analysis AI buying"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [How the AI-mediated buying journey actually works](#how-the-ai-mediated-buying-journey-actually-works)
-- [The numbers reshaping vendor shortlists](#the-numbers-reshaping-vendor-shortlists)
-- [What buyers actually ask AI — and what the model tells them](#what-buyers-actually-ask-ai-and-what-the-model-tells-them)
-- [What this means for your win-loss analysis](#what-this-means-for-your-win-loss-analysis)
-- [Updating your buyer research and VoC methods](#updating-your-buyer-research-and-voc-methods)
-- [Using AI in your own research — without importing its blind spots](#using-ai-in-your-own-research-without-importing-its-blind-spots)
-- [A research-first playbook to stay on the AI shortlist](#a-research-first-playbook-to-stay-on-the-ai-shortlist)
-- [FAQ](#faq)
-
 ## How the AI-mediated buying journey actually works
 
 Most B2B journey maps still draw a straight line — awareness, research, evaluation, decision — with your website and sales team touching every stage. That picture is out of date. Discovery, comparison and evaluation now happen inside a chatbot, often before a buyer speaks to a single vendor. By the time someone fills in a contact form, the shortlist is usually already fixed.
@@ -122,34 +109,3 @@ Add a small set of direct questions to your existing interview guide: whether th
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How B2B Buyers Use AI to Research & Shortlist Vendors",
-  "description": "Half of B2B buyers now start vendor research in AI chatbots. See how AI-mediated shortlisting works — and how to update your win-loss, VoC and buyer research.",
-  "datePublished": "2026-08-01",
-  "dateModified": "2026-08-01",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-b2b-buyers-use-ai-to-research-vendors"
-  },
-  "keywords": "how B2B buyers use AI to research vendors, AI vendor shortlisting B2B, ChatGPT B2B buyer research, AI-mediated buying journey, win-loss analysis AI buying, how buyers evaluate vendors with AI"
-}
-</script>

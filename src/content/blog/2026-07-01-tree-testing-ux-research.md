@@ -2,7 +2,7 @@
 title: "Tree Testing in UX Research: How to Run It"
 description: "Learn how to run tree testing in UX research, interpret success rates and directness scores, and use results to validate your information architecture before"
 pubDate: 2026-07-01
-updatedDate: 2026-07-01
+updatedDate: 2026-09-12T12:14:55.078Z
 readingTime: 13
 slug: "tree-testing-ux-research"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "information architecture testing"
   - "tree testing tools"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Tree Testing Actually Is (and Isn't)](#what-tree-testing-actually-is-and-isnt)
-- [Tree Testing vs Card Sorting: When to Use Each](#tree-testing-vs-card-sorting-when-to-use-each)
-- [How to Build a Tree for Testing](#how-to-build-a-tree-for-testing)
-- [Writing Tasks That Produce Reliable Data](#writing-tasks-that-produce-reliable-data)
-- [Choosing a Tree Testing Tool](#choosing-a-tree-testing-tool)
-- [Running the Study: Recruitment and Fieldwork](#running-the-study-recruitment-and-fieldwork)
-- [Interpreting the Data: Success Rates, Directness, and Path Analysis](#interpreting-the-data-success-rates-directness-and-path-analysis)
-- [Turning Findings into IA Changes Without Over-Reacting](#turning-findings-into-ia-changes-without-over-reacting)
-- [Where Tree Testing Fits in a Broader Research Programme](#where-tree-testing-fits-in-a-broader-research-programme)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Tree Testing Actually Is (and Isn't)
 
 Tree testing is a remote, task-based method that evaluates navigation structure in isolation. Participants see only a text-based hierarchy of labels — no colour, no layout, no visual cues — and they're asked where they would go to complete a specific goal. That stripped-back format is deliberate. It lets you test whether your information architecture (IA) works before a single screen has been designed.
@@ -177,34 +162,3 @@ A direct success is a completion where the participant reached the correct desti
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Tree Testing in UX Research: How to Run It",
-  "description": "Learn how to run tree testing in UX research, interpret success rates and directness scores, and use results to validate your information architecture before",
-  "datePublished": "2026-07-01",
-  "dateModified": "2026-07-01",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/tree-testing-ux-research"
-  },
-  "keywords": "tree testing in UX research, tree testing vs card sorting, how to run a tree test, information architecture testing, tree testing tools, findability testing"
-}
-</script>

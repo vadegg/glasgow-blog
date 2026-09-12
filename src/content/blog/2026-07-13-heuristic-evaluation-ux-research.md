@@ -2,7 +2,7 @@
 title: "Heuristic Evaluation in UX Research: A Practitioner's Guide"
 description: "Learn how to plan, run, and report a heuristic evaluation in real product teams — including exactly when it beats usability testing and when it doesn't."
 pubDate: 2026-07-13
-updatedDate: 2026-07-13
+updatedDate: 2026-09-12T12:14:55.548Z
 readingTime: 14
 slug: "heuristic-evaluation-ux-research"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "Nielsen heuristics UX"
   - "expert review UX research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is a Heuristic Evaluation (and What It Isn't)](#what-is-a-heuristic-evaluation-and-what-it-isnt)
-- [Heuristic Evaluation vs Usability Testing: When to Use Which](#heuristic-evaluation-vs-usability-testing-when-to-use-which)
-- [Planning a Heuristic Evaluation: Scope, Evaluators, and Heuristic Set](#planning-a-heuristic-evaluation-scope-evaluators-and-heuristic-set)
-- [Running the Evaluation: A Step-by-Step Process](#running-the-evaluation-a-step-by-step-process)
-- [From Issue Log to Stakeholder Report: What Good Reporting Looks Like](#from-issue-log-to-stakeholder-report-what-good-reporting-looks-like)
-- [A Real-World Example: Heuristic Evaluation on a B2B SaaS Onboarding Flow](#a-real-world-example-heuristic-evaluation-on-a-b2b-saas-onboarding-flow)
-- [Common Mistakes That Undermine a Heuristic Evaluation](#common-mistakes-that-undermine-a-heuristic-evaluation)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Is a Heuristic Evaluation (and What It Isn't)
 
 A heuristic evaluation is a structured expert inspection of an interface against a defined set of usability principles. That qualifier matters. It is not a freeform design critique, a stakeholder review session, or a designer riffing on colour choices. Every finding must be traceable to a named principle — a heuristic — and the output is a prioritised issue list, not a bag of qualitative user insights.
@@ -128,7 +115,7 @@ Eight severity-2 issues covered inconsistent terminology across steps, missing p
 
 The two severity-4 issues were fixed before the usability sessions ran. When the sessions took place, error recovery did not come up once — because the recovery path now worked. What the sessions did surface was what the team actually needed to understand: how users conceptualised the product's core task and where their mental model diverged from the design team's assumptions. That insight shaped a significant structural change to the onboarding sequence.
 
-For teams weighing whether a lightweight evaluation pass is worth the time before a study, that outcome is a reasonable answer. See also our [guerrilla usability testing guide](https://blog.glasgow.works/guerrilla-usability-testing-guide) for pairing low-cost evaluation methods in constrained timelines.
+For teams weighing whether a lightweight evaluation pass is worth the time before a study, that outcome is a reasonable answer. See also our [guerrilla usability testing guide](https://blog.glasgow.works/blog/guerrilla-usability-testing-guide) for pairing low-cost evaluation methods in constrained timelines.
 
 ---
 
@@ -165,34 +152,3 @@ Primarily qualitative. The output is a described list of usability issues tied t
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Heuristic Evaluation in UX Research: A Practitioner's Guide",
-  "description": "Learn how to plan, run, and report a heuristic evaluation in real product teams — including exactly when it beats usability testing and when it doesn't.",
-  "datePublished": "2026-07-13",
-  "dateModified": "2026-07-13",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/heuristic-evaluation-ux-research"
-  },
-  "keywords": "heuristic evaluation in UX research, how to run a heuristic evaluation, heuristic evaluation vs usability testing, Nielsen heuristics UX, expert review UX research, heuristic evaluation process"
-}
-</script>

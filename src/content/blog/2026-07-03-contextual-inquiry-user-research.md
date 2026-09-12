@@ -2,7 +2,7 @@
 title: "Contextual Inquiry: How to Run It and What It Tells You"
 description: "Learn how to plan, run, and analyse a contextual inquiry study — and discover why observing users in their real environment reveals what interviews alone never"
 pubDate: 2026-07-03
-updatedDate: 2026-07-03
+updatedDate: 2026-09-12T12:14:55.181Z
 readingTime: 11
 slug: "contextual-inquiry-user-research"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "how to run a contextual inquiry"
   - "contextual inquiry vs user interview"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is Contextual Inquiry?](#what-is-contextual-inquiry)
-- [Contextual Inquiry vs User Interviews: When to Choose Which](#contextual-inquiry-vs-user-interviews-when-to-choose-which)
-- [Planning Your Contextual Inquiry Study](#planning-your-contextual-inquiry-study)
-- [Running the Session: A Step-by-Step Walkthrough](#running-the-session-a-step-by-step-walkthrough)
-- [Analysing What You Observed](#analysing-what-you-observed)
-- [Common Mistakes and How to Avoid Them](#common-mistakes-and-how-to-avoid-them)
-- [What Contextual Inquiry Tells You That Other Methods Don't](#what-contextual-inquiry-tells-you-that-other-methods-dont)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Is Contextual Inquiry?
 
 Contextual inquiry (CI) is a structured field research method in which a researcher observes and interviews a participant inside their natural work or use environment. Rather than asking people to recall how they do something, you watch them do it — then ask questions as the behaviour unfolds in front of you.
@@ -216,34 +203,3 @@ Ethnography typically involves extended immersion — days, weeks, or longer —
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Contextual Inquiry: How to Run It and What It Tells You",
-  "description": "Learn how to plan, run, and analyse a contextual inquiry study — and discover why observing users in their real environment reveals what interviews alone never",
-  "datePublished": "2026-07-03",
-  "dateModified": "2026-07-03",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/contextual-inquiry-user-research"
-  },
-  "keywords": "contextual inquiry user research, contextual inquiry ux, contextual inquiry method, how to run a contextual inquiry, contextual inquiry vs user interview, field research ux"
-}
-</script>

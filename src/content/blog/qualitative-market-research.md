@@ -4,7 +4,7 @@ readingTime: 12
 title: "Qualitative Market Research: When Interviews Beat Bigger Sample Sizes"
 description: "Learn when qualitative market research beats bigger sample sizes in B2B SaaS, and how to act on interview signal without faking statistical certainty."
 pubDate: 2026-03-26T00:00:00Z
-updatedDate: 2026-05-10T06:24:41Z
+updatedDate: 2026-09-12T12:14:57.522Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
@@ -15,34 +15,6 @@ tags:
   - "b2b research"
   - "market research methods"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What qualitative market research is actually for](#what-qualitative-market-research-is-actually-for)
-- [When interviews beat bigger sample sizes](#when-interviews-beat-bigger-sample-sizes)
-- [Where teams misuse qualitative market research](#where-teams-misuse-qualitative-market-research)
-- [Choose the method that matches the decision](#choose-the-method-that-matches-the-decision)
-- [How to work with small-N signal without fooling yourself](#how-to-work-with-small-n-signal-without-fooling-yourself)
-- [FAQ](#faq)
-- [Final point](#final-point)
-
-Most teams ask the sample-size question too early.
-
-They ask, "How many interviews is enough?" before they ask what decision the research is supposed to support.
-
-That is the wrong order.
-
-If the real question is whether a problem exists strongly enough to keep funding, a bigger sample is not automatically better. Sometimes a smaller number of strong interviews tells you more, faster, and with less self-deception.
-
-I have seen a B2B team try to validate a new hypothesis quantitatively when it should have been much more worried about whether the problem existed at all. Eight depth interviews later, eight out of eight respondents did not have the problem. That was enough. Not enough to estimate the market. Enough to stop pretending the hypothesis deserved more money.
-
-That is the frame for this article.
-
-Qualitative market research is not valuable because it feels deep. It is valuable when the decision depends on things bigger samples usually do not explain well: why people behave the way they do, how they describe the problem, what they do instead, who actually influences the purchase, and which hypothesis should die before it gets expensive.
-
-If the question is about prevalence, frequency, or share, bigger samples still matter. But if the question is about mechanism, context, and decision quality, interviews can beat bigger sample sizes very quickly.
-
 ## What qualitative market research is actually for
 
 Standard definitions from sources like Qualtrics, the Interaction Design Foundation, and QuestionPro all point in the same direction: qualitative research is meant to uncover underlying reasons, motivations, context, and non-numerical behavior.

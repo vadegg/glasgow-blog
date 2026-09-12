@@ -2,7 +2,7 @@
 title: "Diary Study UX Research: How to Run Longitudinal Studies"
 description: "Learn when diary studies outperform one-shot UX methods and how to design, recruit for, and analyse longitudinal studies without losing participants mid-study."
 pubDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-09-12T12:14:54.690Z
 readingTime: 13
 slug: "diary-study-ux-research"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "experience sampling research"
   - "how to run a diary study"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What is a diary study in UX research?](#what-is-a-diary-study-in-ux-research)
-- [When to choose a diary study over other methods](#when-to-choose-a-diary-study-over-other-methods)
-- [Designing your diary study: structure, prompts, and duration](#designing-your-diary-study-structure-prompts-and-duration)
-- [Recruiting and retaining participants without mid-study drop-off](#recruiting-and-retaining-participants-without-mid-study-drop-off)
-- [Running the study: keeping participants engaged day to day](#running-the-study-keeping-participants-engaged-day-to-day)
-- [Analysing diary data: from raw logs to longitudinal insight](#analysing-diary-data-from-raw-logs-to-longitudinal-insight)
-- [Communicating diary study findings to stakeholders](#communicating-diary-study-findings-to-stakeholders)
-- [Common mistakes and how to avoid them](#common-mistakes-and-how-to-avoid-them)
-
-A diary study can show you what an interview cannot: how a user's experience shifts across days and weeks, in their own environment, in their own words. This guide covers when to choose the method, how to design and run it, and how to analyse the data without losing the temporal signal that justifies the effort.
-
 ## What is a diary study in UX research?
 
 A diary study is a longitudinal self-reporting method. Participants log their own experiences — in real time, or close to it — across days or weeks. Instead of bringing users into a lab or scheduling a single interview, you ask them to record what happens as it happens.
@@ -42,7 +27,7 @@ Three variants are worth distinguishing:
 - **Semi-structured diary studies** provide a loose framework but let participants describe events in their own words and at their own pace.
 - **Experience sampling method (ESM)** triggers an entry based on an event ("complete this after you next use the product") or a random time signal. ESM reduces recall lag but can feel intrusive.
 
-The critical distinction from one-shot methods is temporal. [User interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) and usability tests capture a moment — what a person thinks or does in a specific, bounded session. Diary studies capture change: how behaviour shifts, how frustration accumulates or fades, how a product is adopted across multiple real-world contexts.
+The critical distinction from one-shot methods is temporal. [User interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) and usability tests capture a moment — what a person thinks or does in a specific, bounded session. Diary studies capture change: how behaviour shifts, how frustration accumulates or fades, how a product is adopted across multiple real-world contexts.
 
 Log format should match what participants will tolerate. Text works for most studies. Photos add spatial context — a cluttered desk, a confusing receipt. Short audio or video clips are richer but create transcription overhead. Don't default to the richest format; default to the one participants will actually sustain.
 
@@ -170,34 +155,3 @@ A clear next step: if you're considering a diary study for a current project, wr
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Diary Study UX Research: How to Run Longitudinal Studies",
-  "description": "Learn when diary studies outperform one-shot UX methods and how to design, recruit for, and analyse longitudinal studies without losing participants mid-study.",
-  "datePublished": "2026-06-19",
-  "dateModified": "2026-06-19",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/diary-study-ux-research"
-  },
-  "keywords": "diary study ux research, longitudinal user research, diary study method, experience sampling research, how to run a diary study, longitudinal qualitative research"
-}
-</script>

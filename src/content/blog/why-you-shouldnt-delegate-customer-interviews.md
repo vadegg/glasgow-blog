@@ -4,7 +4,7 @@ readingTime: 8
 title: "Why You Shouldn't Delegate Customer Interviews to Non-Researchers"
 description: "Learn why delegating customer interviews to non-researchers often creates biased evidence, false confidence, and weaker product decisions in practice."
 pubDate: 2026-03-19T21:35:00Z
-updatedDate: 2026-05-10T06:24:41Z
+updatedDate: 2026-09-12T12:14:57.693Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
@@ -16,38 +16,6 @@ tags:
   - product research
   - founder interviews
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Qualitative research is not just a list of questions](#qualitative-research-is-not-just-a-list-of-questions)
-- [Why non-researchers usually bring back bad data](#why-non-researchers-usually-bring-back-bad-data)
-- ["They already talk to customers" is the wrong logic](#they-already-talk-to-customers-is-the-wrong-logic)
-- [When it is actually fine to let the team run interviews](#when-it-is-actually-fine-to-let-the-team-run-interviews)
-- [What founders should do instead](#what-founders-should-do-instead)
-- [The real cost of bad customer interviews](#the-real-cost-of-bad-customer-interviews)
-- [FAQ](#faq)
-
-One of the easiest ways to lose money in product work is to hand customer interviews to people who are not trained researchers or experienced product thinkers.
-
-I keep seeing founders do exactly that. They ask sales reps, assistants, engineers, support specialists, or copywriters to run qualitative interviews because, on paper, the idea sounds sensible enough.
-
-"They already talk to customers."
-
-"They are underutilized."
-
-"Everyone in the company should hear the customer."
-
-"Let them learn."
-
-"They want to become product managers anyway."
-
-If the goal is education, that is fine. Seriously. Let people learn. Let them sit in on interviews. Let them try. Let them develop product sense.
-
-But then we should be honest about what those conversations are. They are training interviews, not decision-grade research.
-
-That distinction matters more than most teams think.
-
 ## Qualitative research is not just a list of questions
 
 A lot of companies treat customer interviews as if the job is simple: write a guide, ask the questions, collect answers, paste them into a spreadsheet, and call it research.

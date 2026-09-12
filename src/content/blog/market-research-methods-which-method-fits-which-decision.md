@@ -4,34 +4,12 @@ readingTime: 13
 title: "Market Research Methods: Which Method Fits Which Decision"
 description: "Match market research methods to the decision you need to make, with practical guidance on interviews, surveys, desk research, and research timing today."
 pubDate: "2026-05-04T08:52:38.050Z"
-updatedDate: 2026-05-10T06:24:41Z
+updatedDate: 2026-09-12T12:14:57.417Z
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"
 tags: ["market research methods", "B2B SaaS", "product management", "research strategy", "decision making"]
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Common Market Research Methods: What’s on the Table?](#common-market-research-methods-whats-on-the-table)
-- [Qualitative vs. Quantitative vs. Secondary: The Honest Comparison](#qualitative-vs-quantitative-vs-secondary-the-honest-comparison)
-- [Matching Research Methods to Decision Questions](#matching-research-methods-to-decision-questions)
-- [Decision → Method Matrix](#decision-method-matrix)
-- [Timing Matters: Discovery vs. Validation](#timing-matters-discovery-vs-validation)
-- [The TRACE Framework: From Decision to Method in Five Steps](#the-trace-framework-from-decision-to-method-in-five-steps)
-- [Navigating B2B Buying Group Complexity](#navigating-b2b-buying-group-complexity)
-- [A Triangulation Sequence That Reduces Risk](#a-triangulation-sequence-that-reduces-risk)
-- [Real-World Cases: What Works and What Doesn’t](#real-world-cases-what-works-and-what-doesnt)
-- [A Practical Decision-Tree for Method Selection](#a-practical-decision-tree-for-method-selection)
-- [Why Mixed-Method Strategies Are Your Best Bet](#why-mixed-method-strategies-are-your-best-bet)
-- [Avoid These Common Pitfalls](#avoid-these-common-pitfalls)
-- [Conclusion: Audit Your Market Research Methods Before Your Next Big Decision](#conclusion-audit-your-market-research-methods-before-your-next-big-decision)
-
-When founders and product teams face critical decisions—whether launching a new product, pivoting strategy, or validating features—the quality of market research can make or break the outcome. Yet many teams waste time and money on poorly chosen research methods that don’t answer their core questions or fit their decision stage. This article cuts through the noise with a no-nonsense, evidence-backed guide to selecting the right market research methods based on your specific decision needs, timing, and market context.
-
-The core principle is simple, and most teams get it wrong: **start from the decision, not the method.** You do not need "some research." You need to reduce the uncertainty that is currently blocking a specific choice—price, feature, segment, positioning, build-or-kill. The right method is whichever one removes that uncertainty fastest and cheapest. Everything below is a way to work backward from the decision to the method, instead of forward from a method you already like.
-
 ## Common Market Research Methods: What’s on the Table?
 
 Before diving into method selection, here’s a quick rundown of the main research approaches you’ll encounter:

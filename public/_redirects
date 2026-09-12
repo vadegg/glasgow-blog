@@ -1,5 +1,11 @@
 /sitemap.xml /sitemap-index.xml 301
 /favicon.ico /favicon.png 301
+/how-to-conduct-user-interviews /blog/how-to-conduct-user-interviews/ 301
+/how-to-conduct-user-interviews/ /blog/how-to-conduct-user-interviews/ 301
+/guerrilla-usability-testing-guide /blog/guerrilla-usability-testing-guide/ 301
+/guerrilla-usability-testing-guide/ /blog/guerrilla-usability-testing-guide/ 301
+/blog/thematic-analysis /blog/thematic-analysis-qualitative-research/ 301
+/blog/thematic-analysis/ /blog/thematic-analysis-qualitative-research/ 301
 /google57ca395749dd5288.html /google57ca395749dd5288.html 200
 
 # Duplicate posts on 'detecting fake / AI-generated participants',

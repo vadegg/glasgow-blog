@@ -4,7 +4,7 @@ readingTime: 10
 title: "AI Tools for Qualitative Research: Interviews, Recruiting, and Synthesis"
 description: "Compare AI tools for qualitative research across recruiting, moderation, transcription, analysis, and synthesis while keeping human judgment in the loop."
 pubDate: 2026-03-27T21:34:11Z
-updatedDate: 2026-05-10T06:24:41Z
+updatedDate: 2026-09-12T12:14:57.104Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
@@ -15,42 +15,6 @@ tags:
   - "ai research tools"
   - "user research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Start with the workflow, not the vendor](#start-with-the-workflow-not-the-vendor)
-- [1. AI moderators: the most exciting layer, and the easiest one to oversell](#1-ai-moderators-the-most-exciting-layer-and-the-easiest-one-to-oversell)
-- [2. Recruitment platforms: still one of the most important parts of qual quality](#2-recruitment-platforms-still-one-of-the-most-important-parts-of-qual-quality)
-- [3. Transcription: a mature category, but still full of traps](#3-transcription-a-mature-category-but-still-full-of-traps)
-- [4. QDA and repository tools: where speed meets the risk of shallow synthesis](#4-qda-and-repository-tools-where-speed-meets-the-risk-of-shallow-synthesis)
-- [5. Synthesis and reporting tools: useful, but only when the upstream work is clean](#5-synthesis-and-reporting-tools-useful-but-only-when-the-upstream-work-is-clean)
-- [A practical way to choose your stack](#a-practical-way-to-choose-your-stack)
-- [What AI still does badly in qualitative research](#what-ai-still-does-badly-in-qualitative-research)
-- [FAQ](#faq)
-- [Final point](#final-point)
-
-The wrong way to search this category is to ask, "What is the best AI tool for qualitative research?"
-
-That question flattens the whole workflow into one shopping decision.
-
-Qualitative research is not one task. It is a chain of tasks:
-
-- recruiting participants;
-- preparing the guide;
-- moderating the conversation;
-- transcribing the call;
-- coding and clustering the material;
-- and turning it into a synthesis people can actually use.
-
-AI can help at almost every step now.
-
-That does not mean AI is equally good at every step.
-
-The practical job is to understand where AI compresses labor and where it quietly weakens the evidence. That distinction matters more than any vendor comparison grid.
-
-If you want the broader non-tool view first, the closest conceptual pieces are [qualitative market research](/blog/qualitative-market-research/), [how to do customer research](/blog/how-to-do-customer-research/), and [why you shouldn't delegate customer interviews](/blog/why-you-shouldnt-delegate-customer-interviews/). This article is narrower: it is about tooling.
-
 ## Start with the workflow, not the vendor
 
 The source pack behind this article already makes the right structural move: it groups tools by job.

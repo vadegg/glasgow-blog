@@ -2,7 +2,7 @@
 title: "How to Measure UX Research ROI"
 description: "A practical framework for research leads to quantify and communicate UX research ROI — moving beyond output counts to decision-impact metrics that justify"
 pubDate: 2026-07-02
-updatedDate: 2026-07-02
+updatedDate: 2026-09-12T12:14:55.136Z
 readingTime: 14
 slug: "how-to-measure-ux-research-roi"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "research value metrics"
   - "justifying UX research spend"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why UX Research ROI Is Hard to Measure (and Why That's Not an Excuse)](#why-ux-research-roi-is-hard-to-measure-and-why-thats-not-an-excuse)
-- [The Three Levels of Research Value](#the-three-levels-of-research-value)
-- [A Practical Framework: Five Metrics That Actually Move Budget Conversations](#a-practical-framework-five-metrics-that-actually-move-budget-conversations)
-- [Building the Evidence Trail: How to Instrument Your Research Programme](#building-the-evidence-trail-how-to-instrument-your-research-programme)
-- [Communicating Research ROI to Budget Holders](#communicating-research-roi-to-budget-holders)
-- [Common Mistakes That Undermine Your ROI Case](#common-mistakes-that-undermine-your-roi-case)
-- [Getting Started This Quarter](#getting-started-this-quarter)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why UX Research ROI Is Hard to Measure (and Why That's Not an Excuse)
 
 Research rarely generates revenue directly. It informs the people who make the decisions that do. That indirectness is real, not imagined, and it makes clean attribution genuinely difficult.
@@ -181,34 +168,3 @@ Track it. A pattern of research being conducted and then set aside is evidence o
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Measure UX Research ROI",
-  "description": "A practical framework for research leads to quantify and communicate UX research ROI — moving beyond output counts to decision-impact metrics that justify",
-  "datePublished": "2026-07-02",
-  "dateModified": "2026-07-02",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-measure-ux-research-roi"
-  },
-  "keywords": "how to measure UX research ROI, UX research ROI, measuring research impact, research value metrics, justifying UX research spend, research impact measurement"
-}
-</script>

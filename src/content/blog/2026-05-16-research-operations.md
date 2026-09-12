@@ -2,7 +2,7 @@
 title: "Research Operations: How to Build ResearchOps That Scales"
 description: "A practical guide to research operations and how to build it: repositories, recruitment panels, quality guardrails, cadence, and the tooling that turns ad-hoc"
 pubDate: 2026-05-16
-updatedDate: 2026-05-16
+updatedDate: 2026-09-12T12:14:54.183Z
 readingTime: 15
 slug: "research-operations"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "participant recruitment panels"
   - "research democratisation"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is Research Operations (ResearchOps)?](#what-is-research-operations-researchops)
-- [The Five Components of a ResearchOps System](#the-five-components-of-a-researchops-system)
-- [Research Repository: Making Insights Findable and Reusable](#research-repository-making-insights-findable-and-reusable)
-- [Participant Recruitment Panels: Reducing Time-to-Fieldwork](#participant-recruitment-panels-reducing-time-to-fieldwork)
-- [Quality Guardrails and Research Democratisation](#quality-guardrails-and-research-democratisation)
-- [Research Cadence, Rituals, and Tooling](#research-cadence-rituals-and-tooling)
-- [ResearchOps Maturity Model: Rolling Out by Stage](#researchops-maturity-model-rolling-out-by-stage)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Is Research Operations (ResearchOps)?
 
 Most research teams hit the same wall eventually. The studies are good. The insights are real. But booking participants takes three weeks, nobody can find last quarter's findings, and every new project starts from scratch. That is a ResearchOps problem.
@@ -252,36 +239,7 @@ No. The components scale down as well as up. A team of two benefits from consent
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Research Operations: How to Build ResearchOps That Scales",
-  "description": "A practical guide to research operations and how to build it: repositories, recruitment panels, quality guardrails, cadence, and the tooling that turns ad-hoc",
-  "datePublished": "2026-05-16",
-  "dateModified": "2026-05-16",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/research-operations"
-  },
-  "keywords": "research operations, researchops, research repository, participant recruitment panels, research democratisation, research operations maturity"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -2,7 +2,7 @@
 title: "How Much Does User Research Cost? 2026 Pricing Guide"
 description: "Compare real-world user research costs across DIY, in-house, agency, and AI-tool-assisted delivery by method — and build a confident research budget. Read on."
 pubDate: 2026-08-24
-updatedDate: 2026-08-24
+updatedDate: 2026-09-12T12:14:56.238Z
 readingTime: 13
 slug: "how-much-does-user-research-cost"
 author: "Vadim Glazkov"
@@ -17,25 +17,6 @@ tags:
   - "DIY vs agency vs tool research cost"
   - "user research budget planning"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why user research costs vary so widely](#why-user-research-costs-vary-so-widely)
-- [User research cost at a glance (quick-answer table)](#user-research-cost-at-a-glance-quick-answer-table)
-- [What actually drives the cost of user research](#what-actually-drives-the-cost-of-user-research)
-- [DIY and in-house research costs](#diy-and-in-house-research-costs)
-- [Agency-led research costs](#agency-led-research-costs)
-- [AI-tool-assisted research costs](#ai-tool-assisted-research-costs)
-- [Cost by research method: a method-by-method breakdown](#cost-by-research-method-a-method-by-method-breakdown)
-- [Hidden costs and quality risks that blow up budgets](#hidden-costs-and-quality-risks-that-blow-up-budgets)
-- [Choosing the right delivery model for your budget](#choosing-the-right-delivery-model-for-your-budget)
-- [Building your user research budget: a simple framework](#building-your-user-research-budget-a-simple-framework)
-- [FAQ: user research pricing](#faq-user-research-pricing)
-
-<!-- gr:disclosure -->
-> Disclosure: this article may mention paid tools. We receive no compensation for any mention; recommendations are based on hands-on use.
-
 ## Why user research costs vary so widely
 
 Type "how much does user research cost" into a search bar and you deserve an honest answer: a single study can run anywhere from $0 to $30,000 or more. That range isn't a dodge. It reflects a real decision you have to make, not some failure of pricing discipline across the industry.
@@ -154,36 +135,7 @@ Start small: one method, one clear research question, 5–8 participants, and a 
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How Much Does User Research Cost? 2026 Pricing Guide",
-  "description": "Compare real-world user research costs across DIY, in-house, agency, and AI-tool-assisted delivery by method — and build a confident research budget. Read on.",
-  "datePublished": "2026-08-24",
-  "dateModified": "2026-08-24",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-much-does-user-research-cost"
-  },
-  "keywords": "how much does user research cost, user research pricing by method, cost of UX research, DIY vs agency vs tool research cost, user research budget planning"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

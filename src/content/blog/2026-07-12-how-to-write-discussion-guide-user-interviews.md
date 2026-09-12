@@ -2,7 +2,7 @@
 title: "How to Write a Discussion Guide for User Interviews"
 description: "Learn how to write a user interview discussion guide that keeps sessions focused without over-scripting. Covers structure, question types, probing hierarchy"
 pubDate: 2026-07-12
-updatedDate: 2026-07-12
+updatedDate: 2026-09-12T12:14:55.513Z
 readingTime: 13
 slug: "how-to-write-discussion-guide-user-interviews"
 author: "Vadim Glazkov"
@@ -17,20 +17,6 @@ tags:
   - "discussion guide qualitative research"
   - "how to structure user interview questions"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is a Discussion Guide (and What It Isn't)](#what-is-a-discussion-guide-and-what-it-isnt)
-- [Before You Write a Single Question: Ground the Guide in Objectives](#before-you-write-a-single-question-ground-the-guide-in-objectives)
-- [The Five-Part Structure of an Effective Discussion Guide](#the-five-part-structure-of-an-effective-discussion-guide)
-- [Writing Questions That Open Doors: Question Types and Phrasing](#writing-questions-that-open-doors-question-types-and-phrasing)
-- [Building a Probing Hierarchy So You Never Lose a Thread](#building-a-probing-hierarchy-so-you-never-lose-a-thread)
-- [Formatting the Guide So It Works in the Room](#formatting-the-guide-so-it-works-in-the-room)
-- [Piloting the Guide Before Fieldwork Begins](#piloting-the-guide-before-fieldwork-begins)
-- [Common Mistakes and How to Avoid Them](#common-mistakes-and-how-to-avoid-them)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Is a Discussion Guide (and What It Isn't)
 
 A discussion guide is a structured facilitator reference — a scaffold for conversation, not a script to be read aloud. If you've ever watched an interviewer lose rapport because they were squinting at a screen trying to find their next question, you've seen what happens when a guide becomes a crutch instead of a tool.
@@ -41,7 +27,7 @@ Why bother with the artefact at all? Three reasons. Consistency — when multipl
 
 The trap is over-engineering it. A rigid script produces interview data that looks tidy and tells you almost nothing, because participants sense they're being processed rather than heard. A good guide preserves spontaneity while keeping sessions comparable.
 
-On sequence: the guide comes after your [user research plan template](https://blog.glasgow.works/blog/user-research-plan-template) is agreed and before fieldwork begins. It translates research objectives into live conversation. Read our overview of [how to conduct user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) alongside this if you're building your process from scratch, and if you're unsure whether interviews are the right method at all, start with [usability testing vs user interviews](https://blog.glasgow.works/blog/usability-testing-vs-user-interviews).
+On sequence: the guide comes after your [user research plan template](https://blog.glasgow.works/blog/user-research-plan-template) is agreed and before fieldwork begins. It translates research objectives into live conversation. Read our overview of [how to conduct user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) alongside this if you're building your process from scratch, and if you're unsure whether interviews are the right method at all, start with [usability testing vs user interviews](https://blog.glasgow.works/blog/usability-testing-vs-user-interviews).
 
 ---
 
@@ -184,34 +170,3 @@ A script is read verbatim, constraining the conversation to pre-set wording and 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Write a Discussion Guide for User Interviews",
-  "description": "Learn how to write a user interview discussion guide that keeps sessions focused without over-scripting. Covers structure, question types, probing hierarchy",
-  "datePublished": "2026-07-12",
-  "dateModified": "2026-07-12",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-write-discussion-guide-user-interviews"
-  },
-  "keywords": "how to write a discussion guide for user interviews, user interview discussion guide, interview guide template ux research, discussion guide qualitative research, how to structure user interview questions, ux research interview script"
-}
-</script>

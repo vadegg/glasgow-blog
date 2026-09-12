@@ -6,6 +6,7 @@ description: >-
   Discover what solo founders really pay for vibe coding in 2026, with cost benchmarks, tool breakdowns, and tips to
   optimize your AI coding stack. Read the full
 pubDate: '2026-05-14T09:01:38.278Z'
+updatedDate: 2026-06-07T05:42:16Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research

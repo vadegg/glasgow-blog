@@ -2,7 +2,7 @@
 title: "Experiment Design for Product Discovery"
 description: "Learn how to design lean experiments that test your riskiest product assumptions before you build — a practical framework bridging assumption mapping to"
 pubDate: 2026-06-25
-updatedDate: 2026-06-25
+updatedDate: 2026-09-12T12:14:54.897Z
 readingTime: 11
 slug: "experiment-design-product-discovery"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "assumption testing product discovery"
   - "lean experiment design"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Experiment Design Sits at the Heart of Product Discovery](#why-experiment-design-sits-at-the-heart-of-product-discovery)
-- [Start With the Riskiest Assumption, Not the Loudest Idea](#start-with-the-riskiest-assumption-not-the-loudest-idea)
-- [The Four-Part Experiment Brief](#the-four-part-experiment-brief)
-- [Choosing the Right Experiment Method](#choosing-the-right-experiment-method)
-- [Running the Experiment: Minimising Bias Without Slowing Down](#running-the-experiment-minimising-bias-without-slowing-down)
-- [Translating Experiment Results Into Build Decisions](#translating-experiment-results-into-build-decisions)
-- [Common Experiment Design Mistakes and How to Avoid Them](#common-experiment-design-mistakes-and-how-to-avoid-them)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Experiment Design Sits at the Heart of Product Discovery
 
 Most product teams don't lack ideas. They lack evidence. Experiment design is the discipline that turns assumptions — the beliefs sitting underneath every product decision — into observable signals before a single line of production code gets written.
@@ -153,34 +140,3 @@ Qualitative experiments — interviews, prototype sessions — generate directio
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Experiment Design for Product Discovery",
-  "description": "Learn how to design lean experiments that test your riskiest product assumptions before you build — a practical framework bridging assumption mapping to",
-  "datePublished": "2026-06-25",
-  "dateModified": "2026-06-25",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/experiment-design-product-discovery"
-  },
-  "keywords": "experiment design product discovery, product experiment design, how to design product experiments, assumption testing product discovery, lean experiment design, product discovery experiments"
-}
-</script>

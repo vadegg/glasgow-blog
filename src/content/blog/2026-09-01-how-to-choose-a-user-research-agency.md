@@ -2,7 +2,7 @@
 title: "How to Choose a User Research Agency: Key Questions"
 description: "Decided to outsource? Use these buyer's questions, red flags, and selection criteria to choose a user research agency that delivers insight you can act on."
 pubDate: 2026-09-01
-updatedDate: 2026-09-01
+updatedDate: 2026-09-12T12:14:56.488Z
 readingTime: 11
 slug: "how-to-choose-a-user-research-agency"
 author: "Vadim Glazkov"
@@ -17,22 +17,6 @@ tags:
   - "how to vet a research vendor"
   - "user research agency selection criteria"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Before you shortlist: define the decision the research must inform](#before-you-shortlist-define-the-decision-the-research-must-inform)
-- [Questions about methodology and method fit](#questions-about-methodology-and-method-fit)
-- [Questions about participant recruitment and sample quality](#questions-about-participant-recruitment-and-sample-quality)
-- [Questions about data ownership, consent and compliance](#questions-about-data-ownership-consent-and-compliance)
-- [Questions about deliverables and turning insight into action](#questions-about-deliverables-and-turning-insight-into-action)
-- [Questions about pricing, scope and contracts](#questions-about-pricing-scope-and-contracts)
-- [Red flags — and how a paid pilot de-risks the decision](#red-flags-and-how-a-paid-pilot-de-risks-the-decision)
-- [Your user research agency selection scorecard](#your-user-research-agency-selection-scorecard)
-- [Frequently asked questions](#frequently-asked-questions)
-
-You have decided to bring in an outside team for user research. The risk now is picking an agency that hands over a tidy report nobody uses, or one built on a sample you cannot trust. This guide covers how to choose a user research agency on evidence rather than instinct: the questions to ask, the red flags to watch, and a scorecard for comparing vendors on what you actually saw.
-
 ## Before you shortlist: define the decision the research must inform
 
 This guide assumes you have already decided to outsource. If you are still weighing that call, start with [when to outsource vs build an in-house team](https://blog.glasgow.works/blog/when-to-outsource-user-research-agency-vs-in-house) and come back once it is settled.
@@ -133,34 +117,3 @@ Work through six areas: method fit (how they choose methods, not just which they
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Choose a User Research Agency: Key Questions",
-  "description": "Decided to outsource? Use these buyer's questions, red flags, and selection criteria to choose a user research agency that delivers insight you can act on.",
-  "datePublished": "2026-09-01",
-  "dateModified": "2026-09-01",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-choose-a-user-research-agency"
-  },
-  "keywords": "how to choose a user research agency, questions to ask a user research agency, hiring a UX research agency checklist, how to vet a research vendor, user research agency selection criteria, what to look for in a research partner"
-}
-</script>

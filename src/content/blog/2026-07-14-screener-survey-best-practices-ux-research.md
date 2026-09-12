@@ -2,7 +2,7 @@
 title: "Screener Survey Best Practices for UX Research"
 description: "Write screeners that recruit genuinely qualified participants — not answer-hunters. Step-by-step guidance on question sequencing, disqualification logic, and"
 pubDate: 2026-07-14
-updatedDate: 2026-07-14
+updatedDate: 2026-09-12T12:14:55.578Z
 readingTime: 13
 slug: "screener-survey-best-practices-ux-research"
 author: "Vadim Glazkov"
@@ -17,23 +17,6 @@ tags:
   - "screener questions for user research"
   - "how to screen research participants"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What a Screener Survey Actually Does (and Doesn't Do)](#what-a-screener-survey-actually-does-and-doesnt-do)
-- [Define Your Participant Criteria Before Writing a Single Question](#define-your-participant-criteria-before-writing-a-single-question)
-- [Question Sequencing: Order That Hides Your Intent](#question-sequencing-order-that-hides-your-intent)
-- [Writing Questions That Don't Telegraph the 'Right' Answer](#writing-questions-that-dont-telegraph-the-right-answer)
-- [Building Disqualification Logic Without Alienating Respondents](#building-disqualification-logic-without-alienating-respondents)
-- [A Real Screener in Practice: What Changed and Why](#a-real-screener-in-practice-what-changed-and-why)
-- [Common Screener Mistakes and How to Fix Them](#common-screener-mistakes-and-how-to-fix-them)
-- [Screener Length, Format, and Delivery Checklist](#screener-length-format-and-delivery-checklist)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
-<!-- gr:disclosure -->
-> Disclosure: this article may mention paid tools. We receive no compensation for any mention; recommendations are based on hands-on use.
-
 ## What a Screener Survey Actually Does (and Doesn't Do)
 
 A screener has one job: decide whether a candidate fits your study. It is not a recruitment tool. Not a consent form. Not a way to build a mailing list.
@@ -230,34 +213,3 @@ A screener determines eligibility before a participant is selected; a consent fo
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Screener Survey Best Practices for UX Research",
-  "description": "Write screeners that recruit genuinely qualified participants — not answer-hunters. Step-by-step guidance on question sequencing, disqualification logic, and",
-  "datePublished": "2026-07-14",
-  "dateModified": "2026-07-14",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/screener-survey-best-practices-ux-research"
-  },
-  "keywords": "screener survey best practices UX research, how to write a screener survey, participant screening criteria UX, screener questions for user research, how to screen research participants, UX research screener template"
-}
-</script>

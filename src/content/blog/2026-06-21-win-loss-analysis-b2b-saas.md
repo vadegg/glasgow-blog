@@ -2,7 +2,7 @@
 title: "Win-Loss Analysis for B2B SaaS: A Practical Guide"
 description: "Learn how to design and run a win-loss analysis program for B2B SaaS — from recruiting interviewees to turning competitive insights into positioning decisions."
 pubDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-09-12T12:14:54.744Z
 readingTime: 11
 slug: "win-loss-analysis-b2b-saas"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "competitive win-loss analysis"
   - "B2B sales research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Win-Loss Analysis Actually Is (and Isn't)](#what-win-loss-analysis-actually-is-and-isnt)
-- [When to Invest in a Win-Loss Programme](#when-to-invest-in-a-win-loss-programme)
-- [Designing the Programme: Scope, Sample, and Cadence](#designing-the-programme-scope-sample-and-cadence)
-- [Running Win-Loss Interviews: Question Framework](#running-win-loss-interviews-question-framework)
-- [Analysing the Data: From Raw Transcripts to Competitive Patterns](#analysing-the-data-from-raw-transcripts-to-competitive-patterns)
-- [Turning Findings into Decisions: Routing Insights to the Right Teams](#turning-findings-into-decisions-routing-insights-to-the-right-teams)
-- [Common Pitfalls and How to Avoid Them](#common-pitfalls-and-how-to-avoid-them)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Win-Loss Analysis Actually Is (and Isn't)
 
 Win-loss analysis is structured research into why recent deals were won or lost. The definition matters, because the label gets slapped on things it isn't: a CRM pipeline review, a post-mortem in the sales team's Friday standup, or a spreadsheet of deal notes written by the AE who just lost the opportunity.
@@ -153,34 +140,3 @@ Frame the request as a brief advisory conversation, not a sales follow-up. Lost 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Win-Loss Analysis for B2B SaaS: A Practical Guide",
-  "description": "Learn how to design and run a win-loss analysis program for B2B SaaS — from recruiting interviewees to turning competitive insights into positioning decisions.",
-  "datePublished": "2026-06-21",
-  "dateModified": "2026-06-21",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/win-loss-analysis-b2b-saas"
-  },
-  "keywords": "win-loss analysis for B2B SaaS, win-loss interviews, why deals are lost, competitive win-loss analysis, B2B sales research, win-loss program"
-}
-</script>

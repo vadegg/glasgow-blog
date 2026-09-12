@@ -2,7 +2,7 @@
 title: "Thematic Analysis in Qualitative Research: A Practitioner's Guide"
 description: "Learn how to run thematic analysis as a rigorous methodology — from first read to final themes — with a step-by-step guide built for product and UX researchers."
 pubDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-09-12T12:14:54.990Z
 readingTime: 13
 slug: "thematic-analysis-qualitative-research"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "thematic analysis vs content analysis"
   - "qualitative data analysis methods"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is Thematic Analysis — and Why Does It Matter for Practitioners?](#what-is-thematic-analysis-and-why-does-it-matter-for-practitioners)
-- [Thematic Analysis vs Content Analysis: Key Differences](#thematic-analysis-vs-content-analysis-key-differences)
-- [The Six-Step Thematic Analysis Process](#the-six-step-thematic-analysis-process)
-- [Thematic Coding in Practice: A Real-Project Example](#thematic-coding-in-practice-a-real-project-example)
-- [Common Failure Modes and How to Avoid Them](#common-failure-modes-and-how-to-avoid-them)
-- [Communicating Thematic Analysis Findings to Stakeholders](#communicating-thematic-analysis-findings-to-stakeholders)
-- [Thematic Analysis Tools: Spreadsheet, Dovetail, or Dedicated Software?](#thematic-analysis-tools-spreadsheet-dovetail-or-dedicated-software)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Is Thematic Analysis — and Why Does It Matter for Practitioners?
 
 Thematic analysis is a named, systematic methodology for identifying, analysing, and reporting patterns of meaning across a qualitative dataset. The framework most widely used in applied research is the one developed by Braun and Clarke, which treats thematic analysis as a rigorous, researcher-led process — not an informal clustering exercise.
@@ -86,7 +73,7 @@ Weave your themes into a narrative. For each theme, introduce the claim, provide
 
 **Practical notes on tooling and scope.** Colour-coding in a spreadsheet remains one of the most transparent approaches for teams new to the process. Tag-based tools such as Dovetail or Notion offer a better audit trail for teams running research repeatedly. Keep a coding log — a running document that records why you created, merged, or discarded codes and themes. For a single focused research question with 8–15 participants, aim for 4–8 themes. Fewer than four usually signals under-analysis; more than eight usually signals that what you have are codes, not themes.
 
-Before you begin coding, a well-structured [user research plan template](https://blog.glasgow.works/blog/user-research-plan-template) will help you articulate the research question clearly enough that your coding decisions have an anchor. It also helps to have planned [how to conduct user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) in a way that generates rich, codeable data rather than closed yes/no responses.
+Before you begin coding, a well-structured [user research plan template](https://blog.glasgow.works/blog/user-research-plan-template) will help you articulate the research question clearly enough that your coding decisions have an anchor. It also helps to have planned [how to conduct user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) in a way that generates rich, codeable data rather than closed yes/no responses.
 
 ---
 
@@ -179,34 +166,3 @@ Yes, provided the responses are rich enough to code meaningfully. Very short res
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Thematic Analysis in Qualitative Research: A Practitioner's Guide",
-  "description": "Learn how to run thematic analysis as a rigorous methodology — from first read to final themes — with a step-by-step guide built for product and UX researchers.",
-  "datePublished": "2026-06-28",
-  "dateModified": "2026-06-28",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/thematic-analysis-qualitative-research"
-  },
-  "keywords": "thematic analysis qualitative research, how to do thematic analysis, thematic analysis steps, thematic analysis vs content analysis, qualitative data analysis methods, thematic coding user research"
-}
-</script>

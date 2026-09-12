@@ -2,7 +2,7 @@
 title: "Research Democratization: Risks and How to Do It Right"
 description: "Democratizing user research speeds up decisions but quietly degrades insight quality. Learn the specific failure modes and the guardrails that make it work"
 pubDate: 2026-07-05
-updatedDate: 2026-07-05
+updatedDate: 2026-09-12T12:14:55.262Z
 readingTime: 11
 slug: "research-democratization-risks-and-how-to-do-it-right"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "research quality guardrails"
   - "non-researcher conducting research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Research Democratization Actually Means (and What It Doesn't)](#what-research-democratization-actually-means-and-what-it-doesnt)
-- [The Real Benefits That Make Teams Pursue It](#the-real-benefits-that-make-teams-pursue-it)
-- [Six Specific Failure Modes When Democratization Goes Wrong](#six-specific-failure-modes-when-democratization-goes-wrong)
-- [A Real-World Example: When a Well-Intentioned Team Got It Wrong](#a-real-world-example-when-a-well-intentioned-team-got-it-wrong)
-- [The Guardrails That Make Democratization Work](#the-guardrails-that-make-democratization-work)
-- [How to Calibrate the Dial: What to Democratize and What to Protect](#how-to-calibrate-the-dial-what-to-democratize-and-what-to-protect)
-- [Key Takeaways](#key-takeaways)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Research Democratization Actually Means (and What It Doesn't)
 
 Research democratization means enabling people outside the specialist research function — product managers, designers, engineers — to conduct, access, or act on user research. It does not mean eliminating researchers. That distinction matters enormously, and conflating the two is where most organisations go wrong before they have even started.
@@ -145,34 +132,3 @@ The main risks are confirmation bias from people with a stake in the outcome, me
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Research Democratization: Risks and How to Do It Right",
-  "description": "Democratizing user research speeds up decisions but quietly degrades insight quality. Learn the specific failure modes and the guardrails that make it work",
-  "datePublished": "2026-07-05",
-  "dateModified": "2026-07-05",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/research-democratization-risks-and-how-to-do-it-right"
-  },
-  "keywords": "research democratization risks and how to do it right, research democratization, democratizing user research, research quality guardrails, non-researcher conducting research, scaling UX research"
-}
-</script>

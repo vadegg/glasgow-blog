@@ -2,7 +2,7 @@
 title: "Research Debt in Product Teams: What It Is and How to Reduce It"
 description: "Research debt is the compounding cost of skipped, rushed, or shelved research. Learn how product teams accumulate it without realising — and a practical"
 pubDate: 2026-06-30
-updatedDate: 2026-06-30
+updatedDate: 2026-09-12T12:14:55.049Z
 readingTime: 9
 slug: "research-debt-in-product-teams"
 author: "Vadim Glazkov"
@@ -17,16 +17,6 @@ tags:
   - "research shortcuts consequences"
   - "research operations debt"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is Research Debt? (And Why It's Not Just a Full Backlog)](#what-is-research-debt-and-why-its-not-just-a-full-backlog)
-- [How Product Teams Accumulate Research Debt Without Realising](#how-product-teams-accumulate-research-debt-without-realising)
-- [The Warning Signs: Is Your Team Already in Debt?](#the-warning-signs-is-your-team-already-in-debt)
-- [The Research Debt Audit: A Practical Four-Step Framework](#the-research-debt-audit-a-practical-four-step-framework)
-- [Reducing Research Debt Structurally: Rituals That Prevent Re-Accumulation](#reducing-research-debt-structurally-rituals-that-prevent-re-accumulation)
-
 ## What Is Research Debt? (And Why It's Not Just a Full Backlog)
 
 Research debt is the compounding cost of decisions made on unvalidated assumptions — when research was skipped, rushed, or completed but never acted upon. It is not the same as having a backlog of planned studies. A backlog is a queue of work you intend to do. Research debt is the accumulation of work you should have done, and the cost that accrues on every decision built on top of it.
@@ -119,36 +109,7 @@ These rituals hold only if research is visibly connected to decisions. Studies f
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Research Debt in Product Teams: What It Is and How to Reduce It",
-  "description": "Research debt is the compounding cost of skipped, rushed, or shelved research. Learn how product teams accumulate it without realising — and a practical",
-  "datePublished": "2026-06-30",
-  "dateModified": "2026-06-30",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/research-debt-in-product-teams"
-  },
-  "keywords": "research debt in product teams, accumulated research debt, UX research backlog, research shortcuts consequences, research operations debt, how to reduce research debt"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

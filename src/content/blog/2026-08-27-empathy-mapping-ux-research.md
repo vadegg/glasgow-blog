@@ -2,7 +2,7 @@
 title: "Empathy Mapping in UX Research: From Interview Data"
 description: "Learn how to run an empathy map from real interview data: the quadrants, a step-by-step workshop, and how to turn the map into a product decision, not"
 pubDate: 2026-08-27
-updatedDate: 2026-08-27
+updatedDate: 2026-09-12T12:14:56.308Z
 readingTime: 10
 slug: "empathy-mapping-ux-research"
 author: "Vadim Glazkov"
@@ -17,23 +17,6 @@ tags:
   - "empathy mapping workshop"
   - "empathy map vs persona"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What empathy mapping is (and what it isn't)](#what-empathy-mapping-is-and-what-it-isnt)
-- [Empathy map vs persona: which one, when](#empathy-map-vs-persona-which-one-when)
-- [Start with real interview evidence, not sticky notes](#start-with-real-interview-evidence-not-sticky-notes)
-- [How to create an empathy map from interview data (step by step)](#how-to-create-an-empathy-map-from-interview-data-step-by-step)
-- [A worked example: turning one interview into a map that changed a decision](#a-worked-example-turning-one-interview-into-a-map-that-changed-a-decision)
-- [Running an empathy mapping workshop](#running-an-empathy-mapping-workshop)
-- [One-user vs aggregated (segment) empathy maps](#one-user-vs-aggregated-segment-empathy-maps)
-- [From map to decision: what to do next](#from-map-to-decision-what-to-do-next)
-- [Common empathy mapping mistakes to avoid](#common-empathy-mapping-mistakes-to-avoid)
-- [Frequently asked questions](#frequently-asked-questions)
-
-You have just run a round of interviews. The transcripts are rich, everyone on the team remembers a different headline, and the next planning meeting is in two days. Empathy mapping in UX research is one of the quickest ways to get a team reasoning from the same evidence — as long as the map is built from what participants actually said.
-
 ## What empathy mapping is (and what it isn't)
 
 An empathy map is a synthesis tool. It organises what a user says, thinks, feels and does about a situation into one shared visual, so a team works from the same picture instead of competing memories.
@@ -152,34 +135,3 @@ Around 60 to 90 minutes for one map, assuming quotes are prepared in advance. Mo
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Empathy Mapping in UX Research: From Interview Data",
-  "description": "Learn how to run an empathy map from real interview data: the quadrants, a step-by-step workshop, and how to turn the map into a product decision, not",
-  "datePublished": "2026-08-27",
-  "dateModified": "2026-08-27",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/empathy-mapping-ux-research"
-  },
-  "keywords": "empathy mapping in UX research, how to create an empathy map, empathy map template, empathy mapping workshop, empathy map vs persona"
-}
-</script>

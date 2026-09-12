@@ -4,7 +4,7 @@ readingTime: 13
 title: Types of Market Research and When Each One Actually Helps
 description: "Compare types of market research and learn when interviews, surveys, desk research, and other methods actually help the decision in front of you today."
 pubDate: '2026-05-04T11:52:41.261Z'
-updatedDate: 2026-05-10T07:51:04Z
+updatedDate: 2026-09-12T12:14:57.620Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
@@ -15,28 +15,6 @@ tags:
   - product management
   - growth strategy
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [The Main Types of Market Research: What They Are and What They Do](#the-main-types-of-market-research-what-they-are-and-what-they-do)
-- [Qualitative vs. Quantitative: When to Use Which](#qualitative-vs-quantitative-when-to-use-which)
-- [Desk Research: Your First Stop](#desk-research-your-first-stop)
-- [Specialized Methods for Specific Needs](#specialized-methods-for-specific-needs)
-- [Cost, Speed, and Confidence: An Honest Trade-Off](#cost-speed-and-confidence-an-honest-trade-off)
-- [The DRIFT Framework: Sequencing Research Across a Decision](#the-drift-framework-sequencing-research-across-a-decision)
-- [Practical Checklist: How to Pick the Right Research Type](#practical-checklist-how-to-pick-the-right-research-type)
-- [Case Example: How Early Qualitative Research Saved Time and Money](#case-example-how-early-qualitative-research-saved-time-and-money)
-- [Summary and Call to Action](#summary-and-call-to-action)
-
-If you're a founder, product leader, or growth team in B2B SaaS or IT, you know market research isn't a luxury—it's a necessity. But here's the blunt truth: picking the wrong type of research wastes time, money, and sometimes kills promising ideas. The key to research ROI isn't more data; it's the right data, gathered the right way, at the right time.
-
-This article cuts through the noise to give you a practical, no-nonsense guide to the types of market research and when each actually helps. We'll show you how to avoid common traps and how to match research methods to your specific business questions, so you get actionable insights without the fluff.
-
-One distinction up front, because it removes most of the confusion later. Research splits along two axes that people constantly mix up. The first axis is the **source**: primary research collects new data directly from people (you ask, you observe), while secondary research—also called desk research—reuses data someone else already gathered. The second axis is the **shape of the answer**: qualitative research produces words, observations, and reasons; quantitative research produces numbers you can count and compare. These two axes are independent. A survey is primary and quantitative. An industry report is secondary and quantitative. A round of customer interviews is primary and qualitative. Keeping the source axis and the answer-shape axis separate is the first habit that makes the rest of this easier.
-
----
-
 ## The Main Types of Market Research: What They Are and What They Do
 
 Market research isn't one-size-fits-all. It breaks down into five core types, each suited to different decision tasks:

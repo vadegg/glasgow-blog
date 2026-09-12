@@ -2,7 +2,7 @@
 title: "Recruiting B2B Interview Participants: A Step-by-Step Guide"
 description: "Struggling to fill your B2B research calendar? Learn exactly how to source, approach, and convert hard-to-reach buyers and users into willing interview"
 pubDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-09-12T12:14:54.831Z
 readingTime: 15
 slug: "recruiting-b2b-interview-participants"
 author: "Vadim Glazkov"
@@ -17,20 +17,6 @@ tags:
   - "b2b research participant recruitment"
   - "recruiting customers for interviews b2b"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why B2B recruitment is its own beast](#why-b2b-recruitment-is-its-own-beast)
-- [Define who you actually need before you source anyone](#define-who-you-actually-need-before-you-source-anyone)
-- [Channel mix: where to actually find B2B participants](#channel-mix-where-to-actually-find-b2b-participants)
-- [Crafting the outreach message that gets a reply](#crafting-the-outreach-message-that-gets-a-reply)
-- [Screeners, scheduling, and consent in a B2B context](#screeners-scheduling-and-consent-in-a-b2b-context)
-- [Incentives: what works (and what backfires) in B2B](#incentives-what-works-and-what-backfires-in-b2b)
-- [Real-world recruitment in practice: what a B2B team actually did](#real-world-recruitment-in-practice-what-a-b2b-team-actually-did)
-- [Common failure modes and how to avoid them](#common-failure-modes-and-how-to-avoid-them)
-- [Building a repeatable B2B recruitment engine](#building-a-repeatable-b2b-recruitment-engine)
-
 ## Why B2B recruitment is its own beast
 
 Filling a B2C research calendar is mostly a logistics problem. Filling a B2B calendar is a relationship problem. The two require completely different approaches.
@@ -107,7 +93,7 @@ Keep the initial outreach under 100 words. The full research context, consent st
 
 Follow up once, around five days after the first message, with a single short line. If there is no reply to the follow-up, move on. Repeated messages damage your sender reputation and, more importantly, theirs.
 
-For more on what to do once participants are confirmed, see [how to conduct the interview itself](https://blog.glasgow.works/how-to-conduct-user-interviews).
+For more on what to do once participants are confirmed, see [how to conduct the interview itself](https://blog.glasgow.works/blog/how-to-conduct-user-interviews).
 
 ---
 
@@ -200,34 +186,3 @@ The teams that recruit well consistently are not the ones with the largest CRM l
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Recruiting B2B Interview Participants: A Step-by-Step Guide",
-  "description": "Struggling to fill your B2B research calendar? Learn exactly how to source, approach, and convert hard-to-reach buyers and users into willing interview",
-  "datePublished": "2026-06-23",
-  "dateModified": "2026-06-23",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/recruiting-b2b-interview-participants"
-  },
-  "keywords": "recruiting b2b interview participants, b2b user research recruitment, how to recruit b2b participants, b2b research participant recruitment, recruiting customers for interviews b2b"
-}
-</script>

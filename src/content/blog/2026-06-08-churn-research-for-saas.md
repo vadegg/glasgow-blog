@@ -2,7 +2,7 @@
 title: "Churn Research for SaaS: Why Customers Leave"
 description: "Stop guessing why customers cancel. Learn how to design and run churn research for SaaS — exit interviews, behavioral data, and cohort analysis — to act on"
 pubDate: 2026-06-08
-updatedDate: 2026-06-08
+updatedDate: 2026-09-12T12:14:54.604Z
 readingTime: 13
 slug: "churn-research-for-saas"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "churn interview questions"
   - "customer churn research methods"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Guessing at Churn Is Costing You More Than the Churn Itself](#why-guessing-at-churn-is-costing-you-more-than-the-churn-itself)
-- [Map Your Churn Landscape Before You Research Anything](#map-your-churn-landscape-before-you-research-anything)
-- [Exit Interviews: The Core of Any Churn Research Programme](#exit-interviews-the-core-of-any-churn-research-programme)
-- [Behavioural Data: What Product Analytics Reveal Before a Customer Says Anything](#behavioural-data-what-product-analytics-reveal-before-a-customer-says-anything)
-- [Cohort Analysis: Spotting Structural Churn Patterns Over Time](#cohort-analysis-spotting-structural-churn-patterns-over-time)
-- [Synthesising Churn Research Into Decisions the Team Will Act On](#synthesising-churn-research-into-decisions-the-team-will-act-on)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Guessing at Churn Is Costing You More Than the Churn Itself
 
 Most SaaS teams already have a theory about why customers leave. Price. A missing feature. A bug that never got fixed. Acting on those theories without evidence is where the real cost accumulates.
@@ -161,34 +149,3 @@ Contact within two to four weeks of cancellation. Keep the ask short — 20 to 2
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Churn Research for SaaS: Why Customers Leave",
-  "description": "Stop guessing why customers cancel. Learn how to design and run churn research for SaaS — exit interviews, behavioral data, and cohort analysis — to act on",
-  "datePublished": "2026-06-08",
-  "dateModified": "2026-06-08",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/churn-research-for-saas"
-  },
-  "keywords": "churn research for SaaS, saas churn analysis, why customers churn saas, churn interview questions, customer churn research methods, saas retention research"
-}
-</script>

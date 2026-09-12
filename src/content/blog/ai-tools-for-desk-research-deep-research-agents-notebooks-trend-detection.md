@@ -6,7 +6,7 @@ description: >-
   Explore practical AI tools for desk research, including deep research agents, notebooks, and trend detection
   platforms, with tips to preserve human verification
 pubDate: '2026-05-11T09:01:15.923Z'
-updatedDate: 2026-05-11T09:01:54Z
+updatedDate: 2026-06-07T05:42:16Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research

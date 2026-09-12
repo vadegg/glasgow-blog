@@ -2,7 +2,7 @@
 title: "Concept Testing: Run a Test That Yields a Decision"
 description: "Learn how to run a concept test that produces a defensible go, refine, or kill decision — survey design, methods, sample sizing, and guards against false"
 pubDate: 2026-07-31
-updatedDate: 2026-07-31
+updatedDate: 2026-09-12T12:14:56.118Z
 readingTime: 11
 slug: "concept-testing"
 author: "Vadim Glazkov"
@@ -17,20 +17,6 @@ tags:
   - "concept test survey"
   - "validate a product concept"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What concept testing is — and what it can't tell you](#what-concept-testing-is-and-what-it-cant-tell-you)
-- [When to run a concept test (and when it's the wrong tool)](#when-to-run-a-concept-test-and-when-its-the-wrong-tool)
-- [Concept testing methods: monadic, sequential monadic and comparative](#concept-testing-methods-monadic-sequential-monadic-and-comparative)
-- [How to write a concept statement that tests the idea, not the ad copy](#how-to-write-a-concept-statement-that-tests-the-idea-not-the-ad-copy)
-- [Designing the concept test survey: questions that produce a decision](#designing-the-concept-test-survey-questions-that-produce-a-decision)
-- [Who to test and how many: recruiting and sample quality](#who-to-test-and-how-many-recruiting-and-sample-quality)
-- [Guarding against false positives: politeness and stated-preference bias](#guarding-against-false-positives-politeness-and-stated-preference-bias)
-- [From scores to a defensible go / refine / kill decision](#from-scores-to-a-defensible-go-refine-kill-decision)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## What concept testing is — and what it can't tell you
 
 Concept testing shows a described or mocked-up idea to your target audience before you build it. It measures three things: whether the idea appeals to them, whether it feels relevant to their situation, and whether they understand it the way you intended. Done well, it produces one output — a defensible decision. Go, refine, or kill. Not "collect reactions." A decision.
@@ -141,34 +127,3 @@ Use monadic testing for concepts that are very different, complex, or when you n
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Concept Testing: Run a Test That Yields a Decision",
-  "description": "Learn how to run a concept test that produces a defensible go, refine, or kill decision — survey design, methods, sample sizing, and guards against false",
-  "datePublished": "2026-07-31",
-  "dateModified": "2026-07-31",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/concept-testing"
-  },
-  "keywords": "concept testing, how to run a concept test, product concept testing, concept test survey, validate a product concept, concept testing methods"
-}
-</script>

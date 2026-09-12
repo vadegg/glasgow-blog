@@ -2,6 +2,7 @@
 title: "How to Recruit B2B Interview Participants"
 description: "B2B participant recruitment is harder than consumer research. Learn the channel strategies, incentive structures, and gatekeeper tactics that actually get"
 pubDate: 2026-06-01
+updatedDate: 2026-09-12T12:14:54.401Z
 slug: "how-to-recruit-b2b-interview-participants"
 readingTime: 13
 author: "Vadim Glazkov"
@@ -16,20 +17,6 @@ tags:
   - "B2B customer interview recruitment"
   - "finding B2B research participants"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why B2B Recruitment Is Harder Than Consumer Research](#why-b2b-recruitment-is-harder-than-consumer-research)
-- [Define Your Ideal Participant Before You Source Anyone](#define-your-ideal-participant-before-you-source-anyone)
-- [Channel Strategies That Actually Reach Decision-Makers](#channel-strategies-that-actually-reach-decision-makers)
-- [Navigating Gatekeepers and Procurement Blockers](#navigating-gatekeepers-and-procurement-blockers)
-- [Incentive Structures That Work for B2B Respondents](#incentive-structures-that-work-for-b2b-respondents)
-- [Writing Outreach Messages That Get Replies](#writing-outreach-messages-that-get-replies)
-- [A Real Recruitment Campaign: What Worked and What Did Not](#a-real-recruitment-campaign-what-worked-and-what-did-not)
-- [Building a Reusable B2B Recruitment Infrastructure](#building-a-reusable-b2b-recruitment-infrastructure)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why B2B Recruitment Is Harder Than Consumer Research
 
 Most participant recruitment advice assumes a large, accessible population. Post a screener, filter by age and income, fill your calendar. B2B research does not work like that.
@@ -54,7 +41,7 @@ Once the role is clear, write a precise screener. Useful criteria typically incl
 
 Set a realistic target number. B2B qualitative research reaches saturation faster than consumer research because the population is more homogeneous within a segment. Six to ten interviews per distinct segment is typically sufficient. If you have meaningfully different buyer types — an IT director and a finance controller who both influence the same purchase, for instance — treat each as a separate segment with its own minimum.
 
-Align the participant profile explicitly to your research question before you open any channel. This step takes an hour and saves weeks of misdirection. Read more on structuring the conversation itself in our guide on [how to conduct user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews).
+Align the participant profile explicitly to your research question before you open any channel. This step takes an hour and saves weeks of misdirection. Read more on structuring the conversation itself in our guide on [how to conduct user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews).
 
 ---
 
@@ -193,28 +180,3 @@ Yes. Your CRM, warm introductions from customer-facing colleagues, and targeted 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://blog.glasgow.works/services/).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Recruit B2B Interview Participants",
-  "description": "B2B participant recruitment is harder than consumer research. Learn the channel strategies, incentive structures, and gatekeeper tactics that actually get",
-  "datePublished": "2026-06-05",
-  "dateModified": "2026-06-05",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants"
-  },
-  "keywords": "how to recruit B2B interview participants, B2B user research recruitment, recruiting enterprise interview participants, B2B customer interview recruitment, finding B2B research participants, recruiting hard-to-reach B2B respondents"
-}
-</script>

@@ -2,7 +2,7 @@
 title: "How to Test Voice AI and Conversational UI"
 description: "Learn how to test voice AI and conversational UI with a practical framework for recognition, turn-taking, recovery, latency, trust and accessibility. Read on."
 pubDate: 2026-09-10
-updatedDate: 2026-09-10
+updatedDate: 2026-09-12T12:14:56.892Z
 readingTime: 9
 slug: "how-to-test-voice-ai-conversational-ui"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "voice assistant usability testing"
   - "VUI testing methods"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Voice AI Needs a Different Testing Approach](#why-voice-ai-needs-a-different-testing-approach)
-- [Map the Voice AI System Before You Test It](#map-the-voice-ai-system-before-you-test-it)
-- [Build a Voice AI Usability Test Plan](#build-a-voice-ai-usability-test-plan)
-- [Run Sessions Without Making the Conversation Artificial](#run-sessions-without-making-the-conversation-artificial)
-- [Test the Failure Modes That Matter Most](#test-the-failure-modes-that-matter-most)
-- [Measure Usability, Conversation Quality and Reliability](#measure-usability-conversation-quality-and-reliability)
-- [Turn Findings Into Release Decisions](#turn-findings-into-release-decisions)
-- [Frequently Asked Questions About Voice AI Testing](#frequently-asked-questions-about-voice-ai-testing)
-
 ## Why Voice AI Needs a Different Testing Approach
 
 Testing voice AI and conversational UI takes three kinds of evidence: technical evaluation, realistic usability sessions and production monitoring. Each exposes failures the others can miss.
@@ -159,36 +146,7 @@ QA checks whether the system performs as specified. Usability research checks wh
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Test Voice AI and Conversational UI",
-  "description": "Learn how to test voice AI and conversational UI with a practical framework for recognition, turn-taking, recovery, latency, trust and accessibility. Read on.",
-  "datePublished": "2026-09-10",
-  "dateModified": "2026-09-10",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-test-voice-ai-conversational-ui"
-  },
-  "keywords": "how to test voice AI and conversational UI, voice user interface testing, conversational UI usability testing, voice assistant usability testing, VUI testing methods, voice AI testing framework, voice AI usability metrics"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

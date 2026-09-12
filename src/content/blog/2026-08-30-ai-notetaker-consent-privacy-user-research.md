@@ -2,7 +2,7 @@
 title: "AI Notetaker Consent & Privacy in User Research"
 description: "A practical 2026 playbook for AI notetaker consent and privacy in user research: what to disclose, how to capture valid consent, retention rules and vendor"
 pubDate: 2026-08-30
-updatedDate: 2026-08-30
+updatedDate: 2026-09-12T12:14:56.398Z
 readingTime: 10
 slug: "ai-notetaker-consent-privacy-user-research"
 author: "Vadim Glazkov"
@@ -17,20 +17,6 @@ tags:
   - "AI transcription GDPR research"
   - "consent for AI meeting notes"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why AI notetakers changed the consent conversation in 2026](#why-ai-notetakers-changed-the-consent-conversation-in-2026)
-- [The three layers of consent you must satisfy](#the-three-layers-of-consent-you-must-satisfy)
-- [What to disclose: writing a transparent AI-notetaker notice](#what-to-disclose-writing-a-transparent-ai-notetaker-notice)
-- [Capturing valid consent that holds up](#capturing-valid-consent-that-holds-up)
-- [Data handling, retention and the right to withdraw](#data-handling-retention-and-the-right-to-withdraw)
-- [Vendor due-diligence checklist before you deploy](#vendor-due-diligence-checklist-before-you-deploy)
-- [How we handle notetaker consent in real studies](#how-we-handle-notetaker-consent-in-real-studies)
-- [Your 2026 AI-notetaker compliance checklist](#your-2026-ai-notetaker-compliance-checklist)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## Why AI notetakers changed the consent conversation in 2026
 
 Before a user interview you used to ask one thing: "Is everyone happy for me to record this?" AI notetakers have outgrown that question. They join calls on their own, transcribe every word, and some build a biometric voiceprint that identifies a speaker in later meetings — a bigger ask than a stored video file.
@@ -187,34 +173,3 @@ GDPR sets no fixed period, and data minimisation favours short, defined retentio
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "AI Notetaker Consent & Privacy in User Research",
-  "description": "A practical 2026 playbook for AI notetaker consent and privacy in user research: what to disclose, how to capture valid consent, retention rules and vendor",
-  "datePublished": "2026-08-30",
-  "dateModified": "2026-08-30",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/ai-notetaker-consent-privacy-user-research"
-  },
-  "keywords": "AI notetaker consent and privacy for user research, AI notetaker privacy user research, recording consent for user interviews, AI transcription GDPR research, consent for AI meeting notes"
-}
-</script>

@@ -2,7 +2,7 @@
 title: "How to Detect Fake Survey Respondents in Research"
 description: "Learn how to detect fake survey respondents with a practical, low-tooling checklist: screener traps, paradata checks, and open-ended red flags for UX teams."
 pubDate: 2026-07-19
-updatedDate: 2026-07-19
+updatedDate: 2026-09-12T12:14:55.755Z
 readingTime: 10
 slug: "how-to-detect-fake-survey-respondents"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "data quality checks for research surveys"
   - "screening out fraudulent survey responses"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why this matters: the real cost of fake respondents in DIY research](#why-this-matters-the-real-cost-of-fake-respondents-in-diy-research)
-- [Design your screener to filter fraud before it starts](#design-your-screener-to-filter-fraud-before-it-starts)
-- [Real-time signals: paradata you can check without enterprise tools](#real-time-signals-paradata-you-can-check-without-enterprise-tools)
-- [Open-ended responses: the cheapest, highest-signal fraud check](#open-ended-responses-the-cheapest-highest-signal-fraud-check)
-- [Post-fieldwork statistical checks: straight-lining, speeding, and consistency traps](#post-fieldwork-statistical-checks-straight-lining-speeding-and-consistency-traps)
-- [A practical low-tooling detection checklist from the field](#a-practical-low-tooling-detection-checklist-from-the-field)
-- [When fraud signals mean you need stronger quality guardrails](#when-fraud-signals-mean-you-need-stronger-quality-guardrails)
-- [FAQ: detecting fake survey respondents](#faq-detecting-fake-survey-respondents)
-
 ## Why this matters: the real cost of fake respondents in DIY research
 
 Run a survey through an open panel link or a self-serve tool, and some share of your responses won't come from real people. Industry estimates put fraudulent or bot-generated data at 15–30% of online survey responses, varying with recruitment source and incentive size.
@@ -137,36 +124,7 @@ Platform-native IP and device fields, a honeypot screener question, reCAPTCHA, a
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Detect Fake Survey Respondents in Research",
-  "description": "Learn how to detect fake survey respondents with a practical, low-tooling checklist: screener traps, paradata checks, and open-ended red flags for UX teams.",
-  "datePublished": "2026-07-19",
-  "dateModified": "2026-07-19",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-detect-fake-survey-respondents"
-  },
-  "keywords": "how to detect fake survey respondents in research, survey fraud detection for researchers, bot respondents in online surveys, data quality checks for research surveys, screening out fraudulent survey responses, identifying low-quality survey data"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

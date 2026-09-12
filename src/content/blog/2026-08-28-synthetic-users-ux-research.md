@@ -2,7 +2,7 @@
 title: "Synthetic Users in UX Research: Help or Mislead?"
 description: "Synthetic users in UX research can speed up discovery or quietly mislead you. Learn when AI participants help, their failure modes, and a hybrid validation"
 pubDate: 2026-08-28
-updatedDate: 2026-08-28
+updatedDate: 2026-09-12T12:14:56.342Z
 readingTime: 10
 slug: "synthetic-users-ux-research"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "when to use synthetic users"
   - "validating synthetic user research with real people"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What are synthetic users (and what they're not)?](#what-are-synthetic-users-and-what-theyre-not)
-- [When synthetic users help: cheap hypotheses, fast](#when-synthetic-users-help-cheap-hypotheses-fast)
-- [When synthetic users mislead: six failure modes](#when-synthetic-users-mislead-six-failure-modes)
-- [Synthetic vs real participants: the evidence gap](#synthetic-vs-real-participants-the-evidence-gap)
-- [A hybrid workflow: synthetic first, humans confirm](#a-hybrid-workflow-synthetic-first-humans-confirm)
-- [In practice: de-risking a redesign study](#in-practice-de-risking-a-redesign-study)
-- [Decision checklist: use, validate, or avoid](#decision-checklist-use-validate-or-avoid)
-- [Frequently asked questions](#frequently-asked-questions)
-
-Synthetic users promise research insight without the cost and delay of recruiting real people. When budgets are tight and timelines short, the pitch lands well. But a fluent, confident answer from an AI persona is not evidence — and teams keep treating it as if it were. Here's where synthetic users earn a place in your process, the six ways they mislead, and a workflow that keeps them honest.
-
 ## What are synthetic users (and what they're not)?
 
 Synthetic users are AI-generated participant profiles. You prompt a large language model (LLM) with demographic and behavioural data for a target segment, and it answers your interview or survey questions as if it were a person in that segment. Some tools layer on personality models — OCEAN-style trait profiles covering openness, conscientiousness, extraversion, agreeableness, and neuroticism — and hold context between questions so a "participant" stays consistent across a session. Multi-agent setups run several personas in parallel. The architecture is tidy. It does not change what the output is: predicted text, not observed behaviour.
@@ -138,34 +123,3 @@ Treat every synthetic output as a hypothesis. Shortlist the ones worth testing, 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Synthetic Users in UX Research: Help or Mislead?",
-  "description": "Synthetic users in UX research can speed up discovery or quietly mislead you. Learn when AI participants help, their failure modes, and a hybrid validation",
-  "datePublished": "2026-08-28",
-  "dateModified": "2026-08-28",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/synthetic-users-ux-research"
-  },
-  "keywords": "synthetic users in UX research, AI participants in user research, synthetic user testing, when to use synthetic users, validating synthetic user research with real people"
-}
-</script>

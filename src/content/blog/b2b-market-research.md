@@ -4,7 +4,7 @@ readingTime: 8
 title: "B2B Market Research: What Changes When the Buyer Is Not an Individual"
 description: "Learn how to run B2B market research by mapping buying groups, recruiting the right roles, and interpreting signal across complex buying decisions today."
 pubDate: 2026-03-26T00:00:00Z
-updatedDate: 2026-05-10T06:24:41Z
+updatedDate: 2026-09-12T12:14:57.181Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
@@ -15,35 +15,6 @@ tags:
   - "market research methods"
   - "product research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [The company is not the buyer](#the-company-is-not-the-buyer)
-- [Map the buying group before you recruit](#map-the-buying-group-before-you-recruit)
-- [Narrow markets change the method](#narrow-markets-change-the-method)
-- [Ask about behavior, not polite opinions](#ask-about-behavior-not-polite-opinions)
-- [Segment by urgency and process maturity, not company size alone](#segment-by-urgency-and-process-maturity-not-company-size-alone)
-- [A practical workflow for B2B market research](#a-practical-workflow-for-b2b-market-research)
-- [FAQ](#faq)
-- [Closing](#closing)
-
-The biggest mistake teams make in B2B market research is treating the company like one buyer.
-
-That sounds harmless until you try to make a decision from the research. Then the problem shows up fast. One person in the account likes the idea. Another worries about adoption. A third controls the budget. A fourth can block the deal even if nobody calls them the buyer.
-
-That is why B2B market research cannot behave like generic consumer research. The company is not the buyer. The buying group is.
-
-Once you accept that, almost everything changes:
-
-- who you interview;
-- what questions you ask;
-- how you recruit;
-- which method is realistic;
-- and how you interpret the signal.
-
-If you are still choosing methods, it helps to start from the bigger research question first. I covered that logic in [/blog/customer-research-methods/](/blog/customer-research-methods/). The short version is that method follows the decision, not convenience.
-
 ## The company is not the buyer
 
 In B2B, there is rarely one clean person who represents the whole account. There is usually a buying group with separate incentives.

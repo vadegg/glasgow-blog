@@ -2,7 +2,7 @@
 title: "B2B Customer Journey Mapping Research: A Practitioner Guide"
 description: "Learn how to research and build a B2B customer journey map when multiple stakeholders are involved, decisions span months, and no single person owns the full"
 pubDate: 2026-07-10
-updatedDate: 2026-07-10
+updatedDate: 2026-09-12T12:14:55.440Z
 readingTime: 12
 slug: "b2b-customer-journey-mapping-research"
 author: "Vadim Glazkov"
@@ -17,17 +17,6 @@ tags:
   - "multi-stakeholder journey mapping"
   - "b2b buying journey research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why B2B journey mapping is a research problem first](#why-b2b-journey-mapping-is-a-research-problem-first)
-- [Map the buying committee before you map the journey](#map-the-buying-committee-before-you-map-the-journey)
-- [Choosing your research methods for each journey stage](#choosing-your-research-methods-for-each-journey-stage)
-- [Designing interviews that surface the whole journey, not just the touchpoints you own](#designing-interviews-that-surface-the-whole-journey-not-just-the-touchpoints-you-own)
-- [Synthesis: collapsing multiple stakeholder accounts into one validated map](#synthesis-collapsing-multiple-stakeholder-accounts-into-one-validated-map)
-- [Common pitfalls and how to avoid them](#common-pitfalls-and-how-to-avoid-them)
-
 ## Why B2B journey mapping is a research problem first
 
 Most B2B journey maps fail before anyone draws a single lane. They fail because they are built from internal assumptions — what the sales team believes happens, what marketing hopes happens — rather than what buyers actually experience. The artefact looks credible. The insight inside it is not.
@@ -135,34 +124,3 @@ The practical next step: pull your last five closed-won and five closed-lost dea
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "B2B Customer Journey Mapping Research: A Practitioner Guide",
-  "description": "Learn how to research and build a B2B customer journey map when multiple stakeholders are involved, decisions span months, and no single person owns the full",
-  "datePublished": "2026-07-10",
-  "dateModified": "2026-07-10",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/b2b-customer-journey-mapping-research"
-  },
-  "keywords": "b2b customer journey mapping research, customer journey mapping b2b, b2b journey map research methods, multi-stakeholder journey mapping, b2b buying journey research, how to map the b2b customer journey"
-}
-</script>

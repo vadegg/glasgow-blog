@@ -2,7 +2,7 @@
 title: "B2B Buyer Research Methods: Understand Who Actually Buys"
 description: "Map buying committees, uncover hidden influence, and run decision-stage interviews with these practical B2B buyer research methods for GTM and product teams."
 pubDate: 2026-06-29
-updatedDate: 2026-06-29
+updatedDate: 2026-09-12T12:14:55.017Z
 readingTime: 11
 slug: "b2b-buyer-research-methods"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "b2b purchase decision research"
   - "understanding b2b buying committees"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why B2B Buyer Research Is Different from General Market Research](#why-b2b-buyer-research-is-different-from-general-market-research)
-- [Map the Buying Committee Before You Pick a Method](#map-the-buying-committee-before-you-pick-a-method)
-- [Decision-Stage Interviews: The Core B2B Buyer Research Method](#decision-stage-interviews-the-core-b2b-buyer-research-method)
-- [Supplementary Methods: Surveys, Sales Debriefs, and CRM Mining](#supplementary-methods-surveys-sales-debriefs-and-crm-mining)
-- [Synthesising Findings: From Raw Data to Influence Maps and Opportunity Signals](#synthesising-findings-from-raw-data-to-influence-maps-and-opportunity-signals)
-- [Common Mistakes and How to Avoid Them](#common-mistakes-and-how-to-avoid-them)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why B2B Buyer Research Is Different from General Market Research
 
 Most market research assumes a single decision-maker. B2B purchases rarely work that way. The average complex software deal involves five to ten stakeholders, each evaluating the purchase from a different vantage point — and a research method designed for one persona will miss most of that picture.
@@ -156,34 +144,3 @@ Run a full committee-mapping cycle when entering a new segment or after a signif
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "B2B Buyer Research Methods: Understand Who Actually Buys",
-  "description": "Map buying committees, uncover hidden influence, and run decision-stage interviews with these practical B2B buyer research methods for GTM and product teams.",
-  "datePublished": "2026-06-29",
-  "dateModified": "2026-06-29",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/b2b-buyer-research-methods"
-  },
-  "keywords": "b2b buyer research methods, b2b buyer persona research, how to research b2b buyers, b2b purchase decision research, understanding b2b buying committees, b2b customer discovery methods"
-}
-</script>

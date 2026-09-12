@@ -2,7 +2,7 @@
 title: "Guerrilla Usability Testing: A Practical Guide"
 description: "Run fast, low-cost guerrilla usability tests that still deliver rigorous insights. A step-by-step practitioner guide covering planning, recruiting, facilitation"
 pubDate: 2026-05-30
-updatedDate: 2026-06-03T06:35:23.908Z
+updatedDate: 2026-09-12T12:14:54.368Z
 slug: "guerrilla-usability-testing-guide"
 readingTime: 13
 author: "Vadim Glazkov"
@@ -17,20 +17,6 @@ tags:
   - "unmoderated usability testing"
   - "quick usability testing methods"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is Guerrilla Usability Testing?](#what-is-guerrilla-usability-testing)
-- [When to choose guerrilla testing (and when to skip it)](#when-to-choose-guerrilla-testing-and-when-to-skip-it)
-- [Step 1 — Define a focused test objective](#step-1-define-a-focused-test-objective)
-- [Step 2 — Recruit participants on a shoestring](#step-2-recruit-participants-on-a-shoestring)
-- [Step 3 — Build a lightweight test script](#step-3-build-a-lightweight-test-script)
-- [Step 4 — Facilitate the session without a lab](#step-4-facilitate-the-session-without-a-lab)
-- [Step 5 — Analyse and prioritise findings fast](#step-5-analyse-and-prioritise-findings-fast)
-- [Maintaining rigour on a budget: common pitfalls to avoid](#maintaining-rigour-on-a-budget-common-pitfalls-to-avoid)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## What Is Guerrilla Usability Testing?
 
 Guerrilla usability testing is a lightweight research method: short, informal sessions with whoever is available — people in a coffee shop, a university library, a co-working space, or an online Slack community. There is no observation lab, no formal recruitment process, and no lengthy briefing document. A facilitator is present throughout. Sessions typically run 20–30 minutes.
@@ -64,7 +50,7 @@ A brief comparison of the three main options:
 | Moderated lab | High | High | 6–12 |
 | Unmoderated remote | Medium | Lower nuance | 20–100+ |
 
-Red flags that should push you away from guerrilla testing: you are working in a regulated industry such as financial services or healthcare; the flow involves grief, trauma, or other sensitive experiences; or a stakeholder requires a demographically matched sample for the findings to carry weight. In those situations, invest in proper recruitment. Our guide on [how to conduct user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) covers the structured alternative in more depth.
+Red flags that should push you away from guerrilla testing: you are working in a regulated industry such as financial services or healthcare; the flow involves grief, trauma, or other sensitive experiences; or a stakeholder requires a demographically matched sample for the findings to carry weight. In those situations, invest in proper recruitment. Our guide on [how to conduct user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) covers the structured alternative in more depth.
 
 ---
 
@@ -115,7 +101,7 @@ For the think-aloud protocol, prompt without leading. "What are you thinking rig
 
 Keep the full script to one printed page. You will be reading it in a noisy café, possibly while managing a screen recording. Readability under pressure matters.
 
-Run at least one dry-run session with a colleague before going live. Pilots surface ambiguous task wording and timing problems that are not visible on paper. For deeper guidance on facilitation principles, the discussion guide approach in our post on [how to write a discussion guide for user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) applies directly here.
+Run at least one dry-run session with a colleague before going live. Pilots surface ambiguous task wording and timing problems that are not visible on paper. For deeper guidance on facilitation principles, the discussion guide approach in our post on [how to write a discussion guide for user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) applies directly here.
 
 ---
 
@@ -194,29 +180,7 @@ Anywhere your target users naturally gather: coffee shops, libraries, co-working
 
 20–30 minutes is the practical target. Short enough that people will agree to participate on the spot; long enough to cover 2–3 meaningful tasks and brief post-task questions.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Guerrilla Usability Testing: A Practical Guide",
-  "description": "Run fast, low-cost guerrilla usability tests that still deliver rigorous insights. A step-by-step practitioner guide covering planning, recruiting, facilitation, and analysis.",
-  "datePublished": "2026-05-30",
-  "dateModified": "2026-05-30",
-  "author": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/guerrilla-usability-testing-guide"
-  },
-  "keywords": "guerrilla usability testing guide, guerrilla user testing, low cost usability testing, unmoderated usability testing, quick usability testing methods, usability testing on a budget"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

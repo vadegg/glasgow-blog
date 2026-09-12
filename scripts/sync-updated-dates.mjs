@@ -1,5 +1,5 @@
 import { execFileSync } from 'node:child_process';
-import { readFileSync, readdirSync, statSync, writeFileSync } from 'node:fs';
+import { readFileSync, readdirSync, statSync, utimesSync, writeFileSync } from 'node:fs';
 import { extname, join } from 'node:path';
 import process from 'node:process';
 
@@ -156,7 +156,10 @@ function syncPost(relativePath) {
     return null;
   }
 
+  // A metadata-only write must not become a new content edit on the next build.
+  const originalStat = statSync(absolutePath);
   writeFileSync(absolutePath, source.replace(fullFrontmatter, nextFrontmatter));
+  utimesSync(absolutePath, originalStat.atime, originalStat.mtime);
   return relativePath;
 }
 

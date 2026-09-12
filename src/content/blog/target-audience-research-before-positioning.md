@@ -4,7 +4,7 @@ readingTime: 12
 title: How to Conduct Target Audience Research Before Positioning Work
 description: "Learn how target audience research helps you define, narrow, and validate the audience before positioning, messaging, and GTM decisions in B2B SaaS teams."
 pubDate: '2026-05-09T09:01:26.612Z'
-updatedDate: 2026-05-10T07:51:04Z
+updatedDate: 2026-09-12T12:14:57.596Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
@@ -15,24 +15,6 @@ tags:
   - B2B SaaS
   - customer research
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Broad Audience Labels Are a Positioning Liability](#why-broad-audience-labels-are-a-positioning-liability)
-- [Step-by-Step ICP Refinement Using Quantifiable Filters](#step-by-step-icp-refinement-using-quantifiable-filters)
-- [A Named Framework: The ICP Definition Canvas](#a-named-framework-the-icp-definition-canvas)
-- [Mapping ICP Attributes to Signals and Sources](#mapping-icp-attributes-to-signals-and-sources)
-- [Validating Your Audience Assumptions](#validating-your-audience-assumptions)
-- [Balancing Segmentation Granularity](#balancing-segmentation-granularity)
-- [How Precise Target Audience Definition Improves Positioning](#how-precise-target-audience-definition-improves-positioning)
-- [Common Pitfalls to Avoid](#common-pitfalls-to-avoid)
-- [Conclusion: Validate Before You Position](#conclusion-validate-before-you-position)
-
-If you're a founder or growth leader in B2B SaaS, you know positioning can make or break your product's success. Here's the hard truth: most positioning fails because it starts with a vague or incorrect target audience. Labels like "SMB" or "mid-market" are lazy shorthand that kill clarity and waste marketing dollars. Before writing a single positioning statement, define and validate your target audience precisely. Here's how.
-
-Positioning is a decision about whose problem you solve best and why you win against the alternatives. That decision needs an input: a sharp, evidence-backed picture of the people who will buy. If you skip the research and start at the messaging stage, you are writing claims about a customer you have only imagined. The market corrects you later, slowly and expensively, through low reply rates, long sales cycles, and churn you cannot explain. This article walks through how to do the research first, in an order that holds up under pressure.
-
 ## Why Broad Audience Labels Are a Positioning Liability
 
 Calling your target market "SMB" is like saying your ideal customer is "someone who owns a car." It's too broad to guide messaging or sales strategy. SMBs vary wildly in industry, budget, team size, and buying behavior. Trying to appeal to everyone in that bucket means resonating with no one. This leads to diluted messaging, confused sales teams, and poor campaign ROI.

@@ -2,7 +2,7 @@
 title: "Inclusive UX Research Methods: Stop Excluding Participants"
 description: "Learn how to adapt recruitment, session design, and analysis so your UX research studies don't structurally exclude disabled, neurodivergent, or underrepresente"
 pubDate: 2026-07-09
-updatedDate: 2026-07-09
+updatedDate: 2026-09-12T12:14:55.409Z
 readingTime: 13
 slug: "inclusive-ux-research-methods"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "inclusive research design"
   - "researching with assistive technology users"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Most UX Research Studies Have an Exclusion Problem](#why-most-ux-research-studies-have-an-exclusion-problem)
-- [Inclusive recruitment: widening the participant pool deliberately](#inclusive-recruitment-widening-the-participant-pool-deliberately)
-- [Session design: adapting format, timing, and materials](#session-design-adapting-format-timing-and-materials)
-- [Discussion guides and tasks: removing hidden barriers in your script](#discussion-guides-and-tasks-removing-hidden-barriers-in-your-script)
-- [Analysis and synthesis: avoiding bias after the sessions](#analysis-and-synthesis-avoiding-bias-after-the-sessions)
-- [Building inclusion into research operations, not just individual studies](#building-inclusion-into-research-operations-not-just-individual-studies)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## Why Most UX Research Studies Have an Exclusion Problem
 
 Your study design probably excludes disabled participants before a single session begins. That is not an accusation — it is a structural fact about how most screeners, platforms, and session formats are built.
@@ -172,36 +160,7 @@ No. Anonymise participant context in the same way you would any other sensitive 
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Inclusive UX Research Methods: Stop Excluding Participants",
-  "description": "Learn how to adapt recruitment, session design, and analysis so your UX research studies don't structurally exclude disabled, neurodivergent, or underrepresente",
-  "datePublished": "2026-07-09",
-  "dateModified": "2026-07-09",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/inclusive-ux-research-methods"
-  },
-  "keywords": "inclusive UX research methods, accessibility in user research, recruiting disabled participants for UX research, inclusive research design, researching with assistive technology users, diversity in UX research participants"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

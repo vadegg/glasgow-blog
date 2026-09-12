@@ -4,7 +4,7 @@ readingTime: 11
 title: "Customer Research Methods: Choose the Method That Matches the Decision"
 description: "Choose customer research methods that fit the decision in front of you, from interviews and surveys to desk research, expert calls, and usability tests."
 pubDate: 2026-03-25T00:00:00Z
-updatedDate: 2026-05-10T06:24:41Z
+updatedDate: 2026-09-12T12:14:57.239Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
@@ -15,32 +15,6 @@ tags:
   - "b2b research"
   - "product research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [The first mistake is starting with the method](#the-first-mistake-is-starting-with-the-method)
-- [Choose the method that matches the question](#choose-the-method-that-matches-the-question)
-- [The failure patterns that ruin method choice](#the-failure-patterns-that-ruin-method-choice)
-- [Customer research methods change in B2B SaaS](#customer-research-methods-change-in-b2b-saas)
-- [A practical method-selection workflow](#a-practical-method-selection-workflow)
-- [FAQ](#faq)
-- [Final point](#final-point)
-
-Most teams do not choose customer research methods.
-
-They choose habits.
-
-They choose the method that feels familiar. The method that sounds respectable in a meeting. The method that creates the least friction. The method that lets them say, "We spoke to customers," without asking whether that conversation could ever answer the real question.
-
-That is why so much customer research produces weak signal.
-
-The problem is usually not that the team has never heard of interviews, surveys, desk research, or usability testing. The problem is that method selection is being driven by comfort, panic, or internal politics instead of by the decision the team is actually trying to make.
-
-If you work in B2B SaaS, this gets expensive fast. You are often dealing with narrow markets, messy buying groups, long decision cycles, and product bets that are too costly to steer with soft evidence.
-
-So here is the practical version: customer research methods are decision tools, not a menu. The right method depends on the question, the timing, and the business risk. If you start anywhere else, the process gets noisy very quickly.
-
 ## The first mistake is starting with the method
 
 The usual conversation starts one step too late:

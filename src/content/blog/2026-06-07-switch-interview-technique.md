@@ -2,7 +2,7 @@
 title: "Switch Interview Technique: A Step-by-Step Guide"
 description: "Learn how to run a Switch Interview to reconstruct the exact moment a customer switched products — and surface the causal forces behind any JTBD purchase"
 pubDate: 2026-06-07
-updatedDate: 2026-06-07
+updatedDate: 2026-09-12T12:14:54.557Z
 readingTime: 13
 slug: "switch-interview-technique"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "switching moment interview"
   - "forces of progress framework"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is the Switch Interview Technique?](#what-is-the-switch-interview-technique)
-- [The Forces of Progress Framework](#the-forces-of-progress-framework)
-- [How to Structure a Switch Interview: The Five Timeline Stages](#how-to-structure-a-switch-interview-the-five-timeline-stages)
-- [Recruiting the Right Participants](#recruiting-the-right-participants)
-- [Running the Interview: Questions, Probes, and Common Pitfalls](#running-the-interview-questions-probes-and-common-pitfalls)
-- [Analysing and Activating Switch Interview Findings](#analysing-and-activating-switch-interview-findings)
-- [A Switch Interview in Practice: Agency Example](#a-switch-interview-in-practice-agency-example)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Is the Switch Interview Technique?
 
 A Switch Interview is a structured retrospective interview that reconstructs the exact moment a customer decided to replace one solution with another. A general [jobs-to-be-done interviews for B2B SaaS](https://blog.glasgow.works/blog/jtbd-interviews-b2b-saas) session ranges across a user's broader workflow and motivations. The Switch Interview is narrower: map the causal chain that led someone to fire their old solution and hire a new one.
@@ -204,36 +191,7 @@ The most common failure modes are recruiting participants who were not meaningfu
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Switch Interview Technique: A Step-by-Step Guide",
-  "description": "Learn how to run a Switch Interview to reconstruct the exact moment a customer switched products — and surface the causal forces behind any JTBD purchase",
-  "datePublished": "2026-06-07",
-  "dateModified": "2026-06-07",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/switch-interview-technique"
-  },
-  "keywords": "switch interview technique, JTBD switch interview, jobs to be done switch interview, switching moment interview, forces of progress framework, how to run a switch interview"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -2,7 +2,7 @@
 title: "Product Discovery: A Continuous, Evidence-Led Process"
 description: "A practical guide to product discovery: continuous discovery, jobs-to-be-done, assumption and opportunity mapping, and experiment design woven into one"
 pubDate: 2026-05-18
-updatedDate: 2026-05-18
+updatedDate: 2026-09-12T12:14:54.232Z
 readingTime: 14
 slug: "product-discovery"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "assumption mapping"
   - "opportunity solution tree"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Product Discovery Actually Means](#what-product-discovery-actually-means)
-- [Continuous Discovery: Making Research a Weekly Habit](#continuous-discovery-making-research-a-weekly-habit)
-- [Jobs to Be Done: Understanding Why Customers Hire Your Product](#jobs-to-be-done-understanding-why-customers-hire-your-product)
-- [Assumption Mapping and the Opportunity Solution Tree](#assumption-mapping-and-the-opportunity-solution-tree)
-- [Experiment Design: Testing Assumptions Before You Build](#experiment-design-testing-assumptions-before-you-build)
-- [How the Four Practices Connect Into One System](#how-the-four-practices-connect-into-one-system)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Product Discovery Actually Means
 
 Most teams treat discovery as a phase — something that happens before the "real work" begins. A few weeks of interviews, a deck handed to stakeholders, then on to building. That framing is the source of most preventable product failures.
@@ -221,34 +209,3 @@ No, but research operations infrastructure helps. The product trio — product m
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Product Discovery: A Continuous, Evidence-Led Process",
-  "description": "A practical guide to product discovery: continuous discovery, jobs-to-be-done, assumption and opportunity mapping, and experiment design woven into one",
-  "datePublished": "2026-05-18",
-  "dateModified": "2026-05-18",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/product-discovery"
-  },
-  "keywords": "product discovery, continuous discovery, jobs to be done, assumption mapping, opportunity solution tree, experiment design"
-}
-</script>

@@ -2,7 +2,7 @@
 title: "How to Detect Fake & AI Participants in User Research"
 description: "A practical playbook to detect fake and AI-generated participants in user research, with screener, behavioural and verification signals that protect data"
 pubDate: 2026-08-21
-updatedDate: 2026-08-21
+updatedDate: 2026-09-12T12:14:56.204Z
 readingTime: 12
 slug: "detect-fake-ai-generated-participants-user-research"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "screening out AI respondents"
   - "survey fraud detection"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why fake and AI participants now threaten your data](#why-fake-and-ai-participants-now-threaten-your-data)
-- [Stage 1: Screener signals that stop fraud at the door](#stage-1-screener-signals-that-stop-fraud-at-the-door)
-- [Stage 2: Behavioural and technical signals during collection](#stage-2-behavioural-and-technical-signals-during-collection)
-- [Stage 3: Spotting AI-generated open-ended responses](#stage-3-spotting-ai-generated-open-ended-responses)
-- [Detecting AI and deepfakes in live, moderated sessions](#detecting-ai-and-deepfakes-in-live-moderated-sessions)
-- [Build a detection scorecard, don't rely on one signal](#build-a-detection-scorecard-dont-rely-on-one-signal)
-- [What to do when you catch a fake: remediation and client governance](#what-to-do-when-you-catch-a-fake-remediation-and-client-governance)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## Why fake and AI participants now threaten your data
 
 Recruiting used to mean filtering out the inattentive. In 2026, it means learning to detect fake and AI-generated participants in user research before their answers reach analysis — people who were never people at all, or who used a language model to write answers that read as fluent, confident, and entirely invented. Generative AI has made synthetic responses good enough to slip past conventional quality checks. Bad data can now look clean on the surface.
@@ -151,34 +138,3 @@ Two or three well-placed trap questions is usually enough. Given that a single d
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Detect Fake & AI Participants in User Research",
-  "description": "A practical playbook to detect fake and AI-generated participants in user research, with screener, behavioural and verification signals that protect data",
-  "datePublished": "2026-08-21",
-  "dateModified": "2026-08-21",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/detect-fake-ai-generated-participants-user-research"
-  },
-  "keywords": "detect fake and AI-generated participants in user research, participant data quality, research panel fraud, screening out AI respondents, survey fraud detection, bot participants in research"
-}
-</script>

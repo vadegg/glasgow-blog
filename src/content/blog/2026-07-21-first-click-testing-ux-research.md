@@ -2,7 +2,7 @@
 title: "First Click Testing in UX Research: How to Run It"
 description: "Learn how to run first click testing in UX research: setup steps, success-rate benchmarks, top tools, and how to interpret results to fix navigation fast."
 pubDate: 2026-07-21
-updatedDate: 2026-07-21
+updatedDate: 2026-09-12T12:14:55.855Z
 readingTime: 11
 slug: "first-click-testing-ux-research"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "click testing usability"
   - "first click test success rate"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What is first click testing (and why it predicts task success)](#what-is-first-click-testing-and-why-it-predicts-task-success)
-- [When to use first click testing in your research toolkit](#when-to-use-first-click-testing-in-your-research-toolkit)
-- [First click testing vs tree testing: what's the difference](#first-click-testing-vs-tree-testing-whats-the-difference)
-- [How to run a first click test: step-by-step](#how-to-run-a-first-click-test-step-by-step)
-- [First click testing tools: what to use and when](#first-click-testing-tools-what-to-use-and-when)
-- [Sample size and success-rate benchmarks](#sample-size-and-success-rate-benchmarks)
-- [Interpreting results: what a click tells you (and what it doesn't)](#interpreting-results-what-a-click-tells-you-and-what-it-doesnt)
-- [A first click test in practice: lessons from an agency engagement](#a-first-click-test-in-practice-lessons-from-an-agency-engagement)
-- [Common pitfalls to avoid when first click testing](#common-pitfalls-to-avoid-when-first-click-testing)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## What is first click testing (and why it predicts task success)
 
 First click testing is a UX research method with a narrow brief. You show someone a screen — a homepage, a settings page, a checkout screen — and ask where they'd click first to complete a task. You record only that click: where it landed, and how long the decision took. No completed task, no second click, no follow-through.
@@ -139,34 +124,3 @@ There's no universal target. Aim well above the roughly 46% figure associated wi
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "First Click Testing in UX Research: How to Run It",
-  "description": "Learn how to run first click testing in UX research: setup steps, success-rate benchmarks, top tools, and how to interpret results to fix navigation fast.",
-  "datePublished": "2026-07-21",
-  "dateModified": "2026-07-21",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/first-click-testing-ux-research"
-  },
-  "keywords": "first click testing ux, how to run a first click test, first click testing tools, click testing usability, first click test success rate, first click testing vs tree testing"
-}
-</script>

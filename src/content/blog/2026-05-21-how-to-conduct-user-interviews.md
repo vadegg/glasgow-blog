@@ -2,7 +2,7 @@
 title: "How to Conduct User Interviews: A Practical Guide"
 description: "Learn how to conduct user interviews that generate real insight — from writing a discussion guide to facilitation techniques and common pitfalls every UX"
 pubDate: 2026-05-21
-updatedDate: 2026-06-03T06:35:23.905Z
+updatedDate: 2026-09-12T12:14:54.339Z
 slug: "how-to-conduct-user-interviews"
 readingTime: 13
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "UX research interviews"
   - "discussion guide user research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is a User Interview and When Should You Use One?](#what-is-a-user-interview-and-when-should-you-use-one)
-- [How to write a discussion guide that actually works](#how-to-write-a-discussion-guide-that-actually-works)
-- [Facilitation techniques that unlock honest answers](#facilitation-techniques-that-unlock-honest-answers)
-- [Recruiting the right participants](#recruiting-the-right-participants)
-- [Common mistakes and how to avoid them](#common-mistakes-and-how-to-avoid-them)
-- [What to do after the interviews: a brief synthesis primer](#what-to-do-after-the-interviews-a-brief-synthesis-primer)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## What Is a User Interview and When Should You Use One?
 
 A user interview is a qualitative, conversational research method for exploring attitudes, motivations, and behaviours. You speak directly with people to understand *why* they think, feel, or act as they do — not to measure how many people share a preference or to observe whether a product works.
@@ -181,29 +169,7 @@ Yes, where legally permitted and where the participant has given explicit inform
 
 User interviews explore attitudes, motivations, and past behaviours through conversation. Usability tests observe participants attempting specific tasks with a product or prototype to evaluate whether the design functions as intended. Both are valuable, but they answer different questions. Interviews tell you what people think, feel, and do in their own context. Usability tests tell you whether people can successfully complete a task with a specific interface. Choosing between them — or combining them — depends on what you need to learn.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Conduct User Interviews: A Practical Guide",
-  "description": "Learn how to conduct user interviews that generate real insight — from writing a discussion guide to facilitation techniques and common pitfalls every UX researcher should avoid.",
-  "datePublished": "2026-05-21",
-  "dateModified": "2026-05-21",
-  "author": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/how-to-conduct-user-interviews"
-  },
-  "keywords": "how to conduct user interviews, user interview questions, user interview tips, UX research interviews, discussion guide user research, user interview best practices"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

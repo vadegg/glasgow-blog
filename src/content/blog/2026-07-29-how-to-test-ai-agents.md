@@ -2,7 +2,7 @@
 title: "How to Test AI Agents: A UX Research Playbook"
 description: "Learn how to test AI agents with a UX research playbook: observe how real users trust, correct, and hand off control—task design, metrics, and synthesis."
 pubDate: 2026-07-29
-updatedDate: 2026-07-29
+updatedDate: 2026-09-12T12:14:56.084Z
 readingTime: 13
 slug: "how-to-test-ai-agents"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "usability testing for AI agents"
   - "how to evaluate AI agent UX"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why testing AI agents needs a new playbook](#why-testing-ai-agents-needs-a-new-playbook)
-- [What to observe: trust, correction, and control handoff](#what-to-observe-trust-correction-and-control-handoff)
-- [Choose the right method for agentic testing](#choose-the-right-method-for-agentic-testing)
-- [Design realistic tasks and seeded failure scenarios](#design-realistic-tasks-and-seeded-failure-scenarios)
-- [Moderate the session: think-aloud and intervention rules](#moderate-the-session-think-aloud-and-intervention-rules)
-- [Metrics and signals that matter for agents](#metrics-and-signals-that-matter-for-agents)
-- [A field example: testing an agentic scheduling feature](#a-field-example-testing-an-agentic-scheduling-feature)
-- [From findings to design and further testing](#from-findings-to-design-and-further-testing)
-- [Common pitfalls when testing AI agents](#common-pitfalls-when-testing-ai-agents)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## Why testing AI agents needs a new playbook
 
 An agentic feature doesn't wait for a click. It reads your calendar, drafts the email, books the slot, or reshuffles a project plan — often before you've decided whether you agree with it. That changes what you're testing. A click path tells you whether someone found a button. It tells you nothing about whether they trusted the system enough to let it act, noticed when it got something wrong, or knew how to take control back.
@@ -143,34 +128,3 @@ Simulated LLM-based testers are useful early — piloting task wording, stress-t
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Test AI Agents: A UX Research Playbook",
-  "description": "Learn how to test AI agents with a UX research playbook: observe how real users trust, correct, and hand off control—task design, metrics, and synthesis.",
-  "datePublished": "2026-07-29",
-  "dateModified": "2026-07-29",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-test-ai-agents"
-  },
-  "keywords": "how to test AI agents, UX research for AI agents, testing agentic features, usability testing for AI agents, how to evaluate AI agent UX, AI agent trust and handoff testing"
-}
-</script>

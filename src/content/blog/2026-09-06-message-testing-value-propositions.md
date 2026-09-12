@@ -2,7 +2,7 @@
 title: "Message Testing: Validate Value Props With Research"
 description: "Learn how to test value propositions and messaging with qual and quant research—plus when to use message testing vs concept testing to pick winning copy."
 pubDate: 2026-09-06
-updatedDate: 2026-09-06
+updatedDate: 2026-09-12T12:14:56.714Z
 readingTime: 12
 slug: "message-testing-value-propositions"
 author: "Vadim Glazkov"
@@ -17,22 +17,6 @@ tags:
   - "messaging research methods"
   - "validate messaging with customers"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What message testing actually is (and what it isn't)](#what-message-testing-actually-is-and-what-it-isnt)
-- [Message testing vs concept testing: when to reach for which](#message-testing-vs-concept-testing-when-to-reach-for-which)
-- [Start with the right inputs: audience and source material](#start-with-the-right-inputs-audience-and-source-material)
-- [Qualitative methods: understand why a message works](#qualitative-methods-understand-why-a-message-works)
-- [Quantitative methods: prioritise and prove at scale](#quantitative-methods-prioritise-and-prove-at-scale)
-- [Designing the study: variants, metrics, and a plan that yields a decision](#designing-the-study-variants-metrics-and-a-plan-that-yields-a-decision)
-- [A message test in practice: an anonymised example](#a-message-test-in-practice-an-anonymised-example)
-- [From results to a messaging decision (and pitfalls to avoid)](#from-results-to-a-messaging-decision-and-pitfalls-to-avoid)
-- [Frequently asked questions](#frequently-asked-questions)
-
-You have a value proposition the team believes in, a launch date in the diary, and no evidence that the words will land with buyers. Message testing closes that gap before you commit budget to media.
-
 ## What message testing actually is (and what it isn't)
 
 Message testing is research that identifies which words, claims, and value propositions resonate with a specific audience. It won't tell you whether people want the product — that is concept testing's job. It starts once the offer is settled and the only open question is how to express it. Value proposition testing is the same discipline aimed at your single most important claim.
@@ -163,34 +147,3 @@ Treat it as a cadence. Re-test when positioning changes, when a competitor shift
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Message Testing: Validate Value Props With Research",
-  "description": "Learn how to test value propositions and messaging with qual and quant research—plus when to use message testing vs concept testing to pick winning copy.",
-  "datePublished": "2026-09-06",
-  "dateModified": "2026-09-06",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/message-testing-value-propositions"
-  },
-  "keywords": "message testing, value proposition testing, how to test a value proposition, messaging research methods, validate messaging with customers, message testing vs concept testing, MaxDiff message testing"
-}
-</script>

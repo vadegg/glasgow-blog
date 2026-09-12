@@ -2,7 +2,7 @@
 title: "Service Blueprint UX Research: A Practitioner's Guide"
 description: "Learn how to run service blueprinting as a UX research method — when to use it over journey mapping, how to facilitate sessions, and how to read the frontstage/"
 pubDate: 2026-07-16
-updatedDate: 2026-07-16
+updatedDate: 2026-09-12T12:14:55.658Z
 readingTime: 12
 slug: "service-blueprint-ux-research"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "service blueprint vs journey map"
   - "frontstage backstage service design"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is a Service Blueprint (and Why Researchers Use It)](#what-is-a-service-blueprint-and-why-researchers-use-it)
-- [Service Blueprint vs Journey Map: When to Use Which](#service-blueprint-vs-journey-map-when-to-use-which)
-- [The Five Swim Lanes Explained](#the-five-swim-lanes-explained)
-- [How to Facilitate a Service Blueprinting Session](#how-to-facilitate-a-service-blueprinting-session)
-- [Reading the Frontstage/Backstage Gap for Actionable Insight](#reading-the-frontstagebackstage-gap-for-actionable-insight)
-- [A Lightweight Service Blueprint Template](#a-lightweight-service-blueprint-template)
-- [Common Mistakes and How to Avoid Them](#common-mistakes-and-how-to-avoid-them)
-- [When Service Blueprinting Pairs Well with Other Methods](#when-service-blueprinting-pairs-well-with-other-methods)
-
 ## What Is a Service Blueprint (and Why Researchers Use It)
 
 A service blueprint is a structured diagram that maps how a service is delivered across user-facing and internal organisational layers at the same time. Unlike a wireframe or a flow diagram, it is explicitly a research method — its job is to make the invisible operational causes of user pain visible in a single artefact.
@@ -178,34 +165,3 @@ The practical next step: take the problem area your last round of discovery rese
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Service Blueprint UX Research: A Practitioner's Guide",
-  "description": "Learn how to run service blueprinting as a UX research method — when to use it over journey mapping, how to facilitate sessions, and how to read the frontstage/",
-  "datePublished": "2026-07-16",
-  "dateModified": "2026-07-16",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/service-blueprint-ux-research"
-  },
-  "keywords": "service blueprint UX research, how to create a service blueprint, service blueprinting methodology, service blueprint vs journey map, frontstage backstage service design, service blueprint template"
-}
-</script>

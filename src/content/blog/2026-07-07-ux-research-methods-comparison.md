@@ -2,7 +2,7 @@
 title: "UX Research Methods Comparison: A Side-by-Side Guide"
 description: "Compare core UX research methods across cost, speed, sample size, and insight type. A practical side-by-side guide to help practitioners choose the right"
 pubDate: 2026-07-07
-updatedDate: 2026-07-07
+updatedDate: 2026-09-12T12:14:55.339Z
 readingTime: 12
 slug: "ux-research-methods-comparison"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "when to use each ux research method"
   - "ux research method selection"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why a Side-by-Side Comparison Matters](#why-a-side-by-side-comparison-matters)
-- [The Seven Methods at a Glance](#the-seven-methods-at-a-glance)
-- [The Comparison Matrix: Cost, Speed, Sample Size, and Insight Type](#the-comparison-matrix-cost-speed-sample-size-and-insight-type)
-- [When to Use Each Method: Decision Triggers](#when-to-use-each-method-decision-triggers)
-- [From the Field: Choosing Under Constraint](#from-the-field-choosing-under-constraint)
-- [Justifying Your Method Choice to Stakeholders](#justifying-your-method-choice-to-stakeholders)
-- [Quick-Reference Summary](#quick-reference-summary)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why a Side-by-Side Comparison Matters
 
 Choosing a UX research method is rarely a clean intellectual exercise. You face a launch deadline, a constrained budget, and a stakeholder who wants findings by Thursday. The question is not "what is the ideal method?" but "what is the best method given these specific constraints?"
@@ -180,34 +167,3 @@ Unmoderated usability testing and surveys offer the lowest per-insight cost at s
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "UX Research Methods Comparison: A Side-by-Side Guide",
-  "description": "Compare core UX research methods across cost, speed, sample size, and insight type. A practical side-by-side guide to help practitioners choose the right",
-  "datePublished": "2026-07-07",
-  "dateModified": "2026-07-07",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/ux-research-methods-comparison"
-  },
-  "keywords": "ux research methods comparison, ux research methods overview, qualitative vs quantitative ux research, when to use each ux research method, ux research method selection, user research methods compared"
-}
-</script>

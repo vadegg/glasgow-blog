@@ -2,7 +2,7 @@
 title: "Survey Bots & Fake Responses in UX Research: Detection Guide"
 description: "Learn how to detect and prevent survey bots and fake responses in UX research with practical attention checks, fraud signals, and data-cleaning tactics."
 pubDate: 2026-07-19
-updatedDate: 2026-07-19
+updatedDate: 2026-09-12T12:14:55.788Z
 readingTime: 13
 slug: "survey-bots-fake-responses-ux-research"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "survey data quality checks"
   - "attention checks survey design"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why survey bots and fake responses are a growing UX research risk](#why-survey-bots-and-fake-responses-are-a-growing-ux-research-risk)
-- [How bots and fraudulent respondents get into your survey](#how-bots-and-fraudulent-respondents-get-into-your-survey)
-- [Red flags: behavioural and response-pattern signals of fake data](#red-flags-behavioural-and-response-pattern-signals-of-fake-data)
-- [Designing attention checks and trap questions that actually work](#designing-attention-checks-and-trap-questions-that-actually-work)
-- [Technical detection tools: fingerprinting, reCAPTCHA, and panel vetting](#technical-detection-tools-fingerprinting-recaptcha-and-panel-vetting)
-- [Post-collection data cleaning: statistical and qualitative checks](#post-collection-data-cleaning-statistical-and-qualitative-checks)
-- [Building a survey data quality workflow for research ops](#building-a-survey-data-quality-workflow-for-research-ops)
-- [Survey bots vs synthetic respondents: how these problems differ](#survey-bots-vs-synthetic-respondents-how-these-problems-differ)
-- [Key takeaways: a quick checklist to protect your survey data](#key-takeaways-a-quick-checklist-to-protect-your-survey-data)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## Why survey bots and fake responses are a growing UX research risk
 
 A survey lands in front of stakeholders with 400 completes and a clean chart. Nobody asks how many of those completes came from a script rather than a person. The spreadsheet doesn't show it.
@@ -156,36 +141,7 @@ Synthetic respondents are disclosed, intentional AI personas a team chooses to u
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Survey Bots & Fake Responses in UX Research: Detection Guide",
-  "description": "Learn how to detect and prevent survey bots and fake responses in UX research with practical attention checks, fraud signals, and data-cleaning tactics.",
-  "datePublished": "2026-07-19",
-  "dateModified": "2026-07-19",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/survey-bots-fake-responses-ux-research"
-  },
-  "keywords": "survey bots and fake responses in UX research, detecting fake survey responses, bot detection in online surveys, survey data quality checks, attention checks survey design, fraudulent survey respondents"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

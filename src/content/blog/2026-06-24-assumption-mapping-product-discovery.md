@@ -2,7 +2,7 @@
 title: "Assumption & Opportunity Mapping in Product Discovery"
 description: "Learn how product teams surface, categorise, and prioritise assumptions and opportunities before committing to solutions — a practical walkthrough for"
 pubDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-09-12T12:14:54.867Z
 readingTime: 11
 slug: "assumption-mapping-product-discovery"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "product discovery assumptions"
   - "opportunity solution tree"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Teams Need to Map Before They Build](#why-teams-need-to-map-before-they-build)
-- [What Is Assumption Mapping? Core Concepts and Framework](#what-is-assumption-mapping-core-concepts-and-framework)
-- [What Is Opportunity Mapping? From Problems to the Opportunity Solution Tree](#what-is-opportunity-mapping-from-problems-to-the-opportunity-solution-tree)
-- [Running an Assumption and Opportunity Mapping Session: Step by Step](#running-an-assumption-and-opportunity-mapping-session-step-by-step)
-- [Prioritising What to Test Next](#prioritising-what-to-test-next)
-- [Integrating Assumption and Opportunity Mapping into Continuous Discovery](#integrating-assumption-and-opportunity-mapping-into-continuous-discovery)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Teams Need to Map Before They Build
 
 Committing to a solution before you understand the assumptions underneath it is one of the most reliably expensive mistakes a product team can make. You build, you ship, and then you discover the core belief was wrong from the start.
@@ -155,34 +143,3 @@ Yes. Digital whiteboard tools such as Miro or FigJam replicate the sticky-note g
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Assumption & Opportunity Mapping in Product Discovery",
-  "description": "Learn how product teams surface, categorise, and prioritise assumptions and opportunities before committing to solutions — a practical walkthrough for",
-  "datePublished": "2026-06-24",
-  "dateModified": "2026-06-24",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/assumption-mapping-product-discovery"
-  },
-  "keywords": "assumption mapping product discovery, opportunity mapping ux, assumption mapping framework, product discovery assumptions, opportunity solution tree, assumption testing product"
-}
-</script>

@@ -2,7 +2,7 @@
 title: "Insight to Impact: Turning Research Into Decisions"
 description: "How to turn research insights into impact: synthesis and analysis, communicating findings to stakeholders, measuring research ROI, and prioritising the"
 pubDate: 2026-05-17
-updatedDate: 2026-05-17
+updatedDate: 2026-09-12T12:14:54.209Z
 readingTime: 14
 slug: "insight-to-impact"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "measuring research roi"
   - "opportunity prioritisation"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Most Research Dies Before It Drives Decisions](#why-most-research-dies-before-it-drives-decisions)
-- [Stage 1 — Synthesis: From Raw Data to a Clear Story](#stage-1-synthesis-from-raw-data-to-a-clear-story)
-- [Stage 2 — Communicating Findings to Stakeholders](#stage-2-communicating-findings-to-stakeholders)
-- [Stage 3 — Opportunity Prioritisation: Deciding What to Act On](#stage-3-opportunity-prioritisation-deciding-what-to-act-on)
-- [Stage 4 — Measuring Research ROI and Impact](#stage-4-measuring-research-roi-and-impact)
-- [Putting It All Together: A Repeatable Insight-to-Impact Loop](#putting-it-all-together-a-repeatable-insight-to-impact-loop)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Most Research Dies Before It Drives Decisions
 
 Research budgets get approved on the promise of better decisions. Yet a familiar pattern repeats itself across product teams: interviews are conducted, transcripts are filed, a report lands in a shared drive, and six months later nobody can quite remember what it said. The insight-to-impact gap — the distance between data collected and decisions changed — is one of the most common and costly failure modes in applied research.
@@ -188,34 +176,3 @@ Lead with the recommendation rather than the methodology. Tailor the format and 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Insight to Impact: Turning Research Into Decisions",
-  "description": "How to turn research insights into impact: synthesis and analysis, communicating findings to stakeholders, measuring research ROI, and prioritising the",
-  "datePublished": "2026-05-17",
-  "dateModified": "2026-05-17",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/insight-to-impact"
-  },
-  "keywords": "insight to impact, research synthesis, communicating research findings to stakeholders, measuring research roi, opportunity prioritisation, research impact"
-}
-</script>

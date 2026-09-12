@@ -87,6 +87,8 @@ const { lastModByPath, latestSiteUpdate } = buildLastModLookup();
 
 export default defineConfig({
   site: 'https://blog.glasgow.works',
+  // Preserve spaces between inline elements across the Astro 7 migration.
+  compressHTML: true,
   integrations: [
     sitemap({
       lastmod: latestSiteUpdate,

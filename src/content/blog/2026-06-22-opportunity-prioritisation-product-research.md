@@ -2,7 +2,7 @@
 title: "Opportunity Prioritisation in Product Research"
 description: "Turn a backlog of research-surfaced opportunities into a ranked, decision-ready shortlist. A practical scoring framework bridging synthesis and roadmap input."
 pubDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-09-12T12:14:54.794Z
 readingTime: 11
 slug: "opportunity-prioritisation-product-research"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "product opportunity assessment"
   - "prioritising user research findings"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Prioritisation Is Where Research Value Is Won or Lost](#why-prioritisation-is-where-research-value-is-won-or-lost)
-- [What Counts as a Product Opportunity](#what-counts-as-a-product-opportunity)
-- [A Four-Dimension Opportunity Scoring Framework](#a-four-dimension-opportunity-scoring-framework)
-- [Running a Prioritisation Workshop with Stakeholders](#running-a-prioritisation-workshop-with-stakeholders)
-- [Real Example: From 22 Opportunities to a Three-Item Shortlist](#real-example-from-22-opportunities-to-a-three-item-shortlist)
-- [Common Mistakes That Undermine Opportunity Prioritisation](#common-mistakes-that-undermine-opportunity-prioritisation)
-- [Connecting Prioritised Opportunities to the Roadmap](#connecting-prioritised-opportunities-to-the-roadmap)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Prioritisation Is Where Research Value Is Won or Lost
 
 Synthesis is generative by nature. A well-run discovery sprint produces far more opportunities than any product team can act on, and that abundance is the problem. Skip the prioritisation step and teams fall back on gut feel — or on whoever speaks loudest in the planning meeting.
@@ -170,34 +157,3 @@ Yes, but the evidence confidence dimension becomes harder to score reliably. Pro
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Opportunity Prioritisation in Product Research",
-  "description": "Turn a backlog of research-surfaced opportunities into a ranked, decision-ready shortlist. A practical scoring framework bridging synthesis and roadmap input.",
-  "datePublished": "2026-06-22",
-  "dateModified": "2026-06-22",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/opportunity-prioritisation-product-research"
-  },
-  "keywords": "opportunity prioritisation, how to prioritise product opportunities, opportunity scoring framework, product opportunity assessment, prioritising user research findings, opportunity solution tree prioritisation"
-}
-</script>

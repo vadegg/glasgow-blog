@@ -4,7 +4,7 @@ readingTime: 6
 title: "How to Do Customer Research Without Mistaking Politeness for Signal"
 description: "Learn how to do customer research without mistaking polite feedback for demand by asking better questions, probing behavior, and testing real urgency."
 pubDate: 2026-03-25T14:22:32Z
-updatedDate: 2026-05-10T06:24:41Z
+updatedDate: 2026-06-07T05:42:16Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"

@@ -2,7 +2,7 @@
 title: "Survey Design Best Practices for UX Research"
 description: "Write UX surveys that generate reliable, actionable data. Learn question types, ordering effects, scale design, and bias prevention grounded in product"
 pubDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-09-12T12:14:54.715Z
 readingTime: 14
 slug: "survey-design-best-practices-ux"
 author: "Vadim Glazkov"
@@ -17,22 +17,6 @@ tags:
   - "survey bias ux research"
   - "how to design a ux survey"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Survey Design Is a Product Research Decision](#why-survey-design-is-a-product-research-decision)
-- [Choosing the Right Question Types](#choosing-the-right-question-types)
-- [Writing Unbiased, Clear Questions](#writing-unbiased-clear-questions)
-- [Ordering Effects and Survey Structure](#ordering-effects-and-survey-structure)
-- [Recruiting the Right Participants](#recruiting-the-right-participants)
-- [Piloting, Analysing, and Acting on Survey Data](#piloting-analysing-and-acting-on-survey-data)
-- [Quick-Reference Checklist Before You Launch](#quick-reference-checklist-before-you-launch)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
-<!-- gr:disclosure -->
-> Disclosure: this article may mention paid tools. We receive no compensation for any mention; recommendations are based on hands-on use.
-
 ## Why Survey Design Is a Product Research Decision
 
 A badly structured survey doesn't just produce weak data. It produces confidently wrong data, which is worse. So before you write a single question, treat the survey itself as a product decision.
@@ -234,34 +218,3 @@ No. Surveys efficiently capture *what* and *how many*; interviews capture *why*.
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Survey Design Best Practices for UX Research",
-  "description": "Write UX surveys that generate reliable, actionable data. Learn question types, ordering effects, scale design, and bias prevention grounded in product",
-  "datePublished": "2026-06-20",
-  "dateModified": "2026-06-20",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/survey-design-best-practices-ux"
-  },
-  "keywords": "survey design best practices ux, ux survey questions, questionnaire design user research, survey bias ux research, how to design a ux survey, likert scale ux research"
-}
-</script>

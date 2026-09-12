@@ -2,7 +2,7 @@
 title: "Voice of Customer Program for B2B SaaS: A Framework"
 description: "Build a voice of customer program for B2B SaaS as research ops, not a tool checklist: sampling logic, listening cadence, synthesis, and governance. Read on."
 pubDate: 2026-07-22
-updatedDate: 2026-07-22
+updatedDate: 2026-09-12T12:14:55.902Z
 readingTime: 13
 slug: "voice-of-customer-program-b2b-saas"
 author: "Vadim Glazkov"
@@ -17,20 +17,6 @@ tags:
   - "how to build a VoC program"
   - "customer feedback program B2B"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What 'voice of customer' actually means for B2B SaaS (and why tool-first programmes fail)](#what-voice-of-customer-actually-means-for-b2b-saas-and-why-tool-first-programmes-fail)
-- [The research-ops framework: four disciplines of a working VoC programme](#the-research-ops-framework-four-disciplines-of-a-working-voc-programme)
-- [Sampling logic: who you listen to determines what you learn](#sampling-logic-who-you-listen-to-determines-what-you-learn)
-- [Cadence: mapping listening posts to the B2B buying and renewal cycle](#cadence-mapping-listening-posts-to-the-b2b-buying-and-renewal-cycle)
-- [Synthesis discipline: turning scattered feedback into decision-ready insight](#synthesis-discipline-turning-scattered-feedback-into-decision-ready-insight)
-- [Governance: who should own VoC in a B2B SaaS org](#governance-who-should-own-voc-in-a-b2b-saas-org)
-- [Closing the loop: from feedback to shipped product decisions](#closing-the-loop-from-feedback-to-shipped-product-decisions)
-- [VoC anti-patterns that quietly kill B2B SaaS programmes](#voc-anti-patterns-that-quietly-kill-b2b-saas-programmes)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## What 'voice of customer' actually means for B2B SaaS (and why tool-first programmes fail)
 
 Most B2B SaaS teams have a voice of customer programme in name only: an NPS survey, a support-ticket tagging system, and a dashboard nobody opens after the kickoff meeting. Feedback comes in. Nothing decisive comes out.
@@ -139,36 +125,7 @@ Win-loss and churn studies are point-in-time, event-triggered projects — you r
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Voice of Customer Program for B2B SaaS: A Framework",
-  "description": "Build a voice of customer program for B2B SaaS as research ops, not a tool checklist: sampling logic, listening cadence, synthesis, and governance. Read on.",
-  "datePublished": "2026-07-22",
-  "dateModified": "2026-07-22",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/voice-of-customer-program-b2b-saas"
-  },
-  "keywords": "voice of customer program for b2b saas, VoC framework for SaaS, voice of customer methodology, how to build a VoC program, customer feedback program B2B, VoC research operations"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

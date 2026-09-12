@@ -2,7 +2,7 @@
 title: "Remote Usability Testing: Best Practices for Reliable Results"
 description: "Get reliable signal from remote usability testing with proven protocol decisions, facilitation adjustments, and quality controls — moderated and unmoderated"
 pubDate: 2026-07-06
-updatedDate: 2026-07-06
+updatedDate: 2026-09-12T12:14:55.302Z
 readingTime: 14
 slug: "remote-usability-testing-best-practices"
 author: "Vadim Glazkov"
@@ -17,23 +17,6 @@ tags:
   - "remote usability testing tools"
   - "how to run remote usability testing"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why remote usability testing demands its own playbook](#why-remote-usability-testing-demands-its-own-playbook)
-- [Moderated vs unmoderated remote testing: choosing the right mode](#moderated-vs-unmoderated-remote-testing-choosing-the-right-mode)
-- [Writing tasks and screeners that travel well remotely](#writing-tasks-and-screeners-that-travel-well-remotely)
-- [Facilitation adjustments for moderated remote sessions](#facilitation-adjustments-for-moderated-remote-sessions)
-- [Quality controls for unmoderated remote testing](#quality-controls-for-unmoderated-remote-testing)
-- [Choosing remote usability testing tools without over-engineering](#choosing-remote-usability-testing-tools-without-over-engineering)
-- [Turning remote sessions into reliable findings](#turning-remote-sessions-into-reliable-findings)
-- [Quick-reference: remote usability testing checklist](#quick-reference-remote-usability-testing-checklist)
-- [Frequently asked questions](#frequently-asked-questions)
-
-<!-- gr:disclosure -->
-> Disclosure: this article may mention paid tools. We receive no compensation for any mention; recommendations are based on hands-on use.
-
 ## Why remote usability testing demands its own playbook
 
 Remote usability testing is usability testing conducted without the researcher and participant sharing a physical space. It takes two forms: **moderated**, where a facilitator runs a live session over video call, and **unmoderated**, where participants complete tasks asynchronously with no researcher present, typically through a dedicated platform.
@@ -63,7 +46,7 @@ Decision criteria in practice:
 
 The most common mistake is defaulting to unmoderated because it is convenient, when the question actually requires probing. A hybrid approach can help in borderline cases: participants complete an async screen recording task, then join a short 15-minute debrief call to clarify what the recording showed. This preserves some of the scale advantage while recovering the probing capability.
 
-[Guerrilla usability testing as a lower-cost complement](https://blog.glasgow.works/guerrilla-usability-testing-guide) is worth considering when budget is the primary constraint and the research question is specific enough.
+[Guerrilla usability testing as a lower-cost complement](https://blog.glasgow.works/blog/guerrilla-usability-testing-guide) is worth considering when budget is the primary constraint and the research question is specific enough.
 
 ---
 
@@ -202,34 +185,3 @@ It depends on the research question. Unmoderated is reliable for validating spec
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Remote Usability Testing: Best Practices for Reliable Results",
-  "description": "Get reliable signal from remote usability testing with proven protocol decisions, facilitation adjustments, and quality controls — moderated and unmoderated",
-  "datePublished": "2026-07-06",
-  "dateModified": "2026-07-06",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/remote-usability-testing-best-practices"
-  },
-  "keywords": "remote usability testing best practices, unmoderated remote usability testing, remote user testing tips, remote usability testing tools, how to run remote usability testing, remote vs in-person usability testing"
-}
-</script>

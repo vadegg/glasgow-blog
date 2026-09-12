@@ -2,7 +2,7 @@
 title: "How to Analyze User Interview Data: Step-by-Step"
 description: "Turn raw interview transcripts into actionable insights with this practical step-by-step workflow — covering coding, pattern recognition, synthesis, and"
 pubDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-09-12T12:14:54.963Z
 readingTime: 13
 slug: "how-to-analyze-user-interview-data"
 author: "Vadim Glazkov"
@@ -17,27 +17,13 @@ tags:
   - "coding user interviews"
   - "user research analysis process"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Analysis Is the Step Most Teams Rush](#why-analysis-is-the-step-most-teams-rush)
-- [Step 1 — Prepare Your Raw Material Before You Touch the Data](#step-1-prepare-your-raw-material-before-you-touch-the-data)
-- [Step 2 — Code Your Transcripts to Surface Raw Themes](#step-2-code-your-transcripts-to-surface-raw-themes)
-- [Step 3 — Cluster Codes into Themes Using Affinity Mapping](#step-3-cluster-codes-into-themes-using-affinity-mapping)
-- [Step 4 — Assess Frequency, Strength, and Novelty of Each Theme](#step-4-assess-frequency-strength-and-novelty-of-each-theme)
-- [Step 5 — Translate Themes into Insights and Opportunity Statements](#step-5-translate-themes-into-insights-and-opportunity-statements)
-- [Step 6 — Sense-Check, Document, and Store Findings](#step-6-sense-check-document-and-store-findings)
-- [Common Mistakes and How to Avoid Them](#common-mistakes-and-how-to-avoid-them)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Analysis Is the Step Most Teams Rush
 
 Most research value is lost not in the field, but at the desk. Teams wrap their final session, feel the momentum of having collected something, and jump straight to writing recommendations — skipping the structured work that turns raw conversation into defensible insight.
 
 The failure modes are predictable. Researchers lean on memory instead of transcripts. One person filters everything through their own frame. "Themes" become whatever stood out in the last session. The output confirms what the team already believed, and the slides gather dust.
 
-This guide treats user interview analysis as a repeatable, auditable process — not a creative leap. It picks up exactly where the interview session ends and walks through each step in sequence. If you are still planning fieldwork, start with [running effective user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) first, then come back.
+This guide treats user interview analysis as a repeatable, auditable process — not a creative leap. It picks up exactly where the interview session ends and walks through each step in sequence. If you are still planning fieldwork, start with [running effective user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) first, then come back.
 
 ---
 
@@ -175,34 +161,3 @@ A practical heuristic: allow one hour of analysis time for every hour of recorde
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "How to Analyze User Interview Data: Step-by-Step",
-  "description": "Turn raw interview transcripts into actionable insights with this practical step-by-step workflow — covering coding, pattern recognition, synthesis, and",
-  "datePublished": "2026-06-27",
-  "dateModified": "2026-06-27",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/how-to-analyze-user-interview-data"
-  },
-  "keywords": "how to analyze user interview data, user interview analysis, analyzing qualitative interview data, coding user interviews, user research analysis process, interview data synthesis"
-}
-</script>

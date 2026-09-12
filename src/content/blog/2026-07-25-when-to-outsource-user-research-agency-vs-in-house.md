@@ -2,7 +2,7 @@
 title: "When to Outsource User Research: Agency vs In-House"
 description: "Should you outsource user research or hire in-house? Use a maturity, cadence, risk and cost framework to choose an agency, in-house team, or hybrid model."
 pubDate: 2026-07-25
-updatedDate: 2026-07-25
+updatedDate: 2026-09-12T12:14:55.979Z
 readingTime: 11
 slug: "when-to-outsource-user-research-agency-vs-in-house"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "in-house research team vs agency cost"
   - "outsourcing user research pros and cons"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [The short answer: a 4-lens decision framework](#the-short-answer-a-4-lens-decision-framework)
-- [Lens 1 & 2: research maturity and cadence](#lens-1-2-research-maturity-and-cadence)
-- [Lens 3 & 4: risk and cost — the break-even math](#lens-3-4-risk-and-cost-the-break-even-math)
-- [When to outsource to a UX research agency](#when-to-outsource-to-a-ux-research-agency)
-- [When to build an in-house research team](#when-to-build-an-in-house-research-team)
-- [The hybrid model: where most teams land](#the-hybrid-model-where-most-teams-land)
-- [Your decision scorecard](#your-decision-scorecard)
-- [Frequently asked questions](#frequently-asked-questions)
-
 ## The short answer: a 4-lens decision framework
 
 Whether you outsource user research or hire in-house comes down to where your product sits today — not to whoever happens to be pitching you. Agencies will tell you to outsource. Recruiters will tell you to hire. Neither has full sight of your situation, so neither answer holds up on its own.
@@ -138,34 +125,3 @@ Agencies typically deliver findings within two to four weeks of a signed scope. 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "When to Outsource User Research: Agency vs In-House",
-  "description": "Should you outsource user research or hire in-house? Use a maturity, cadence, risk and cost framework to choose an agency, in-house team, or hybrid model.",
-  "datePublished": "2026-07-25",
-  "dateModified": "2026-07-25",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/when-to-outsource-user-research-agency-vs-in-house"
-  },
-  "keywords": "when to outsource user research: agency vs in-house, agency vs in-house user research, when to hire a UX research agency, in-house research team vs agency cost, outsourcing user research pros and cons"
-}
-</script>

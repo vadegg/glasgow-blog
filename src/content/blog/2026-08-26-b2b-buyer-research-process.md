@@ -2,7 +2,7 @@
 title: "B2B Buyer Research Process: Map Your Buying Committee"
 description: "A step-by-step B2B buyer research process for mapping your buying committee, decision criteria and purchase journey — with methods, templates and examples."
 pubDate: 2026-08-26
-updatedDate: 2026-08-26
+updatedDate: 2026-09-12T12:14:56.273Z
 readingTime: 10
 slug: "b2b-buyer-research-process"
 author: "Vadim Glazkov"
@@ -17,21 +17,6 @@ tags:
   - "b2b buyer journey research"
   - "b2b purchase decision research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What is the B2B buyer research process?](#what-is-the-b2b-buyer-research-process)
-- [Step 1: Define the decisions your research must inform](#step-1-define-the-decisions-your-research-must-inform)
-- [Step 2: Map the buying committee](#step-2-map-the-buying-committee)
-- [Step 3: Match research methods to buyer questions](#step-3-match-research-methods-to-buyer-questions)
-- [Step 4: Recruit and interview buyers across roles and outcomes](#step-4-recruit-and-interview-buyers-across-roles-and-outcomes)
-- [Step 5: Synthesise findings into three artefacts](#step-5-synthesise-findings-into-three-artefacts)
-- [Step 6: Turn buyer insight into GTM and product decisions](#step-6-turn-buyer-insight-into-gtm-and-product-decisions)
-- [Start with the deals you already have](#start-with-the-deals-you-already-have)
-
-Most B2B purchases are settled by a committee of six to ten people, and you will never speak to most of them. Aim your messaging at one persona and your demo at one evaluator, and everyone else is a guess. What follows is a step-by-step B2B buyer research process for swapping that guesswork for evidence.
-
 ## What is the B2B buyer research process?
 
 It is a repeatable programme for learning three things: who is involved in a purchase, what each person cares about, and how the decision actually gets made. Think of it as a standing capability, not a one-off study.
@@ -134,34 +119,3 @@ Pull ten recent closed-won and closed-lost opportunities from your CRM. List eve
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "B2B Buyer Research Process: Map Your Buying Committee",
-  "description": "A step-by-step B2B buyer research process for mapping your buying committee, decision criteria and purchase journey — with methods, templates and examples.",
-  "datePublished": "2026-08-26",
-  "dateModified": "2026-08-26",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/b2b-buyer-research-process"
-  },
-  "keywords": "b2b buyer research process, b2b buying committee mapping, how to research b2b buyers, b2b buyer journey research, b2b purchase decision research, buying committee research methods"
-}
-</script>

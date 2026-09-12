@@ -2,7 +2,7 @@
 title: "UX Maturity Model for Product Teams"
 description: "Diagnose where your UX research practice really stands with a practical maturity model — then follow concrete steps to reach the next level and drive better"
 pubDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-09-12T12:14:55.213Z
 readingTime: 14
 slug: "ux-maturity-model-for-product-teams"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "UX maturity levels"
   - "how to improve UX maturity"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Product Teams Need a UX Maturity Framework](#why-product-teams-need-a-ux-maturity-framework)
-- [The Five Levels of UX Maturity — Defined](#the-five-levels-of-ux-maturity-defined)
-- [How to Run an Honest UX Maturity Assessment](#how-to-run-an-honest-ux-maturity-assessment)
-- [Moving Up: Concrete Steps for Each Transition](#moving-up-concrete-steps-for-each-transition)
-- [What a Maturity Jump Looks Like in Practice](#what-a-maturity-jump-looks-like-in-practice)
-- [Common Pitfalls That Stall UX Maturity Growth](#common-pitfalls-that-stall-ux-maturity-growth)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Product Teams Need a UX Maturity Framework
 
 Most product teams believe they do user research. They run the occasional interview, watch a few session recordings, and quote Net Promoter Scores in quarterly reviews. Activity and capability are not the same thing. Running interviews is activity. Consistently acting on what those interviews surface — adjusting the roadmap, redirecting a sprint, killing a feature — is capability.
@@ -234,34 +222,3 @@ Yes. Level 4 is defined by integration and influence, not by headcount. A two-pe
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "UX Maturity Model for Product Teams",
-  "description": "Diagnose where your UX research practice really stands with a practical maturity model — then follow concrete steps to reach the next level and drive better",
-  "datePublished": "2026-07-04",
-  "dateModified": "2026-07-04",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/ux-maturity-model-for-product-teams"
-  },
-  "keywords": "UX maturity model for product teams, UX maturity assessment, research maturity model, UX maturity levels, how to improve UX maturity, UX capability model"
-}
-</script>

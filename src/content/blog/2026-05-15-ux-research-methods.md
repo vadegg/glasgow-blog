@@ -2,7 +2,7 @@
 title: "UX Research Methods: How to Choose the Right One"
 description: "A practical guide to UX research methods and when each one fits: moderated versus unmoderated, qualitative versus quantitative, and generative versus evaluative"
 pubDate: 2026-05-15
-updatedDate: 2026-05-15
+updatedDate: 2026-09-12T12:14:54.149Z
 readingTime: 14
 slug: "ux-research-methods"
 author: "Vadim Glazkov"
@@ -17,19 +17,6 @@ tags:
   - "generative vs evaluative research"
   - "user research methods comparison"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [Why Method Choice Makes or Breaks Your Research](#why-method-choice-makes-or-breaks-your-research)
-- [Axis 1 — Generative vs Evaluative Research](#axis-1-generative-vs-evaluative-research)
-- [Axis 2 — Qualitative vs Quantitative Research](#axis-2-qualitative-vs-quantitative-research)
-- [Axis 3 — Moderated vs Unmoderated Research](#axis-3-moderated-vs-unmoderated-research)
-- [The Decision Framework: A Comparison Table](#the-decision-framework-a-comparison-table)
-- [Real-World Method Selection: A Project Example](#real-world-method-selection-a-project-example)
-- [Common Mistakes When Choosing a UX Research Method](#common-mistakes-when-choosing-a-ux-research-method)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## Why Method Choice Makes or Breaks Your Research
 
 The wrong research method does not simply produce unhelpful data — it produces confidently wrong answers. A team that runs a usability test when they do not yet understand the problem will optimise the wrong surface. A team that relies on a survey when they need depth will misread the numbers. Both mistakes are expensive, and both are avoidable.
@@ -233,34 +220,3 @@ In moderated testing a researcher is present — in person or remotely — to pr
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "UX Research Methods: How to Choose the Right One",
-  "description": "A practical guide to UX research methods and when each one fits: moderated versus unmoderated, qualitative versus quantitative, and generative versus evaluative",
-  "datePublished": "2026-05-15",
-  "dateModified": "2026-05-15",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/ux-research-methods"
-  },
-  "keywords": "ux research methods, moderated vs unmoderated research, qualitative vs quantitative ux research, generative vs evaluative research, user research methods comparison, when to use which ux research method"
-}
-</script>

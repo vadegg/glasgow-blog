@@ -2,7 +2,7 @@
 title: "Jobs-to-Be-Done Interviews for B2B SaaS: Complete Guide"
 description: "A practical guide to jobs-to-be-done interviews for B2B SaaS: how JTBD differs from ordinary customer interviews, how to run the switch interview, and the B2B"
 pubDate: 2026-05-19
-updatedDate: 2026-05-19
+updatedDate: 2026-09-12T12:14:54.262Z
 readingTime: 15
 slug: "jtbd-interviews-b2b-saas"
 author: "Vadim Glazkov"
@@ -17,18 +17,6 @@ tags:
   - "jtbd vs customer interviews"
   - "b2b jtbd mistakes"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Jobs-to-Be-Done Interviews Actually Are](#what-jobs-to-be-done-interviews-actually-are)
-- [JTBD vs Standard Customer Interviews: Key Differences](#jtbd-vs-standard-customer-interviews-key-differences)
-- [The Switch Interview: Structure and Question Flow](#the-switch-interview-structure-and-question-flow)
-- [Running JTBD Interviews in a B2B SaaS Context: A Real Example](#running-jtbd-interviews-in-a-b2b-saas-context-a-real-example)
-- [Common B2B JTBD Mistakes and How to Avoid Them](#common-b2b-jtbd-mistakes-and-how-to-avoid-them)
-- [Synthesising JTBD Findings into Actionable Outputs](#synthesising-jtbd-findings-into-actionable-outputs)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Jobs-to-Be-Done Interviews Actually Are
 
 Most product teams already know what their users *do*. Jobs-to-be-done interviews are designed to uncover something harder to see: the progress a buyer is trying to make in their life or organisation — and why they decided to act on it *now*.
@@ -169,34 +157,3 @@ No dedicated tool is required. Most teams work effectively with a shared spreads
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Jobs-to-Be-Done Interviews for B2B SaaS: Complete Guide",
-  "description": "A practical guide to jobs-to-be-done interviews for B2B SaaS: how JTBD differs from ordinary customer interviews, how to run the switch interview, and the B2B",
-  "datePublished": "2026-05-19",
-  "dateModified": "2026-05-19",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/jtbd-interviews-b2b-saas"
-  },
-  "keywords": "jobs-to-be-done interviews, jtbd interviews b2b saas, switch interview, jtbd vs customer interviews, b2b jtbd mistakes, jobs to be done b2b"
-}
-</script>

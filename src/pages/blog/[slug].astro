@@ -12,7 +12,8 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
+const tableOfContents = headings.filter((heading) => heading.depth === 2);
 const author = getAuthor(post.data.authorSlug);
 const postUrl = `${SITE.url}/blog/${post.data.slug}/`;
 const publishedLabel = new Intl.DateTimeFormat('en', { dateStyle: 'long' }).format(post.data.pubDate);
@@ -45,6 +46,7 @@ const structuredData = [
   {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
+    '@id': `${postUrl}#article`,
     headline: post.data.title,
     description: post.data.description,
     datePublished: post.data.pubDate.toISOString(),
@@ -53,10 +55,12 @@ const structuredData = [
     keywords: post.data.tags.join(', '),
     mainEntityOfPage: postUrl,
     url: postUrl,
+    image: `${SITE.url}/og-default.png`,
     author: {
       '@type': 'Person',
       name: author?.name ?? post.data.author,
-      url: author?.url
+      url: author?.url,
+      ...(author?.linkedinUrl ? { sameAs: [author.linkedinUrl] } : {})
     },
     publisher: {
       '@type': 'Organization',
@@ -95,6 +99,16 @@ const structuredData = [
         {post.data.readingTime && <span>{post.data.readingTime} min read</span>}
       </div>
       <p class="lede muted" style="margin-bottom: 28px;">{post.data.description}</p>
+      {tableOfContents.length >= 2 && (
+        <nav class="prose article-toc" aria-label="On this page">
+          <h2>On this page</h2>
+          <ul>
+            {tableOfContents.map((heading) => (
+              <li><a href={`#${heading.slug}`}>{heading.text}</a></li>
+            ))}
+          </ul>
+        </nav>
+      )}
       <div class="prose">
         <Content />
       </div>

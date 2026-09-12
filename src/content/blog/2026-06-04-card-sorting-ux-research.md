@@ -2,6 +2,7 @@
 title: "Card Sorting in UX Research: How to Run It"
 description: "Learn how to run open and closed card sorting studies, analyse the output, and decide when to use card sorting vs tree testing — a practical guide for UX"
 pubDate: 2026-06-04
+updatedDate: 2026-09-12T12:14:54.487Z
 slug: "card-sorting-ux-research"
 readingTime: 14
 author: "Vadim Glazkov"
@@ -16,19 +17,6 @@ tags:
   - "tree testing vs card sorting"
   - "information architecture research"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What Is Card Sorting and Why Does It Matter?](#what-is-card-sorting-and-why-does-it-matter)
-- [Open vs Closed Card Sorting: Which Type Should You Run?](#open-vs-closed-card-sorting-which-type-should-you-run)
-- [How to Plan and Set Up a Card Sorting Study](#how-to-plan-and-set-up-a-card-sorting-study)
-- [Running the Study: Moderated and Unmoderated Sessions](#running-the-study-moderated-and-unmoderated-sessions)
-- [Analysing Card Sorting Data: From Raw Output to IA Decisions](#analysing-card-sorting-data-from-raw-output-to-ia-decisions)
-- [Card Sorting vs Tree Testing: How They Work Together](#card-sorting-vs-tree-testing-how-they-work-together)
-- [Limitations and Common Pitfalls to Avoid](#limitations-and-common-pitfalls-to-avoid)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
 ## What Is Card Sorting and Why Does It Matter?
 
 If your navigation keeps confusing users, the problem is rarely the visual design — it is usually the underlying structure. Card sorting is the [UX research methods](/blog/ux-research-methods) technique that surfaces how users expect information to be organised, before you commit that structure to code.
@@ -73,7 +61,7 @@ Good card sorting data depends almost entirely on preparation. Rushing setup is 
 
 **Step 2 — Write card labels.** Use the language of your existing content, not internal shorthand. If you are designing a staff-facing system, jargon may be appropriate. For public-facing systems, use the vocabulary users would recognise. Keep each label short: five words or fewer where possible.
 
-**Step 3 — Choose moderated or unmoderated.** Moderated sessions allow a researcher to ask "tell me why you put those together," which adds qualitative depth. Unmoderated sessions scale more easily and reduce facilitator scheduling constraints. For advice on the broader trade-offs, see our post on [guerrilla usability testing](https://blog.glasgow.works/guerrilla-usability-testing-guide).
+**Step 3 — Choose moderated or unmoderated.** Moderated sessions allow a researcher to ask "tell me why you put those together," which adds qualitative depth. Unmoderated sessions scale more easily and reduce facilitator scheduling constraints. For advice on the broader trade-offs, see our post on [guerrilla usability testing](https://blog.glasgow.works/blog/guerrilla-usability-testing-guide).
 
 **Step 4 — Select a tool.** OptimalSort, Maze, and Useberry all support remote unmoderated card sorting with built-in analysis outputs. Physical cards on a table work well for in-person moderated sessions, particularly when participants are less comfortable with screen-based tasks.
 
@@ -87,7 +75,7 @@ Good card sorting data depends almost entirely on preparation. Rushing setup is 
 
 **Moderated session flow.** Open with a brief that explains the task without referencing your existing IA. Allow participants to sort silently before discussing their choices — talking while sorting often causes people to second-guess natural instincts. Once sorting is complete, ask participants to name each group in their own words, then probe with open questions. The most productive question in a card sorting debrief is "tell me why you put those together." Avoid "is this right?", which invites participants to measure themselves against an imagined correct answer.
 
-For guidance on general interview technique during moderated sessions, our post on [conducting user interviews](https://blog.glasgow.works/how-to-conduct-user-interviews) covers probing and listening approaches that transfer directly.
+For guidance on general interview technique during moderated sessions, our post on [conducting user interviews](https://blog.glasgow.works/blog/how-to-conduct-user-interviews) covers probing and listening approaches that transfer directly.
 
 **Unmoderated session flow.** Written instructions carry all the weight here. They must be clear enough that no facilitator is needed, free of priming language, and explicit about the post-sort task: asking participants to name each group they have created. Without that step, you lose the vocabulary data that makes open card sorting most valuable.
 
@@ -173,29 +161,7 @@ Yes. Tools such as OptimalSort, Maze, and Useberry support fully unmoderated rem
 
 Start with the similarity matrix to identify which cards were consistently grouped together. Use dendrograms to visualise natural clusters at different thresholds, applying judgement about where to draw the boundary. For closed sorts, review the standardisation grid to see agreement rates per category. Then add the qualitative layer: examine participant-generated category names for vocabulary insight. Document cards that split across categories as signals of ambiguity rather than resolving them arbitrarily.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Card Sorting in UX Research: How to Run It",
-  "description": "Learn how to run open and closed card sorting studies, analyse the output, and decide when to use card sorting vs tree testing — a practical guide for UX researchers.",
-  "datePublished": "2026-06-04",
-  "dateModified": "2026-06-04",
-  "author": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/card-sorting-ux-research"
-  },
-  "keywords": "card sorting ux research, open card sorting vs closed card sorting, card sorting methodology, tree testing vs card sorting, information architecture research, card sorting analysis"
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

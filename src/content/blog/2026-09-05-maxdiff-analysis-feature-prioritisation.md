@@ -2,7 +2,7 @@
 title: "MaxDiff Analysis for Feature Prioritisation Guide"
 description: "Design and analyse a MaxDiff study that actually prioritises features: item counts, set design, sample size, TURF and turning scores into roadmap decisions."
 pubDate: 2026-09-05
-updatedDate: 2026-09-05
+updatedDate: 2026-09-12T12:14:56.657Z
 readingTime: 11
 slug: "maxdiff-analysis-feature-prioritisation"
 author: "Vadim Glazkov"
@@ -17,20 +17,6 @@ tags:
   - "maximum difference scaling"
   - "MaxDiff sample size"
 ---
-<!-- gr:toc -->
-
-## On this page
-
-- [What MaxDiff analysis is (and why it beats rating scales)](#what-maxdiff-analysis-is-and-why-it-beats-rating-scales)
-- [When to use MaxDiff (vs conjoint, ranking and scoring)](#when-to-use-maxdiff-vs-conjoint-ranking-and-scoring)
-- [Step 1: Choose and word your item list (12–25 items)](#step-1-choose-and-word-your-item-list-1225-items)
-- [Step 2: Design the sets (items per set, number of tasks, balance)](#step-2-design-the-sets-items-per-set-number-of-tasks-balance)
-- [Step 3: Sample size and data quality](#step-3-sample-size-and-data-quality)
-- [Step 4: Analyse the results (counting, HB and anchored MaxDiff)](#step-4-analyse-the-results-counting-hb-and-anchored-maxdiff)
-- [From scores to decisions: TURF, exclusive vs shared demand and segments](#from-scores-to-decisions-turf-exclusive-vs-shared-demand-and-segments)
-- [Common MaxDiff mistakes to avoid](#common-maxdiff-mistakes-to-avoid)
-- [FAQ](#faq)
-
 ## What MaxDiff analysis is (and why it beats rating scales)
 
 You have 18 features and roadmap room for four. A survey that asks people to rate each one 1–5 won't get you there: most respondents mark almost everything a 4 or 5, and you end up with a flat list where nothing clearly wins.
@@ -130,34 +116,3 @@ TURF takes MaxDiff's individual-level data and finds the combination of items th
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "MaxDiff Analysis for Feature Prioritisation Guide",
-  "description": "Design and analyse a MaxDiff study that actually prioritises features: item counts, set design, sample size, TURF and turning scores into roadmap decisions.",
-  "datePublished": "2026-09-05",
-  "dateModified": "2026-09-05",
-  "author": {
-    "@type": "Person",
-    "name": "Vadim Glazkov",
-    "url": "https://blog.glasgow.works/authors/vadim/",
-    "sameAs": [
-      "https://www.linkedin.com/in/vadim-glazkov/"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Glasgow Research",
-    "sameAs": [
-      "https://www.linkedin.com/company/glasgow-research"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://blog.glasgow.works/blog/maxdiff-analysis-feature-prioritisation"
-  },
-  "keywords": "MaxDiff analysis for feature prioritisation, MaxDiff survey design, MaxDiff vs conjoint, maximum difference scaling, MaxDiff sample size, TURF analysis feature prioritisation"
-}
-</script>
