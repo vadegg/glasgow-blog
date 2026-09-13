@@ -4,7 +4,7 @@ readingTime: 10
 title: "AI Tools for Qualitative Research: Interviews, Recruiting, and Synthesis"
 description: "Compare AI tools for qualitative research across recruiting, moderation, transcription, analysis, and synthesis while keeping human judgment in the loop."
 pubDate: 2026-03-27T21:34:11Z
-updatedDate: 2026-09-12T12:14:57.104Z
+updatedDate: 2026-09-13T14:40:01.605Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
@@ -14,6 +14,7 @@ tags:
   - "qualitative research"
   - "ai research tools"
   - "user research"
+hub: "research-operations"
 ---
 ## Start with the workflow, not the vendor
 
@@ -367,3 +368,8 @@ It is to ask which part of your workflow is actually slow, expensive, or fragile
 Then choose the smallest tool that strengthens that part without weakening the evidence.
 
 If your team wants help designing a qualitative workflow that uses AI without confusing speed for rigor, that is exactly the kind of research-system work [Glasgow Research](https://glasgow.works) can help with.
+
+
+## Choose tools after defining the workflow
+
+The [AI product-research overview](/blog/ai-tools-for-product-research/) situates transcription and analysis within the wider process. Before acting on generated themes, apply the [insight validation procedure](/blog/validate-ai-generated-research-insights/) to the original extracts and contradictory cases.

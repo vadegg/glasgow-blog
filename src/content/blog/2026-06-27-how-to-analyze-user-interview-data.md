@@ -1,8 +1,8 @@
 ---
 title: "How to Analyze User Interview Data: Step-by-Step"
-description: "Turn raw interview transcripts into actionable insights with this practical step-by-step workflow — covering coding, pattern recognition, synthesis, and"
+description: "Analyse user interviews by linking extracts, codes and themes to a research question. Keep contradictory evidence visible and separate findings from decisions."
 pubDate: 2026-06-27
-updatedDate: 2026-09-12T12:14:54.963Z
+updatedDate: 2026-09-13T14:40:01.575Z
 readingTime: 13
 slug: "how-to-analyze-user-interview-data"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "analyzing qualitative interview data"
   - "coding user interviews"
   - "user research analysis process"
+hub: "insight-to-impact"
 ---
 ## Why Analysis Is the Step Most Teams Rush
 

@@ -1,8 +1,8 @@
 ---
 title: "User Research Plan Template: Structure Any Study"
-description: "A practical user research plan template covering every section you need — research questions, methods, participant criteria, timeline and success metrics — so"
+description: "Write a user research plan that connects a product decision to questions, participants, methods and analysis. Includes a practical planning structure."
 pubDate: 2026-06-09
-updatedDate: 2026-09-12T12:14:54.631Z
+updatedDate: 2026-09-13T14:40:01.581Z
 readingTime: 14
 slug: "user-research-plan-template"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "how to write a ux research plan"
   - "research study plan template"
   - "ux research planning"
+hub: "product-discovery"
 ---
 ## Why a Research Plan Is Worth Writing Before You Recruit Anyone
 

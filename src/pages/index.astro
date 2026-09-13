@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { ORGANIZATION, SITE } from '../data/site';
+import { TOPICS } from '../data/topics';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -62,8 +63,8 @@ const structuredData = [ORGANIZATION];
       <article class="panel">
         <p class="eyebrow">Primary topics</p>
         <ul class="panel-list" style="margin-top: 16px;">
-          {SITE.primaryTopics.map((topic) => (
-            <li class="stat"><strong>{topic}</strong></li>
+          {TOPICS.map((topic) => (
+            <li class="stat"><strong><a href={`/blog/${topic.slug}/`}>{topic.title}</a></strong><p class="muted">{topic.description}</p></li>
           ))}
         </ul>
       </article>

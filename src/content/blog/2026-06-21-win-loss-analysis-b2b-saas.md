@@ -2,7 +2,7 @@
 title: "Win-Loss Analysis for B2B SaaS: A Practical Guide"
 description: "Learn how to design and run a win-loss analysis program for B2B SaaS — from recruiting interviewees to turning competitive insights into positioning decisions."
 pubDate: 2026-06-21
-updatedDate: 2026-09-12T12:14:54.744Z
+updatedDate: 2026-09-13T14:40:01.574Z
 readingTime: 11
 slug: "win-loss-analysis-b2b-saas"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "why deals are lost"
   - "competitive win-loss analysis"
   - "B2B sales research"
+hub: "product-research"
 ---
 ## What Win-Loss Analysis Actually Is (and Isn't)
 

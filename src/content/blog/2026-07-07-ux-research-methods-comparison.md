@@ -1,8 +1,8 @@
 ---
 title: "UX Research Methods Comparison: A Side-by-Side Guide"
-description: "Compare core UX research methods across cost, speed, sample size, and insight type. A practical side-by-side guide to help practitioners choose the right"
+description: "Compare UX research methods by the question they answer, the evidence they produce and their practical constraints. Choose a study design for your decision."
 pubDate: 2026-07-07
-updatedDate: 2026-09-12T12:14:55.339Z
+updatedDate: 2026-09-13T14:40:01.570Z
 readingTime: 12
 slug: "ux-research-methods-comparison"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "qualitative vs quantitative ux research"
   - "when to use each ux research method"
   - "ux research method selection"
+hub: "ux-research-methods"
 ---
 ## Why a Side-by-Side Comparison Matters
 

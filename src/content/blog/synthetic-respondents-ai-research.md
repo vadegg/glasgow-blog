@@ -4,7 +4,7 @@ readingTime: 5
 title: "Synthetic Respondents in UX Research: What Works and What Doesn't"
 description: "See where synthetic respondents help UX research, where they still fail, and how to use AI without mistaking generated language for real evidence in practice."
 pubDate: 2026-03-19
-updatedDate: 2026-06-06T08:52:20Z
+updatedDate: 2026-09-13T14:40:01.579Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
@@ -13,6 +13,7 @@ tags:
   - ux research
   - ai research
   - product research
+hub: "product-research"
 ---
 Here is the short version: AI is already useful in research, but mostly as a way to move faster, not as a clean replacement for talking to real people.
 

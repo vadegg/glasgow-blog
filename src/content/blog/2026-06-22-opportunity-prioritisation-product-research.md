@@ -2,7 +2,7 @@
 title: "Opportunity Prioritisation in Product Research"
 description: "Turn a backlog of research-surfaced opportunities into a ranked, decision-ready shortlist. A practical scoring framework bridging synthesis and roadmap input."
 pubDate: 2026-06-22
-updatedDate: 2026-09-12T12:14:54.794Z
+updatedDate: 2026-09-13T14:40:01.576Z
 readingTime: 11
 slug: "opportunity-prioritisation-product-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "opportunity scoring framework"
   - "product opportunity assessment"
   - "prioritising user research findings"
+hub: "product-discovery"
 ---
 ## Why Prioritisation Is Where Research Value Is Won or Lost
 

@@ -4,11 +4,12 @@ readingTime: 13
 title: "Market Research Methods: Which Method Fits Which Decision"
 description: "Match market research methods to the decision you need to make, with practical guidance on interviews, surveys, desk research, and research timing today."
 pubDate: "2026-05-04T08:52:38.050Z"
-updatedDate: 2026-09-12T12:14:57.417Z
+updatedDate: 2026-09-13T14:40:01.572Z
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"
 tags: ["market research methods", "B2B SaaS", "product management", "research strategy", "decision making"]
+hub: "product-research"
 ---
 ## Common Market Research Methods: What’s on the Table?
 

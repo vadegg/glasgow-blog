@@ -4,7 +4,7 @@ readingTime: 15
 title: "AI Tools for Product Research in 2026: The Complete Guide"
 description: "Compare the best AI tools for product research in 2026 across desk research, qualitative, quantitative, and competitive intelligence workflows for teams."
 pubDate: 2026-03-27T21:34:11Z
-updatedDate: 2026-09-12T12:14:57.065Z
+updatedDate: 2026-09-13T14:40:01.603Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
@@ -14,6 +14,7 @@ tags:
   - "ai research tools"
   - "qualitative research"
   - "competitive analysis"
+hub: "product-research"
 ---
 ## Product research is seven jobs, not one stack
 
@@ -632,3 +633,8 @@ If your team is trying to choose the right AI-assisted research stack instead of
 [Crayon]: https://www.crayon.co/
 [Contify]: https://www.contify.com/
 [Kompyte]: https://www.semrush.com/kompyte/
+
+
+## Follow the workflow you need to support
+
+For source collection, see [AI desk-research workflows](/blog/ai-tools-for-desk-research-deep-research-agents-notebooks-trend-detection/). For primary research, compare [expert-interview support](/blog/ai-tools-for-expert-interviews/), [qualitative research tools](/blog/ai-tools-for-qualitative-research/) and [survey and quantitative tools](/blog/ai-tools-for-quantitative-research-surveys-open-end-analysis-and-quant-platforms/). These guides cover different tasks; verify current capabilities with the vendor before selecting a plan.

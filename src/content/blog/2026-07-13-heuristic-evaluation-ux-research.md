@@ -2,7 +2,7 @@
 title: "Heuristic Evaluation in UX Research: A Practitioner's Guide"
 description: "Learn how to plan, run, and report a heuristic evaluation in real product teams — including exactly when it beats usability testing and when it doesn't."
 pubDate: 2026-07-13
-updatedDate: 2026-09-12T12:14:55.548Z
+updatedDate: 2026-09-13T14:40:01.624Z
 readingTime: 14
 slug: "heuristic-evaluation-ux-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "heuristic evaluation vs usability testing"
   - "Nielsen heuristics UX"
   - "expert review UX research"
+hub: "ux-research-methods"
 ---
 ## What Is a Heuristic Evaluation (and What It Isn't)
 
@@ -148,6 +149,11 @@ For a scoped flow such as onboarding or checkout, allow 2–3 hours per evaluato
 ### Is a heuristic evaluation qualitative or quantitative?
 
 Primarily qualitative. The output is a described list of usability issues tied to principles, not a statistical measure of performance. Severity scores introduce an ordinal ranking, but they do not produce metrics comparable to task completion rates or time-on-task figures from a usability study. Think of it as structured expert judgement, not measurement. If you need quantitative baselines, pair the evaluation with a benchmark usability study.
+
+## Choose a complementary evaluation
+
+A [cognitive walkthrough](/blog/how-to-run-a-cognitive-walkthrough/) examines whether a person could work out a particular task sequence. For measured usability after an evaluation, compare [SUS, UMUX-LITE and SUPR-Q](/blog/sus-vs-umux-lite-vs-supr-q/) before choosing a questionnaire.
+
 <!-- gr:footer -->
 ---
 

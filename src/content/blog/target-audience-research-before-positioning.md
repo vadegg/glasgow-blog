@@ -4,7 +4,7 @@ readingTime: 12
 title: How to Conduct Target Audience Research Before Positioning Work
 description: "Learn how target audience research helps you define, narrow, and validate the audience before positioning, messaging, and GTM decisions in B2B SaaS teams."
 pubDate: '2026-05-09T09:01:26.612Z'
-updatedDate: 2026-09-12T12:14:57.596Z
+updatedDate: 2026-09-13T14:40:01.574Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
@@ -14,6 +14,7 @@ tags:
   - ICP
   - B2B SaaS
   - customer research
+hub: "product-research"
 ---
 ## Why Broad Audience Labels Are a Positioning Liability
 

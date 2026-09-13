@@ -2,7 +2,7 @@
 title: "Survey Bots & Fake Responses in UX Research: Detection Guide"
 description: "Learn how to detect and prevent survey bots and fake responses in UX research with practical attention checks, fraud signals, and data-cleaning tactics."
 pubDate: 2026-07-19
-updatedDate: 2026-09-12T12:14:55.788Z
+updatedDate: 2026-09-13T14:40:01.579Z
 readingTime: 13
 slug: "survey-bots-fake-responses-ux-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "bot detection in online surveys"
   - "survey data quality checks"
   - "attention checks survey design"
+hub: "research-operations"
 ---
 ## Why survey bots and fake responses are a growing UX research risk
 
@@ -140,53 +141,3 @@ Synthetic respondents are disclosed, intentional AI personas a team chooses to u
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my survey responses are fake or bot-generated?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Point to the combined signal set: abnormal speed, straightlining, duplicate IPs/fingerprints, gibberish open text, and logic contradictions — no single signal is conclusive alone."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What percentage of survey responses are typically bots or fraud?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Give a realistic range framing (varies widely by panel source, incentive size, and screener rigor), and caution against relying on a single industry benchmark; recommend measuring per-study."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are attention checks enough to stop fraudulent respondents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No — explain attention checks catch inattentive humans and simple bots but sophisticated AI-text fraud requires technical fingerprinting and post-hoc statistical review too."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should I exclude suspected bot responses or reweight the data?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Outline decision criteria: exclude when confidence is high and sample size allows; consider flagging/reweighting when exclusion would bias remaining sample, always documenting the rationale."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is survey bot fraud different from using synthetic respondents in research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reiterate the core distinction: synthetic respondents are disclosed, intentional AI stand-ins for early exploration; bot fraud is undisclosed contamination of real-respondent data that must be detected and removed."
-      }
-    }
-  ]
-}
-</script>

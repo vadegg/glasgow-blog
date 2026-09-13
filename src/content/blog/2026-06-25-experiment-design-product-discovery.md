@@ -1,8 +1,8 @@
 ---
 title: "Experiment Design for Product Discovery"
-description: "Learn how to design lean experiments that test your riskiest product assumptions before you build — a practical framework bridging assumption mapping to"
+description: "Design product discovery experiments with a clear hypothesis, decision rule and measure. Distinguish learning about a need from validating a solution."
 pubDate: 2026-06-25
-updatedDate: 2026-09-12T12:14:54.897Z
+updatedDate: 2026-09-13T14:40:01.568Z
 readingTime: 11
 slug: "experiment-design-product-discovery"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "how to design product experiments"
   - "assumption testing product discovery"
   - "lean experiment design"
+hub: "product-discovery"
 ---
 ## Why Experiment Design Sits at the Heart of Product Discovery
 

@@ -1,8 +1,8 @@
 ---
 title: "How to Measure UX Research ROI"
-description: "A practical framework for research leads to quantify and communicate UX research ROI — moving beyond output counts to decision-impact metrics that justify"
+description: "Connect research activity to decisions and outcomes. Build an evidence trail for value while separating contribution from claims of financial causation."
 pubDate: 2026-07-02
-updatedDate: 2026-09-12T12:14:55.136Z
+updatedDate: 2026-09-13T14:40:01.577Z
 readingTime: 14
 slug: "how-to-measure-ux-research-roi"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "measuring research impact"
   - "research value metrics"
   - "justifying UX research spend"
+hub: "insight-to-impact"
 ---
 ## Why UX Research ROI Is Hard to Measure (and Why That's Not an Excuse)
 

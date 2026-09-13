@@ -4,7 +4,7 @@ readingTime: 12
 title: "Qualitative Market Research: When Interviews Beat Bigger Sample Sizes"
 description: "Learn when qualitative market research beats bigger sample sizes in B2B SaaS, and how to act on interview signal without faking statistical certainty."
 pubDate: 2026-03-26T00:00:00Z
-updatedDate: 2026-09-12T12:14:57.522Z
+updatedDate: 2026-09-13T14:40:01.597Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
@@ -14,6 +14,7 @@ tags:
   - "customer research methods"
   - "b2b research"
   - "market research methods"
+hub: "product-research"
 ---
 ## What qualitative market research is actually for
 
@@ -247,3 +248,8 @@ The mistake is thinking that depth solves every research problem. It does not. B
 But if your team is still debating sample size before it has named the decision, the real research problem has probably started earlier than you think.
 
 If you want help choosing the right mix of interviews, desk research, usability testing, or quantitative follow-up before an expensive product or GTM decision, that is exactly the kind of work Glasgow Research is built for.
+
+
+## Turn the question into a study
+
+Start with [how to conduct market research](/blog/how-to-conduct-market-research-without-producing-generic-noise/) when you need an overall plan. The [method-to-decision comparison](/blog/market-research-methods-which-method-fits-which-decision/) and [types of market research](/blog/types-of-market-research-and-when-each-one-actually-helps/) help narrow the design; [B2B market research](/blog/b2b-market-research/) addresses business buying contexts.

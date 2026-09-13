@@ -4,7 +4,7 @@ readingTime: 11
 title: "AI Competitive Analysis Tools for Product and GTM Teams"
 description: "Compare AI competitive analysis tools for SEO, pricing, reviews, social monitoring, win-loss work, and AI search visibility in product and GTM teams today."
 pubDate: 2026-03-27T21:34:11Z
-updatedDate: 2026-09-12T12:14:56.932Z
+updatedDate: 2026-09-13T14:40:01.578Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
@@ -14,6 +14,7 @@ tags:
   - "ai research tools"
   - "pricing intelligence"
   - "win loss analysis"
+hub: "product-research"
 ---
 ## The right first question is not "Which tool is best?"
 

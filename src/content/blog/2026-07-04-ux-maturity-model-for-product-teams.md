@@ -1,8 +1,8 @@
 ---
 title: "UX Maturity Model for Product Teams"
-description: "Diagnose where your UX research practice really stands with a practical maturity model — then follow concrete steps to reach the next level and drive better"
+description: "Assess your team’s research practice across process, evidence and influence. Use a maturity discussion to choose concrete improvements and review progress."
 pubDate: 2026-07-04
-updatedDate: 2026-09-12T12:14:55.213Z
+updatedDate: 2026-09-13T14:40:01.575Z
 readingTime: 14
 slug: "ux-maturity-model-for-product-teams"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "research maturity model"
   - "UX maturity levels"
   - "how to improve UX maturity"
+hub: "research-operations"
 ---
 ## Why Product Teams Need a UX Maturity Framework
 

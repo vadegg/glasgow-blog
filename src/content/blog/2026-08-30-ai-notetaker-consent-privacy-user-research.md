@@ -1,8 +1,8 @@
 ---
 title: "AI Notetaker Consent & Privacy in User Research"
-description: "A practical 2026 playbook for AI notetaker consent and privacy in user research: what to disclose, how to capture valid consent, retention rules and vendor"
+description: "Plan disclosures, recording choices, access and retention when using an AI research notetaker. Review the vendor and your study requirements before recording."
 pubDate: 2026-08-30
-updatedDate: 2026-09-12T12:14:56.398Z
+updatedDate: 2026-09-13T14:40:01.575Z
 readingTime: 10
 slug: "ai-notetaker-consent-privacy-user-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "recording consent for user interviews"
   - "AI transcription GDPR research"
   - "consent for AI meeting notes"
+hub: "research-operations"
 ---
 ## Why AI notetakers changed the consent conversation in 2026
 

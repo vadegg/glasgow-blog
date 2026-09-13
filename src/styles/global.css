@@ -538,7 +538,42 @@ img {
 .prose {
   line-height: 1.85;
   font-size: 1.05rem;
+  overflow-wrap: anywhere;
 }
+
+.table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1.4rem 0;
+  border: 1px solid rgba(26, 34, 59, 0.15);
+  border-radius: 10px;
+}
+
+.table-scroll:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.table-scroll table {
+  width: 100%;
+  min-width: 580px;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  overflow-wrap: normal;
+}
+
+.table-scroll th,
+.table-scroll td {
+  padding: 12px 14px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(26, 34, 59, 0.12);
+}
+
+.table-scroll th { background: rgba(47, 87, 255, 0.05); }
+.table-scroll tr:last-child td { border-bottom: 0; }
+.topic-articles li { margin-bottom: 1.2rem; }
 
 .hero-script,
 .prose em,

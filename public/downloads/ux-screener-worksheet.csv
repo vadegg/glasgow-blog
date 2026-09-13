@@ -1,0 +1,4 @@
+Example status,Question,Response options,Eligibility rule,Branch,Reason,Pilot note
+Hypothetical invoice workflow study,When did you last approve or review a supplier invoice?,Within 30 days | 1-3 months | Longer ago | Never,Recent hands-on involvement defined in this study,Continue if within study period; otherwise thank and close,Select actual recent behaviour,Change period for your research question
+Hypothetical invoice workflow study,Describe the last exception you handled,Free text,Plausible relevant process; assess manually,Clarify if ambiguous; do not auto-reject unfamiliar wording,Check task fit without revealing preferred answer,
+Blank research row,,,,,,

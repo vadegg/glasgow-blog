@@ -1,8 +1,8 @@
 ---
 title: "Tree Testing in UX Research: How to Run It"
-description: "Learn how to run tree testing in UX research, interpret success rates and directness scores, and use results to validate your information architecture before"
+description: "Plan a tree test to evaluate how people find information. Write tasks, interpret paths and success measures, and identify limitations before changing navigation."
 pubDate: 2026-07-01
-updatedDate: 2026-09-12T12:14:55.078Z
+updatedDate: 2026-09-13T14:40:01.576Z
 readingTime: 13
 slug: "tree-testing-ux-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "how to run a tree test"
   - "information architecture testing"
   - "tree testing tools"
+hub: "ux-research-methods"
 ---
 ## What Tree Testing Actually Is (and Isn't)
 

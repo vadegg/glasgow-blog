@@ -1,8 +1,8 @@
 ---
 title: "Assumption & Opportunity Mapping in Product Discovery"
-description: "Learn how product teams surface, categorise, and prioritise assumptions and opportunities before committing to solutions — a practical walkthrough for"
+description: "Map product assumptions by importance and evidence, identify the risks that matter and choose an appropriate test before committing to a solution."
 pubDate: 2026-06-24
-updatedDate: 2026-09-12T12:14:54.867Z
+updatedDate: 2026-09-13T14:40:01.575Z
 readingTime: 11
 slug: "assumption-mapping-product-discovery"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "assumption mapping framework"
   - "product discovery assumptions"
   - "opportunity solution tree"
+hub: "product-discovery"
 ---
 ## Why Teams Need to Map Before They Build
 

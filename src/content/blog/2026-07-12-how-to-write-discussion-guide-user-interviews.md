@@ -1,8 +1,8 @@
 ---
 title: "How to Write a Discussion Guide for User Interviews"
-description: "Learn how to write a user interview discussion guide that keeps sessions focused without over-scripting. Covers structure, question types, probing hierarchy"
+description: "Write a user interview discussion guide with clear themes, neutral opening questions and follow-up prompts. Keep the conversation focused without over-scripting."
 pubDate: 2026-07-12
-updatedDate: 2026-09-12T12:14:55.513Z
+updatedDate: 2026-09-13T14:40:01.579Z
 readingTime: 13
 slug: "how-to-write-discussion-guide-user-interviews"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "interview guide template ux research"
   - "discussion guide qualitative research"
   - "how to structure user interview questions"
+hub: "ux-research-methods"
 ---
 ## What Is a Discussion Guide (and What It Isn't)
 

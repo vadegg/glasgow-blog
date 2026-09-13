@@ -4,7 +4,7 @@ readingTime: 5
 title: "Customer Research: What It Is Actually For in Product Decisions"
 description: "Understand what customer research is actually for, which product decisions it should improve, and how teams misuse it as reassurance instead of evidence."
 pubDate: 2026-03-25T14:27:09Z
-updatedDate: 2026-06-07T05:42:16Z
+updatedDate: 2026-09-13T14:40:01.595Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"
@@ -14,6 +14,7 @@ tags:
   - "research strategy"
   - "qualitative research"
   - "b2b research"
+hub: "product-research"
 ---
 Customer research is one of those terms that sounds clear until you ask what it is actually supposed to do.
 
@@ -130,3 +131,8 @@ The value is that it helps a team make a better decision while there is still ti
 If your research process mostly creates reassurance, alignment theater, or prettier slides, the problem is not that you need more research. The problem is that you need customer research to do its actual job.
 
 If you want help diagnosing whether your team is using research for decisions or just for reassurance, that is exactly the kind of work Glasgow Research is built for.
+
+
+## Choose the next research task
+
+For a repeatable feedback programme, use the [B2B voice-of-customer guide](/blog/voice-of-customer-program-b2b-saas/). If your immediate decision is whom to target, compare [target-audience research before positioning](/blog/target-audience-research-before-positioning/) with [market segmentation](/blog/market-segmentation-what-it-helps-you-decide-and-what-it-does-not/).

@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { ORGANIZATION, SITE } from '../../data/site';
+import { TOPICS } from '../../data/topics';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -44,11 +45,18 @@ const structuredData = [
   <main class="shell page-wrap">
     <section class="card hero-card">
       <p class="hero-kicker">Blog</p>
-      <h1 class="hero-title">Latest posts.</h1>
+      <h1 class="hero-title">Research guides for product decisions.</h1>
       <p class="hero-copy muted">
         Articles about product research, customer interviews, JTBD, market validation, and B2B SaaS growth research.
       </p>
     </section>
+
+    <nav class="panel" aria-label="Research topics" style="margin-top: 22px;">
+      <h2>Browse by research question</h2>
+      <ul class="panel-list">
+        {TOPICS.map((topic) => <li><a href={`/blog/${topic.slug}/`}>{topic.title}</a> — {topic.description}</li>)}
+      </ul>
+    </nav>
 
     <section class="post-grid" style="margin-top: 22px;">
       {posts.map((post) => (

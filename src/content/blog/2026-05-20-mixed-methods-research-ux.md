@@ -1,8 +1,8 @@
 ---
 title: "Mixed Methods Research in UX: Qual + Quant Together"
-description: "Learn when and how to combine qualitative and quantitative UX research with a practical sequencing framework that surfaces answers neither approach can deliver"
+description: "Combine qualitative and quantitative UX research around one decision. Choose a sequence and explain how the different evidence sources will inform each other."
 pubDate: 2026-05-20
-updatedDate: 2026-09-12T12:14:54.295Z
+updatedDate: 2026-09-13T14:40:01.573Z
 readingTime: 11
 slug: "mixed-methods-research-ux"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "mixed methods user research"
   - "qual quant research integration"
   - "when to use mixed methods in UX"
+hub: "ux-research-methods"
 ---
 ## Why Neither Qual nor Quant Alone Is Enough
 

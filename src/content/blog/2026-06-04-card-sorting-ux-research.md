@@ -1,8 +1,8 @@
 ---
 title: "Card Sorting in UX Research: How to Run It"
-description: "Learn how to run open and closed card sorting studies, analyse the output, and decide when to use card sorting vs tree testing — a practical guide for UX"
+description: "Plan an open or closed card sort, prepare the cards and examine how participants group them. Learn when to follow the study with a tree test."
 pubDate: 2026-06-04
-updatedDate: 2026-09-12T12:14:54.487Z
+updatedDate: 2026-09-13T14:40:01.578Z
 slug: "card-sorting-ux-research"
 readingTime: 14
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "card sorting methodology"
   - "tree testing vs card sorting"
   - "information architecture research"
+hub: "ux-research-methods"
 ---
 ## What Is Card Sorting and Why Does It Matter?
 
@@ -160,53 +161,3 @@ Yes. Tools such as OptimalSort, Maze, and Useberry support fully unmoderated rem
 ### How do I analyse the results of a card sorting study?
 
 Start with the similarity matrix to identify which cards were consistently grouped together. Use dendrograms to visualise natural clusters at different thresholds, applying judgement about where to draw the boundary. For closed sorts, review the standardisation grid to see agreement rates per category. Then add the qualitative layer: examine participant-generated category names for vocabulary insight. Document cards that split across categories as signals of ambiguity rather than resolving them arbitrarily.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many participants do I need for a card sorting study?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For open card sorting, 15–30 participants typically surface the main mental-model patterns. For closed card sorting, aim for 30–50 to get statistically meaningful agreement rates. Unmoderated tools make hitting these numbers cost-effective."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between open and closed card sorting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In open card sorting participants invent their own category names, making it ideal for discovery. In closed card sorting, categories are predefined and participants assign cards to them, making it suited for validating an existing or proposed IA."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should I run card sorting or tree testing first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Always card sort first. Card sorting generates a candidate IA from real mental models; tree testing then evaluates whether users can navigate that structure. Running tree testing on an untested IA just confirms how well a designer guessed."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can card sorting be done remotely?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Tools like OptimalSort, Maze, and Useberry support fully unmoderated remote card sorting. For moderated remote sessions, pair screen-share with a digital card-sort tool and use think-aloud prompts to capture reasoning."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I analyse the results of a card sorting study?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start with the similarity matrix to identify which cards were consistently grouped together. Use dendrograms to visualise natural clusters at different thresholds. For open sorts, analyse participant-generated category names for vocabulary patterns. For closed sorts, review the standardisation grid for agreement rates per category."
-      }
-    }
-  ]
-}
-</script>

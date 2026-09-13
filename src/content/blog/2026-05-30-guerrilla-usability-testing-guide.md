@@ -1,8 +1,8 @@
 ---
 title: "Guerrilla Usability Testing: A Practical Guide"
-description: "Run fast, low-cost guerrilla usability tests that still deliver rigorous insights. A step-by-step practitioner guide covering planning, recruiting, facilitation"
+description: "Plan a lightweight guerrilla usability test, choose appropriate tasks and participants, and document what the findings can and cannot support."
 pubDate: 2026-05-30
-updatedDate: 2026-09-12T12:14:54.368Z
+updatedDate: 2026-09-13T14:40:01.574Z
 slug: "guerrilla-usability-testing-guide"
 readingTime: 13
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "low cost usability testing"
   - "unmoderated usability testing"
   - "quick usability testing methods"
+hub: "ux-research-methods"
 ---
 ## What Is Guerrilla Usability Testing?
 
@@ -179,53 +180,3 @@ Anywhere your target users naturally gather: coffee shops, libraries, co-working
 **How long should a guerrilla usability testing session be?**
 
 20–30 minutes is the practical target. Short enough that people will agree to participate on the spot; long enough to cover 2–3 meaningful tasks and brief post-task questions.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many participants do I need for guerrilla usability testing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "5–8 participants per round is the accepted minimum for surfacing the majority of critical usability issues. Running two iterative rounds of 5 outperforms one round of 10 for the same effort."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is guerrilla usability testing the same as unmoderated testing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Guerrilla testing is lightly moderated — a facilitator is present but sessions are informal and held outside a lab. Unmoderated testing uses software (e.g. Maze, Lookback) where participants complete tasks entirely without a facilitator."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need consent forms for guerrilla usability testing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Even informal sessions require informed consent before recording. A simple one-page consent form or a verbal confirmation captured in writing covers your ethical and legal obligations in most jurisdictions."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the best location to run guerrilla usability testing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Anywhere your target users naturally gather: coffee shops, libraries, co-working spaces, or online communities. The key is minimal disruption, a quiet enough environment to record, and access to a screen or prototype."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long should a guerrilla usability testing session be?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "20–30 minutes is ideal. Short enough to recruit willing participants on the spot, long enough to cover 2–3 meaningful tasks and brief post-task questions."
-      }
-    }
-  ]
-}
-</script>

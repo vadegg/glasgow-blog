@@ -2,7 +2,7 @@
 title: "How to Choose AI User Research Tools: A Buyer's Guide"
 description: "An agency-grade framework for choosing AI user research tools: the evaluation criteria, trade-offs, and red flags to check before you commit budget. Read on."
 pubDate: 2026-09-07
-updatedDate: 2026-09-12T12:14:56.752Z
+updatedDate: 2026-09-13T14:40:01.570Z
 readingTime: 12
 slug: "how-to-choose-ai-user-research-tools"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "AI research tool evaluation criteria"
   - "best AI UX research tools"
   - "AI research software buyer's guide"
+hub: "research-operations"
 ---
 ## Start with the job, not the tool
 

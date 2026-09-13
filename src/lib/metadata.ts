@@ -1,5 +1,5 @@
-export const META_DESCRIPTION_MIN_LENGTH = 150;
-export const META_DESCRIPTION_MAX_LENGTH = 160;
+export const META_DESCRIPTION_MIN_LENGTH = 80;
+export const META_DESCRIPTION_MAX_LENGTH = 200;
 
 export function normalizeMetaDescription(value: string): string {
   return value.trim().replace(/\s+/g, ' ');

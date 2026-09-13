@@ -1,0 +1,20 @@
+---
+import { getCollection } from 'astro:content';
+import { getTopic, TOPICS } from '../data/topics';
+const { slug } = Astro.props;
+const topic = getTopic(slug);
+const articles = (await getCollection('blog'))
+  .filter((post) => post.data.hub === slug && !TOPICS.some((item) => item.slug === post.data.slug))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+{topic && articles.length > 0 && (
+  <section class="prose topic-articles" aria-label={`Guides to ${topic.title.toLowerCase()}`} style="margin-top: 36px;">
+    <h2 id="guides-in-this-topic">Explore {topic.title.toLowerCase()}</h2>
+    <p>Choose the guide that matches your next research decision.</p>
+    <ul>
+      {articles.map((post) => (
+        <li><a href={`/blog/${post.data.slug}/`}>{post.data.title}</a><br /><span class="muted">{post.data.description}</span></li>
+      ))}
+    </ul>
+  </section>
+)}

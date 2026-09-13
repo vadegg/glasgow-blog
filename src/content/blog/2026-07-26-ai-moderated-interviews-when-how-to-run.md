@@ -1,8 +1,8 @@
 ---
 title: "AI-Moderated Interviews: When to Use & How"
-description: "AI-moderated interviews can scale UX research fast, but only for the right studies. Learn exactly when they work, where humans still win, and how to run them"
+description: "Assess whether AI-moderated interviews fit your study. Plan the questions, pilot the interaction and identify where human facilitation and review are needed."
 pubDate: 2026-07-26
-updatedDate: 2026-09-12T12:14:56.012Z
+updatedDate: 2026-09-13T14:40:01.569Z
 readingTime: 10
 slug: "ai-moderated-interviews-when-how-to-run"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "AI interview moderator"
   - "when to use AI-moderated interviews"
   - "AI vs human moderator UX research"
+hub: "ux-research-methods"
 ---
 ## What AI-moderated interviews are (and how they work in 2026)
 

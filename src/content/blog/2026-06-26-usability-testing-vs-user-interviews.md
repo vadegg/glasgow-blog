@@ -1,8 +1,8 @@
 ---
 title: "Usability Testing vs User Interviews: How to Choose"
-description: "Struggling to pick between usability testing and user interviews? Learn the decision logic behind each method and choose the right one for your research"
+description: "Choose between usability testing and user interviews by the decision you need to make. Compare observed task behaviour with accounts of past experience."
 pubDate: 2026-06-26
-updatedDate: 2026-09-12T12:14:54.927Z
+updatedDate: 2026-09-13T14:40:01.568Z
 readingTime: 12
 slug: "usability-testing-vs-user-interviews"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "user interviews vs usability testing"
   - "ux research method selection"
   - "qualitative ux research methods"
+hub: "ux-research-methods"
 ---
 ## Why the Choice Matters More Than the Method
 

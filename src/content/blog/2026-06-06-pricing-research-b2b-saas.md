@@ -1,8 +1,8 @@
 ---
 title: "Pricing Research for B2B SaaS: What to Charge"
-description: "Learn which pricing research methods—Van Westendorp, conjoint analysis, JTBD interviews—match which B2B SaaS pricing decisions, and how to run them without a"
+description: "Choose B2B SaaS pricing research methods, recruit buyers and test packaging assumptions. Learn what interviews and stated willingness to pay can establish."
 pubDate: 2026-06-06
-updatedDate: 2026-09-12T12:14:54.527Z
+updatedDate: 2026-09-13T14:40:01.632Z
 readingTime: 15
 slug: "pricing-research-b2b-saas"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "willingness to pay research"
   - "Van Westendorp price sensitivity"
   - "conjoint analysis B2B"
+hub: "product-research"
 ---
 ## Why Pricing Research Is Non-Negotiable for B2B SaaS
 
@@ -156,6 +157,11 @@ Usage analytics, expansion and contraction MRR data, and sales call recordings a
 ### How do I recruit B2B participants for pricing research without biasing results?
 
 Avoid recruiting only satisfied, retained customers — oversample recently churned accounts and mid-funnel prospects who did not convert. Use CRM segmentation combined with LinkedIn outreach. Do not mention pricing in your screener or recruitment message, as doing so attracts disproportionately price-sensitive respondents and skews your findings before fieldwork begins.
+
+## Distinguish packaging from messaging
+
+When the decision involves tradeoffs among product attributes and price, review [conjoint study design](/blog/conjoint-analysis-feature-prioritisation-pricing/). When you need to understand whether people interpret a proposition as intended, use [message testing](/blog/message-testing-value-propositions/). Those studies answer different questions.
+
 <!-- gr:footer -->
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Empathy Mapping in UX Research: From Interview Data"
-description: "Learn how to run an empathy map from real interview data: the quadrants, a step-by-step workshop, and how to turn the map into a product decision, not"
+description: "Build an empathy map from interview evidence. Separate what people said and did from interpretation, then identify uncertainties and a relevant product decision."
 pubDate: 2026-08-27
-updatedDate: 2026-09-12T12:14:56.308Z
+updatedDate: 2026-09-13T14:40:01.581Z
 readingTime: 10
 slug: "empathy-mapping-ux-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "empathy map template"
   - "empathy mapping workshop"
   - "empathy map vs persona"
+hub: "product-discovery"
 ---
 ## What empathy mapping is (and what it isn't)
 

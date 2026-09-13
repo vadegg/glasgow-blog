@@ -1,8 +1,8 @@
 ---
 title: "How to Recruit Participants for User Research"
-description: "A step-by-step guide to recruiting user research participants: write tighter screeners, choose the right sourcing channels, build a panel, and eliminate"
+description: "Recruit participants who can answer your research questions. Define eligibility, compare sourcing channels and organise screening, consent and scheduling."
 pubDate: 2026-06-03
-updatedDate: 2026-09-12T12:14:54.461Z
+updatedDate: 2026-09-13T14:40:01.578Z
 slug: "how-to-recruit-participants-for-user-research"
 readingTime: 14
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "recruiting research participants"
   - "ux research participant recruitment"
   - "research participant panels"
+hub: "research-operations"
 ---
 ## Why Recruitment Determines Research Quality
 
@@ -157,45 +158,3 @@ For niche B2B personas, the most reliable approaches are: LinkedIn outreach with
 **How do I avoid recruiting the same people repeatedly?**
 
 Track participation history rigorously — whether in a spreadsheet or a dedicated tool — and enforce a cooling-off period of at least eight to twelve weeks between studies for any individual. Segment your outreach so that each study draws from a different portion of your panel. Introduce new participants continuously rather than waiting until the panel feels stale. If you are using a third-party panel provider, specify that you require participants who have not taken part in a study on a related topic within a defined period.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many participants do I need for user research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For qualitative moderated studies (interviews, usability tests), 5–8 participants per distinct user segment typically reaches thematic saturation. For unmoderated or survey-based studies, larger samples are needed; rule of thumb is 30+ for directional quantitative signal. Emphasise that the right number depends on study type, number of segments, and acceptable confidence level — not a universal magic number."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should I include in a screener survey for user research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A screener should include: behavioural frequency questions tied to your research topic, role or context qualifiers, at least one deliberate disqualifier question, an open-text task-description question to spot low-effort respondents, and a consent-to-contact and availability check. Keep it to 8–12 questions maximum."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I recruit hard-to-reach B2B participants?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For niche B2B personas: LinkedIn outreach with a personalised value proposition, targeted posts in professional Slack communities or industry forums, referral chains from initial participants (snowball sampling), and specialist B2B panel providers. Expect longer lead times (2–3 weeks) and higher incentives than B2C studies."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much should I pay research participants?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Incentive rates vary by participant type, session length, and geography. General benchmarks: consumers £30–£60 for a 60-minute session; professionals/specialists £75–£150+. Incentives improve show rates and reduce no-shows. Always confirm incentive format (gift card, bank transfer, charity donation option) during recruitment, not after."
-      }
-    }
-  ]
-}
-</script>

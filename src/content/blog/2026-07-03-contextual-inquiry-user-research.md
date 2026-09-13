@@ -1,8 +1,8 @@
 ---
 title: "Contextual Inquiry: How to Run It and What It Tells You"
-description: "Learn how to plan, run, and analyse a contextual inquiry study — and discover why observing users in their real environment reveals what interviews alone never"
+description: "Plan a contextual inquiry around real work. Prepare observation questions, manage interruptions and analyse the relationship between tasks, tools and environment."
 pubDate: 2026-07-03
-updatedDate: 2026-09-12T12:14:55.181Z
+updatedDate: 2026-09-13T14:40:01.580Z
 readingTime: 11
 slug: "contextual-inquiry-user-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "contextual inquiry method"
   - "how to run a contextual inquiry"
   - "contextual inquiry vs user interview"
+hub: "ux-research-methods"
 ---
 ## What Is Contextual Inquiry?
 

@@ -2,7 +2,7 @@
 title: "UX Research Panel Management: Build & Maintain a Panel"
 description: "Learn how ResearchOps teams build, segment, and sustain a healthy UX research panel for continuous research—without panel fatigue, bias, or burnout. Read on."
 pubDate: 2026-07-20
-updatedDate: 2026-09-12T12:14:55.820Z
+updatedDate: 2026-09-13T14:40:01.579Z
 readingTime: 12
 slug: "ux-research-panel-management"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "research panel best practices"
   - "managing a research participant pool"
   - "panel fatigue in user research"
+hub: "research-operations"
 ---
 ## What is a UX research panel (and why it's different from one-off recruiting)
 
@@ -122,45 +123,3 @@ Yes. A research panel supplies participants for studies — usually a broad, som
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How big should a UX research panel be?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No universal number; scale to research cadence and segment diversity needed. Give rough starting ranges (e.g., a few hundred for a mid-size product team) and emphasize active/responsive panelists matter more than raw size."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How often should you refresh a research panel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recommend periodic refresh (e.g., 15-25% turnover per year) to counter panel fatigue and keep the pool representative of current users."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What causes panel fatigue and how do you prevent it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Overuse of the same participants, lack of variety in study types, no participation caps. Prevent with rotation rules, caps, and diversified incentives."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is a research panel different from a customer advisory board?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Clarify panel is for research participation (broader, often anonymized feedback), advisory boards are smaller, named, strategic input groups — different purpose and cadence."
-      }
-    }
-  ]
-}
-</script>

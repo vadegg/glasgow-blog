@@ -1,8 +1,8 @@
 ---
 title: "Switch Interview Technique: A Step-by-Step Guide"
-description: "Learn how to run a Switch Interview to reconstruct the exact moment a customer switched products — and surface the causal forces behind any JTBD purchase"
+description: "Use a switch interview to reconstruct a recent product change. Explore the timeline, alternatives, anxieties and circumstances behind the buying decision."
 pubDate: 2026-06-07
-updatedDate: 2026-09-12T12:14:54.557Z
+updatedDate: 2026-09-13T14:40:01.581Z
 readingTime: 13
 slug: "switch-interview-technique"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "jobs to be done switch interview"
   - "switching moment interview"
   - "forces of progress framework"
+hub: "product-discovery"
 ---
 ## What Is the Switch Interview Technique?
 
@@ -103,7 +104,7 @@ The Switch Interview depends entirely on participants who can narrate a genuine,
 
 **Incentives:** in B2B contexts, a charitable donation or a report summary often works better than a cash incentive, which can feel transactional. In consumer contexts, a voucher or direct payment is standard.
 
-**Consent and recording:** always obtain explicit consent before recording. Tell participants that recordings are anonymised and used only internally. For detailed guidance on finding and screening the right people, see our post on [how to recruit B2B interview participants](https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants).
+**Consent and recording:** always obtain explicit consent before recording. Tell participants that recordings are anonymised and used only internally. For detailed guidance on finding and screening the right people, see our post on [how to recruit B2B interview participants](https://blog.glasgow.works/blog/recruiting-b2b-interview-participants).
 
 ---
 
@@ -190,45 +191,3 @@ The most common failure modes are recruiting participants who were not meaningfu
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is a Switch Interview different from a standard user interview?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A standard user interview explores attitudes, workflows, and feature needs. A Switch Interview has a single, precise goal: reconstructing the causal story of why and how someone replaced one solution with another. It is retrospective, narrative-led, and maps every answer to one of the four forces of progress rather than open-ended themes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many Switch Interviews do I need to run?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Six to ten recent switchers is usually sufficient to reach pattern saturation. Prioritise recency (switch within the past 3–6 months) and decision-involvement (the participant drove or heavily influenced the choice) over raw sample size."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the Switch Interview technique be used for churn research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes — with a small adaptation. Instead of interviewing people who switched to your product, you interview customers who switched away (churned). The same five-stage timeline applies; the forces of progress reveal what pushed them out and what pulled them toward the alternative, giving you actionable retention levers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the 'struggling moment' in JTBD Switch Interviews?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The struggling moment is the specific combination of circumstance and emotional state that first made the customer dissatisfied enough with their current solution to consider alternatives. Identifying it precisely — down to the event, the context, and the feeling — lets teams design marketing triggers and onboarding flows that intercept customers at the right time."
-      }
-    }
-  ]
-}
-</script>

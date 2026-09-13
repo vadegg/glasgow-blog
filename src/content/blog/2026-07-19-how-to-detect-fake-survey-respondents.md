@@ -2,7 +2,7 @@
 title: "How to Detect Fake Survey Respondents in Research"
 description: "Learn how to detect fake survey respondents with a practical, low-tooling checklist: screener traps, paradata checks, and open-ended red flags for UX teams."
 pubDate: 2026-07-19
-updatedDate: 2026-09-12T12:14:55.755Z
+updatedDate: 2026-09-13T14:40:01.571Z
 readingTime: 10
 slug: "how-to-detect-fake-survey-respondents"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "bot respondents in online surveys"
   - "data quality checks for research surveys"
   - "screening out fraudulent survey responses"
+hub: "research-operations"
 ---
 ## Why this matters: the real cost of fake respondents in DIY research
 
@@ -123,45 +124,3 @@ Platform-native IP and device fields, a honeypot screener question, reCAPTCHA, a
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many fake responses is 'normal' in an online survey?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reference the widely cited 15-30% industry estimate, note it varies heavily by recruitment source (open panel links vs owned customer lists), and caution against treating any fixed number as a benchmark without checking your own paradata."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can attention checks alone catch bots?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No — modern bots and click-farm workers routinely pass simple attention checks; explain why layering screener logic, paradata, and open-text review is necessary."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should I just delete suspicious responses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recommend flagging and quarantining rather than immediate deletion, documenting exclusion criteria for auditability, and re-fielding if sample size drops below what's needed for the decision."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What free tools help detect survey fraud without an enterprise budget?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "List platform-native hidden fields, honeypot questions, reCAPTCHA, spreadsheet formulas for straight-lining/speeding, and manual IP/email pattern review."
-      }
-    }
-  ]
-}
-</script>

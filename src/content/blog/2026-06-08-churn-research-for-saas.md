@@ -1,8 +1,8 @@
 ---
 title: "Churn Research for SaaS: Why Customers Leave"
-description: "Stop guessing why customers cancel. Learn how to design and run churn research for SaaS — exit interviews, behavioral data, and cohort analysis — to act on"
+description: "Investigate SaaS churn with exit interviews, account context and behavioural data. Separate possible explanations and identify the decisions further research can inform."
 pubDate: 2026-06-08
-updatedDate: 2026-09-12T12:14:54.604Z
+updatedDate: 2026-09-13T14:40:01.576Z
 readingTime: 13
 slug: "churn-research-for-saas"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "why customers churn saas"
   - "churn interview questions"
   - "customer churn research methods"
+hub: "product-research"
 ---
 ## Why Guessing at Churn Is Costing You More Than the Churn Itself
 
@@ -41,7 +42,7 @@ Once you have isolated voluntary churners, segment them before you recruit. A si
 
 On sample size: for qualitative research, 8–12 exit interviews per well-defined segment is sufficient to reach thematic saturation in most SaaS contexts. Below six interviews you risk building conclusions on idiosyncratic experiences. Above 15, you are usually hearing repetition rather than new insight — unless your segments are genuinely mixed and you have not separated them properly.
 
-Timing matters. Contact churners within two to four weeks of cancellation. Earlier than that and the conversation can feel confrontational; later and the detail of the decision fades. Memory of the emotional and practical triggers that drove the cancellation degrades quickly. For practical guidance on reaching these participants, see our post on [recruiting B2B interview participants](https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants).
+Timing matters. Contact churners within two to four weeks of cancellation. Earlier than that and the conversation can feel confrontational; later and the detail of the decision fades. Memory of the emotional and practical triggers that drove the cancellation degrades quickly. For practical guidance on reaching these participants, see our post on [recruiting B2B interview participants](https://blog.glasgow.works/blog/recruiting-b2b-interview-participants).
 
 ---
 
@@ -144,7 +145,7 @@ A cancellation survey captures a single forced-choice reason at the moment of ca
 
 **How do we get churned customers to agree to an interview?**
 
-Contact within two to four weeks of cancellation. Keep the ask short — 20 to 25 minutes. Offer a meaningful incentive (a gift card or charitable donation in the £30–£75 range for B2B). Frame the conversation explicitly as helping improve the product, not as a save attempt — customers who have already decided to leave are unlikely to respond to the latter framing and will decline or engage defensively. For outreach scripts and sequencing, the post on [recruiting B2B interview participants](https://blog.glasgow.works/blog/how-to-recruit-b2b-interview-participants) covers the practical mechanics.
+Contact within two to four weeks of cancellation. Keep the ask short — 20 to 25 minutes. Offer a meaningful incentive (a gift card or charitable donation in the £30–£75 range for B2B). Frame the conversation explicitly as helping improve the product, not as a save attempt — customers who have already decided to leave are unlikely to respond to the latter framing and will decline or engage defensively. For outreach scripts and sequencing, the post on [recruiting B2B interview participants](https://blog.glasgow.works/blog/recruiting-b2b-interview-participants) covers the practical mechanics.
 <!-- gr:footer -->
 ---
 

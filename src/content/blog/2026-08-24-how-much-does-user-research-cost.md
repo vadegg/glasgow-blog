@@ -2,7 +2,7 @@
 title: "How Much Does User Research Cost? 2026 Pricing Guide"
 description: "Compare real-world user research costs across DIY, in-house, agency, and AI-tool-assisted delivery by method — and build a confident research budget. Read on."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12T12:14:56.238Z
+updatedDate: 2026-09-13T14:40:01.577Z
 readingTime: 13
 slug: "how-much-does-user-research-cost"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "cost of UX research"
   - "DIY vs agency vs tool research cost"
   - "user research budget planning"
+hub: "research-operations"
 ---
 ## Why user research costs vary so widely
 
@@ -134,53 +135,3 @@ Start small: one method, one clear research question, 5–8 participants, and a 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the average cost of a user research project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "State a blended range (e.g., $0–$500 DIY, $1k–$5k in-house tool-assisted, $5k–$30k+ agency) and note it depends on method and sample size; point back to the quick-answer table."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is DIY user research really free?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Clarify DIY has no cash outlay but real costs in staff hours, incentives, and slower speed-to-insight; quantify roughly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much does an agency typically charge for a research study?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Give a per-study range and explain what's bundled (recruitment, moderation, synthesis, readout); note variation by scope."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do AI research tools actually reduce cost without hurting quality?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Explain AI tools cut moderation/synthesis time and cost but don't replace recruitment spend or strategic framing; best for well-scoped, lower-stakes studies."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How should a first-time team budget for user research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recommend starting small (one method, tight scope), adding 15-20% contingency, and reviewing cost-per-insight after the first study to calibrate future budgets."
-      }
-    }
-  ]
-}
-</script>

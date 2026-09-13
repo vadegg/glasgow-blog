@@ -1,8 +1,8 @@
 ---
 title: "How to Conduct User Interviews: A Practical Guide"
-description: "Learn how to conduct user interviews that generate real insight — from writing a discussion guide to facilitation techniques and common pitfalls every UX"
+description: "Plan and conduct user interviews with a focused discussion guide and neutral prompts. Explore recent experiences, probe for detail and prepare for analysis."
 pubDate: 2026-05-21
-updatedDate: 2026-09-12T12:14:54.339Z
+updatedDate: 2026-09-13T14:40:01.574Z
 slug: "how-to-conduct-user-interviews"
 readingTime: 13
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "user interview tips"
   - "UX research interviews"
   - "discussion guide user research"
+hub: "ux-research-methods"
 ---
 ## What Is a User Interview and When Should You Use One?
 
@@ -168,53 +169,3 @@ Yes, where legally permitted and where the participant has given explicit inform
 ### What is the difference between a user interview and a usability test?
 
 User interviews explore attitudes, motivations, and past behaviours through conversation. Usability tests observe participants attempting specific tasks with a product or prototype to evaluate whether the design functions as intended. Both are valuable, but they answer different questions. Interviews tell you what people think, feel, and do in their own context. Usability tests tell you whether people can successfully complete a task with a specific interface. Choosing between them — or combining them — depends on what you need to learn.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many user interviews do I need to conduct?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a single, well-defined user segment, 5–8 interviews typically reach thematic saturation in qualitative research. Add another round of 5 per additional distinct segment. Stop when you are hearing the same themes repeatedly rather than new information."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is a discussion guide in user research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A discussion guide is a structured but flexible document that outlines the topics, questions, and timing for a user interview session. Unlike a survey, it is a scaffold for conversation, not a rigid script — it keeps sessions comparable while giving the facilitator room to follow interesting threads."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long should a user interview be?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "45–60 minutes is the standard range. Shorter (30 min) works for narrow, well-scoped topics; longer risks fatigue for both participant and facilitator. Always write a guide short enough to finish comfortably within the booked time."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should I record user interviews?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, where legally permitted and the participant has given explicit informed consent. Recordings allow you to retrieve verbatim quotes and catch details the note-taker missed. Store recordings securely, anonymise if required, and delete to your stated retention policy."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between a user interview and a usability test?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "User interviews explore attitudes, motivations, and past behaviours through conversation. Usability tests observe participants attempting specific tasks with a product or prototype to evaluate whether it works. Both are valuable but answer different research questions and should not be substituted for each other."
-      }
-    }
-  ]
-}
-</script>

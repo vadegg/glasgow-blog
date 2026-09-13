@@ -1,9 +1,9 @@
 ---
-title: "Unmoderated Usability Testing Tools: How to Choose"
-description: "Compare leading unmoderated usability testing tools by research scenario and team constraints — not feature checklists — so you pick the right platform first"
+title: "Unmoderated Usability Testing Tools: A Selection Guide"
+description: "Compare unmoderated testing tools using verified product documentation and a repeatable pilot. Includes Maze, Lyssna, Lookback, UserTesting and Useberry."
 pubDate: 2026-07-11
-updatedDate: 2026-09-12T12:14:55.476Z
-readingTime: 11
+updatedDate: 2026-09-13T14:40:01.567Z
+readingTime: 4
 slug: "unmoderated-usability-testing-tools"
 author: "Vadim Glazkov"
 authorSlug: "vadim"
@@ -16,185 +16,73 @@ tags:
   - "usability testing platforms"
   - "remote unmoderated testing tools"
   - "UserTesting vs Maze vs Lookback"
----
-## What makes a usability testing tool truly 'unmoderated'
-
-Unmoderated usability testing means participants complete scripted tasks on their own, with no facilitator present in real time. The tool records what happens — screen activity, audio narration, clicks, timing — then hands you the data to analyse after the session ends.
-
-Worth stating precisely, because the term gets stretched. Lookback and Zoom are remote testing tools, but in their live modes they are moderated: a researcher watches and can intervene. Survey tools like Typeform capture opinions but not behaviour. A genuine unmoderated platform sits between the two: it automates the facilitation so the session runs without you, but it captures richer behavioural data than a survey ever could.
-
-Every credible unmoderated platform shares a core capability set: task scripting, combined screen and audio capture, and some form of automated output — a highlight reel, an auto-generated transcript, or aggregated task metrics. Where platforms diverge is in which research artefact they support (prototype, live site, or concept card), how they source participants, and how deeply they support qualitative analysis versus quantitative validation.
-
-That divergence is exactly why tool selection matters. Pick a prototype-focused tool to test a live transactional flow and you waste money on thin data. Pick an enterprise panel platform for a five-person startup team and you burn budget on features you will never use.
-
-If you are still weighing whether unmoderated testing is right for your situation at all — versus a moderated alternative — read our post on [usability testing vs user interviews](https://blog.glasgow.works/blog/usability-testing-vs-user-interviews) before going further.
-
+hub: "research-operations"
 ---
 
-## The four decisions that should drive your tool choice
+Choose an unmoderated usability testing tool by the task you need to observe, the people you need to recruit and the evidence you need to export. A supported feature is a reason to shortlist a product; it is not proof that the product will work well for your study.
 
-Before you open a single vendor's feature page, answer these four questions. They take about two minutes and will rule out most of the market immediately.
+**Product documentation checked: 13 September 2026.** This is a documentation-based comparison with a proposed pilot protocol. It is not a hands-on performance benchmark, and no vendor has paid for inclusion. Features and plan availability can change.
 
-**Decision 1: What are you testing?**
+## Start with the study constraints
 
-A Figma or InVision prototype? A live website or app? A static concept (image, copy variant, first-click layout)? Some tools support only one of these. Maze is optimised for Figma prototypes and struggles with live-site testing. UserTesting handles live sites well. Lyssna is built around lightweight concept and preference tests. Choose the wrong artefact type and you are working around the tool's architecture from day one.
+Write down whether you are testing a prototype, a live website or a native application; required devices; recruitment source; recording needs; and constraints on participant data. If someone must intervene during the task, consider a moderated session instead.
 
-**Decision 2: Where are your participants coming from?**
+Do not assume that every unmoderated test records video. Click-based and recorded-session studies provide different evidence. Choose the output your research question requires and confirm it in the pilot.
 
-Bring-your-own-participants (BYOP) and platform panel are fundamentally different models. If you have existing customer relationships or a recruited panel, you do not need — and should not pay for — a platform's built-in panel. If you need participants quickly and have no list, panel access becomes a core feature rather than a bonus. B2B researchers should note that most platform panels skew consumer; specialist professional audiences are rarely well represented.
+## What the official product documentation supports
 
-**Decision 3: How deep does your analysis need to go?**
-
-Quick validation — does the checkout flow work? — calls for automated metrics: task completion rates, time-on-task, click maps. Exploratory questions — why do users hesitate here? — need raw video with enough context to interpret behaviour. Some platforms weight heavily towards one output type. Know which you need before you evaluate.
-
-**Decision 4: Who will actually run the tests?**
-
-A dedicated UX researcher and a product manager running tests solo have different needs from their tooling. Tools with complex study-design interfaces slow down non-researchers and increase the risk of poorly constructed tasks. This connects directly to the risks we describe in our post on [research democratisation risks](https://blog.glasgow.works/blog/research-democratization-risks-and-how-to-do-it-right) — accessible tooling without research guardrails can produce confident but misleading results, fast.
-
-Use these four questions as a filter. Any tool that cannot satisfy your answers on artefact type and participant source alone can be set aside.
-
----
-
-## Tool-by-tool breakdown: leading unmoderated platforms
-
-The platforms compared most often in this space are UserTesting, Maze, Lookback (async mode), Lyssna (formerly UsabilityHub), and Useberry. Each has a scenario it handles best, and each has a scenario where it is the wrong choice.
-
-**UserTesting**
-
-Best fit: large organisations that need a combination of a deep, vetted panel and rich video analysis, particularly for live-site or app testing with diverse consumer audiences.
-
-UserTesting's panel is its primary asset — broad, fast, and well-filtered. The video analysis tools are mature, with highlight reels, sentiment tracking, and collaboration features suited to research teams sharing findings with stakeholders. The limitation is cost and complexity. For early-stage prototype sprints, the platform is significantly more than you need. Teams that bring their own participants pay for panel infrastructure they never use. Pricing sits firmly in the enterprise tier.
-
-**Maze**
-
-Best fit: design and product teams validating Figma or InVision prototypes ahead of sprint reviews or handoff decisions.
-
-Maze's integration with Figma is tight and fast to set up. It produces quantitative metrics — task completion, mis-click rates, time-on-task — that translate directly into design decisions. The trade-off is depth: Maze is better at telling you *what* users did than *why* they did it. For live-site testing it is not the right tool, and for deep qualitative exploration its analysis environment is limited. Panel access exists, but the strength is BYOP or quick concept validation, not participant recruitment at scale.
-
-**Lookback (async mode)**
-
-Best fit: research teams that already have participant access and want structured, video-rich sessions without a live moderated call.
-
-Lookback's async mode lets participants record themselves completing tasks and narrating their experience, with the researcher reviewing footage afterwards. The interface is researcher-friendly and the qualitative output is strong. Its panel is limited — this is not the tool to pick if participant recruitment is your bottleneck. For BYOP teams in B2B contexts, where relationships are already established, it works well.
-
-**Lyssna**
-
-Best fit: teams running quick first-click tests, preference tests, or five-second tests as lightweight validation checkpoints.
-
-Lyssna is fast to set up and well-suited to testing information architecture, navigation labels, or early visual concepts. It has a usable panel and competitive pricing for its tier. The limitation: it does not cover complex multi-step task flows well — this is a tool for targeted, rapid questions rather than full usability studies. Treat it as a complement to deeper testing, not a replacement.
-
-**Useberry**
-
-Best fit: product and design teams in the mid-market who want a Figma-to-test workflow with quantitative output, without UserTesting's price point.
-
-Useberry covers prototype testing with task flows, click maps, and heatmaps. It occupies a similar space to Maze but with a somewhat different interface and feature emphasis. The ecosystem is smaller — fewer integrations, a smaller community of practice — but the core capability is solid for teams that find Maze's output insufficient and UserTesting's cost prohibitive.
-
-**A note on pricing:** all five platforms adjust their pricing regularly. We have described tier positioning (budget, mid-market, enterprise) rather than specific figures — check current pricing directly with vendors. For guidance on running the sessions themselves, see our posts on [remote usability testing best practices](https://blog.glasgow.works/blog/remote-usability-testing-best-practices) and the broader [UX research methods overview](https://blog.glasgow.works/blog/ux-research-methods).
-
----
-
-## A decision matrix: match your scenario to a tool
-
-The four decisions above narrow the options. This matrix maps five common scenarios to the tool most likely to perform well, with one clear reason it beats the alternatives in that context.
-
-| Scenario | Recommended tool(s) | Why it wins here |
+| Tool | Documented capabilities relevant to selection | What to verify before committing |
 |---|---|---|
-| Validating a Figma prototype before a sprint review | Maze | Native Figma integration; task metrics available within hours; no setup overhead |
-| Diagnosing drop-off on a live checkout flow | UserTesting | Handles live-site capture reliably; panel delivers varied consumer behaviour quickly |
-| Quick concept comparison with panel participants | Lyssna | Lightweight setup; first-click and preference tests run fast; panel suits consumer audiences |
-| Longitudinal task testing with recruited B2B users | Lookback async | BYOP-first design; strong video output for qualitative depth; supports non-standard session structures |
-| Enabling a product manager to run tests without researcher support | Maze or Lyssna | Simpler study-design interfaces; lower risk of task-scripting errors; faster time to results |
+| [Maze](https://maze.co/features/live-website-testing/) | Live website tasks, paths, heatmaps and recordings; prototype testing is also offered | Capture requirements for your site, devices, authenticated flow and intended plan |
+| [Lyssna](https://help.lyssna.com/en/articles/4952926-lyssna-overview) | Prototype and live website testing, surveys and other moderated/unmoderated methods | Task design, recordings and exports required by your study |
+| [Lookback](https://www.lookback.com/all-lookbacks-features) | Remote research with moderated and unmoderated recording workflows | Participant setup, device compatibility and the evidence available for your chosen method |
+| [UserTesting](https://www.usertesting.com/platform) | Research platform combining participant access, experience testing and analysis | Specialist-audience feasibility, recruitment source, contract and export needs |
+| [Useberry](https://www.useberry.com/) | Prototype and live website usability testing with behavioural analysis | Site or snippet setup, supported devices and the outputs needed for your workflow |
 
-Two red flags worth naming. If your team's shortlist was assembled by searching "best unmoderated usability testing tools" and filtering by brand recognition, you are likely heading for a mismatch. Same if the primary criterion is lowest price. Brand familiarity and price are proxies, not fit signals. The four decisions in the previous section are the actual filter.
+Maze is not restricted to prototypes, and Lyssna is not restricted to short preference tests. Avoid using those older characterisations to eliminate them. The table identifies documented capabilities; comparative quality must be assessed on your scenario.
 
-If no budget is available at all, read our guide on [guerrilla usability testing as a low-cost alternative](https://blog.glasgow.works/blog/guerrilla-usability-testing-guide) before committing to any paid platform.
+## Run the same pilot on each shortlisted tool
 
----
+Use a safe copy of a representative flow and your own authorised test accounts. For example, ask a participant to find an invoice, identify its status and locate the next permitted action. Do not expose real customer or payment data.
 
-## How we approach tool selection with clients
+1. Define successful completion and acceptable alternative paths before running the test.
+2. Use equivalent task wording, starting states, device conditions and participant criteria.
+3. Record setup effort separately from session quality.
+4. Include a recoverable error and a task that has more than one reasonable route.
+5. Check the raw record against the platform's summary or automatic success classification.
+6. Export a session and recreate one finding outside the vendor's interface.
 
-One pattern we see regularly: a team picks a tool based on what a larger, better-resourced organisation in their sector uses, then discovers it does not fit their actual constraints.
+If a participant sees the same flow on several platforms, familiarity can affect the comparison. Rotate conditions or use different participants as appropriate, and record that limitation. This is a procurement pilot, not automatically a statistically valid vendor benchmark.
 
-We worked with a two-person product team at an early-stage software company who had signed up for an enterprise-tier unmoderated testing platform after seeing it recommended in a product management community. The platform had a large panel, deep video analysis features, and a research operations layer built for teams of ten or more. This team had their own users and needed to test a Figma prototype on a two-week sprint cycle. They were paying for panel credits they never redeemed and navigating an interface designed for research coordinators, not designers running tests themselves. Six weeks in, they had completed one study.
+## Use a transparent scorecard
 
-The conversation we ran with them followed the four questions above. What are you testing? A prototype. Where are participants coming from? Existing customers. How deep does analysis need to be? Task completion and one qualitative question per flow. Who runs the tests? One designer, no dedicated researcher. The answers pointed clearly to a mid-market prototype testing tool. They switched, ran three studies in the following two weeks, and stopped paying for panel credits they had no use for.
+Download the [tool comparison worksheet](/downloads/unmoderated-tool-scorecard.csv). Leave untested cells blank instead of treating missing evidence as success.
 
-The cost of the mismatch was not just the subscription fee — it was the weeks of slow, effortful testing that produced less insight than a lighter tool would have delivered faster. Tool selection is a research infrastructure decision. Getting it right at the start is worth the two minutes those four questions require.
+| Dimension | Evidence to record | Decision rule |
+|---|---|---|
+| Capture reliability | Whether the relevant action and context can be reviewed | Required evidence must be inspectable |
+| Participant burden | Installation, permissions, confusion and avoidable drop-off | The intended audience can participate |
+| Task support | Your required flow and device combination | A missing essential capability is a blocker |
+| Interpretation | Agreement and disagreement between raw sessions and summaries | A researcher can verify important findings |
+| Recruitment | Actual feasibility for the specified criteria | A general panel size is not proof of specialist access |
+| Export and governance | Formats, access controls, retention and applicable agreement | Requirements are checked against the current service and contract |
+| Total cost | Seats, sessions, panel fees, incentives, setup and analysis time | Compare the same study scope and time period |
 
----
+Set weights before seeing the results, but treat mandatory requirements separately from weighted preferences. A low price cannot compensate for missing evidence or an unacceptable data arrangement.
 
-## Frequently asked questions
+## Match recruitment to the decision
 
-**What is the difference between moderated and unmoderated usability testing tools?**
+A general consumer panel may be useful for a broad consumer task. It does not establish access to people with a particular buying role, product configuration or professional workflow. For specialist studies, compare panel feasibility with [recruiting B2B participants](/blog/recruiting-b2b-interview-participants/) yourself.
 
-Moderated tools — Lookback in live mode, Zoom with screen sharing — need a facilitator present throughout the session. Unmoderated tools let participants complete scripted tasks independently, with screen, audio, and metrics captured automatically. Unmoderated is faster and cheaper to scale; moderated lets the researcher probe unexpected behaviour as it happens.
+Use the same [screener criteria](/blog/screener-survey-best-practices-ux-research/) across providers. Record exclusions and incomplete sessions so a clean-looking report does not conceal recruitment failures.
 
-**Is UserTesting worth the cost for small teams?**
+## Avoid a false price or capability ranking
 
-Rarely. UserTesting's core value is its large, well-filtered panel and enterprise-grade video analysis environment. Small teams that already have participant access and need prototype testing typically get equivalent results from Maze or Lyssna at considerably lower cost. Assess your participant source before evaluating the platform.
+This guide does not assert that one platform is cheapest, most accurate or best for every B2B team. Get a current quote for the same scope and verify required features in that plan. Document who checked each item and when.
 
-**Can I use unmoderated tools for B2B SaaS research?**
+If your study requires probing an unexpected behaviour, use [moderated research](/blog/remote-usability-testing-best-practices/) or combine methods. If you need the broader buying decision for AI functionality, use the [AI research tool framework](/blog/how-to-choose-ai-user-research-tools/).
 
-Yes, but panel availability for niche B2B personas is limited across most platforms. BYOP tools such as Lookback async or Maze work well when you already have customer access. Budget extra time for participant recruitment; specialist professional audiences are rarely covered by standard platform subscriptions.
-
-**How many participants do I need for an unmoderated usability test?**
-
-For qualitative task analysis, 5–8 participants per distinct user segment is a common starting point. For quantitative metrics — task completion rates, time-on-task — with meaningful statistical confidence, 30–50 participants are typically required. Match your sample size to whether you need qualitative insight or quantitative validation; they are different questions requiring different approaches.
-
-**What should I check before letting non-researchers run unmoderated tests independently?**
-
-Check task wording for leading language, confirm that scenarios reflect real user goals rather than feature names, and make sure someone with research experience reviews the study design before it launches. Unmoderated tools lower the barrier to running tests; they do not lower the barrier to designing them well. Poorly constructed tasks produce confident but misleading results quickly.
 <!-- gr:footer -->
 ---
 
-**About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between moderated and unmoderated usability testing tools?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Moderated tools (Lookback live, Zoom) require a facilitator present in real time. Unmoderated tools let participants complete scripted tasks independently, capturing screen, audio, and metrics automatically — faster and cheaper to run at scale, but with less ability to probe unexpected behaviour."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is UserTesting worth the cost for small teams?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rarely. UserTesting's value is its large panel and enterprise-grade video analysis. Small teams that bring their own participants and need prototype testing usually get equivalent results from Maze or Lyssna at a fraction of the cost. Evaluate against your participant source first."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use unmoderated tools for B2B SaaS research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but panel availability for niche B2B personas is limited on most platforms. BYOP tools like Lookback async or Maze work well when you already have customer access. Budget extra time for recruitment; specialist B2B panels are rarely included in standard subscriptions."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many participants do I need for an unmoderated usability test?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For qualitative task analysis, 5–8 participants per distinct user segment is a common starting point. For quantitative metrics (task completion rates, time-on-task) with statistical confidence, 30–50 participants are typically required. Match sample size to whether you need qual insight or quant validation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What should I check before letting non-researchers run unmoderated tests independently?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Check task wording for leading language, ensure scenarios reflect real user goals not feature names, and confirm someone with research experience reviews the study design before launch. Without guardrails, unmoderated tools can generate confident but misleading results quickly."
-      }
-    }
-  ]
-}
-</script>
+Glasgow Research helps B2B SaaS teams turn research into product decisions. [Discuss your study](/services/).

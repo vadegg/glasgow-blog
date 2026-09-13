@@ -1,8 +1,8 @@
 ---
 title: "Communicating Research Findings to Stakeholders"
-description: "Learn how to structure and deliver research readouts that drive real decisions — matching format, depth, and framing to what each stakeholder actually needs to"
+description: "Turn research findings into decisions stakeholders can use. Structure the evidence, explain limitations and make ownership and next steps explicit."
 pubDate: 2026-06-10
-updatedDate: 2026-09-12T12:14:54.663Z
+updatedDate: 2026-09-13T14:40:01.580Z
 readingTime: 11
 slug: "communicating-research-findings-to-stakeholders"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "sharing user research results"
   - "research readout best practices"
   - "presenting qualitative findings"
+hub: "insight-to-impact"
 ---
 ## Why Research Readouts Get Filed Away (and How to Stop It)
 

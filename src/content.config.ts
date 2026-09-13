@@ -10,6 +10,7 @@ const blog = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
   schema: z.object({
     slug: z.string(),
+    hub: z.enum(['product-research', 'ux-research-methods', 'research-operations', 'insight-to-impact', 'product-discovery']).default('product-research'),
     title: z.string(),
     description: z
       .string()

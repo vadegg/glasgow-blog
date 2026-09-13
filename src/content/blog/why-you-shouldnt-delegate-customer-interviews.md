@@ -4,7 +4,7 @@ readingTime: 8
 title: "Why You Shouldn't Delegate Customer Interviews to Non-Researchers"
 description: "Learn why delegating customer interviews to non-researchers often creates biased evidence, false confidence, and weaker product decisions in practice."
 pubDate: 2026-03-19T21:35:00Z
-updatedDate: 2026-09-12T12:14:57.693Z
+updatedDate: 2026-09-13T14:40:01.569Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
@@ -15,6 +15,7 @@ tags:
   - user research
   - product research
   - founder interviews
+hub: "product-discovery"
 ---
 ## Qualitative research is not just a list of questions
 

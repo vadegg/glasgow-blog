@@ -1,8 +1,8 @@
 ---
 title: "B2B Customer Journey Mapping Research: A Practitioner Guide"
-description: "Learn how to research and build a B2B customer journey map when multiple stakeholders are involved, decisions span months, and no single person owns the full"
+description: "Build a B2B customer journey map from research with the people involved. Track buying roles, handoffs, evidence gaps and decisions across the journey."
 pubDate: 2026-07-10
-updatedDate: 2026-09-12T12:14:55.440Z
+updatedDate: 2026-09-13T14:40:01.569Z
 readingTime: 12
 slug: "b2b-customer-journey-mapping-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "b2b journey map research methods"
   - "multi-stakeholder journey mapping"
   - "b2b buying journey research"
+hub: "product-research"
 ---
 ## Why B2B journey mapping is a research problem first
 

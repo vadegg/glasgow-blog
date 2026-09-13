@@ -1,8 +1,8 @@
 ---
 title: "How to Write a UX Research Report That Drives Action"
-description: "Learn how to write a UX research report that persuades, not just informs. A practitioner guide covering structure, decisions, and the failure modes that kill"
+description: "Write a UX research report that connects evidence to a product decision. Structure findings, limitations, recommendations and next steps for the audience."
 pubDate: 2026-07-08
-updatedDate: 2026-09-12T12:14:55.376Z
+updatedDate: 2026-09-13T14:40:01.574Z
 readingTime: 13
 slug: "how-to-write-a-ux-research-report"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "UX research deliverables"
   - "research report structure"
   - "how to present UX research findings"
+hub: "insight-to-impact"
 ---
 ## A UX Research Report Is a Persuasion Document, Not a Data Dump
 

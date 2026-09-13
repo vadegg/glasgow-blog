@@ -2,7 +2,7 @@
 title: "How to Run a Cognitive Walkthrough: Step-by-Step Guide"
 description: "Learn how to run a cognitive walkthrough, identify where users may struggle and turn task-level findings into clear, prioritised UX improvements. Read on."
 pubDate: 2026-09-09
-updatedDate: 2026-09-12T12:14:56.836Z
+updatedDate: 2026-09-13T14:40:01.578Z
 readingTime: 11
 slug: "how-to-run-a-cognitive-walkthrough"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "cognitive walkthrough steps"
   - "cognitive walkthrough example"
   - "cognitive walkthrough vs usability testing"
+hub: "ux-research-methods"
 ---
 ## What is a cognitive walkthrough?
 
@@ -159,45 +160,3 @@ Pick one high-risk task. Write a realistic scenario and prepare a shared workshe
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many evaluators do you need for a cognitive walkthrough?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Explain that one evaluator can uncover issues, while two to five people usually provide broader perspectives; prioritise relevant product, UX and domain knowledge over a large panel."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do cognitive walkthroughs require users?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Evaluators inspect the task from a defined user's perspective, but predictions should be validated with representative users when decisions are high risk or uncertain."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does a cognitive walkthrough take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Give a practical range from roughly one hour for a short, prepared flow to several hours for independent reviews and consolidation; scope and task complexity are the main variables."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between a cognitive walkthrough and a heuristic evaluation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A cognitive walkthrough follows a specific task and concentrates on learnability, whereas a heuristic evaluation checks a broader interface against established usability principles."
-      }
-    }
-  ]
-}
-</script>

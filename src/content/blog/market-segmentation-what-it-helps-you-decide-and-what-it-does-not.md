@@ -4,7 +4,7 @@ readingTime: 12
 title: 'Market Segmentation: What It Helps You Decide and What It Does Not'
 description: "Learn what market segmentation actually helps you decide in B2B SaaS, where it falls short, and why validation still has to guide GTM changes right now."
 pubDate: '2026-05-05T09:01:04.461Z'
-updatedDate: 2026-09-12T12:14:57.458Z
+updatedDate: 2026-09-13T14:40:01.577Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research
@@ -14,6 +14,7 @@ tags:
   - GTM strategy
   - customer validation
   - product-market fit
+hub: "product-research"
 ---
 ## What Market Segmentation Helps You Decide
 

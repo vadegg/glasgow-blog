@@ -1,8 +1,8 @@
 ---
 title: "Conjoint Analysis for Feature Prioritisation & Pricing"
-description: "A practitioner guide to designing, running, and interpreting a conjoint study for feature and pricing decisions — plus when conjoint beats MaxDiff or Van"
+description: "Plan a conjoint study for feature and pricing tradeoffs. Define attributes, design choice tasks and interpret results in relation to the sample and study assumptions."
 pubDate: 2026-09-08
-updatedDate: 2026-09-12T12:14:56.799Z
+updatedDate: 2026-09-13T14:40:01.577Z
 readingTime: 11
 slug: "conjoint-analysis-feature-prioritisation-pricing"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "choice-based conjoint study"
   - "conjoint analysis vs MaxDiff"
   - "how to run a conjoint analysis"
+hub: "product-discovery"
 ---
 ## What conjoint analysis actually measures (and what it doesn't)
 
@@ -75,7 +76,7 @@ Consumer conjoint studies typically want 300–500 respondents for stable segmen
 
 Sample size and task count trade off against each other. More respondents reduce sampling error; more choice tasks per respondent reduce measurement error. In practice, 8–15 tasks per respondent is the usable range — fewer and you don't have enough information, more and fatigue sets in, choices become inconsistent, and data quality drops regardless of how careful your design was.
 
-Recruit the people who actually decide, not just the people who use the product. In B2B, that means going beyond end users to the buying committee — the person who signs the invoice often values different things to the person using the dashboard daily. Take time to [map your B2B buying committee](https://blog.glasgow.works/blog/b2b-buyer-research-process) before recruiting, so your sample reflects who approves the purchase, not just who's easiest to reach.
+Recruit the people who actually decide, not just the people who use the product. In B2B, that means going beyond end users to the buying committee — the person who signs the invoice often values different things to the person using the dashboard daily. Take time to [map your B2B buying committee](https://blog.glasgow.works/blog/b2b-buyer-research-methods) before recruiting, so your sample reflects who approves the purchase, not just who's easiest to reach.
 
 Pilot the survey with five to ten respondents before full field. A pilot catches confusing wording, unrealistic profile combinations, and tasks that take too long — problems far cheaper to fix before you've fielded 300 completes than after.
 

@@ -2,7 +2,7 @@
 title: "How B2B Buyers Use AI to Research & Shortlist Vendors"
 description: "Half of B2B buyers now start vendor research in AI chatbots. See how AI-mediated shortlisting works — and how to update your win-loss, VoC and buyer research."
 pubDate: 2026-08-01
-updatedDate: 2026-09-12T12:14:56.151Z
+updatedDate: 2026-09-13T14:40:01.579Z
 readingTime: 11
 slug: "how-b2b-buyers-use-ai-to-research-vendors"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "ChatGPT B2B buyer research"
   - "AI-mediated buying journey"
   - "win-loss analysis AI buying"
+hub: "product-research"
 ---
 ## How the AI-mediated buying journey actually works
 

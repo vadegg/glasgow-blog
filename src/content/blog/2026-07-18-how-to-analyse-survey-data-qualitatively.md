@@ -1,8 +1,8 @@
 ---
 title: "How to Analyse Survey Data Qualitatively"
-description: "A step-by-step practitioner guide to analysing open-ended survey responses — covering cleaning, coding, theme development, and integrating findings with"
+description: "Analyse open-ended survey responses with a documented coding approach. Handle ambiguous answers, compare segments and report patterns with their limits."
 pubDate: 2026-07-18
-updatedDate: 2026-09-12T12:14:55.720Z
+updatedDate: 2026-09-13T14:40:01.579Z
 readingTime: 12
 slug: "how-to-analyse-survey-data-qualitatively"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "analysing open-ended survey responses"
   - "survey open-ends analysis"
   - "thematic analysis of survey data"
+hub: "insight-to-impact"
 ---
 ## Why Open-Ended Survey Responses Deserve a Qualitative Workflow
 

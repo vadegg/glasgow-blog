@@ -1,8 +1,8 @@
 ---
 title: "Inclusive UX Research Methods: Stop Excluding Participants"
-description: "Learn how to adapt recruitment, session design, and analysis so your UX research studies don't structurally exclude disabled, neurodivergent, or underrepresente"
+description: "Adapt recruitment, session design and analysis to include people with varied access needs. Identify barriers that could exclude relevant research participants."
 pubDate: 2026-07-09
-updatedDate: 2026-09-12T12:14:55.409Z
+updatedDate: 2026-09-13T14:40:01.570Z
 readingTime: 13
 slug: "inclusive-ux-research-methods"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "recruiting disabled participants for UX research"
   - "inclusive research design"
   - "researching with assistive technology users"
+hub: "ux-research-methods"
 ---
 ## Why Most UX Research Studies Have an Exclusion Problem
 
@@ -159,45 +160,3 @@ No. Anonymise participant context in the same way you would any other sensitive 
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do inclusive UX research studies cost significantly more to run?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Marginal cost increase comes mainly from sourcing and screener iteration. Specialist panels charge more per participant, but session counts don't need to rise. Most structural changes (plain-language scripts, flexible timing, caption-enabled platforms) are one-time setup costs that benefit all future studies."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many participants with disabilities should I include in a usability study?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "There's no universal rule, but a practical starting point is to ensure AT users or participants with relevant access needs make up a meaningful minority — not a token one. For a 5–8 person study, aim for at least 2 participants whose experience is likely to surface accessibility barriers. Adjust based on what the product does and who it's for."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if a participant's assistive technology breaks or causes a session to fail?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Treat it like any other technical failure: reschedule, pay the participant their full incentive, and investigate whether the prototype or platform is the barrier. A session 'failure' caused by AT incompatibility is itself a finding worth reporting."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should I disclose to the rest of the team which participants have disabilities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Anonymise participant context in the same way you would any other sensitive demographic. Share relevant context (e.g. 'P3 uses a screen reader and keyboard-only navigation') only when directly relevant to interpreting findings, and only in ways participants consented to."
-      }
-    }
-  ]
-}
-</script>

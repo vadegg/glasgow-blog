@@ -2,7 +2,7 @@
 title: "AI-Moderated vs Human-Moderated Research: The Decision Rule"
 description: "AI-moderated interviews vs human-moderated research: a study-type decision rule, the failure modes to watch, and a transcript QA checklist that proves evidence."
 pubDate: 2026-07-23
-updatedDate: 2026-09-12T12:14:55.947Z
+updatedDate: 2026-09-13T14:40:01.577Z
 readingTime: 10
 slug: "ai-moderated-vs-human-moderated-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "AI interview moderator limitations"
   - "when to use a human moderator"
   - "AI-moderated research tools comparison"
+hub: "ux-research-methods"
 ---
 ## The real question isn't quality — it's who decides what happens next
 

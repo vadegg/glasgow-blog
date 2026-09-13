@@ -1,8 +1,8 @@
 ---
 title: "Service Blueprint UX Research: A Practitioner's Guide"
-description: "Learn how to run service blueprinting as a UX research method — when to use it over journey mapping, how to facilitate sessions, and how to read the frontstage/"
+description: "Build a service blueprint from research into customer actions, frontstage interactions and backstage work. Identify handoffs and the evidence behind proposed changes."
 pubDate: 2026-07-16
-updatedDate: 2026-09-12T12:14:55.658Z
+updatedDate: 2026-09-13T14:40:01.580Z
 readingTime: 12
 slug: "service-blueprint-ux-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "service blueprinting methodology"
   - "service blueprint vs journey map"
   - "frontstage backstage service design"
+hub: "ux-research-methods"
 ---
 ## What Is a Service Blueprint (and Why Researchers Use It)
 

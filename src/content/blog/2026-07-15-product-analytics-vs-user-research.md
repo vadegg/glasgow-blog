@@ -1,8 +1,8 @@
 ---
 title: "Product Analytics vs User Research: Which Do You Need?"
-description: "Analytics tells you what users do; research tells you why. Learn how to choose between product analytics and user research — with a practical decision matrix"
+description: "Choose between product analytics and user research for a product question. Compare behavioural measurement with evidence about context, motivations and experience."
 pubDate: 2026-07-15
-updatedDate: 2026-09-12T12:14:55.624Z
+updatedDate: 2026-09-13T14:40:01.579Z
 readingTime: 11
 slug: "product-analytics-vs-user-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "when to use product analytics"
   - "user research vs data analytics"
   - "quantitative vs qualitative product research"
+hub: "insight-to-impact"
 ---
 ## The core difference: what vs why
 

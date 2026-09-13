@@ -1,8 +1,8 @@
 ---
 title: "Synthetic Users in UX Research: Help or Mislead?"
-description: "Synthetic users in UX research can speed up discovery or quietly mislead you. Learn when AI participants help, their failure modes, and a hybrid validation"
+description: "Evaluate synthetic users in UX research: possible uses, misleading outputs and validation steps. Distinguish generated scenarios from evidence about real people."
 pubDate: 2026-08-28
-updatedDate: 2026-09-12T12:14:56.342Z
+updatedDate: 2026-09-13T14:40:01.571Z
 readingTime: 10
 slug: "synthetic-users-ux-research"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "synthetic user testing"
   - "when to use synthetic users"
   - "validating synthetic user research with real people"
+hub: "product-research"
 ---
 ## What are synthetic users (and what they're not)?
 

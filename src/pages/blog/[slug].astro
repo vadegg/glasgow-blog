@@ -2,19 +2,27 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { getAuthor, ORGANIZATION, SITE } from '../../data/site';
+import TopicArticles from '../../components/TopicArticles.astro';
+import { getTopic } from '../../data/topics';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
   return posts.map((post) => ({
     params: { slug: post.data.slug },
-    props: { post }
+    props: { post, modified: new Date(Math.max(
+      (post.data.updatedDate ?? post.data.pubDate).valueOf(),
+      ...posts.filter((child) => child.data.hub === post.data.slug)
+        .map((child) => (child.data.updatedDate ?? child.data.pubDate).valueOf())
+    )) }
   }));
 }
 
-const { post } = Astro.props;
+const { post, modified } = Astro.props;
 const { Content, headings } = await render(post);
 const tableOfContents = headings.filter((heading) => heading.depth === 2);
 const author = getAuthor(post.data.authorSlug);
+const topic = getTopic(post.data.hub);
+const isHub = Boolean(getTopic(post.data.slug));
 const postUrl = `${SITE.url}/blog/${post.data.slug}/`;
 const publishedLabel = new Intl.DateTimeFormat('en', { dateStyle: 'long' }).format(post.data.pubDate);
 const structuredData = [
@@ -50,7 +58,7 @@ const structuredData = [
     headline: post.data.title,
     description: post.data.description,
     datePublished: post.data.pubDate.toISOString(),
-    ...(post.data.updatedDate ? { dateModified: post.data.updatedDate.toISOString() } : {}),
+    dateModified: modified.toISOString(),
     articleSection: post.data.category,
     keywords: post.data.tags.join(', '),
     mainEntityOfPage: postUrl,
@@ -78,7 +86,7 @@ const structuredData = [
 ---
 
 <BaseLayout
-  title={`${post.data.title} | ${SITE.name}`}
+  title={post.data.title}
   description={post.data.description}
   type="article"
   structuredData={structuredData}
@@ -86,7 +94,8 @@ const structuredData = [
   <main class="shell page-wrap">
     <article class="card hero-card" style="max-width: 900px; margin: 0 auto;">
       <p class="eyebrow">
-        <a href="/blog/" style="text-decoration: none;">Blog</a> / {post.data.category}
+        <a href="/blog/" style="text-decoration: none;">Blog</a>
+        {topic && !isHub && <> / <a href={`/blog/${topic.slug}/`}>{topic.title}</a></>}
       </p>
       <h1 class="section-title" style="margin: 12px 0 18px;">
         {post.data.title}
@@ -96,6 +105,9 @@ const structuredData = [
           By <a href={`/authors/${post.data.authorSlug}/`}>{post.data.author}</a>
         </span>
         <span>{publishedLabel}</span>
+        {modified > post.data.pubDate && (
+          <span>Updated {new Intl.DateTimeFormat('en', { dateStyle: 'medium' }).format(modified)}</span>
+        )}
         {post.data.readingTime && <span>{post.data.readingTime} min read</span>}
       </div>
       <p class="lede muted" style="margin-bottom: 28px;">{post.data.description}</p>
@@ -112,6 +124,7 @@ const structuredData = [
       <div class="prose">
         <Content />
       </div>
+      {isHub && <TopicArticles slug={post.data.slug} />}
       <section class="panel" style="margin-top: 34px;">
         <p class="eyebrow">Author</p>
         <h2 style="margin: 12px 0 10px;">About {author?.name ?? post.data.author}</h2>

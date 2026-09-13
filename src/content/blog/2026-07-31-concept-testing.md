@@ -1,8 +1,8 @@
 ---
 title: "Concept Testing: Run a Test That Yields a Decision"
-description: "Learn how to run a concept test that produces a defensible go, refine, or kill decision — survey design, methods, sample sizing, and guards against false"
+description: "Plan a concept test with clear questions and decision criteria. Compare methods, recruit relevant participants and interpret interest without overstating demand."
 pubDate: 2026-07-31
-updatedDate: 2026-09-12T12:14:56.118Z
+updatedDate: 2026-09-13T14:40:01.570Z
 readingTime: 11
 slug: "concept-testing"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "product concept testing"
   - "concept test survey"
   - "validate a product concept"
+hub: "product-discovery"
 ---
 ## What concept testing is — and what it can't tell you
 

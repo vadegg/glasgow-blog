@@ -1,7 +1,10 @@
-import { readFileSync, readdirSync, statSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
 import { basename, extname } from 'node:path';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import { satteri } from '@astrojs/markdown-satteri';
+import scrollableTables from './src/lib/scrollable-tables.mjs';
 
 const projectRoot = new URL('./', import.meta.url);
 const blogContentDir = new URL('./src/content/blog/', projectRoot);
@@ -30,11 +33,21 @@ function latestDate(...dates) {
 }
 
 function readFileDate(relativePath) {
-  return statSync(new URL(relativePath, projectRoot)).mtime;
+  // Checkout/build timestamps do not describe an edit to the published page.
+  try {
+    const value = execFileSync('git', ['log', '-1', '--format=%cI', '--', relativePath], {
+      cwd: projectRoot, encoding: 'utf8'
+    }).trim();
+    const date = new Date(value);
+    return Number.isNaN(date.valueOf()) ? undefined : date;
+  } catch {
+    return undefined; // Omit lastmod when provenance is unavailable.
+  }
 }
 
 function buildLastModLookup() {
   const lastModByPath = new Map();
+  const topicUpdates = new Map();
   let latestBlogUpdate;
 
   for (const entry of readdirSync(blogContentDir)) {
@@ -54,20 +67,19 @@ function buildLastModLookup() {
     }
 
     lastModByPath.set(`/blog/${slug}/`, lastmod);
+    const hub = extractFrontmatterValue(frontmatter, 'hub');
+    if (hub) topicUpdates.set(hub, latestDate(topicUpdates.get(hub), lastmod));
     latestBlogUpdate = latestDate(latestBlogUpdate, lastmod);
   }
 
-  const latestSiteUpdate = latestDate(
-    latestBlogUpdate,
-    readFileDate('./src/pages/about.astro'),
-    readFileDate('./src/content/legal/cookie-policy.html'),
-    readFileDate('./src/content/legal/privacy-policy.html')
-  );
-
   if (latestBlogUpdate) {
-    lastModByPath.set('/', latestBlogUpdate);
-    lastModByPath.set('/blog/', latestBlogUpdate);
-    lastModByPath.set('/authors/vadim/', latestBlogUpdate);
+    lastModByPath.set('/', latestDate(latestBlogUpdate, readFileDate('./src/pages/index.astro')));
+    lastModByPath.set('/blog/', latestDate(latestBlogUpdate, readFileDate('./src/pages/blog/index.astro')));
+    lastModByPath.set('/authors/vadim/', latestDate(latestBlogUpdate, readFileDate('./src/data/site.ts')));
+  }
+  for (const [hub, date] of topicUpdates) {
+    const path = `/blog/${hub}/`;
+    lastModByPath.set(path, latestDate(lastModByPath.get(path), date));
   }
 
   lastModByPath.set('/about/', readFileDate('./src/pages/about.astro'));
@@ -80,23 +92,26 @@ function buildLastModLookup() {
     readFileDate('./src/content/legal/privacy-policy.html')
   ));
 
-  return { lastModByPath, latestSiteUpdate };
+  for (const slug of ['services', 'contact']) {
+    lastModByPath.set(`/${slug}/`, readFileDate(`./src/pages/${slug}.astro`));
+  }
+  return lastModByPath;
 }
 
-const { lastModByPath, latestSiteUpdate } = buildLastModLookup();
+const lastModByPath = buildLastModLookup();
 
 export default defineConfig({
   site: 'https://blog.glasgow.works',
   // Preserve spaces between inline elements across the Astro 7 migration.
   compressHTML: true,
+  markdown: { processor: satteri({ hastPlugins: [scrollableTables] }) },
   integrations: [
     sitemap({
-      lastmod: latestSiteUpdate,
       serialize(item) {
         const pathname = new URL(item.url).pathname;
         return {
           ...item,
-          lastmod: lastModByPath.get(pathname) ?? item.lastmod
+          lastmod: lastModByPath.get(pathname)
         };
       }
     })

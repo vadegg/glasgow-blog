@@ -1,8 +1,8 @@
 ---
 title: "Research Democratization: Risks and How to Do It Right"
-description: "Democratizing user research speeds up decisions but quietly degrades insight quality. Learn the specific failure modes and the guardrails that make it work"
+description: "Set practical guardrails for research led by product managers and designers. Clarify training, recruitment, consent, analysis and review responsibilities."
 pubDate: 2026-07-05
-updatedDate: 2026-09-12T12:14:55.262Z
+updatedDate: 2026-09-13T14:40:01.570Z
 readingTime: 11
 slug: "research-democratization-risks-and-how-to-do-it-right"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "democratizing user research"
   - "research quality guardrails"
   - "non-researcher conducting research"
+hub: "research-operations"
 ---
 ## What Research Democratization Actually Means (and What It Doesn't)
 

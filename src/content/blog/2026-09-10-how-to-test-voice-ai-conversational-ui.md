@@ -2,7 +2,7 @@
 title: "How to Test Voice AI and Conversational UI"
 description: "Learn how to test voice AI and conversational UI with a practical framework for recognition, turn-taking, recovery, latency, trust and accessibility. Read on."
 pubDate: 2026-09-10
-updatedDate: 2026-09-12T12:14:56.892Z
+updatedDate: 2026-09-13T14:40:01.577Z
 readingTime: 9
 slug: "how-to-test-voice-ai-conversational-ui"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "conversational UI usability testing"
   - "voice assistant usability testing"
   - "VUI testing methods"
+hub: "ux-research-methods"
 ---
 ## Why Voice AI Needs a Different Testing Approach
 
@@ -145,45 +146,3 @@ QA checks whether the system performs as specified. Usability research checks wh
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many participants do you need to test a voice interface?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Explain that sample size depends on user diversity and risk; recommend small iterative rounds while deliberately covering relevant accents, environments and access needs instead of claiming one universal number."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can you test voice AI before the system is fully built?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Describe Wizard-of-Oz and lightweight voice prototypes for testing discoverability, wording, turn-taking and recovery before production speech and model components are complete."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should voice assistant usability testing happen in a lab?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Recommend controlled testing for diagnosis plus realistic remote or field conditions for noise, device, privacy and connectivity effects."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between voice AI QA and usability testing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Contrast repeatable checks of system correctness and reliability with observation of whether representative users can understand, control, trust and recover from the interaction."
-      }
-    }
-  ]
-}
-</script>

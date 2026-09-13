@@ -2,7 +2,7 @@
 title: "How to Run a Customer Segmentation Research Study"
 description: "Learn how to run a customer segmentation research study: frame the decision, design the survey, run cluster analysis, and ship segments teams can act on."
 pubDate: 2026-09-03
-updatedDate: 2026-09-12T12:14:56.577Z
+updatedDate: 2026-09-13T14:40:01.576Z
 readingTime: 13
 slug: "how-to-run-a-customer-segmentation-research-study"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "needs-based segmentation"
   - "segmentation survey design"
   - "how to build customer segments from research"
+hub: "product-research"
 ---
 ## What a segmentation study delivers (and when to run one)
 

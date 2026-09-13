@@ -1,8 +1,8 @@
 ---
 title: "Jobs-to-Be-Done Interviews for B2B SaaS: Complete Guide"
-description: "A practical guide to jobs-to-be-done interviews for B2B SaaS: how JTBD differs from ordinary customer interviews, how to run the switch interview, and the B2B"
+description: "Plan jobs-to-be-done interviews for B2B SaaS. Reconstruct a recent decision, explore switching forces and distinguish buying roles from day-to-day product use."
 pubDate: 2026-05-19
-updatedDate: 2026-09-12T12:14:54.262Z
+updatedDate: 2026-09-13T14:40:01.578Z
 readingTime: 15
 slug: "jtbd-interviews-b2b-saas"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "switch interview"
   - "jtbd vs customer interviews"
   - "b2b jtbd mistakes"
+hub: "product-discovery"
 ---
 ## What Jobs-to-Be-Done Interviews Actually Are
 
@@ -78,7 +79,7 @@ The most important single probing technique is the phrase: *"Walk me back to the
 
 In B2B SaaS, you need to map the organisational dimension explicitly. During the session, ask: who first raised the need? Who ran the evaluation? Who had final sign-off? Each person may have had a different job, a different push, and a different anxiety. If you only speak to the end user, you will reconstruct only part of the decision.
 
-For session logistics: allow **60–75 minutes** per interview. Shorter sessions rarely give you time to excavate the full timeline. Aim for **6–10 participants** who are recent buyers or recent switchers — ideally within the last 3–6 months, while the decision is still vivid. Recruiting the right participants is one of the most common failure points; our guide on [recruiting B2B interview participants](/blog/how-to-recruit-b2b-interview-participants) covers the practicalities.
+For session logistics: allow **60–75 minutes** per interview. Shorter sessions rarely give you time to excavate the full timeline. Aim for **6–10 participants** who are recent buyers or recent switchers — ideally within the last 3–6 months, while the decision is still vivid. Recruiting the right participants is one of the most common failure points; our guide on [recruiting B2B interview participants](/blog/recruiting-b2b-interview-participants) covers the practicalities.
 
 ---
 

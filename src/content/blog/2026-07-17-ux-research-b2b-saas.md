@@ -1,8 +1,8 @@
 ---
 title: "UX Research for B2B SaaS: Methods That Actually Work"
-description: "B2B SaaS UX research demands different methods, participants, and success metrics than consumer research. Learn how to adapt your practice and get better"
+description: "Plan UX research for B2B SaaS workflows, users and buying roles. Match the method and participant profile to the product decision you need to inform."
 pubDate: 2026-07-17
-updatedDate: 2026-09-12T12:14:55.689Z
+updatedDate: 2026-09-13T14:40:01.570Z
 readingTime: 11
 slug: "ux-research-b2b-saas"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "UX research enterprise software"
   - "user research for SaaS products"
   - "B2B UX research methods"
+hub: "product-research"
 ---
 ## Why B2B SaaS UX research is fundamentally different
 

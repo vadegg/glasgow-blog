@@ -2,7 +2,7 @@
 title: "Voice of Customer Program for B2B SaaS: A Framework"
 description: "Build a voice of customer program for B2B SaaS as research ops, not a tool checklist: sampling logic, listening cadence, synthesis, and governance. Read on."
 pubDate: 2026-07-22
-updatedDate: 2026-09-12T12:14:55.902Z
+updatedDate: 2026-09-13T14:40:01.580Z
 readingTime: 13
 slug: "voice-of-customer-program-b2b-saas"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "voice of customer methodology"
   - "how to build a VoC program"
   - "customer feedback program B2B"
+hub: "product-research"
 ---
 ## What 'voice of customer' actually means for B2B SaaS (and why tool-first programmes fail)
 
@@ -124,53 +125,3 @@ Win-loss and churn studies are point-in-time, event-triggered projects — you r
 ---
 
 **About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is a voice of customer program different from an NPS program?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "NPS is one input metric/channel; VoC is the full research-ops system (sampling, cadence, synthesis, governance) that turns NPS and other signals into decisions."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How often should a B2B SaaS company run VoC research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Blend continuous low-effort listening (in-product, support) with scheduled deep-dive cadences tied to lifecycle events, plus trigger-based outreach for at-risk accounts."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's a good sample size or coverage target for a B2B VoC program?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Favor revenue/account coverage thresholds and segment quotas over raw response counts, since B2B feedback is low-n and stakeholder-weighted, not high-volume."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Who should own the VoC program — product, CS, or research ops?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Any can own it, but there must be one accountable driver coordinating input from all three; describe common models and how to choose based on org maturity."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does VoC differ from win-loss or churn research?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Win-loss and churn are point-in-time, event-triggered studies; VoC is the ongoing system that also ingests and synthesizes those studies alongside continuous feedback."
-      }
-    }
-  ]
-}
-</script>

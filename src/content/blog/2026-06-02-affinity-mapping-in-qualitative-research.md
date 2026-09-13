@@ -1,8 +1,8 @@
 ---
 title: "Affinity Mapping in Qualitative Research: Step-by-Step"
-description: "Learn how to run affinity mapping in qualitative research — from raw interview notes to structured insights. A practical step-by-step guide for UX and product"
+description: "Organise interview observations with affinity mapping. Learn how to prepare notes, cluster evidence and turn the resulting structure into research findings."
 pubDate: 2026-06-02
-updatedDate: 2026-09-12T12:14:54.436Z
+updatedDate: 2026-09-13T14:40:01.567Z
 slug: "affinity-mapping-in-qualitative-research"
 readingTime: 12
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "how to do affinity mapping"
   - "affinity mapping workshop"
   - "qualitative data synthesis"
+hub: "insight-to-impact"
 ---
 ## What Is Affinity Mapping?
 
@@ -151,45 +152,3 @@ The terms are used interchangeably in UX and product research. "Affinity diagram
 **How do I know when my affinity map is finished?**
 
 The map is stable when three conditions are met: moving any remaining ungrouped notes does not change the meaning of existing clusters; every cluster has a clear, single-sentence label that the whole team agrees on; and the hierarchy reflects what the data shows rather than assumptions the team brought into the room. If the team is still debating whether a note belongs in one cluster or another, the label for at least one of those clusters probably needs refining.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many participants do you need before affinity mapping is useful?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Affinity mapping adds value from as few as 3–5 participants. With fewer sessions you may have too few notes for meaningful clustering; with more than 15–20 you risk note overload — consider splitting into sub-groups or running multiple passes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can affinity mapping be done asynchronously?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in digital tools like Miro or FigJam. Each team member adds notes independently, then a synchronous session handles sorting and labelling. Full async clustering is possible but risks losing the debate and challenge step that improves cluster quality."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between an affinity map and an affinity diagram?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The terms are used interchangeably in UX research. 'Affinity diagram' is the original KJ-method artefact; 'affinity map' is the more common contemporary label in product and design contexts. The process and output are identical."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I know when my affinity map is finished?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The map is stable when moving any remaining ungrouped notes doesn't change the meaning of existing clusters, every cluster has a clear single-sentence label, and the team agrees the hierarchy reflects the data rather than prior assumptions."
-      }
-    }
-  ]
-}
-</script>

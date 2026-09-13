@@ -1,8 +1,8 @@
 ---
 title: "Survey Design Best Practices for UX Research"
-description: "Write UX surveys that generate reliable, actionable data. Learn question types, ordering effects, scale design, and bias prevention grounded in product"
+description: "Design UX survey questions, response scales and question order around a research goal. Review common sources of bias before distributing the survey."
 pubDate: 2026-06-20
-updatedDate: 2026-09-12T12:14:54.715Z
+updatedDate: 2026-09-13T14:40:01.572Z
 readingTime: 14
 slug: "survey-design-best-practices-ux"
 author: "Vadim Glazkov"
@@ -16,6 +16,7 @@ tags:
   - "questionnaire design user research"
   - "survey bias ux research"
   - "how to design a ux survey"
+hub: "ux-research-methods"
 ---
 ## Why Survey Design Is a Product Research Decision
 
