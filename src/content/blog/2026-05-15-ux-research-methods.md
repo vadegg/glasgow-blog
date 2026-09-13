@@ -2,7 +2,7 @@
 title: "UX Research Methods: Choose a Study for Your Decision"
 description: "Choose UX research methods by the decision you need to make. Compare interviews, usability testing, surveys and field research, with a worked study plan."
 pubDate: 2026-05-15
-updatedDate: 2026-09-13T14:51:55.737Z
+updatedDate: 2026-09-13T14:54:20Z
 readingTime: 3
 slug: "ux-research-methods"
 author: "Vadim Glazkov"
