@@ -2,7 +2,7 @@
 title: "How to Conduct User Interviews: A Practical Guide"
 description: "Plan and conduct user interviews with a focused discussion guide and neutral prompts. Explore recent experiences, probe for detail and prepare for analysis."
 pubDate: 2026-05-21
-updatedDate: 2026-09-13T14:51:29Z
+updatedDate: 2026-09-13T14:56:32.499Z
 slug: "how-to-conduct-user-interviews"
 readingTime: 13
 author: "Vadim Glazkov"
@@ -47,6 +47,8 @@ Build time into your plan for synthesis between sessions. Rushing from one inter
 ---
 
 ## How to write a discussion guide that actually works
+
+Use the [discussion guide structure](/blog/how-to-write-discussion-guide-user-interviews/) to connect each research question to a neutral opening prompt and useful follow-ups.
 
 A discussion guide is not a script. It is a structured scaffold that keeps your sessions comparable across participants without preventing the facilitator from following a genuinely interesting thread. Think of it as a map, not a set of train tracks.
 
@@ -161,6 +163,7 @@ A discussion guide is a structured but flexible document that outlines the topic
 
 ### How long should a user interview be?
 
+Choose a duration that fits the topics, participant availability and any access needs. Pilot the guide with enough time for introductions, consent and closing questions; then narrow the scope if it feels rushed. Tell participants the expected duration before they agree to take part.
 
 ### Should I record user interviews?
 
