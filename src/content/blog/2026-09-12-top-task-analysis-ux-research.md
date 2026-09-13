@@ -2,12 +2,13 @@
 title: "Top Task Analysis in UX Research: A Practical Guide"
 description: "Learn to build a reliable task list, run and score a top tasks survey, and turn the evidence into clearer content, navigation and product priorities. Read on."
 pubDate: 2026-09-12
-updatedDate: 2026-09-12
+updatedDate: 2026-09-13T14:51:55.737Z
 readingTime: 9
 slug: "top-task-analysis-ux-research"
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"
+hub: "ux-research-methods"
 draft: false
 heroImageAlt: "Researcher scoring ranked user tasks during a top task analysis UX research study"
 tags:

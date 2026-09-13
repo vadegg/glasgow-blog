@@ -6,7 +6,7 @@ description: >-
   Explore practical AI tools for quantitative research in surveys, open-ended analysis, and platforms. Learn when quant
   should follow qual for better insights.
 pubDate: '2026-05-13T09:01:20.899Z'
-updatedDate: 2026-09-13T14:40:01.570Z
+updatedDate: 2026-09-13T14:51:29Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research

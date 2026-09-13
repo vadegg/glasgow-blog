@@ -2,7 +2,7 @@
 title: "Research Debt in Product Teams: What It Is and How to Reduce It"
 description: "Identify product decisions built on untested or outdated assumptions. Use a research debt audit to prioritise evidence gaps and assign a review owner."
 pubDate: 2026-06-30
-updatedDate: 2026-09-13T14:40:01.593Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 9
 slug: "research-debt-in-product-teams"
 author: "Vadim Glazkov"

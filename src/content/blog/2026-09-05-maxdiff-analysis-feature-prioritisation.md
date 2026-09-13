@@ -2,7 +2,7 @@
 title: "MaxDiff Analysis for Feature Prioritisation Guide"
 description: "Design and analyse a MaxDiff study that actually prioritises features: item counts, set design, sample size, TURF and turning scores into roadmap decisions."
 pubDate: 2026-09-05
-updatedDate: 2026-09-13T14:40:01.573Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "maxdiff-analysis-feature-prioritisation"
 author: "Vadim Glazkov"

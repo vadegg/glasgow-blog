@@ -4,7 +4,7 @@ readingTime: 10
 title: "AI Tools for Qualitative Research: Interviews, Recruiting, and Synthesis"
 description: "Compare AI tools for qualitative research across recruiting, moderation, transcription, analysis, and synthesis while keeping human judgment in the loop."
 pubDate: 2026-03-27T21:34:11Z
-updatedDate: 2026-09-13T14:40:01.605Z
+updatedDate: 2026-09-13T14:51:29Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"

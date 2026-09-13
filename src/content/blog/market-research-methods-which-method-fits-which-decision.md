@@ -4,7 +4,7 @@ readingTime: 13
 title: "Market Research Methods: Which Method Fits Which Decision"
 description: "Match market research methods to the decision you need to make, with practical guidance on interviews, surveys, desk research, and research timing today."
 pubDate: "2026-05-04T08:52:38.050Z"
-updatedDate: 2026-09-13T14:40:01.572Z
+updatedDate: 2026-09-13T14:51:29Z
 author: "Vadim Glazkov"
 authorSlug: "vadim"
 category: "Research"

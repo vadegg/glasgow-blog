@@ -2,7 +2,7 @@
 title: "B2B Customer Journey Mapping Research: A Practitioner Guide"
 description: "Build a B2B customer journey map from research with the people involved. Track buying roles, handoffs, evidence gaps and decisions across the journey."
 pubDate: 2026-07-10
-updatedDate: 2026-09-13T14:40:01.569Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "b2b-customer-journey-mapping-research"
 author: "Vadim Glazkov"

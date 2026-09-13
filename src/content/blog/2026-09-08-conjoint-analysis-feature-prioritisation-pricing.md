@@ -2,7 +2,7 @@
 title: "Conjoint Analysis for Feature Prioritisation & Pricing"
 description: "Plan a conjoint study for feature and pricing tradeoffs. Define attributes, design choice tasks and interpret results in relation to the sample and study assumptions."
 pubDate: 2026-09-08
-updatedDate: 2026-09-13T14:40:01.577Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "conjoint-analysis-feature-prioritisation-pricing"
 author: "Vadim Glazkov"

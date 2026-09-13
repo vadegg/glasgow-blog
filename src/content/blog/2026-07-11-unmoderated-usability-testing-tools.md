@@ -2,7 +2,7 @@
 title: "Unmoderated Usability Testing Tools: A Selection Guide"
 description: "Compare unmoderated testing tools using verified product documentation and a repeatable pilot. Includes Maze, Lyssna, Lookback, UserTesting and Useberry."
 pubDate: 2026-07-11
-updatedDate: 2026-09-13T14:40:01.567Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 4
 slug: "unmoderated-usability-testing-tools"
 author: "Vadim Glazkov"

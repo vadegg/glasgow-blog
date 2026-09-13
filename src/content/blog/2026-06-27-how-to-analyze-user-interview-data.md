@@ -2,7 +2,7 @@
 title: "How to Analyze User Interview Data: Step-by-Step"
 description: "Analyse user interviews by linking extracts, codes and themes to a research question. Keep contradictory evidence visible and separate findings from decisions."
 pubDate: 2026-06-27
-updatedDate: 2026-09-13T14:40:01.575Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "how-to-analyze-user-interview-data"
 author: "Vadim Glazkov"

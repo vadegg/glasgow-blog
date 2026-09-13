@@ -2,7 +2,7 @@
 title: "Contextual Inquiry: How to Run It and What It Tells You"
 description: "Plan a contextual inquiry around real work. Prepare observation questions, manage interruptions and analyse the relationship between tasks, tools and environment."
 pubDate: 2026-07-03
-updatedDate: 2026-09-13T14:40:01.580Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "contextual-inquiry-user-research"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "Card Sorting in UX Research: How to Run It"
 description: "Plan an open or closed card sort, prepare the cards and examine how participants group them. Learn when to follow the study with a tree test."
 pubDate: 2026-06-04
-updatedDate: 2026-09-13T14:40:01.578Z
+updatedDate: 2026-09-13T14:51:29Z
 slug: "card-sorting-ux-research"
 readingTime: 14
 author: "Vadim Glazkov"

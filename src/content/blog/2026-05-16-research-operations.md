@@ -2,7 +2,7 @@
 title: "Research Operations: Build a Reliable Research Practice"
 description: "Build research operations around recruitment, consent, tools and reusable evidence. Use a practical ownership table and a launch checklist for your next study."
 pubDate: 2026-05-16
-updatedDate: 2026-09-13T14:40:01.571Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 2
 slug: "research-operations"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "Affinity Mapping in Qualitative Research: Step-by-Step"
 description: "Organise interview observations with affinity mapping. Learn how to prepare notes, cluster evidence and turn the resulting structure into research findings."
 pubDate: 2026-06-02
-updatedDate: 2026-09-13T14:40:01.567Z
+updatedDate: 2026-09-13T14:51:29Z
 slug: "affinity-mapping-in-qualitative-research"
 readingTime: 12
 author: "Vadim Glazkov"

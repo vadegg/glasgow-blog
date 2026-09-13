@@ -4,7 +4,7 @@ readingTime: 11
 title: "Customer Research Methods: Choose the Method That Matches the Decision"
 description: "Choose customer research methods that fit the decision in front of you, from interviews and surveys to desk research, expert calls, and usability tests."
 pubDate: 2026-03-25T00:00:00Z
-updatedDate: 2026-09-13T14:40:01.569Z
+updatedDate: 2026-09-13T14:51:29Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"

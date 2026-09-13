@@ -2,7 +2,7 @@
 title: "Mixed Methods Research in UX: Qual + Quant Together"
 description: "Combine qualitative and quantitative UX research around one decision. Choose a sequence and explain how the different evidence sources will inform each other."
 pubDate: 2026-05-20
-updatedDate: 2026-09-13T14:40:01.573Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "mixed-methods-research-ux"
 author: "Vadim Glazkov"

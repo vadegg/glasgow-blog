@@ -2,7 +2,7 @@
 title: "Product Discovery: Test Assumptions Before Building"
 description: "Run product discovery around a decision, a customer problem and the assumptions behind a solution. Includes a worked opportunity map and an experiment planning table."
 pubDate: 2026-05-18
-updatedDate: 2026-09-13T14:40:01.577Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 2
 slug: "product-discovery"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "B2B Buyer Research: Methods, Process and a Canvas"
 description: "Run B2B buyer research around recent purchasing decisions. Map buying roles, choose interview and CRM methods, and use a filled buying-committee canvas."
 pubDate: 2026-06-29
-updatedDate: 2026-09-13T14:40:01.580Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 4
 slug: "b2b-buyer-research-methods"
 author: "Vadim Glazkov"

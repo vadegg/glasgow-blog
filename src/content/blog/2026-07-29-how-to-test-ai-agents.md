@@ -2,7 +2,7 @@
 title: "How to Test AI Agents: Tasks, Failures and Recovery"
 description: "Test AI agents with a practical matrix for delegation, task success, errors and recovery. Separate technical checks from user research and document release decisions."
 pubDate: 2026-07-29
-updatedDate: 2026-09-13T14:40:01.637Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 4
 slug: "how-to-test-ai-agents"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "Diary Study UX Research: How to Run Longitudinal Studies"
 description: "Learn when diary studies outperform one-shot UX methods and how to design, recruit for, and analyse longitudinal studies without losing participants mid-study."
 pubDate: 2026-06-19
-updatedDate: 2026-09-13T14:40:01.576Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "diary-study-ux-research"
 author: "Vadim Glazkov"

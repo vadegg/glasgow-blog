@@ -4,7 +4,7 @@ readingTime: 2
 title: "Product Research for B2B SaaS: A Practical Guide"
 description: "Plan product research for B2B SaaS: connect customer needs, buying decisions, usability and market evidence to a concrete product decision and a documented next step."
 pubDate: 2026-03-26T22:31:15Z
-updatedDate: 2026-09-13T14:40:01.573Z
+updatedDate: 2026-09-13T14:51:29Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: "Research"

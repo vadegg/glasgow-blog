@@ -2,7 +2,7 @@
 title: "How to Write a UX Research Report That Drives Action"
 description: "Write a UX research report that connects evidence to a product decision. Structure findings, limitations, recommendations and next steps for the audience."
 pubDate: 2026-07-08
-updatedDate: 2026-09-13T14:40:01.574Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "how-to-write-a-ux-research-report"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "How to Write a Discussion Guide for User Interviews"
 description: "Write a user interview discussion guide with clear themes, neutral opening questions and follow-up prompts. Keep the conversation focused without over-scripting."
 pubDate: 2026-07-12
-updatedDate: 2026-09-13T14:40:01.579Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "how-to-write-discussion-guide-user-interviews"
 author: "Vadim Glazkov"

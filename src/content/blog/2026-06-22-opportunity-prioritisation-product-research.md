@@ -2,7 +2,7 @@
 title: "Opportunity Prioritisation in Product Research"
 description: "Turn a backlog of research-surfaced opportunities into a ranked, decision-ready shortlist. A practical scoring framework bridging synthesis and roadmap input."
 pubDate: 2026-06-22
-updatedDate: 2026-09-13T14:40:01.576Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "opportunity-prioritisation-product-research"
 author: "Vadim Glazkov"

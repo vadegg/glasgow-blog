@@ -2,7 +2,7 @@
 title: "Jobs-to-Be-Done Interviews for B2B SaaS: Complete Guide"
 description: "Plan jobs-to-be-done interviews for B2B SaaS. Reconstruct a recent decision, explore switching forces and distinguish buying roles from day-to-day product use."
 pubDate: 2026-05-19
-updatedDate: 2026-09-13T14:40:01.578Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 15
 slug: "jtbd-interviews-b2b-saas"
 author: "Vadim Glazkov"

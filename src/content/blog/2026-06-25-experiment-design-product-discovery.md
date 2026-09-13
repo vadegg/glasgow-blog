@@ -2,7 +2,7 @@
 title: "Experiment Design for Product Discovery"
 description: "Design product discovery experiments with a clear hypothesis, decision rule and measure. Distinguish learning about a need from validating a solution."
 pubDate: 2026-06-25
-updatedDate: 2026-09-13T14:40:01.568Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "experiment-design-product-discovery"
 author: "Vadim Glazkov"

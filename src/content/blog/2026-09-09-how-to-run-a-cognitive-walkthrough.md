@@ -2,7 +2,7 @@
 title: "How to Run a Cognitive Walkthrough: Step-by-Step Guide"
 description: "Learn how to run a cognitive walkthrough, identify where users may struggle and turn task-level findings into clear, prioritised UX improvements. Read on."
 pubDate: 2026-09-09
-updatedDate: 2026-09-13T14:40:01.578Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "how-to-run-a-cognitive-walkthrough"
 author: "Vadim Glazkov"

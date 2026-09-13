@@ -2,7 +2,7 @@
 title: "Research Democratization: Risks and How to Do It Right"
 description: "Set practical guardrails for research led by product managers and designers. Clarify training, recruitment, consent, analysis and review responsibilities."
 pubDate: 2026-07-05
-updatedDate: 2026-09-13T14:40:01.570Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "research-democratization-risks-and-how-to-do-it-right"
 author: "Vadim Glazkov"

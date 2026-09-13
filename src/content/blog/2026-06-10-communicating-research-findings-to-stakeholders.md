@@ -2,7 +2,7 @@
 title: "Communicating Research Findings to Stakeholders"
 description: "Turn research findings into decisions stakeholders can use. Structure the evidence, explain limitations and make ownership and next steps explicit."
 pubDate: 2026-06-10
-updatedDate: 2026-09-13T14:40:01.580Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "communicating-research-findings-to-stakeholders"
 author: "Vadim Glazkov"

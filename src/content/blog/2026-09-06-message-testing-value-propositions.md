@@ -2,7 +2,7 @@
 title: "Message Testing: Validate Value Props With Research"
 description: "Learn how to test value propositions and messaging with qual and quant research—plus when to use message testing vs concept testing to pick winning copy."
 pubDate: 2026-09-06
-updatedDate: 2026-09-13T14:40:01.575Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "message-testing-value-propositions"
 author: "Vadim Glazkov"

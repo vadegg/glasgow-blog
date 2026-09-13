@@ -2,7 +2,7 @@
 title: "UX Research for B2B SaaS: Methods That Actually Work"
 description: "Plan UX research for B2B SaaS workflows, users and buying roles. Match the method and participant profile to the product decision you need to inform."
 pubDate: 2026-07-17
-updatedDate: 2026-09-13T14:40:01.570Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "ux-research-b2b-saas"
 author: "Vadim Glazkov"

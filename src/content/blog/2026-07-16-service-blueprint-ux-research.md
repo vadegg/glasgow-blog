@@ -2,7 +2,7 @@
 title: "Service Blueprint UX Research: A Practitioner's Guide"
 description: "Build a service blueprint from research into customer actions, frontstage interactions and backstage work. Identify handoffs and the evidence behind proposed changes."
 pubDate: 2026-07-16
-updatedDate: 2026-09-13T14:40:01.580Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "service-blueprint-ux-research"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "How to Detect Fake & AI Participants in User Research"
 description: "Review participant authenticity using screening, behaviour and verification signals. Investigate suspicious responses without treating a single signal as proof."
 pubDate: 2026-08-21
-updatedDate: 2026-09-13T14:40:01.567Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "detect-fake-ai-generated-participants-user-research"
 author: "Vadim Glazkov"

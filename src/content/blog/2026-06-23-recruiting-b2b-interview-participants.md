@@ -2,7 +2,7 @@
 title: "Recruiting B2B Interview Participants: A Practical Plan"
 description: "Recruit B2B interview participants by recent behaviour and buying role. Use a channel plan, neutral invitation and screening checks without relying on fixed sample-size rules."
 pubDate: 2026-06-23
-updatedDate: 2026-09-13T14:40:01.578Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 5
 slug: "recruiting-b2b-interview-participants"
 author: "Vadim Glazkov"

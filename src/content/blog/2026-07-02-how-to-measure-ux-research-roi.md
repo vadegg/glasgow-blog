@@ -2,7 +2,7 @@
 title: "How to Measure UX Research ROI"
 description: "Connect research activity to decisions and outcomes. Build an evidence trail for value while separating contribution from claims of financial causation."
 pubDate: 2026-07-02
-updatedDate: 2026-09-13T14:40:01.577Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 14
 slug: "how-to-measure-ux-research-roi"
 author: "Vadim Glazkov"

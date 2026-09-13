@@ -2,7 +2,7 @@
 title: "SUS vs UMUX-Lite vs SUPR-Q: Which One to Use"
 description: "Compare SUS, UMUX-Lite and SUPR-Q on length, scope and benchmarks, then use our decision framework to pick the right usability questionnaire fast. Read on."
 pubDate: 2026-09-04
-updatedDate: 2026-09-13T14:40:01.572Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "sus-vs-umux-lite-vs-supr-q"
 author: "Vadim Glazkov"

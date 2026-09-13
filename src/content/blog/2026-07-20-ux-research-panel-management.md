@@ -2,7 +2,7 @@
 title: "UX Research Panel Management: Build & Maintain a Panel"
 description: "Learn how ResearchOps teams build, segment, and sustain a healthy UX research panel for continuous research—without panel fatigue, bias, or burnout. Read on."
 pubDate: 2026-07-20
-updatedDate: 2026-09-13T14:40:01.579Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "ux-research-panel-management"
 author: "Vadim Glazkov"

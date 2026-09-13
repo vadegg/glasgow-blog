@@ -2,7 +2,7 @@
 title: "User Research Plan Template: Structure Any Study"
 description: "Write a user research plan that connects a product decision to questions, participants, methods and analysis. Includes a practical planning structure."
 pubDate: 2026-06-09
-updatedDate: 2026-09-13T14:40:01.581Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 14
 slug: "user-research-plan-template"
 author: "Vadim Glazkov"

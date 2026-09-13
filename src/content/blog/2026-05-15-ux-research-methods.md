@@ -2,7 +2,7 @@
 title: "UX Research Methods: Choose a Study for Your Decision"
 description: "Choose UX research methods by the decision you need to make. Compare interviews, usability testing, surveys and field research, with a worked study plan."
 pubDate: 2026-05-15
-updatedDate: 2026-09-13T14:40:01.568Z
+updatedDate: 2026-09-13T14:51:55.737Z
 readingTime: 3
 slug: "ux-research-methods"
 author: "Vadim Glazkov"
@@ -63,6 +63,8 @@ Record exclusions, recruitment channels and missing groups. A convenient panel o
 An interview can suggest a reason for abandonment. A usability session can expose a recoverability problem. A subsequent experiment can test whether a specific change improves a measured outcome. These are complementary claims, not interchangeable proof.
 
 Use the [mixed-methods guide](/blog/mixed-methods-research-ux/) to connect stages, and the [research plan template](/blog/user-research-plan-template/) to document the decision, evidence and next action. The detailed guides below cover individual methods.
+
+For a survey focused on which activities matter most to an audience, see [top task analysis](/blog/top-task-analysis-ux-research/). Use the results to choose tasks for later observation, while keeping stated priorities separate from observed task success.
 
 <!-- gr:footer -->
 ---

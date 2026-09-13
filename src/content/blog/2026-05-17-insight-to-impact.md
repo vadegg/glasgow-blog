@@ -2,7 +2,7 @@
 title: "Turn Research Findings into Product Decisions"
 description: "Connect research evidence to decisions with a filled decision log, clear ownership and follow-up measures. Learn how to separate observations, interpretations and impact."
 pubDate: 2026-05-17
-updatedDate: 2026-09-13T14:40:01.569Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 3
 slug: "insight-to-impact"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "How to Recruit Participants for User Research"
 description: "Recruit participants who can answer your research questions. Define eligibility, compare sourcing channels and organise screening, consent and scheduling."
 pubDate: 2026-06-03
-updatedDate: 2026-09-13T14:40:01.578Z
+updatedDate: 2026-09-13T14:51:29Z
 slug: "how-to-recruit-participants-for-user-research"
 readingTime: 14
 author: "Vadim Glazkov"

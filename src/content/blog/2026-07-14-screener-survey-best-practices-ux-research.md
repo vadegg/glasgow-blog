@@ -2,7 +2,7 @@
 title: "UX Research Screeners: Questions and Branching Logic"
 description: "Write UX research screeners that qualify relevant experience without revealing the desired answers. Includes a filled B2B example, branching rules and a downloadable worksheet."
 pubDate: 2026-07-14
-updatedDate: 2026-09-13T14:40:01.581Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 4
 slug: "screener-survey-best-practices-ux-research"
 author: "Vadim Glazkov"

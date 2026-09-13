@@ -2,7 +2,7 @@
 title: "Survey Design Best Practices for UX Research"
 description: "Design UX survey questions, response scales and question order around a research goal. Review common sources of bias before distributing the survey."
 pubDate: 2026-06-20
-updatedDate: 2026-09-13T14:40:01.572Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 14
 slug: "survey-design-best-practices-ux"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "Empathy Mapping in UX Research: From Interview Data"
 description: "Build an empathy map from interview evidence. Separate what people said and did from interpretation, then identify uncertainties and a relevant product decision."
 pubDate: 2026-08-27
-updatedDate: 2026-09-13T14:40:01.581Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 10
 slug: "empathy-mapping-ux-research"
 author: "Vadim Glazkov"

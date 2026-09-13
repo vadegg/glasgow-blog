@@ -2,7 +2,7 @@
 title: "How to Run a UX Benchmarking Study (Metrics + Baselines)"
 description: "Learn how to run a UX benchmarking study: pick metrics like SUS and SUPR-Q, set a defensible baseline, size your sample, and track UX gains over time."
 pubDate: 2026-08-31
-updatedDate: 2026-09-13T14:40:01.581Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "how-to-run-a-ux-benchmarking-study"
 author: "Vadim Glazkov"

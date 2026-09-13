@@ -2,7 +2,7 @@
 title: "How to Detect Fake Survey Respondents in Research"
 description: "Learn how to detect fake survey respondents with a practical, low-tooling checklist: screener traps, paradata checks, and open-ended red flags for UX teams."
 pubDate: 2026-07-19
-updatedDate: 2026-09-13T14:40:01.571Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 10
 slug: "how-to-detect-fake-survey-respondents"
 author: "Vadim Glazkov"

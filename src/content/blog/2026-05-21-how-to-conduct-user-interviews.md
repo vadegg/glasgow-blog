@@ -2,7 +2,7 @@
 title: "How to Conduct User Interviews: A Practical Guide"
 description: "Plan and conduct user interviews with a focused discussion guide and neutral prompts. Explore recent experiences, probe for detail and prepare for analysis."
 pubDate: 2026-05-21
-updatedDate: 2026-09-13T14:40:01.574Z
+updatedDate: 2026-09-13T14:51:29Z
 slug: "how-to-conduct-user-interviews"
 readingTime: 13
 author: "Vadim Glazkov"

@@ -4,7 +4,7 @@ readingTime: 12
 title: How to Conduct Target Audience Research Before Positioning Work
 description: "Learn how target audience research helps you define, narrow, and validate the audience before positioning, messaging, and GTM decisions in B2B SaaS teams."
 pubDate: '2026-05-09T09:01:26.612Z'
-updatedDate: 2026-09-13T14:40:01.574Z
+updatedDate: 2026-09-13T14:51:29Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research

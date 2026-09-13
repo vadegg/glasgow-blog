@@ -2,7 +2,7 @@
 title: "How Much Does User Research Cost? 2026 Pricing Guide"
 description: "Compare real-world user research costs across DIY, in-house, agency, and AI-tool-assisted delivery by method — and build a confident research budget. Read on."
 pubDate: 2026-08-24
-updatedDate: 2026-09-13T14:40:01.577Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "how-much-does-user-research-cost"
 author: "Vadim Glazkov"

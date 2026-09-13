@@ -2,7 +2,7 @@
 title: "When to Outsource User Research: Agency vs In-House"
 description: "Should you outsource user research or hire in-house? Use a maturity, cadence, risk and cost framework to choose an agency, in-house team, or hybrid model."
 pubDate: 2026-07-25
-updatedDate: 2026-09-13T14:40:01.575Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "when-to-outsource-user-research-agency-vs-in-house"
 author: "Vadim Glazkov"

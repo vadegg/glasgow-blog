@@ -2,7 +2,7 @@
 title: "Churn Research for SaaS: Why Customers Leave"
 description: "Investigate SaaS churn with exit interviews, account context and behavioural data. Separate possible explanations and identify the decisions further research can inform."
 pubDate: 2026-06-08
-updatedDate: 2026-09-13T14:40:01.576Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "churn-research-for-saas"
 author: "Vadim Glazkov"

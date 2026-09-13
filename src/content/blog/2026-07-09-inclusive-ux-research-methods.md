@@ -2,7 +2,7 @@
 title: "Inclusive UX Research Methods: Stop Excluding Participants"
 description: "Adapt recruitment, session design and analysis to include people with varied access needs. Identify barriers that could exclude relevant research participants."
 pubDate: 2026-07-09
-updatedDate: 2026-09-13T14:40:01.570Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "inclusive-ux-research-methods"
 author: "Vadim Glazkov"

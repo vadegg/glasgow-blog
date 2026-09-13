@@ -4,7 +4,7 @@ readingTime: 5
 title: "Synthetic Respondents in UX Research: What Works and What Doesn't"
 description: "See where synthetic respondents help UX research, where they still fail, and how to use AI without mistaking generated language for real evidence in practice."
 pubDate: 2026-03-19
-updatedDate: 2026-09-13T14:40:01.579Z
+updatedDate: 2026-09-13T14:51:29Z
 author: Vadim Glazkov
 authorSlug: vadim
 category: Research

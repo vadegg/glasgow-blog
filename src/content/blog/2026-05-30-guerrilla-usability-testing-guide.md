@@ -2,7 +2,7 @@
 title: "Guerrilla Usability Testing: A Practical Guide"
 description: "Plan a lightweight guerrilla usability test, choose appropriate tasks and participants, and document what the findings can and cannot support."
 pubDate: 2026-05-30
-updatedDate: 2026-09-13T14:40:01.574Z
+updatedDate: 2026-09-13T14:51:29Z
 slug: "guerrilla-usability-testing-guide"
 readingTime: 13
 author: "Vadim Glazkov"

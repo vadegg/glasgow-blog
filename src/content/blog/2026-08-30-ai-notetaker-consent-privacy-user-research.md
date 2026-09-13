@@ -2,7 +2,7 @@
 title: "AI Notetaker Consent & Privacy in User Research"
 description: "Plan disclosures, recording choices, access and retention when using an AI research notetaker. Review the vendor and your study requirements before recording."
 pubDate: 2026-08-30
-updatedDate: 2026-09-13T14:40:01.575Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 10
 slug: "ai-notetaker-consent-privacy-user-research"
 author: "Vadim Glazkov"

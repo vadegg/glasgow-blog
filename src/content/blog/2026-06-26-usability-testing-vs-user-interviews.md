@@ -2,7 +2,7 @@
 title: "Usability Testing vs User Interviews: How to Choose"
 description: "Choose between usability testing and user interviews by the decision you need to make. Compare observed task behaviour with accounts of past experience."
 pubDate: 2026-06-26
-updatedDate: 2026-09-13T14:40:01.568Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "usability-testing-vs-user-interviews"
 author: "Vadim Glazkov"

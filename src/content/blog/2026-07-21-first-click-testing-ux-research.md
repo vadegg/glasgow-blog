@@ -2,7 +2,7 @@
 title: "First Click Testing in UX Research: How to Run It"
 description: "Learn how to run first click testing in UX research: setup steps, success-rate benchmarks, top tools, and how to interpret results to fix navigation fast."
 pubDate: 2026-07-21
-updatedDate: 2026-09-13T14:40:01.567Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "first-click-testing-ux-research"
 author: "Vadim Glazkov"

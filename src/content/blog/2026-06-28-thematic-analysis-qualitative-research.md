@@ -2,7 +2,7 @@
 title: "Thematic Analysis: From Interview Extracts to Themes"
 description: "Use thematic analysis to develop a defensible interpretation of qualitative data. Compare approaches and follow a worked extract-to-code-to-theme example."
 pubDate: 2026-06-28
-updatedDate: 2026-09-13T14:40:01.572Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 3
 slug: "thematic-analysis-qualitative-research"
 author: "Vadim Glazkov"

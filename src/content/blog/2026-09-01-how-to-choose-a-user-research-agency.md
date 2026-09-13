@@ -2,7 +2,7 @@
 title: "How to Choose a User Research Agency: Key Questions"
 description: "Decided to outsource? Use these buyer's questions, red flags, and selection criteria to choose a user research agency that delivers insight you can act on."
 pubDate: 2026-09-01
-updatedDate: 2026-09-13T14:40:01.568Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "how-to-choose-a-user-research-agency"
 author: "Vadim Glazkov"

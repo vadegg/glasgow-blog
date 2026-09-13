@@ -2,7 +2,7 @@
 title: "How to Test Voice AI and Conversational UI"
 description: "Learn how to test voice AI and conversational UI with a practical framework for recognition, turn-taking, recovery, latency, trust and accessibility. Read on."
 pubDate: 2026-09-10
-updatedDate: 2026-09-13T14:40:01.577Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 9
 slug: "how-to-test-voice-ai-conversational-ui"
 author: "Vadim Glazkov"

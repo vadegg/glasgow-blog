@@ -2,7 +2,7 @@
 title: "Concept Testing: Run a Test That Yields a Decision"
 description: "Plan a concept test with clear questions and decision criteria. Compare methods, recruit relevant participants and interpret interest without overstating demand."
 pubDate: 2026-07-31
-updatedDate: 2026-09-13T14:40:01.570Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 11
 slug: "concept-testing"
 author: "Vadim Glazkov"

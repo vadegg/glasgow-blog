@@ -2,7 +2,7 @@
 title: "How to Validate AI-Generated Research Insights"
 description: "A repeatable QA method to validate AI-generated research insights and trace every theme back to source transcripts—so you never ship a hallucinated finding."
 pubDate: 2026-07-27
-updatedDate: 2026-09-13T14:40:01.574Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 10
 slug: "validate-ai-generated-research-insights"
 author: "Vadim Glazkov"

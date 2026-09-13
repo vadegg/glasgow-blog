@@ -2,7 +2,7 @@
 title: "How to Analyse Survey Data Qualitatively"
 description: "Analyse open-ended survey responses with a documented coding approach. Handle ambiguous answers, compare segments and report patterns with their limits."
 pubDate: 2026-07-18
-updatedDate: 2026-09-13T14:40:01.579Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "how-to-analyse-survey-data-qualitatively"
 author: "Vadim Glazkov"

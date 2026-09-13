@@ -2,7 +2,7 @@
 title: "Survey Bots & Fake Responses in UX Research: Detection Guide"
 description: "Learn how to detect and prevent survey bots and fake responses in UX research with practical attention checks, fraud signals, and data-cleaning tactics."
 pubDate: 2026-07-19
-updatedDate: 2026-09-13T14:40:01.579Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "survey-bots-fake-responses-ux-research"
 author: "Vadim Glazkov"

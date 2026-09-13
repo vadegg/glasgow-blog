@@ -2,7 +2,7 @@
 title: "Synthetic Users in UX Research: Help or Mislead?"
 description: "Evaluate synthetic users in UX research: possible uses, misleading outputs and validation steps. Distinguish generated scenarios from evidence about real people."
 pubDate: 2026-08-28
-updatedDate: 2026-09-13T14:40:01.571Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 10
 slug: "synthetic-users-ux-research"
 author: "Vadim Glazkov"

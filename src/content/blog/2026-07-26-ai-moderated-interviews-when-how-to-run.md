@@ -2,7 +2,7 @@
 title: "AI-Moderated Interviews: When to Use & How"
 description: "Assess whether AI-moderated interviews fit your study. Plan the questions, pilot the interaction and identify where human facilitation and review are needed."
 pubDate: 2026-07-26
-updatedDate: 2026-09-13T14:40:01.569Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 10
 slug: "ai-moderated-interviews-when-how-to-run"
 author: "Vadim Glazkov"

@@ -2,7 +2,7 @@
 title: "UX Research Methods Comparison: A Side-by-Side Guide"
 description: "Compare UX research methods by the question they answer, the evidence they produce and their practical constraints. Choose a study design for your decision."
 pubDate: 2026-07-07
-updatedDate: 2026-09-13T14:40:01.570Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 12
 slug: "ux-research-methods-comparison"
 author: "Vadim Glazkov"

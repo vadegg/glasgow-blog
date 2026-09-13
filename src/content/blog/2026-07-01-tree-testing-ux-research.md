@@ -2,7 +2,7 @@
 title: "Tree Testing in UX Research: How to Run It"
 description: "Plan a tree test to evaluate how people find information. Write tasks, interpret paths and success measures, and identify limitations before changing navigation."
 pubDate: 2026-07-01
-updatedDate: 2026-09-13T14:40:01.576Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "tree-testing-ux-research"
 author: "Vadim Glazkov"

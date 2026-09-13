@@ -2,7 +2,7 @@
 title: "UX Maturity Model for Product Teams"
 description: "Assess your team’s research practice across process, evidence and influence. Use a maturity discussion to choose concrete improvements and review progress."
 pubDate: 2026-07-04
-updatedDate: 2026-09-13T14:40:01.575Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 14
 slug: "ux-maturity-model-for-product-teams"
 author: "Vadim Glazkov"

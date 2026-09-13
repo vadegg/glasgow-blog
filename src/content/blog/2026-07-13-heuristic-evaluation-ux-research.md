@@ -2,7 +2,7 @@
 title: "Heuristic Evaluation in UX Research: A Practitioner's Guide"
 description: "Learn how to plan, run, and report a heuristic evaluation in real product teams — including exactly when it beats usability testing and when it doesn't."
 pubDate: 2026-07-13
-updatedDate: 2026-09-13T14:40:01.624Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 14
 slug: "heuristic-evaluation-ux-research"
 author: "Vadim Glazkov"

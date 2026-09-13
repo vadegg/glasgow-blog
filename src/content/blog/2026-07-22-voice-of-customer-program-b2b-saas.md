@@ -2,7 +2,7 @@
 title: "Voice of Customer Program for B2B SaaS: A Framework"
 description: "Build a voice of customer program for B2B SaaS as research ops, not a tool checklist: sampling logic, listening cadence, synthesis, and governance. Read on."
 pubDate: 2026-07-22
-updatedDate: 2026-09-13T14:40:01.580Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "voice-of-customer-program-b2b-saas"
 author: "Vadim Glazkov"

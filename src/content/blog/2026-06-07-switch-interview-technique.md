@@ -2,7 +2,7 @@
 title: "Switch Interview Technique: A Step-by-Step Guide"
 description: "Use a switch interview to reconstruct a recent product change. Explore the timeline, alternatives, anxieties and circumstances behind the buying decision."
 pubDate: 2026-06-07
-updatedDate: 2026-09-13T14:40:01.581Z
+updatedDate: 2026-09-13T14:51:29Z
 readingTime: 13
 slug: "switch-interview-technique"
 author: "Vadim Glazkov"
