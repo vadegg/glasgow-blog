@@ -2,8 +2,8 @@
 title: "How to Run a Cognitive Walkthrough: Step-by-Step Guide"
 description: "Learn how to run a cognitive walkthrough, identify where users may struggle and turn task-level findings into clear, prioritised UX improvements. Read on."
 pubDate: 2026-09-09
-updatedDate: 2026-09-13T14:51:29Z
-readingTime: 11
+updatedDate: 2026-09-17T07:14:37.156Z
+readingTime: 9
 slug: "how-to-run-a-cognitive-walkthrough"
 author: "Vadim Glazkov"
 authorSlug: "vadim"
@@ -110,11 +110,7 @@ Give each finding an owner and a validation method, then retest the revised flow
 
 ## Cognitive walkthrough example: completing a SaaS task
 
-Our workplace-learning research shows why step-by-step guidance needs clear confirmation, not just instructions. In one anonymised research account, a manager used detailed text guides and screenshots to explain a Salesforce process. They could not tell who had opened the guide or how much anyone had learned.
-
-That evidence does not tell us how users would behave in a SaaS invitation flow. It does show why confirmation and observable status deserve close inspection.
-
-Here is a walkthrough example. The persona is a first-time team manager with basic web-product experience. They start on a workspace home screen and need to invite a colleague. The task succeeds when the invitation has been sent and its status is visible.
+This is a **hypothetical interface review**, not an observed client result. It illustrates how to record a prediction and decide what needs user testing. The persona is a first-time team manager with basic web-product experience. They start on a workspace home screen and need to invite a colleague. The task succeeds when the invitation has been sent and its status is visible.
 
 The expected sequence is to open the members area, select “Invite member”, enter an email address, choose a role and send the invitation. On the first step, evaluators ask whether the manager will look for a members area, notice it in the navigation, connect its label with inviting a colleague and understand the screen that follows.
 
@@ -141,7 +137,7 @@ A walkthrough cannot establish prevalence in real use. We use it to remove likel
 
 ### How many evaluators do you need for a cognitive walkthrough?
 
-One evaluator can find useful issues. Two to five evaluators usually bring a broader range of relevant perspectives. Knowledge of the task, users and domain matters more than panel size.
+One evaluator can find useful issues. Additional evaluators can contribute different task and domain knowledge; there is no fixed panel size that guarantees coverage. Knowledge of the task, users and domain matters more than panel size.
 
 ### Do cognitive walkthroughs require users?
 
@@ -149,7 +145,7 @@ No. Evaluators inspect the task from the perspective of a defined user. Validate
 
 ### How long does a cognitive walkthrough take?
 
-A short, prepared flow can take about an hour to review. Independent reviews and consolidation may require several hours. The effort depends on the scope, task complexity and readiness of the prototype.
+Estimate effort by walking through one representative task, then account for the number of tasks, independent reviews and consolidation. Record that estimate as a planning assumption. Scope, task complexity and prototype readiness determine the effort.
 
 ### What is the difference between a cognitive walkthrough and a heuristic evaluation?
 

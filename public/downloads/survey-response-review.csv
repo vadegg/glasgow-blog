@@ -1,0 +1,4 @@
+example_response_id,review_signals,alternative_explanation,verification,decision,reason,analysis_include,reviewer,rule_version
+example-001,Short duration; identical matrix answers,Short branching route; compatible opinions,Inspect route and relevant answers,retain,Flags explained by the route and answer content,yes,[assign reviewer],[record version]
+example-002,Repeated single-participation invitation,Export or processing duplicate,Collection log confirms one completion exported twice,remove duplicate copy,Verified processing duplicate; no inference of fraud,no,[assign reviewer],[record version]
+example-003,Conflicting role answers,Questions may concern different periods,Clarification unavailable,unresolved,Insufficient evidence; document sensitivity analysis,[apply declared analysis rule],[assign reviewer],[record version]

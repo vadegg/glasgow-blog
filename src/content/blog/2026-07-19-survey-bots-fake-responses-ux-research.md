@@ -1,9 +1,9 @@
 ---
-title: "Survey Bots & Fake Responses in UX Research: Detection Guide"
-description: "Learn how to detect and prevent survey bots and fake responses in UX research with practical attention checks, fraud signals, and data-cleaning tactics."
+title: "Survey Bot Controls: Collection Workflow and QA Plan"
+description: "Design survey bot controls before fieldwork: verify challenge tokens, handle duplicate submissions and test collection failures with a downloadable QA plan."
 pubDate: 2026-07-19
-updatedDate: 2026-09-13T14:51:29Z
-readingTime: 13
+updatedDate: 2026-09-17T07:14:37.136Z
+readingTime: 6
 slug: "survey-bots-fake-responses-ux-research"
 author: "Vadim Glazkov"
 authorSlug: "vadim"
@@ -18,126 +18,80 @@ tags:
   - "attention checks survey design"
 hub: "research-operations"
 ---
-## Why survey bots and fake responses are a growing UX research risk
 
-A survey lands in front of stakeholders with 400 completes and a clean chart. Nobody asks how many of those completes came from a script rather than a person. The spreadsheet doesn't show it.
+Survey bot controls belong in the collection workflow: who can enter, how a submission is accepted, which events are recorded and how a failed check can be reviewed. A bot challenge can help limit automated submissions; it does not establish a participant's eligibility or the truth of an answer.
 
-Open survey links now pull in more low-quality traffic than they did two years ago. Panel farms route the same paid workers through multiple screeners under different identities. Click-farm operators run browser automation against public survey URLs. AI text generators fill open-ended boxes with plausible-sounding text in under a second. None of it looks obviously wrong in a results table.
+This guide covers **collection design and technical acceptance checks**. If you already have an export to clean, use the [manual response review guide and worksheet](/blog/how-to-detect-fake-survey-respondents/).
 
-That's a different problem from deliberately using AI-generated respondents to pressure-test a study design before fielding it with real people — see our note on [research democratization risks and how to guard against them](https://blog.glasgow.works/blog/research-democratization-risks-and-how-to-do-it-right) for that distinction. Bot and fraud contamination is undisclosed. It skews prioritisation decisions, wastes incentive budget, and erodes stakeholder trust in survey data once the second bad dataset arrives. This guide sets out how to catch it before, during, and after fielding, as one of the [research operations quality guardrails](/blog/research-operations) worth building once and reusing.
+## Map the collection boundary
 
-## How bots and fraudulent respondents get into your survey
+Document the recruitment source, invitation route, survey host, submission endpoint, data export and any incentive workflow. Identify the component that can enforce each control. A check implemented in a browser can be bypassed if the submission endpoint accepts requests without checking it.
 
-Fraudulent respondents rarely arrive by accident. Three routes dominate: paid panel farms that route the same workers through study after study under different profiles, gig-worker survey mills where completing surveys quickly is the job, and automated scripts that scrape open survey links posted on social media or paid ads and submit responses without a human reading a single question.
+Distinguish a response ID, a participation token and a browser session. A response ID identifies a record; it is not proof of a unique person. A single-use invitation can restrict repeated participation through that invitation, but it does not prevent someone acquiring another invitation or misrepresenting their eligibility.
 
-The biggest door-opener is weak screener logic. A screener that asks "Are you a product manager at a B2B SaaS company?" with a simple yes/no invites exactly the answer that unlocks the incentive. Add a follow-up only a real product manager could answer specifically — team size, tooling, a recent decision they made — and the false-qualification rate drops sharply. Our [screener survey best practices](https://blog.glasgow.works/blog/screener-survey-best-practices-ux-research) guide covers how to build that layer properly.
+Make [screening criteria](/blog/screener-survey-best-practices-ux-research/) specific to the research question. Additional technical controls should support those criteria rather than redefine the target audience around who passes a challenge most easily.
 
-VPNs and residential proxies let respondents fake a location or IP range to qualify for geography-restricted studies or region-specific incentives. Open, unauthenticated links — shared publicly rather than sent to a known panel or customer list — carry the highest fraud risk of any distribution method, for the plain reason that anyone with the URL can attempt entry.
+## Check what the platform exposes
 
-## Red flags: behavioural and response-pattern signals of fake data
+Inspect a real test export and the documentation for the chosen product and plan. Confirm what timestamps mean, whether a start event exists, how retries and partial responses are represented and whether any network or device metadata is available to the researcher.
 
-No single signal proves a response is fake. Each one narrows the field.
+The [standard Google Forms response resource](https://developers.google.com/workspace/forms/api/reference/rest/v1/forms.responses) does not expose respondent IP addresses, browser fingerprints or device IDs. Those checks cannot be reconstructed from a normal Forms response export. Do not promise them unless a separate, appropriate collection mechanism has actually been implemented and tested.
 
-**Speeding.** Completion times far below what the survey requires — a 15-minute instrument finished in 90 seconds — are the most reliable first filter. Set a minimum threshold per section based on your own pilot timings, not a generic rule of thumb.
+If the project uses device or network signals, document their purpose, access, retention and participant information with the responsible data owner. A fingerprint is an estimate built from available signals, not a permanent identity. Browser changes can alter it, and different people may share technical characteristics. Shared IPs and VPN use are not automatic exclusion rules.
 
-**Straightlining.** Grid or matrix questions answered with the same column all the way down (all 5s, all "agree") suggest a respondent clicking through without reading. Patterned zig-zag answers across a grid are a variant of the same shortcut.
+## Validate a bot challenge at the receiving endpoint
 
-**Gibberish and copy-pasted text.** Open-ended answers that repeat the question back, paste in unrelated marketing copy, or read as fluent but generic — the kind of answer that would fit almost any survey on any topic — are a growing category as text-generation tools get cheaper to run at scale.
+For a custom survey integration using Turnstile, [Cloudflare's server-side validation documentation](https://developers.cloudflare.com/turnstile/get-started/server-side-validation/) requires the receiving server to validate the token through Siteverify. Tokens expire after five minutes and can be validated only once. The widget alone does not protect an endpoint that skips validation.
 
-**Contradictory logic.** Cross-check related questions. A respondent claiming director-level seniority earlier but describing tasks only an individual contributor would do, or citing a project timeline that's physically impossible, points to a fabricated profile.
+Use the following as a proposed acceptance workflow, adapted to your application:
 
-**Duplicate technical signals.** Repeated IP addresses, matching device fingerprints, or a cluster of submissions arriving seconds apart from different "unique" respondents are the strongest evidence of coordinated fraud rather than one inattentive person. This is where technical tooling earns its keep.
+1. Receive the submission and validate its format, invitation state and expected survey version.
+2. Validate the challenge token on the server. Check the returned hostname and action against the expected context where used.
+3. On a failed or unavailable verification, keep the response out of the accepted dataset and offer an appropriate retry or support route. Log the technical outcome without labelling the person fraudulent.
+4. On success, apply the participation rule and write the accepted response once. Handle resubmission and concurrent requests so they cannot produce multiple accepted copies of the same authorised participation.
+5. Return a status that accurately tells the participant whether their response was accepted. Keep incentive eligibility separate from any temporary technical failure.
 
-## Designing attention checks and trap questions that actually work
+Challenge-token reuse protection and application-level duplicate handling solve different problems. Test both. A successful challenge still needs the study's eligibility and response-quality checks.
 
-An instructed-response item — "For this question, select strongly disagree" — works best sitting inside a normal-looking grid rather than standing alone in bold text. A bolted-on check trains attentive respondents to feel accused and signals to bots exactly what to avoid. An embedded one catches both without disrupting flow.
+## Run an acceptance checklist before recruitment
 
-Honeypot questions borrow a technique from email spam filtering: a field hidden from human view with CSS but visible to a script scraping the page's HTML. A script that fills in the honeypot flags itself immediately, no matter how well-crafted its other answers look.
+Download the [survey collection QA plan](/downloads/survey-collection-qa-plan.csv). These are **proposed test cases**, not a tested integration or vendor performance benchmark. Fill the observed-result and evidence fields when testing your system.
 
-Forced-choice consistency checks ask the same underlying fact two different ways, spaced apart in the survey — company size as a number early on, then as a banded range later. Real respondents answer both consistently. Fabricated profiles often don't, because the respondent isn't tracking their own earlier answers.
+| Test condition | Expected collection behaviour | Evidence to keep |
+|---|---|---|
+| Valid invitation and successful verification | One accepted response with the intended survey version | Response ID and acceptance event |
+| Missing, expired or replayed challenge token | No acceptance on the failed check; a usable recovery route | Verification outcome and shown participant state |
+| Double-click or network retry | One accepted completion for the same participation | Request outcomes and resulting record count |
+| Verification service unavailable | No silently accepted unverified response; recoverable failure | Error state, retry path and dataset status |
+| Legitimate participants share a network | Each eligible person can complete under the study rules | Separate invitations and accepted records |
+| Keyboard or assistive-technology route | The participant can complete or reach support | Observed accessibility issue and resolution |
+| Export is run twice | Stable response IDs make duplicate files detectable | Export version and reconciliation count |
 
-Balance matters here. Stack in more than two or three checks and completion rates drop, particularly among legitimate respondents who find repeated tests patronising. Our [survey design best practices for UX research](https://blog.glasgow.works/blog/survey-design-best-practices-ux) guide covers how to place these without inflating drop-off.
+Test realistic delays and resumptions. A participant taking longer than a challenge token's lifetime needs a recovery mechanism; token expiry is not evidence that the person failed a research-quality check.
 
-None of this stops a well-resourced fraud operation. Attention checks catch inattentive humans and unsophisticated bots that answer randomly. A script running current text-generation tools can pass an instructed-response check and still write a plausible open-ended answer in the same breath — which is why technical and statistical layers matter as much as survey design.
+## Monitor collection with interpretable events
 
-## Technical detection tools: fingerprinting, reCAPTCHA, and panel vetting
+Keep only the events needed to reconcile collection: survey version, permitted recruitment-channel identifier, acceptance state, event time, verification outcome and relevant error category. Protect identifiers and restrict access to raw logs.
 
-Device and browser fingerprinting builds a signature from screen resolution, browser version, installed fonts, and timezone settings, then flags when the same signature submits multiple "unique" responses. It catches the respondent who closes a survey and reopens it to claim a second incentive, even from a different browser.
+Track attempted submissions separately from accepted responses. An increase in rejected requests may indicate automation, an expired-token flow or a broken integration. Investigate the cause before changing recruitment or interpreting a rejection rate as a fraud rate.
 
-reCAPTCHA or hCaptcha, paired with a honeypot field, filters out the crudest scripted submissions before they ever reach your dataset. Most automated bot traffic never gets past this layer, which makes it cheap insurance even on studies that feel low-risk.
+Honeypots and attention checks have limits. Autofill or accessibility behaviour can interact with poorly implemented hidden fields, while an automated client can avoid a simple trap. Test any additional control with legitimate completion paths and document its false-rejection risks. Do not claim that a fixed number of checks or a particular challenge blocks most survey fraud without evidence from that deployment.
 
-IP reputation checks flag addresses associated with known VPN exit nodes, data centres, or prior fraud. Geo-velocity checks catch the impossible: a respondent whose IP shows them in one country and, twenty minutes later, submitting from another continent.
+## Agree ownership and evidence with a panel provider
 
-Recruiting through a panel vendor? Ask what's in the contract before fielding, not after a bad wave. Fraud-detection guarantees, replacement policies for flagged responses, and audit rights to review raw metadata are standard asks that reputable vendors accommodate without pushback.
+Ask which checks the provider performs, which metadata you can inspect, how flagged records are reviewed, what replacement terms apply and what happens when you dispute a classification. Get the answers for the actual service and agreement, rather than assuming every provider offers the same guarantees.
 
-Third-party fraud-detection APIs earn their cost on large-scale or high-incentive quantitative studies, where manual review isn't feasible. For smaller studies, a well-built honeypot plus a spreadsheet check for duplicate IPs and fingerprints catches most of what matters.
+[Pew Research Center's comparison of online sample sources](https://www.pewresearch.org/methods/2020/02/18/assessing-the-risks-to-online-polls-from-bogus-respondents/) illustrates why the recruitment and checking process matters. Its study-specific findings should not be turned into a current universal percentage for your survey.
 
-## Post-collection data cleaning: statistical and qualitative checks
+Assign an owner for technical failures and an owner for research-quality decisions. Feed accepted responses into the documented manual review process. If exclusions leave a recruitment gap, decide on additional fieldwork from the remaining coverage and intended analysis; reweighting cannot make fabricated answers valid.
 
-Plot completion times as a distribution rather than eyeballing individual rows. Genuine respondents cluster around a median with a normal spread. Fraud tends to show up as a distinct low-time cluster, visible as soon as you chart it.
+## Keep simulated data separate from participant evidence
 
-Build a simple consistency score: count how many cross-question checks each response passes — screener logic, forced-choice pairs, grid variance — and treat anything below a set threshold as flagged for review rather than automatically excluded.
+Use clearly labelled synthetic submissions to test routing, validation and export. Keep them out of production analysis. Their purpose is to exercise the collection system, not to estimate customer preferences or demonstrate that real participants can complete the survey.
 
-Read the flagged open-text responses yourself before deciding. A short but on-topic answer isn't automatically fake, and a long, fluent one isn't automatically real. Reviewing for topic relevance and specificity catches nuance that automated scoring misses. Our guide on [how to analyse survey data qualitatively](https://blog.glasgow.works/blog/how-to-analyse-survey-data-qualitatively) covers that review process in more depth.
+Record the tested configuration, unresolved failures, responsible owner and change that should trigger a retest. Treat these records as part of [research operations](/blog/research-operations/), alongside the [survey design](/blog/survey-design-best-practices-ux/) and response-review decisions.
 
-Set your exclusion threshold before you see the results, not after. Deciding case by case invites bias toward keeping responses that support what you already expected to find. Exclude when confidence is high and your remaining sample still supports the analysis. Down-weight instead when exclusion would skew the demographic or role mix of what's left.
-
-Document every exclusion: which rule flagged it, who reviewed it, what the decision was. That log is what lets a stakeholder trust the topline number, and what lets you defend the dataset if someone questions it later.
-
-## Building a survey data quality workflow for research ops
-
-Ad hoc fraud checks — a researcher eyeballing completion times the night before a readout — don't scale past one or two studies. A repeatable pipeline runs in three stages: pre-launch (screener logic review, honeypot and captcha setup, panel SLA confirmation), in-field (monitoring completion-time distributions and flagging spikes in submission volume from a single region), and post-collection (statistical review, manual open-text audit, documented exclusions).
-
-Assign ownership before the first study runs. One person flags candidate records against the agreed rules. A second — usually a senior researcher or research ops lead — decides on exclusion or down-weighting. A third signs off on the final dataset before it reaches stakeholders. Splitting these roles stops any one person's deadline pressure from lowering the bar.
-
-We saw this play out on a pricing survey for a B2B SaaS product. Completions started arriving within seconds of each other from a narrow IP range, all answering the willingness-to-pay questions in a suspiciously identical pattern. IP-clustering and timestamp analysis confirmed a coordinated batch rather than organic traffic. We quarantined that cluster, re-weighted the remaining sample to keep the segment mix intact, and flagged the incident in the study notes before reporting. The topline pricing recommendation held, but the confidence interval widened, and stakeholders could see why. That kind of detail matters even more in [UX research for B2B SaaS](https://blog.glasgow.works/blog/ux-research-b2b-saas), where one enterprise segment can dominate a small sample.
-
-Agree contamination thresholds before fielding. If flagged records exceed roughly 10–15% of completes, treat the study as compromised and re-field the affected quota rather than clean around the problem. Fold these checks into whatever repository or ops tooling you already use, so the QA log sits next to the dataset instead of in a document nobody reopens.
-
-## Survey bots vs synthetic respondents: how these problems differ
-
-Synthetic respondents are AI-generated personas a team chooses to use, openly, usually to pressure-test a survey instrument or explore a hypothesis before fielding with real people. Everyone on the study knows the data is synthetic, and nobody reports it as representing real customer opinion.
-
-Survey bots and fraudulent respondents are the opposite case: unwanted, undisclosed contamination inside a dataset that's supposed to represent real people. Nobody chose them, and if they go undetected, they get reported as real customer voice.
-
-Conflating the two causes problems in both directions. Treat a legitimate, disclosed synthetic-data study with the suspicion reserved for fraud, and you dismiss useful early-stage signal. Extend the trust owed to disclosed synthetic data toward an undetected bot wave, and you ship a decision built on fabricated opinions.
-
-The quick test: was this respondent type intentional and labelled, or unintentional and hidden? The first is a research method with its own trade-offs. The second is contamination — find it and remove it.
-
-## Key takeaways: a quick checklist to protect your survey data
-
-Protecting a survey dataset comes down to five habits, applied consistently rather than only when something looks wrong:
-
-- Build screener logic a fraudulent respondent can't guess their way through.
-- Place attention checks naturally in the flow, not bolted on as an obvious test.
-- Layer technical filters — captcha, honeypot fields, fingerprinting — before responses land in your dataset.
-- Run a statistical review of completion times and consistency scores after every wave, not just when a number looks off.
-- Document every exclusion decision so the cleaned dataset can survive scrutiny.
-
-Fraud tactics change faster than any fixed checklist. Revisit your thresholds every few studies, particularly after a shift in panel vendor, incentive size, or distribution channel. Treat this as a standing part of how research ops runs a study, not an audit you reach for after a stakeholder asks an awkward question.
-
-## Frequently asked questions
-
-### How do I know if my survey responses are fake or bot-generated?
-
-Look for a combination of signals rather than one deciding factor: completion times far below plausible reading time, straightlining on grid questions, duplicate IP addresses or device fingerprints, gibberish or generic open-text answers, and contradictions between related questions. Any single signal can happen to a genuine respondent; several together point to fraud.
-
-### What percentage of survey responses are typically bots or fraud?
-
-There's no reliable universal figure — contamination rates vary widely by panel source, incentive size, and how tightly the screener is written. Open, unauthenticated links and high-incentive studies tend to attract more fraud than closed panels recruited from a known customer list. Measure it per study using the checks above rather than relying on a single industry benchmark.
-
-### Are attention checks enough to stop fraudulent respondents?
-
-No. Attention checks catch inattentive humans and simple bots that click through randomly, but they don't reliably stop sophisticated AI-text fraud that can answer an instructed-response item correctly and still write a fluent, fabricated open-text answer. Pair attention checks with technical fingerprinting and post-hoc statistical review for real protection.
-
-### Should I exclude suspected bot responses or reweight the data?
-
-Exclude when your confidence in the fraud signal is high and your remaining sample size still supports the analysis. Reweight or flag instead when excluding those records would skew the demographic or role mix of what's left. Either way, document the rule that triggered the decision and who made it.
-
-### How is survey bot fraud different from using synthetic respondents in research?
-
-Synthetic respondents are disclosed, intentional AI personas a team chooses to use for early-stage exploration — everyone involved knows the data isn't from real people. Survey bot fraud is undisclosed contamination inside a dataset meant to represent real respondents. One is a method; the other is a data-integrity problem to detect and remove.
 <!-- gr:footer -->
 ---
 
-**About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
+Glasgow Research helps B2B SaaS teams turn research into product decisions. [Discuss your study](/services/).

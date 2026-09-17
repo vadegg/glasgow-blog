@@ -1,0 +1,8 @@
+test_id,condition,expected_result,evidence_to_capture,observed_result,owner,status
+collection-01,Valid invitation and successful verification,One accepted response,Response ID; survey version; acceptance event,,,not run
+collection-02,Missing expired or replayed challenge token,No acceptance on failed verification; recovery route available,Verification outcome; shown participant state,,,not run
+collection-03,Double-click or network retry,One accepted completion for the same participation,Request outcomes; resulting record count,,,not run
+collection-04,Verification service unavailable,Unverified response not accepted; recoverable failure,Error state; retry path; dataset status,,,not run
+collection-05,Eligible people on a shared network,Separate eligible participations accepted,Invitation references; accepted records,,,not run
+collection-06,Keyboard or assistive-technology route,Completion or support route works,Observed issue; resolution,,,not run
+collection-07,Export run twice,Duplicate files detectable with stable response IDs,Export version; reconciliation count,,,not run

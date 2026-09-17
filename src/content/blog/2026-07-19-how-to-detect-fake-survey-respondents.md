@@ -1,9 +1,9 @@
 ---
 title: "How to Detect Fake Survey Respondents in Research"
-description: "Learn how to detect fake survey respondents with a practical, low-tooling checklist: screener traps, paradata checks, and open-ended red flags for UX teams."
+description: "Review suspicious survey responses using available metadata, a documented worksheet and sensitivity checks. Separate review flags from evidence of fraud."
 pubDate: 2026-07-19
-updatedDate: 2026-09-13T14:51:29Z
-readingTime: 10
+updatedDate: 2026-09-17T07:11:35.613Z
+readingTime: 5
 slug: "how-to-detect-fake-survey-respondents"
 author: "Vadim Glazkov"
 authorSlug: "vadim"
@@ -18,109 +18,69 @@ tags:
   - "screening out fraudulent survey responses"
 hub: "research-operations"
 ---
-## Why this matters: the real cost of fake respondents in DIY research
 
-Run a survey through an open panel link or a self-serve tool, and some share of your responses won't come from real people. Industry estimates put fraudulent or bot-generated data at 15–30% of online survey responses, varying with recruitment source and incentive size.
+Review suspected fake survey responses by combining available evidence, checking alternative explanations and recording a decision for each case. A fast response, shared IP address or polished paragraph is a reason to investigate, not proof of a bot or dishonest participant.
 
-Enterprise research platforms build fraud-ops tooling straight into the workflow. Qualtrics flags duplicate IPs automatically; IPQualityScore scores respondents against a fraud database. Most product and UX teams don't have that infrastructure. You're running a Typeform, a Google Form, or an in-house tool, recruiting through a mix of customer lists, panels, and social links, with no dedicated quality layer sitting underneath.
+This guide covers **manual review of an exported dataset**. For controls that must exist before responses are collected, use the separate [survey collection and bot-control workflow](/blog/survey-bots-fake-responses-ux-research/).
 
-The cost isn't just wasted incentive budget. Contaminated data quietly skews the signal you use to prioritise features and ship decisions, because fraudulent responses tend to cluster around whichever answers are easiest to fake — not the ones that reflect reality.
+## Start with the data you actually have
 
-Think of this as a practitioner checklist for how to detect fake survey respondents in research. It's not a fraud-ops platform buying guide.
+Keep an access-controlled original export and create a review copy with stable response IDs. List the fields available, what each field measures and which checks your dataset can support.
 
-## Design your screener to filter fraud before it starts
+For example, the [Google Forms API response schema](https://developers.google.com/workspace/forms/api/reference/rest/v1/forms.responses) includes response IDs, submission timestamps, answers and email if collected. It does **not expose respondent IP addresses, browser fingerprints or device IDs**. Its submission timestamp is not a survey start time, so it cannot by itself establish completion duration. Additional instrumentation would be a separate implementation.
 
-The cheapest fraud prevention happens before fieldwork opens, in the screener.
+Other products and plans expose different fields. Inspect their current documentation and a sample export before planning a check. Treat a missing duration or device field as unavailable, not as zero or as evidence of suspicious behaviour.
 
-Build logic checks in, rather than leaning on a single gate question. Ask about company size in one question and team structure in another; a genuine respondent's answers cohere, while a fabricated profile often contradicts itself two questions later. Cross-reference role, seniority, and tenure. Professional fraud respondents optimise for passing the qualifying question, not for consistency across the whole instrument.
+## Separate eligibility, response quality and fraud
 
-Trap questions beat obvious attention checks. "Select 'strongly agree' for this item" has been seen by every experienced click-farm worker and most bots; they pass it without effort. A better trap is a plausible-sounding option nobody in your target population would genuinely pick — a tool, job title, or brand that doesn't exist in your category. Real respondents skip it. Fraudulent ones, scanning for anything that sounds legitimate, sometimes select it.
+An ineligible participant, a misunderstood question, an interrupted session and deliberate fabrication require different interpretations. A dataset may need an exclusion without establishing the respondent's intent.
 
-Keep your invite copy vague about qualifying criteria. Spell out "we need current users approving budgets over $50k" in a recruitment ad, and you've handed fraudulent respondents the exact script the screener is meant to catch.
+[Pew Research Center's study of bogus online responses](https://www.pewresearch.org/methods/2020/02/18/assessing-the-risks-to-online-polls-from-bogus-respondents/) found differences across the sample sources it tested and explains the difficulty of distinguishing bots from people answering carelessly. Its findings are tied to that study's population, recruitment and field period; they are not a universal contamination rate for your UX survey.
 
-Require at least one short open-text answer in the screener itself. A sentence or two, in the respondent's own words, is far harder to fake convincingly than a multiple-choice click.
+Define eligibility and review rules before interpreting the substantive findings. Preserve exceptions and reasons when a rule proves inappropriate. Use [behavioural screening criteria](/blog/screener-survey-best-practices-ux-research/) and review whether [question wording](/blog/survey-design-best-practices-ux/) itself caused confusion.
 
-For the underlying structure, see our guide to [screener survey best practices](https://blog.glasgow.works/blog/screener-survey-best-practices-ux-research) and the broader [survey design best practices](https://blog.glasgow.works/blog/survey-design-best-practices-ux) this checklist builds on.
+## Use a signal as a review question
 
-## Real-time signals: paradata you can check without enterprise tools
+| Signal, if available | What to investigate | Plausible alternative explanation |
+|---|---|---|
+| Short recorded duration | Whether the person saw the relevant questions and followed the route | Short branching path, familiarity or a timing implementation error |
+| Identical matrix answers | Whether agreement across those particular statements is implausible | The person genuinely holds the same view across related items |
+| Repeated or generic open text | Relevance to the question and consistency with the rest of the account | A short but valid answer, copied prompt wording or language support |
+| Conflicting role or experience answers | Whether the questions refer to the same event and period | Multiple responsibilities, a role change or ambiguous wording |
+| Shared IP or device signal | Whether independent records establish a duplicate submission | Shared workplace, network, household or equipment |
+| Repeated recruitment identifier | Whether the identifier is intended to represent a single participation | A technical retry, resumption or an integration error |
 
-Paradata — the metadata your survey tool captures alongside the answers — gives you signal without extra tooling.
+Compare duration against the relevant survey route and pilot conditions. Do not apply a universal “half the median” cutoff. An unusually long session may simply have been interrupted. Neither grammatical fluency nor an AI-detector label establishes authenticity.
 
-Set a minimum completion-time threshold before fieldwork starts. Time a handful of pilot completes yourself, then flag anything under roughly half that median. A respondent finishing a 10-minute survey in 90 seconds hasn't read the questions.
+Read open-ended answers in context and inspect apparent contradictions before excluding them. The [qualitative analysis workflow](/blog/how-to-analyse-survey-data-qualitatively/) can help organise that review. Several correlated signals may reflect the same underlying cause, so adding flags together does not automatically produce a validated fraud probability.
 
-Most survey platforms expose IP address or approximate location as a standard field, even on free tiers. Check it against your expected recruitment region. A cluster of respondents from a country you didn't target, or from one city when your sample should be spread geographically, is worth investigating before you look at the actual answers.
+## Keep a review log with defensible decisions
 
-Watch for duplicate device or browser fingerprints. Typeform, Google Forms, and most panel tools log a browser signature or device ID alongside each submission. Repeated fingerprints across supposedly distinct respondents point to one person submitting multiple times, or a click-farm working from a shared device pool.
+Download the [survey response review worksheet](/downloads/survey-response-review.csv). Its filled rows are **hypothetical examples**, not records from a client study. Replace them with your own response IDs and restricted evidence references; avoid copying unnecessary participant information into the log.
 
-Scan the email field for pattern red flags: long alphanumeric strings that look auto-generated, disposable domains, addresses that don't match the name given elsewhere. No single signal is conclusive — a genuine respondent might use a privacy-focused email — but stacked together they narrow your review list fast.
+| Example | Evidence and verification | Decision in this example | Reason |
+|---|---|---|---|
+| example-001 | Short route and identical matrix answers; reviewer checks that the answers are relevant and mutually compatible | Retain | The flags have an adequate explanation |
+| example-002 | Same single-participation invitation appears twice; collection log confirms one completed response was exported twice | Remove the duplicate copy from analysis | This is a verified processing duplicate, not proof of respondent fraud |
+| example-003 | Role answers conflict; wording may refer to different periods and clarification is unavailable | Mark unresolved | Evidence does not justify an authenticity claim |
 
-For the technical detail behind these signals, our [detailed guide to survey bot detection signals](https://blog.glasgow.works/blog/survey-bots-fake-responses-ux-research) covers advanced stacking methods for teams that need to go further.
+Keep the review signal separate from the final decision. Record the rule version, reviewer, evidence checked, reason and whether the response enters the primary analysis. Give difficult cases a second review where practical. A reviewer should be able to understand an exclusion without knowing whether it helps the expected conclusion.
 
-## Open-ended responses: the cheapest, highest-signal fraud check
+## Check what exclusions change
 
-Open-text fields remain the highest-signal, lowest-cost fraud check available, because generating convincing, specific, on-topic prose at scale is still harder than clicking through a matrix question.
+Report received responses, verified duplicates, eligibility exclusions, quality exclusions, unresolved cases and the final analytical sample. Use non-overlapping categories or explain overlaps so the counts reconcile.
 
-Read for gibberish first — strings of words that don't form a coherent sentence, or answers that parrot the question back without adding content. Watch for copy-pasted or off-topic text that doesn't address what was asked, a common shortcut for respondents rushing through multiple surveys. Generic, AI-sounding phrasing is now its own category: smooth, grammatically correct, devoid of specifics. Genuine respondents mention concrete detail — a tool name, a frustration, a number. Fabricated answers tend to stay abstract. Tone-register mismatches earn a second look too: polished formal English sitting inside a survey of frontline staff, or the reverse.
+Compare coverage of the intended roles and situations before and after cleaning. For unresolved records, examine whether reasonable inclusion and exclusion choices change the finding. Describe that sensitivity alongside the primary result instead of hiding uncertainty behind a single clean total.
 
-Don't triage open-ends in isolation. Fold this check into the same pass where you're [analysing survey data qualitatively](https://blog.glasgow.works/blog/how-to-analyse-survey-data-qualitatively). Once you've seen what genuine, on-topic answers from your population sound like, fraud patterns jump out faster.
+Weighting is not a repair for fabricated answers. A weighting plan can adjust for specified sampling imbalances under assumptions; it cannot make an invented account truthful. Do not retain a known-invalid response just to preserve a demographic quota.
 
-For quick manual triage, skim every open-end before formal coding starts, sorting for repetition and genericness alone. It takes minutes and catches most of what matters.
+## Decide whether additional fieldwork is needed
 
-## Post-fieldwork statistical checks: straight-lining, speeding, and consistency traps
+The decision depends on which groups were affected, what evidence remains and the precision or coverage required by the research question. A small number of exclusions concentrated in a critical subgroup may matter more than a larger number spread across the sample.
 
-Once fieldwork closes, a handful of spreadsheet checks catch what individual paradata signals miss.
+There is no universal contamination percentage that automatically requires re-fielding, and no guaranteed time in which a spreadsheet review catches most fraud. Document why the remaining evidence is adequate, why a conclusion needs qualification, or which recruitment gap must be filled. Carry that decision into your [research operations](/blog/research-operations/) record.
 
-Straight-lining — selecting the same point on a scale across every item in a matrix question — shows up in a standard deviation formula. Calculate the standard deviation of each respondent's answers across the grid; a result at or near zero means every answer was identical, a strong flag for grids with five or more items.
-
-Flag completion-time outliers relative to the median, not a fixed cutoff. If your median completion time is 8 minutes, treat anything under 3 minutes — and, separately, anything far over the median — as worth a closer look.
-
-Repeated or rephrased questions, placed once near the start and once near the end, catch inconsistency directly. Ask the same underlying fact two different ways; a genuine respondent's answers align, a fabricated one often doesn't.
-
-None of these signals is decisive alone. Combine two or three — fast completion plus straight-lining plus a mismatched repeated question, say — into a single composite flag, and you have a defensible fraud-risk score without paid software.
-
-## A practical low-tooling detection checklist from the field
-
-In a recent B2B software market-validation study, we ran a short survey against a mixed sample of qualified professionals and a broader outreach list. A small cluster of completes stood out for sharing three traits at once: completion times well under half the survey's expected length, IP locations well outside the target market despite fluent, region-specific English answers, and open-text responses that read smoothly but stayed generic — no tool name, process detail, or figure ever surfaced.
-
-No single signal would have justified exclusion alone. Fast completion can mean an engaged expert who knows the topic cold. Mismatched geography can mean a VPN. It was the combination — speed, location, and generic text appearing together across the same cluster of responses — that raised the flag.
-
-Rather than deleting the responses outright, we quarantined them: tagged, excluded from the primary analysis, retained with documentation of why. Then we checked whether the remaining sample still met the size needed for the decision at hand. It did, so we didn't re-field.
-
-That case distils into a reusable checklist:
-
-1. Set a minimum completion-time threshold before launch
-2. Check IP/geo against expected recruitment region
-3. Build one honeypot or trap question into the screener
-4. Require at least one open-text answer per respondent
-5. Run a straight-lining check on any matrix questions
-6. Scan email addresses for disposable or auto-generated patterns
-7. Cross-check one repeated question at survey start and end
-8. Quarantine flagged responses rather than deleting immediately
-
-Run all eight against a fresh dataset and most fraud clusters surface within an hour.
-
-## When fraud signals mean you need stronger quality guardrails
-
-A rising fraud rate across successive surveys is rarely a one-off. Usually it's a symptom of research scaling faster than its governance — more teams running their own surveys, recruiting through more channels, with no shared quality standard between them.
-
-Ad-hoc detection, applied survey by survey, works up to a point. It stops working once multiple teams field surveys independently, incentive structures attract professional respondents at volume, or a decision carries enough weight that an undetected fraud cluster could change a roadmap. At that point you need a documented quality policy: minimum screener standards, agreed detection checks, and a clear threshold for when a dataset gets re-fielded rather than used as-is.
-
-Fraud detection is one symptom of a wider pattern. See our analysis of [research democratisation risks and guardrails](https://blog.glasgow.works/blog/research-democratization-risks-and-how-to-do-it-right) for the broader picture.
-
-## FAQ: detecting fake survey respondents
-
-### How many fake responses is 'normal' in an online survey?
-Industry estimates put fraudulent or bot-generated responses at 15–30% of online data, but the figure varies sharply by recruitment source — an owned customer list sees far less than an open panel link. Check your own paradata rather than assuming a fixed benchmark applies to your fieldwork.
-
-### Can attention checks alone catch bots?
-No. Simple checks like "select strongly agree" are well known to click-farm workers and trivial for bots to pass. They catch careless humans, not motivated fraud. Layer screener logic, paradata review, and open-text checks to catch what attention checks miss.
-
-### Should I just delete suspicious responses?
-Flag and quarantine rather than delete outright. Document your exclusion criteria for auditability, and check whether the remaining sample still supports the decision you need to make. If it falls short, re-field the affected segment.
-
-### What free tools help detect survey fraud without an enterprise budget?
-Platform-native IP and device fields, a honeypot screener question, reCAPTCHA, and spreadsheet standard-deviation formulas for straight-lining cover most of it. Manual review of email patterns and open-text responses fills the rest.
 <!-- gr:footer -->
 ---
 
-**About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
+Glasgow Research helps B2B SaaS teams turn research into product decisions. [Discuss your study](/services/).

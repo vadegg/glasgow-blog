@@ -2,7 +2,7 @@
 title: "How to Test AI Agents: Tasks, Failures and Recovery"
 description: "Test AI agents with a practical matrix for delegation, task success, errors and recovery. Separate technical checks from user research and document release decisions."
 pubDate: 2026-07-29
-updatedDate: 2026-09-13T14:51:29Z
+updatedDate: 2026-09-17T07:06:02.138Z
 readingTime: 4
 slug: "how-to-test-ai-agents"
 author: "Vadim Glazkov"
@@ -75,11 +75,6 @@ Report which users, scenarios and conditions produced the figures. A small quali
 For each failure, name an owner, the likely mechanism, supporting evidence and a focused retest. A change to a prompt, model, retrieval source, tool or interface can change behaviour; rerun affected scenarios as well as critical regression cases.
 
 Human observation and automated evaluation complement each other. A simulated user can help exercise scenarios but cannot establish how real people will understand a disclosure or recover under their own constraints. Keep those conclusions separate in the [research decision log](/blog/insight-to-impact/).
-
-
-## When the interface is conversational
-
-For spoken interaction, extend the task matrix with [voice AI and conversational interface tests](/blog/how-to-test-voice-ai-conversational-ui/): interruptions, recognition errors and recovery can change whether a person can complete the same underlying task.
 
 <!-- gr:footer -->
 ---

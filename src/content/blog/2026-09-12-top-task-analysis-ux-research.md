@@ -2,7 +2,7 @@
 title: "Top Task Analysis in UX Research: A Practical Guide"
 description: "Learn to build a reliable task list, run and score a top tasks survey, and turn the evidence into clearer content, navigation and product priorities. Read on."
 pubDate: 2026-09-12
-updatedDate: 2026-09-13T14:54:20Z
+updatedDate: 2026-09-17T07:06:02.136Z
 readingTime: 9
 slug: "top-task-analysis-ux-research"
 author: "Vadim Glazkov"
@@ -87,29 +87,29 @@ Monitor the rank order of leading tasks as responses accumulate. If it continues
 
 ## Step 4: Calculate top-task scores
 
-Score rankings with a weighting scheme declared before launch. In this illustrative example, 100 respondents each rank five tasks. First choice receives five points and fifth choice receives one. The rank totals across the five tasks are therefore 100 at each position.
+Score rankings with a weighting scheme declared before launch. Gerry McGovern's [description of the top-tasks method](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks/) describes asking people to rank five tasks, with five points for the first choice down to one for the fifth.
 
-| Task | 1st | 2nd | 3rd | 4th | 5th | Weighted points | Score share |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Find a local service | 16 | 28 | 35 | 47 | 61 | 452 | 30.1% |
-| Check application status | 30 | 18 | 12 | 8 | 7 | 281 | 18.7% |
-| Understand eligibility | 24 | 20 | 16 | 10 | 8 | 276 | 18.4% |
-| Book an appointment | 18 | 19 | 17 | 16 | 10 | 259 | 17.3% |
-| Update personal details | 12 | 15 | 20 | 19 | 14 | 232 | 15.5% |
+The following is a **synthetic teaching example**, not findings from a client study. It contains 100 example respondents, each ranking five different tasks from eight candidates. The deliberately short candidate list makes the calculation inspectable; it is not a recommendation to limit a real study to eight tasks.
 
-For “Check application status”, the weighted points are:
+Download the [100 example response rows](/downloads/top-task-example-responses.csv) to reproduce the table. Each row contains one response ID and five distinct task labels. A task cannot occupy more than one rank in a response.
 
-`(30 × 5) + (18 × 4) + (12 × 3) + (8 × 2) + (7 × 1) = 281`
+| Task | 1st | 2nd | 3rd | 4th | 5th | Selected | Weighted points | Score share |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Find a local service | 33 | 27 | 15 | 12 | 7 | 94 | 349 | 23.3% |
+| Check application status | 16 | 14 | 18 | 15 | 26 | 89 | 246 | 16.4% |
+| Understand eligibility | 19 | 17 | 21 | 16 | 15 | 88 | 273 | 18.2% |
+| Book an appointment | 9 | 15 | 7 | 15 | 15 | 61 | 171 | 11.4% |
+| Update personal details | 6 | 12 | 10 | 13 | 15 | 56 | 149 | 9.9% |
+| Find opening hours | 6 | 9 | 12 | 11 | 10 | 48 | 134 | 8.9% |
+| Pay a fee | 7 | 4 | 13 | 13 | 9 | 46 | 125 | 8.3% |
+| Make a complaint | 4 | 2 | 4 | 5 | 3 | 18 | 53 | 3.5% |
+| Total | 100 | 100 | 100 | 100 | 100 | 500 | 1500 | 100.0% |
 
-Calculate each task’s score as:
+For each task, multiply the five rank counts by 5, 4, 3, 2 and 1, then add the products. The denominator for score share is all weighted points: `100 × (5 + 4 + 3 + 2 + 1) = 1500`. Divide a task's weighted points by 1500 and multiply by 100. Displayed shares are rounded independently.
 
-`weighted task points ÷ all weighted points × 100`
+The Selected column counts respondents who chose that task at any rank. Divide it by 100 to obtain its selection rate. Selection rates across tasks sum to 500% here because each person selects five distinct tasks; an individual task's rate cannot exceed 100%. Weighted score shares across all tasks sum to 100% before rounding.
 
-In this example, all weighted points total 1,500. Check arithmetic and publish the exact formula. In a larger survey, use the same denominator across every candidate task.
-
-Also report unweighted selection rates. They show reach: the proportion of respondents who selected a task at any rank. Weighted scores show intensity: how strongly respondents prioritised it. A widely selected task that is usually ranked lower may require a different response from one selected by fewer people as their first priority.
-
-Treat small differences cautiously. For high-stakes decisions, use confidence intervals, resampling or repeated measurement. Handle incomplete and duplicate responses consistently, and document exclusions. A [UX benchmarking study](https://blog.glasgow.works/blog/how-to-run-a-ux-benchmarking-study) offers a useful model for repeatable measurement.
+Before interpreting a real dataset, verify unique response IDs, distinct tasks within each response, valid task labels, one entry per rank and the treatment of incomplete responses. Each rank column totals 100 in this complete example, while task selection counts can differ. Do not silently apply this denominator to a survey that allows fewer choices or has missing ranks.
 
 ## Step 5: Interpret the results without hiding segment differences
 

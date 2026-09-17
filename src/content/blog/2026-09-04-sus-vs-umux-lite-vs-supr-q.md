@@ -1,9 +1,9 @@
 ---
 title: "SUS vs UMUX-Lite vs SUPR-Q: Which One to Use"
-description: "Compare SUS, UMUX-Lite and SUPR-Q on length, scope and benchmarks, then use our decision framework to pick the right usability questionnaire fast. Read on."
+description: "Compare SUS, UMUX-Lite and SUPR-Q by constructs, scales and study design. Choose a measure for competitor comparisons, website benchmarks or repeated tracking."
 pubDate: 2026-09-04
-updatedDate: 2026-09-13T14:51:29Z
-readingTime: 12
+updatedDate: 2026-09-17T07:14:37.146Z
+readingTime: 6
 slug: "sus-vs-umux-lite-vs-supr-q"
 author: "Vadim Glazkov"
 authorSlug: "vadim"
@@ -18,95 +18,78 @@ tags:
   - "SUPR-Q"
 hub: "ux-research-methods"
 ---
-## The 30-second answer: which questionnaire fits which goal
 
-Need one number for general perceived usability, with decades of published data to compare it against? Use the System Usability Scale (SUS). Short on survey space — an in-app microsurvey, or a questionnaire with only two rows left for usability? Reach for UMUX-Lite, a two-item measure that predicts SUS scores closely. Benchmarking a website or product against competitors on usability, trust, appearance and loyalty? That's SUPR-Q: the only one of the three with a licensed database of comparison sites.
+Choose SUS, UMUX-Lite or SUPR-Q by the experience you need to measure, the available questionnaire space and the comparison you intend to make. All three capture reported perceptions. None replaces observing whether people can complete the task.
 
-Three things decide it — your study goal, your survey-length budget, and whether you need an external benchmark or just your own trend line. These three sit inside a broader set of [standardised UX research methods](/blog/ux-research-methods), and the differences between them matter more than most teams assume. The comparison table and decision framework below cover the edge cases.
+**SUS can be used to compare competing products.** SUPR-Q is relevant when you want broader website-experience measures and, if licensed, comparison with its normative website database. Those are different study requirements.
 
-## What standardised usability questionnaires actually give you
+## Compare the instruments and their outputs
 
-A standardised questionnaire uses fixed wording, a validated scoring method and published norms, so a score means the same thing whoever runs the study and whenever you run it again. An ad-hoc "rate this 1 to 5" question feels faster to write. It has no known reliability, no validated scoring, and nothing to compare against — a 4 out of 5 this quarter tells you nothing about last quarter's 3.7.
+| Instrument | Items and response scales | What it measures | What to record |
+|---|---|---|---|
+| SUS | 10 items; five-point agreement | Perceived usability | Instrument version, scoring method, mean and uncertainty |
+| UMUX-Lite | 2 items; seven-point agreement in the original version | Perceived usefulness and ease of use | Exact wording, scale and whether the score is transformed or used to estimate SUS |
+| SUPR-Q | 8 items; seven five-point items and one 0–10 likelihood-to-recommend item | Website usability, trust, appearance and loyalty | Raw scoring procedure and, where used, the normative database and percentile comparison |
 
-All three instruments here measure attitude, not behaviour. They ask what people thought about an experience after they had it, not whether they completed a task, how long it took, or where they got stuck. SUS, UMUX-Lite and SUPR-Q sit alongside task-based metrics and analytics, not instead of them — see our note on [product analytics vs user research](https://blog.glasgow.works/blog/product-analytics-vs-user-research) for that broader distinction. Attach any of the three to the end of a moderated session, an unmoderated test, or a standalone survey.
+Select the instrument within your [UX research method](/blog/ux-research-methods/) and specify when participants answer it. Post-study ratings, an intercept from established users and a general retrospective survey have different contexts; a standard questionnaire does not erase those differences.
 
-## SUS (System Usability Scale): the default benchmark
+## SUS: perceived usability and a published reference distribution
 
-SUS is ten statements, alternating between positive ("I found the system easy to use") and negative ("I found the system unnecessarily complex") wording, each answered on a five-point agreement scale. The alternation stops respondents straight-lining down one column. It also means half the items need reverse-scoring before you calculate anything.
+The System Usability Scale has positively and negatively worded items. Apply the appropriate reverse scoring and transformation to obtain a 0–100 score. Alternating wording does not guarantee attentive responses or prevent straight-lining.
 
-Scoring produces a number from 0 to 100. It is not a percentage, and treating it like one is the most common misreading of a SUS result. The published average across hundreds of studies sits around 68; scores above 80 are generally considered excellent, and researchers commonly map raw scores to letter grades (roughly A to F) or adjectives — "good", "OK", "poor" — using percentile tables built from that dataset. A product scoring 72 isn't "72% usable". It's a shade above average, likely in the "good" band. That's the core of SUS score interpretation: read the number against the norm, not as a raw grade.
+A SUS score is not a percentage of usability. MeasuringU's [guide to interpreting SUS](https://measuringu.com/interpret-sus-score/) describes a historical reference mean of about 68 and the distinction between raw scores, percentiles and grades. A percentile describes standing within the chosen reference distribution; it is not a universal pass mark for every product.
 
-The strength of SUS is scale. Decades of use across software, hardware, websites and internal tools mean almost any score has something to compare against. Its limits are just as clear: ten items feels long inside a busy survey, it measures one construct, and the reverse-scoring step is where most calculation errors creep in. For the wording and ordering choices that keep response quality up, see our guide to [survey design best practices](https://blog.glasgow.works/blog/survey-design-best-practices-ux). There is no universal sample size at which a SUS score becomes stable. Plan for the precision you need and report a confidence interval; see MeasuringU's [sample-size guidance for SUS estimates](https://measuringu.com/sample-sizes-for-SUS-ci/).
+SUS can support a comparison between versions, products or competitors when the study conditions support that comparison. Define the tasks, participant groups, experience and study design. A change in the sample or tasks can change a score even when the interface has not changed.
 
-## UMUX-Lite: two questions when you have no room for ten
+## UMUX-Lite: a shorter measure with an explicit scoring convention
 
-UMUX-Lite drops to two items — "This system's capabilities meet my requirements" and "This system is easy to use" — both rated on a seven-point agreement scale. That's the whole instrument.
+UMUX-Lite uses two items concerning whether the system meets requirements and is easy to use. Its original version uses seven-point agreement scales. State the wording and scale you actually administer, particularly if you adopt a modified questionnaire.
 
-UMUX-Lite is closely related to SUS, but an estimated SUS score is not an interchangeable direct measurement. Early studies used a regression adjustment; later work found that simple linear scaling can perform better, especially above average. Specify which questionnaire, response scale and scoring method you use, and keep them consistent across waves. MeasuringU explains the distinction in [its review of UMUX-Lite and UX-Lite scoring](https://measuringu.com/from-umux-lite-to-ux-lite/).
+Published work has related UMUX-Lite scores to SUS, but an estimated SUS value is not a directly collected SUS score. MeasuringU's [account of the move from UMUX-Lite to UX-Lite](https://measuringu.com/from-umux-lite-to-ux-lite/) explains changes to wording, response scales and transformations. UX-Lite and the original UMUX-Lite should not be silently treated as the same instrument.
 
-Use UMUX-Lite where survey space is the binding constraint — an in-app microsurvey after checkout, a long omnibus questionnaire where usability is one section among several, or a transactional intercept where every extra question costs completion rate. What you give up is diagnostic detail. Two items can't tell you which part of the experience dragged a score down, and the normative database, while growing, is thinner than SUS's decades of coverage. Researchers still debate the correction formula itself, and some argue for reporting the raw score rather than converting it — check which convention your stakeholders expect before you commit to one.
+Use a shorter instrument when questionnaire space or repeated measurement makes length consequential. Keep it consistent across waves. Do not claim that two questions diagnose the cause of a usability problem; use observed tasks and follow-up research for that.
 
-## SUPR-Q: the four-factor website UX benchmark
+## SUPR-Q: website experience and a licensed comparison database
 
-SUPR-Q (Standardized User Experience Percentile Rank Questionnaire) covers more ground: eight items across four factors — usability, trust, appearance and loyalty, with the loyalty factor built around a Net Promoter Score-style likelihood-to-recommend item. It's the only instrument of the three that asks whether people trust what they're looking at, not just whether they could use it.
+SUPR-Q covers website usability, trust, appearance and loyalty. The [publisher's documentation](https://measuringu.com/product/suprq/) describes its eight items, use of the questions and licensing of the normative comparison tool. Check the current terms and the database's relevance to your website before budgeting for it.
 
-It produces two outputs: raw scores per factor on a 1–5 scale, and, if you license the normed database, a percentile rank against a set of more than 200 previously benchmarked sites. A percentile of 50 is average; a site at the 80th percentile is outperforming four out of five comparable sites in the database. That external comparison is what SUS and UMUX-Lite can't offer on their own.
+The recommendation item has 11 options, from 0 to 10, while the other seven items use five-point scales. The documented overall raw-score calculation halves the recommendation score before averaging it with the other seven responses. Follow the specified procedure; averaging the unadjusted recommendation score with the others changes its contribution.
 
-SUPR-Q was built for websites and digital products, where appearance and trust genuinely shift outcomes — e-commerce checkouts, financial services portals, anything where a visitor decides whether to hand over money or data partly on how credible the page looks. It's the wrong tool for judging whether a single internal tool or hardware interface is easy to use; that's SUS territory. Access to the normed database is licensed through MeasuringU, so factor that cost and lead time in if competitive benchmarking is why you're reaching for SUPR-Q. See our guide on how to [run a UX benchmarking study](https://blog.glasgow.works/blog/how-to-run-a-ux-benchmarking-study) for the wider process.
+A percentile from the normative database describes relative standing in that database. Distinguish it from the raw score and from a direct comparison you have collected against selected competitors. SUPR-Q's website norms do not automatically generalise to hardware or every internal application.
 
-## Side-by-side comparison: length, scope, benchmark, cost
+## Choose the measure by the decision
 
-| | Items | Scale | Construct(s) | Output | External benchmark | Best fit | Cost |
-|---|---|---|---|---|---|---|---|
-| SUS | 10 | 5-point agreement | Perceived usability | 0–100 score, ~68 average | Large published norms, freely available | General-purpose default, cross-study tracking | Free |
-| UMUX-Lite | 2 | 7-point agreement | Perceived usability | Raw score + SUS-predicted score | Smaller, growing norms | Tight survey space, frequent pulse checks | Free |
-| SUPR-Q | 8 | 5-point agreement | Usability, trust, appearance, loyalty | Raw factor scores + percentile rank | Licensed database, 200+ sites | Website/product benchmarking against competitors | Licensed (MeasuringU) |
+| Decision | Suitable starting point | Check before proceeding |
+|---|---|---|
+| Compare perceived usability of two competing products | SUS, or a consistently specified shorter usability measure | Comparable users, tasks, exposure and a design appropriate to the comparison |
+| Add a brief usability measure to an existing survey | UMUX-Lite | Exact version, response scale and scoring convention |
+| Assess website trust and appearance alongside usability | SUPR-Q | Whether the constructs and website context fit the decision |
+| Compare a website with an existing normative database | SUPR-Q's licensed tool where appropriate | Reference population, database coverage and current access terms |
+| Track change across releases | Keep the chosen suitable instrument consistent | Stable measurement conditions and an adequate plan for uncertainty |
 
-The trade-off runs along one axis: brevity against diagnostic breadth against external comparability. SUS and UMUX-Lite are largely interchangeable if all you need is a usability number — pick UMUX-Lite when length is the constraint, SUS when it isn't. SUPR-Q isn't competing with either. It answers a different question, telling you how you stack up against the market on more than usability alone, at the cost of the scope and licence fee the other two don't carry.
+Length alone does not make SUS a better longitudinal measure or UMUX-Lite suitable only for a one-off pulse. Choose an instrument that measures the intended construct and maintain its wording, scoring and administration. If a change is necessary, document it and plan how the old and new series can be interpreted.
 
-## How to choose: a decision framework by study goal
+## Plan the sample for uncertainty and the comparison
 
-Work through these four questions in order. The first one that applies usually settles it.
+For an estimate, plan the desired precision. For a comparison, specify the smallest difference that would affect the decision, expected variability, confidence level, statistical power and whether the same or different participants rate the alternatives. MeasuringU's [SUS comparison sample-size guide](https://measuringu.com/sample-sizes-for-sus-comparisons/) explains how those choices affect sample requirements.
 
-1. **Do you need to compare against competitors, not just your own past scores?** If yes, use SUPR-Q — it's the only instrument with an external database built for that comparison. If no, move to question two.
-2. **How much survey space do you actually have?** A handful of screens in an in-app intercept, or a section buried in a longer questionnaire, points to UMUX-Lite. A dedicated post-task or post-study survey with room to spare points to SUS.
-3. **Does trust, visual credibility, or likelihood to recommend matter to the decision on the table?** If stakeholders are asking "would people trust this enough to buy" as much as "can people use this", that's SUPR-Q territory regardless of your answer to question two.
-4. **Do you need a stable trend line over multiple releases?** SUS's depth of norms and ten-item structure make it the steadier choice for longitudinal tracking; UMUX-Lite's brevity suits a one-off pulse check better than a multi-year baseline.
+There is no universal participant count that makes a score reliable for every purpose. Report the sample, recruitment, missing responses and uncertainty. A small qualitative usability study may expose useful problems without estimating a precise population score.
 
-These aren't mutually exclusive. One possible study design is to run SUS or UMUX-Lite after every usability test or release to track perceived usability release over release, and run SUPR-Q on a slower cadence — quarterly or twice a year — as the site-level competitive benchmark. Keep recruitment and measurement comparable between waves. Plan the sample for the change you need to detect, expected variability, confidence and statistical power; there is no universal 12–14-person cutoff. See [sample sizes for SUS comparisons](https://measuringu.com/sample-sizes-for-sus-comparisons/).
+## Worked example: an onboarding and website review
 
-## Worked example: choosing measures for an onboarding redesign
+This is a **hypothetical study plan**. A software team wants to compare the perceived usability of its onboarding with a competitor and understand website trust separately.
 
-*This is a hypothetical study design, not a reported Glasgow Research client engagement.*
+The team could run comparable onboarding tasks and administer SUS for the usability comparison. It would plan participant allocation and task order to address differences in experience and learning. If the website-level decision additionally concerns trust, appearance and loyalty, SUPR-Q may provide a suitable second measure; a licensed percentile comparison is optional if that is not the study's goal.
 
-Suppose a subscription software team wants to assess a redesigned onboarding flow and compare its website experience with competitors. Those are related questions, but the measures should reflect each decision.
+Record these as separate outcomes. If usability ratings improve while trust ratings do not, investigate the difference rather than assuming that a questionnaire establishes its cause. Connect the follow-up to [UX benchmarking](/blog/how-to-run-a-ux-benchmarking-study/) and [behavioural research](/blog/product-analytics-vs-user-research/).
 
-The team could use SUS after comparable onboarding tasks to assess perceived usability. SUS can also support comparisons with competitors when the study design and participant groups are comparable. If the team additionally needs website-level trust, appearance and loyalty measures, it could consider SUPR-Q and its licensed benchmark database. [MeasuringU describes the SUPR-Q measures and licensing](https://measuringu.com/product/suprq/).
+## Review the measurement before reporting
 
-Before collecting data, define which outcome would change the team's priorities and how much uncertainty is acceptable. If usability ratings improve while trust ratings remain low, investigate that difference in follow-up research; do not assume that a score alone explains its cause.
+Check item wording, response coding, reverse scoring where applicable, transformations and treatment of missing responses. Keep raw scores, percentiles and grades separate. Review [survey wording and response quality](/blog/survey-design-best-practices-ux/) without assuming that an identical answer pattern proves fraud.
 
-## Getting a score you can trust: common pitfalls
+Report what the instrument measured and the conditions under which it was collected. A clear account of those limits makes a comparison usable; a single score without its measurement context does not.
 
-Most SUS errors happen at the scoring step, not the data-collection step: forgetting to reverse-score the negatively worded items, or reporting the 0–100 result as a percentage. Both are easy to catch with a second pass before you publish a number.
-
-With SUPR-Q, keep the percentile rank and the raw factor scores separate. They answer different questions, and averaging them produces a figure that means nothing. The percentile tells you how you compare to the market; the raw score tells you where you stand on your own scale.
-
-Sample size and consistency matter more than most teams expect. A small sample widens uncertainty; whether a change can be detected depends on its size, variability and study design. Switching instruments, rewording items or changing recruitment criteria can make waves incomparable even when the score looks stable. Low-effort or bad-actor responses are a quieter risk: a handful of straight-lined or speeded-through surveys can inflate or flatten a score without anyone noticing until the trend stops making sense. Screen your data before you report it, especially before comparing waves.
-
-## Frequently asked questions
-
-**Is a SUS score a percentage?**
-No. SUS runs from 0 to 100, but it isn't a percentage. Interpret it against the published average (around 68) and the percentile or letter-grade tables built from the normative dataset.
-
-**Can UMUX-Lite replace SUS?**
-It can be a useful short alternative, but do not silently switch instruments in an existing trend. Describe the response scale and scoring method, and distinguish estimated SUS values from directly collected SUS scores. Neither questionnaire replaces task observations or follow-up questions for diagnosing problems.
-
-**Do I need to pay for SUPR-Q?**
-The questionnaire itself is publicly documented and free to administer. What's licensed is access to the normed comparison database through MeasuringU — factor that cost in if competitive percentile ranking is why you're choosing SUPR-Q over SUS.
-
-**How many respondents do I need for a reliable score?**
-There is no single minimum for every decision. For an estimate, choose the desired confidence-interval width; for a comparison, plan around the smallest meaningful difference, expected variability, confidence and power. Keep recruitment and measurement comparable across waves and report uncertainty.
 <!-- gr:footer -->
 ---
 
-**About Glasgow Research** — Glasgow Research helps B2B SaaS teams turn customer and market research into product decisions. [Work with us](https://glasgow.works).
+Glasgow Research helps B2B SaaS teams turn research into product decisions. [Discuss your study](/services/).

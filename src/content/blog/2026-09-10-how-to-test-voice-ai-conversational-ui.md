@@ -2,7 +2,7 @@
 title: "How to Test Voice AI and Conversational UI"
 description: "Learn how to test voice AI and conversational UI with a practical framework for recognition, turn-taking, recovery, latency, trust and accessibility. Read on."
 pubDate: 2026-09-10
-updatedDate: 2026-09-13T14:51:29Z
+updatedDate: 2026-09-17T07:06:02.139Z
 readingTime: 9
 slug: "how-to-test-voice-ai-conversational-ui"
 author: "Vadim Glazkov"
@@ -79,11 +79,11 @@ Resist coaching people towards the expected wording. If someone asks for help na
 
 Save most questions until the interaction has finished. Interrupting a live exchange can change the participant’s pause length, confidence and turn-taking. Afterwards, ask what they thought the system had understood, whether the next step was clear and what made them trust or doubt the response.
 
-Capture the audio, system events, transcripts, confidence scores, tool calls and timestamps. Put them on one interaction timeline. That record helps you separate an unclear prompt from a recognition error, a delayed API response or lost conversational context.
+Capture the consented audio, system events, transcripts, tool calls and timestamps. Include confidence scores only where the component exposes them and their meaning is documented; a model expressing confidence is not a calibrated accuracy measurement. Put them on one interaction timeline. That record helps you separate an unclear prompt from a recognition error, a delayed API response or lost conversational context.
 
 ## Test the Failure Modes That Matter Most
 
-A useful voice AI testing framework links each condition to a visible failure, its effect on the user and a release criterion.
+The following is a proposed test-planning matrix, not a report of measured product performance. It links each condition to a visible failure, its effect on the user and a criterion to make specific before testing. The [NIST Generative AI Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) provides a broader reference for evaluation and risk documentation; it does not prescribe these rows or certify a voice product.
 
 | Test condition | Observable failure | User consequence | Pass criterion |
 |---|---|---|---|
@@ -113,7 +113,11 @@ Combine behavioural evidence with post-task ratings for ease, confidence, trust 
 
 Run stochastic scenarios several times. Generative responses and network conditions can change between runs. Keep failed interactions in a regression set, then rerun them after changes to prompts, models, voices, tools or infrastructure.
 
-Set release thresholds according to the potential harm and the consequences of an incorrect action. No single benchmark fits every voice assistant. Our guidance on [choosing AI user research tools](https://blog.glasgow.works/blog/how-to-choose-ai-user-research-tools) can help you match the measurement approach to the product stage.
+Set release thresholds according to the potential harm and the consequences of an incorrect action. No single benchmark fits every voice assistant.
+
+For a **hypothetical appointment assistant**, define a recovery scenario: the user corrects the proposed date before confirming. Record the utterance, proposed date, confirmation state, booking-tool calls and final record. The functional pass criterion is that no booking is written until the corrected date has been confirmed and exactly one booking remains afterwards. Separately observe whether the participant understood the final state without coaching. An API trace alone cannot answer that user-research question.
+
+For latency, define both the start event (such as detected end of speech) and the end event (such as the first audible acknowledgement). Agree the acceptable delay for the actual service and test conditions before evaluation; retain the distribution and individual failures. A generic adjective such as “timely” is not a reproducible threshold. Our guidance on [choosing AI user research tools](https://blog.glasgow.works/blog/how-to-choose-ai-user-research-tools) can help you match the measurement approach to the product stage.
 
 ## Turn Findings Into Release Decisions
 
